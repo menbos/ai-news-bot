@@ -40,7 +40,7 @@ class Config:
             config_path: Path to config.yaml file. If None, searches for it in default locations
         """
         # Load environment variables from .env file
-        load_dotenv()
+        load_dotenv(override=True)
 
         # Find and load YAML config
         self.config_path = self._find_config_file(config_path)

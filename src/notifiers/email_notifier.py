@@ -79,7 +79,8 @@ class EmailNotifier:
             msg = MIMEMultipart("alternative")
             msg["Subject"] = subject
             msg["From"] = self.gmail_address
-            msg["To"] = self.email_to
+            recipients = [r.strip() for r in self.email_to.split(",")]
+            msg["To"] = ", ".join(recipients)
 
             # Attach plain text and HTML versions
             part1 = MIMEText(content, "plain", "utf-8")
@@ -93,7 +94,7 @@ class EmailNotifier:
             with smtplib.SMTP(self.smtp_server, self.smtp_port) as server:
                 server.starttls()
                 server.login(self.gmail_address, self.gmail_app_password)
-                server.sendmail(self.gmail_address, self.email_to, msg.as_string())
+                server.sendmail(self.gmail_address, recipients, msg.as_string())
 
             logger.info("Email sent successfully via Gmail SMTP")
             return True
