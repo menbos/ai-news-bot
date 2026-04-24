@@ -3,7 +3,8 @@ News fetcher module - Fetches real-time AI news from various sources
 """
 import requests
 from typing import List, Dict, Optional
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+import email.utils
 import xml.etree.ElementTree as ET
 from ..logger import setup_logger
 
@@ -203,6 +204,8 @@ class NewsFetcher:
             # Parse XML
             root = ET.fromstring(response.content)
 
+            cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
+
             items = []
             # Handle both RSS 2.0 and Atom formats
             if root.tag == 'rss':
@@ -213,11 +216,16 @@ class NewsFetcher:
                     description = item.find('description')
                     pub_date = item.find('pubDate')
 
+                    pub_date_str = pub_date.text if pub_date is not None else ''
+                    parsed_date = self._parse_date(pub_date_str)
+                    if parsed_date and parsed_date < cutoff:
+                        continue
+
                     items.append({
                         'title': title.text if title is not None else '',
                         'link': link.text if link is not None else '',
                         'description': self._clean_html(description.text if description is not None else ''),
-                        'published': pub_date.text if pub_date is not None else '',
+                        'published': pub_date_str,
                     })
             else:
                 # Atom format
@@ -229,11 +237,16 @@ class NewsFetcher:
                     summary = entry.find('atom:summary', namespace)
                     updated = entry.find('atom:updated', namespace)
 
+                    updated_str = updated.text if updated is not None else ''
+                    parsed_date = self._parse_date(updated_str)
+                    if parsed_date and parsed_date < cutoff:
+                        continue
+
                     items.append({
                         'title': title.text if title is not None else '',
                         'link': link.get('href', '') if link is not None else '',
                         'description': self._clean_html(summary.text if summary is not None else ''),
-                        'published': updated.text if updated is not None else '',
+                        'published': updated_str,
                     })
 
             logger.info(f"Fetched {len(items)} items from RSS feed")
@@ -242,6 +255,20 @@ class NewsFetcher:
         except Exception as e:
             logger.error(f"Failed to fetch RSS feed {feed_url}: {str(e)}")
             return []
+
+    def _parse_date(self, date_str: str) -> Optional[datetime]:
+        """Parse an RSS/Atom date string into a timezone-aware datetime."""
+        if not date_str:
+            return None
+        try:
+            return email.utils.parsedate_to_datetime(date_str)
+        except Exception:
+            pass
+        try:
+            return datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+        except Exception:
+            pass
+        return None
 
     def _clean_html(self, text: str) -> str:
         """Remove HTML tags from text"""

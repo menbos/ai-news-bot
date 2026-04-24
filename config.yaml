@@ -6,7 +6,7 @@ llm:
   # Gemini: Fast, multimodal, free tier available
   # Grok: Advanced reasoning, real-time data
   # OpenAI: Industry standard, latest models
-  provider: claude
+  provider: gemini
 
   # Optional: Specify a model (if not set, uses provider's default)
   # Claude models: claude-sonnet-4-5-20250929, claude-3-5-sonnet-20241022
@@ -75,12 +75,13 @@ news:
 
       For each news item, provide:
       1. **Clear Headline**: Informative title that captures the key development
-      2. **Analytical Summary (4-6 sentences)**:
+      2. **Published Date**: Always include on its own line as: *Published: [date]* (use "No date" if not available)
+      3. **Analytical Summary (4-6 sentences)**:
          - What happened (core news and context)
          - Technical details, key specifications, or metrics
          - Why it matters (industry significance and impact)
          - Potential implications (future developments, competitive landscape)
-      3. **Source Attribution**: Always include as clickable markdown link: [Source Name](URL)
+      4. **Source Attribution**: Always include as clickable markdown link: [Source Name](URL)
 
       ## WRITING STYLE:
       - Professional, analytical tone suitable for industry professionals
@@ -94,6 +95,8 @@ news:
       ## Large Language Models & Foundation Models
 
       ### OpenAI Releases GPT-5 with Revolutionary Capabilities
+
+      *Published: Apr 24, 2025 06:00 UTC*
 
       OpenAI has announced GPT-5, featuring a 10 trillion parameter architecture with unprecedented reasoning abilities. The model demonstrates 40% improvement on complex reasoning benchmarks and introduces native multimodal understanding. This release marks a significant leap in AI capability, potentially reshaping competitive dynamics in the LLM market. Enterprise customers report 3x productivity gains in early testing, suggesting immediate practical applications.
 

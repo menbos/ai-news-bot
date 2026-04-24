@@ -4,6 +4,8 @@ AI News Generator using configurable LLM providers
 from typing import List, Optional, Dict
 import json
 import re
+import email.utils
+from datetime import datetime, timezone
 from ..logger import setup_logger
 from ..config import LANGUAGE_NAMES
 from .web_search import WebSearchTool, get_search_tool_definition
@@ -50,6 +52,22 @@ class NewsGenerator:
             f"NewsGenerator initialized with {self.provider.provider_name} "
             f"(model: {self.provider.model}, web_search: {enable_web_search})"
         )
+
+    def _format_date(self, date_str: str) -> str:
+        """Parse and format an RSS/Atom date string for human-readable display."""
+        if not date_str:
+            return "No date"
+        try:
+            dt = email.utils.parsedate_to_datetime(date_str)
+            return dt.strftime("%b %d, %Y %H:%M UTC")
+        except Exception:
+            pass
+        try:
+            dt = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+            return dt.strftime("%b %d, %Y %H:%M UTC")
+        except Exception:
+            pass
+        return "No date"
 
     def _format_news_with_ids(self, news_data: Dict) -> tuple:
         """
@@ -208,8 +226,7 @@ class NewsGenerator:
                 if item['description']:
                     formatted_selected += f"**Content:** {item['description']}\n"
                 formatted_selected += f"**Link:** {item['link']}\n"
-                if item['published']:
-                    formatted_selected += f"**Published:** {item['published']}\n"
+                formatted_selected += f"**Published:** {self._format_date(item.get('published', ''))}\n"
                 formatted_selected += "\n"
 
             # Use provided template or load from config
