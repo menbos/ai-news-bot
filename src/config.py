@@ -150,6 +150,7 @@ Organize news items into relevant categories (use only categories that have news
 5. **AI Infrastructure & Hardware**
 6. **Funding & Market Dynamics**
 7. **Policy & Regulation**
+8. **AI in Finance & Banking**
 
 ## CONTENT REQUIREMENTS:
 

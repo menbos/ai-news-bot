@@ -46,6 +46,12 @@ class NewsFetcher:
             "Healthcare IT News AI": "https://www.healthcareitnews.com/taxonomy/term/31/feed",
             "Robotics Business Review": "https://www.roboticsbusinessreview.com/feed/",
             "Autonomous Vehicle News": "https://www.autonomousvehicleinternational.com/feed",
+
+            # Finance & Banking AI
+            "American Banker": "https://www.americanbanker.com/feed",
+            "FinExtra AI": "https://www.finextra.com/rss/channel.aspx?channel=ai",
+            "Bloomberg Technology": "https://feeds.bloomberg.com/technology/news.rss",
+            "Reuters Finance": "https://feeds.reuters.com/reuters/businessNews",
         }
 
         # Chinese AI news sources (zh)
