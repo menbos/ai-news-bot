@@ -1,9 +1,9 @@
 name: Daily AI News Digest
 
 on:
-  # Run daily at 5:00 AM UTC (6am Zurich winter / 7am Zurich summer)
+  # Run daily at 3:00 AM UTC (4am Zurich winter / 5am Zurich summer)
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "0 3 * * *"
 
   # Allow manual trigger
   workflow_dispatch:
