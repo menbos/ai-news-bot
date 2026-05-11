@@ -52,6 +52,18 @@ class NewsFetcher:
             "FinExtra AI": "https://www.finextra.com/rss/channel.aspx?channel=ai",
             "Bloomberg Technology": "https://feeds.bloomberg.com/technology/news.rss",
             "Reuters Finance": "https://feeds.reuters.com/reuters/businessNews",
+
+            # Thematic & Impact Investing (Tech Disruptor / Green Planet / Future Health / Global Thematic)
+            "ESG Today": "https://www.esgtoday.com/feed/",
+            "CleanTechnica": "https://cleantechnica.com/feed/",
+            "STAT News": "https://www.statnews.com/feed/",
+            "BioPharma Dive": "https://www.biopharmadive.com/feeds/news/",
+
+            # Strategic Materials & Critical Minerals
+            "Mining.com": "https://www.mining.com/feed/",
+            "Reuters Commodities": "https://feeds.reuters.com/reuters/commoditiesNews",
+            "Benchmark Mineral Intelligence": "https://www.benchmarkminerals.com/feed/",
+            "Energy Monitor": "https://www.energymonitor.ai/feed/",
         }
 
         # Chinese AI news sources (zh)
