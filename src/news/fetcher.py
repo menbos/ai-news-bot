@@ -53,7 +53,7 @@ class NewsFetcher:
             "Bloomberg Technology": "https://feeds.bloomberg.com/technology/news.rss",
             "Reuters Finance": "https://feeds.reuters.com/reuters/businessNews",
 
-            # Thematic & Impact Investing (Tech Disruptor / Green Planet / Future Health / Global Thematic)
+            # Thematic Investing (Tech Disruptor / Green Planet / Future Health / Global Thematic)
             "ESG Today": "https://www.esgtoday.com/feed/",
             "CleanTechnica": "https://cleantechnica.com/feed/",
             "STAT News": "https://www.statnews.com/feed/",
@@ -197,6 +197,54 @@ class NewsFetcher:
             "Google News AI (HI)": "https://news.google.com/rss/search?q=कृत्रिम+बुद्धिमत्ता&hl=hi&gl=IN&ceid=IN:hi",
         }
 
+
+    _STOP_WORDS = {
+        'a', 'an', 'the', 'is', 'in', 'on', 'at', 'to', 'for', 'of', 'and', 'or', 'but',
+        'with', 'by', 'from', 'as', 'this', 'that', 'it', 'its', 'are', 'was', 'were',
+        'has', 'have', 'had', 'will', 'would', 'could', 'should', 'may', 'can', 'be',
+        'says', 'said', 'just', 'more', 'also', 'now', 'after', 'over', 'into', 'about',
+        'up', 'how', 'what', 'why', 'when', 'new', 'report', 'reports',
+    }
+
+    def deduplicate_news(self, items: List[Dict]) -> List[Dict]:
+        """
+        Remove articles that cover the same story using title word-overlap (Jaccard similarity).
+        When duplicates are found, keeps the first occurrence.
+        """
+        import re
+
+        def keywords(title: str) -> frozenset:
+            words = re.sub(r'[^\w\s]', ' ', title.lower()).split()
+            return frozenset(w for w in words if len(w) > 3 and w not in self._STOP_WORDS)
+
+        threshold = 0.4
+        deduplicated = []
+        seen: List[frozenset] = []
+
+        for item in items:
+            kw = keywords(item['title'])
+            if len(kw) < 2:
+                deduplicated.append(item)
+                seen.append(kw)
+                continue
+
+            is_duplicate = False
+            for seen_kw in seen:
+                if len(seen_kw) < 2:
+                    continue
+                union_size = len(kw | seen_kw)
+                if union_size and len(kw & seen_kw) / union_size >= threshold:
+                    is_duplicate = True
+                    break
+
+            if not is_duplicate:
+                deduplicated.append(item)
+                seen.append(kw)
+
+        removed = len(items) - len(deduplicated)
+        if removed:
+            logger.info(f"Deduplication removed {removed} near-duplicate articles")
+        return deduplicated
 
     def fetch_rss_feed(self, feed_url: str, max_items: int = 10) -> List[Dict[str, str]]:
         """
@@ -350,9 +398,13 @@ class NewsFetcher:
                 item['source'] = source_name
                 all_news['domestic'].append(item)
 
+        # Deduplicate within each category
+        all_news['international'] = self.deduplicate_news(all_news['international'])
+        all_news['domestic'] = self.deduplicate_news(all_news['domestic'])
+
         logger.info(
             f"Fetched {len(all_news['international'])} international news items "
-            f"and {len(all_news['domestic'])} domestic ({language}) news items"
+            f"and {len(all_news['domestic'])} domestic ({language}) news items after deduplication"
         )
 
         return all_news

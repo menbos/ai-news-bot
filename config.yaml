@@ -40,6 +40,7 @@ news:
       - ✅ Include both international and domestic news when available
       - ✅ Prefer primary sources over secondary reporting
       - ✅ Thematic investing intersections: AI in clean energy transition, healthcare/biotech innovation, tech disruption, ESG; and critical materials demand (rare earths, lithium, copper, cobalt) driven by AI infrastructure and energy transition
+      - ✅ DEDUPLICATION: If multiple articles cover the same event or announcement, select ONLY the single best one — do not include the same story more than once regardless of source
 
       ### OUTPUT FORMAT:
       Return ONLY a JSON array of selected news IDs. No explanations, no markdown, just the JSON array.
@@ -59,7 +60,7 @@ news:
       ## OUTPUT STRUCTURE:
 
       Organize news items into relevant categories (use only categories that have news):
-      1. **Thematic & Impact Investing** - AI's intersection with sustainable investment themes: healthcare and biomedical AI including drug discovery, diagnostics, and medical AI (Future Health); clean energy transition and smart grid (Green Planet); disruptive technology as equity theme (Tech Disruptor); ESG and resource efficiency (Global Thematic); critical materials demand driven by AI infrastructure build-out and energy transition — rare earths, lithium, copper, cobalt, battery supply chains, geopolitical resource security, and commodity supercycle dynamics (Strategic Materials)
+      1. **Thematic Investing** - AI's intersection with sustainable investment themes: healthcare and biomedical AI including drug discovery, diagnostics, and medical AI (Future Health); clean energy transition and smart grid (Green Planet); disruptive technology as equity theme (Tech Disruptor); ESG and resource efficiency (Global Thematic); critical materials demand driven by AI infrastructure build-out and energy transition — rare earths, lithium, copper, cobalt, battery supply chains, geopolitical resource security, and commodity supercycle dynamics (Strategic Materials)
       2. **Large Language Models & Foundation Models** - LLM updates, new model releases, benchmarks
       3. **AI Agents & Autonomous Systems** - Agent frameworks, autonomous AI developments
       4. **Multimodal AI** - Vision, audio, video AI capabilities
@@ -93,7 +94,7 @@ news:
 
       ## EXAMPLE FORMAT:
 
-      ## Large Language Models & Foundation Models
+      ## Thematic Investing
 
       ### OpenAI Releases GPT-5 with Revolutionary Capabilities
 
@@ -106,6 +107,8 @@ news:
       ---
 
       ## QUALITY REQUIREMENTS:
+      - ✅ **Thematic Investing must always be the FIRST section in the output** — even if it has only one item
+      - ✅ Output categories in the exact numbered order listed above (1 → 12), skipping only categories with no items
       - ✅ Summarize ALL {count} items provided above (no skipping)
       - ✅ Each news item must appear under exactly ONE category — assign it to its single most relevant category and do not repeat it elsewhere
       - ✅ Each summary must be exactly 4-6 sentences
