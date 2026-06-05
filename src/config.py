@@ -145,12 +145,11 @@ CRITICAL: Select exactly 15-20 items. No more, no less."""
 Organize news items into relevant categories (use only categories that have news):
 1. **Large Language Models & Foundation Models**
 2. **AI Agents & Autonomous Systems**
-3. **Research & Academic Breakthroughs**
-4. **Product Launches & Updates**
-5. **AI Infrastructure & Hardware**
-6. **Funding & Market Dynamics**
-7. **Policy & Regulation**
-8. **AI in Finance & Banking**
+3. **Product Launches & Updates**
+4. **AI Infrastructure & Hardware**
+5. **Funding & Market Dynamics**
+6. **Policy & Regulation**
+7. **AI in Finance & Banking**
 
 ## CONTENT REQUIREMENTS:
 
