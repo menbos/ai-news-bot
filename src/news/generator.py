@@ -15,6 +15,20 @@ from ..llm_providers import get_llm_provider
 
 logger = setup_logger(__name__)
 
+CATEGORY_ORDER = [
+    "Thematic Investing",
+    "Large Language Models & Foundation Models",
+    "AI Agents & Autonomous Systems",
+    "Multimodal AI",
+    "Product Launches & Updates",
+    "AI Infrastructure & Hardware",
+    "Robotics & Autonomous Vehicles",
+    "Enterprise & Industry Applications",
+    "Funding & Market Dynamics",
+    "Policy & Regulation",
+    "Open Source & Community",
+]
+
 
 class NewsGenerator:
     """Generate AI news digest using configurable LLM providers"""
@@ -115,6 +129,73 @@ class NewsGenerator:
                 item_id += 1
 
         return formatted, news_items
+
+    def _extract_json_array(self, text: str) -> Optional[list]:
+        """Extract and parse a JSON array from LLM output, handling markdown code fences."""
+        # Strip code fences
+        text = re.sub(r'```(?:json)?\s*', '', text).strip().rstrip('`').strip()
+        match = re.search(r'\[[\s\S]*\]', text)
+        if not match:
+            return None
+        try:
+            result = json.loads(match.group(0))
+            return result if isinstance(result, list) else None
+        except json.JSONDecodeError:
+            return None
+
+    def _match_category(self, raw: str) -> str:
+        """Map a raw category string to the canonical name; fall back to the raw string."""
+        normalized = raw.lower().strip()
+        for cat in CATEGORY_ORDER:
+            if cat.lower() == normalized:
+                return cat
+        # Partial prefix match (e.g. "Large Language Models" → full canonical name)
+        for cat in CATEGORY_ORDER:
+            if normalized in cat.lower() or cat.lower().split('&')[0].strip() in normalized:
+                return cat
+        return raw
+
+    def _render_digest_from_json(self, items: list) -> str:
+        """Render a markdown digest from structured items, enforcing order and deduplication."""
+        grouped: Dict[str, list] = {}
+        for item in items:
+            cat = self._match_category(item.get("category", "Other"))
+            grouped.setdefault(cat, []).append(item)
+
+        parts = []
+        seen = set()
+
+        for cat in CATEGORY_ORDER:
+            cat_items = grouped.get(cat, [])
+            if not cat_items:
+                continue
+            seen.add(cat)
+            parts.append(f"## {cat}\n")
+            for item in cat_items:
+                parts.append(f"### {item.get('headline', 'Untitled')}\n")
+                parts.append(f"\n*Published: {item.get('published', 'No date')}*\n")
+                parts.append(f"\n{item.get('summary', '')}\n")
+                src_name = item.get("source_name", "Source")
+                src_url = item.get("source_url", "")
+                if src_url:
+                    parts.append(f"\n[{src_name}]({src_url})\n")
+                parts.append("\n---\n")
+
+        # Append any items whose category didn't match the canonical list
+        for cat, cat_items in grouped.items():
+            if cat not in seen:
+                parts.append(f"## {cat}\n")
+                for item in cat_items:
+                    parts.append(f"### {item.get('headline', 'Untitled')}\n")
+                    parts.append(f"\n*Published: {item.get('published', 'No date')}*\n")
+                    parts.append(f"\n{item.get('summary', '')}\n")
+                    src_name = item.get("source_name", "Source")
+                    src_url = item.get("source_url", "")
+                    if src_url:
+                        parts.append(f"\n[{src_name}]({src_url})\n")
+                    parts.append("\n---\n")
+
+        return "\n".join(parts)
 
     def generate_news_digest_from_sources(
         self,
@@ -241,17 +322,25 @@ class NewsGenerator:
                 selected_news=formatted_selected
             )
 
-            # Add language instruction if not English
+            # Add language instruction if not English (summaries only — JSON structure stays in English)
             if language and language.lower() != "en":
                 language_name = LANGUAGE_NAMES.get(language.lower(), language.upper())
-                summarization_prompt += f"\n\nIMPORTANT: Please respond entirely in {language_name}."
+                summarization_prompt += f"\n\nIMPORTANT: Write all headline and summary values in {language_name}. Keep JSON keys and category names in English exactly as listed."
 
-            # Execute Stage 2: Generate detailed summaries
+            # Execute Stage 2: Generate structured JSON
             messages = [{"role": "user", "content": summarization_prompt}]
             response_text = self.provider.generate(
                 messages=messages,
                 max_tokens=max_tokens
             )
+
+            # Parse JSON and render markdown deterministically; fall back to raw text
+            items = self._extract_json_array(response_text)
+            if items:
+                logger.info(f"Stage 2: parsed {len(items)} structured items, rendering markdown")
+                response_text = self._render_digest_from_json(items)
+            else:
+                logger.warning("Stage 2: JSON parse failed, using raw LLM output as fallback")
 
             # Add footer with GitHub link
             footer = "\n\n---\n\n*Generated by [AI News Bot](https://github.com/giftedunicorn/ai-news-bot) - Your AI-powered news assistant*"

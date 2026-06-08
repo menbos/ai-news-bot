@@ -52,78 +52,53 @@ news:
 
   # Stage 2: Summarization prompt template (complete prompt for creating the digest)
   # Placeholders: {count}, {selected_news}
+  # The Python renderer parses the JSON output and enforces category order and deduplication.
   stage2_prompt_template: |
-      You are a senior AI industry analyst. Create a comprehensive, in-depth news digest for the {count} pre-selected news items below.
+      You are a senior AI industry analyst. Write a 4-6 sentence analytical summary for each of the {count} news items below, and assign each to exactly ONE category.
 
       {selected_news}
 
-      ## OUTPUT STRUCTURE:
+      ## CATEGORIES (use these exact strings — pick the single best fit per item):
+      - Thematic Investing
+      - Large Language Models & Foundation Models
+      - AI Agents & Autonomous Systems
+      - Multimodal AI
+      - Product Launches & Updates
+      - AI Infrastructure & Hardware
+      - Robotics & Autonomous Vehicles
+      - Enterprise & Industry Applications
+      - Funding & Market Dynamics
+      - Policy & Regulation
+      - Open Source & Community
 
-      Organize news items into relevant categories (use only categories that have news):
-      1. **Thematic Investing** - AI's intersection with sustainable investment themes: healthcare and biomedical AI including drug discovery, diagnostics, and medical AI (Future Health); clean energy transition and smart grid (Green Planet); disruptive technology as equity theme (Tech Disruptor); ESG and resource efficiency (Global Thematic); critical materials demand driven by AI infrastructure build-out and energy transition — rare earths, lithium, copper, cobalt, battery supply chains, geopolitical resource security, and commodity supercycle dynamics (Strategic Materials)
-      2. **Large Language Models & Foundation Models** - LLM updates, new model releases, benchmarks
-      3. **AI Agents & Autonomous Systems** - Agent frameworks, autonomous AI developments
-      4. **Multimodal AI** - Vision, audio, video AI capabilities
-      5. **Product Launches & Updates** - New products, feature releases, API updates
-      6. **AI Infrastructure & Hardware** - Chips, GPUs, training infrastructure, cloud services
-      7. **Robotics & Autonomous Vehicles** - Robots, self-driving, embodied AI
-      8. **Enterprise & Industry Applications** - B2B solutions, industry-specific AI
-      9. **Funding & Market Dynamics** - Investments, acquisitions, valuations
-      10. **Policy & Regulation** - Government policies, AI governance, ethics
-      11. **Open Source & Community** - Open source projects, community developments
+      ## CATEGORY GUIDANCE:
+      - "Thematic Investing": use for stories tied to investment themes — healthcare/biomedical AI (drug discovery, diagnostics), clean energy transition, ESG, critical materials (rare earths, lithium, copper, cobalt), battery supply chains, commodity supply cycle dynamics, or fund-relevant market dynamics. If the story is primarily a tech announcement, use a tech category instead.
+      - Each item must appear in exactly ONE category. Do not repeat any item.
 
-      ## CONTENT REQUIREMENTS:
+      ## SUMMARY REQUIREMENTS (per item):
+      - 4-6 sentences; no shorter, no longer
+      - Sentence 1: what happened (core news and context)
+      - Sentence 2: technical details, key specs, or metrics
+      - Sentence 3: why it matters (industry significance)
+      - Sentence 4-6: implications, competitive landscape, future developments
+      - Professional analytical tone; include specific numbers and data points
+      - Do not invent facts not present in the source
 
-      For each news item, provide:
-      1. **Clear Headline**: Informative title that captures the key development
-      2. **Published Date**: Always include on its own line as: *Published: [date]* (use "No date" if not available)
-      3. **Analytical Summary (4-6 sentences)**:
-         - What happened (core news and context)
-         - Technical details, key specifications, or metrics
-         - Why it matters (industry significance and impact)
-         - Potential implications (future developments, competitive landscape)
-      4. **Source Attribution**: Always include as clickable markdown link: [Source Name](URL)
+      ## OUTPUT FORMAT:
+      Return ONLY a raw JSON array — no markdown, no code fences, no explanation. Each element must have these exact keys:
 
-      ## WRITING STYLE:
-      - Professional, analytical tone suitable for industry professionals
-      - Include specific numbers, metrics, and data points when available
-      - Keep technical terminology accurate (preserve technical jargon)
-      - Balance accessibility with technical depth
-      - Provide context and analysis, not just reporting facts
+      [
+        {
+          "category": "<exact category string from list above>",
+          "headline": "<informative headline capturing the key development>",
+          "published": "<date from source, e.g. Jun 08, 2025 10:00 UTC, or No date>",
+          "summary": "<4-6 sentence analytical summary>",
+          "source_name": "<publication name>",
+          "source_url": "<full URL>"
+        }
+      ]
 
-      ## EXAMPLE FORMAT:
-
-      ## Thematic Investing
-
-      ### OpenAI Releases GPT-5 with Revolutionary Capabilities
-
-      *Published: Apr 24, 2025 06:00 UTC*
-
-      OpenAI has announced GPT-5, featuring a 10 trillion parameter architecture with unprecedented reasoning abilities. The model demonstrates 40% improvement on complex reasoning benchmarks and introduces native multimodal understanding. This release marks a significant leap in AI capability, potentially reshaping competitive dynamics in the LLM market. Enterprise customers report 3x productivity gains in early testing, suggesting immediate practical applications.
-
-      Source: [OpenAI Blog](https://openai.com/blog/gpt-5)
-
-      ---
-
-      ## QUALITY REQUIREMENTS:
-      - ✅ **Thematic Investing must always be the FIRST section in the output** — even if it has only one item
-      - ✅ Output categories in the exact numbered order listed above (1 → 12), skipping only categories with no items
-      - ✅ Summarize ALL {count} items provided above (no skipping)
-      - ✅ Each news item must appear under exactly ONE category — assign it to its single most relevant category and do not repeat it elsewhere
-      - ✅ Each summary must be exactly 4-6 sentences
-      - ✅ Include specific numbers, metrics, and data when available
-      - ✅ Maintain balanced coverage across different categories
-      - ✅ Include both international and domestic news
-      - ✅ Prioritize accuracy over speculation
-      - ✅ All sources must have clickable markdown links
-
-      ## AVOID:
-      ❌ Generic statements without specifics
-      ❌ Summaries shorter than 4 sentences or longer than 6 sentences
-      ❌ Missing clickable links or improper markdown formatting
-      ❌ Skipping any news items
-      ❌ Placing the same news item under more than one category — each item must appear exactly once, in its single most relevant category
-      ❌ Mixing thematic investing angle (category 1) with pure technology coverage (categories 2–6) or hardware/infrastructure (category 7) — if a story is primarily about investment themes, ESG, healthcare innovation, fund-relevant market dynamics, critical minerals, or commodity supply chains, place it in category 1
+      Summarize ALL {count} items. Output nothing except the JSON array.
 
 logging:
   level: INFO
