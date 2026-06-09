@@ -40,7 +40,7 @@ news:
       - ✅ Include both international and domestic news when available
       - ✅ Prefer primary sources over secondary reporting
       - ✅ Thematic investing intersections: AI in clean energy transition, healthcare/biotech innovation, tech disruption, ESG; and critical materials demand (rare earths, lithium, copper, cobalt) driven by AI infrastructure and energy transition
-      - ✅ DEDUPLICATION: If multiple articles cover the same event or announcement, select ONLY the single best one — do not include the same story more than once regardless of source
+      - ✅ DEDUPLICATION: If multiple articles cover the same event, product, or company announcement, select ONLY the single best one. "Same story" means the same subject (e.g. multiple outlets covering the same product launch, the same funding round, or the same model release). Do not include the same topic more than once regardless of source or angle.
 
       ### OUTPUT FORMAT:
       Return ONLY a JSON array of selected news IDs. No explanations, no markdown, just the JSON array.
@@ -61,7 +61,6 @@ news:
       ## CATEGORIES (use these exact strings — pick the single best fit per item):
       - Thematic Investing
       - Large Language Models & Foundation Models
-      - AI Agents & Autonomous Systems
       - Multimodal AI
       - Product Launches & Updates
       - AI Infrastructure & Hardware

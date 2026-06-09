@@ -18,7 +18,6 @@ logger = setup_logger(__name__)
 CATEGORY_ORDER = [
     "Thematic Investing",
     "Large Language Models & Foundation Models",
-    "AI Agents & Autonomous Systems",
     "Multimodal AI",
     "Product Launches & Updates",
     "AI Infrastructure & Hardware",
@@ -155,8 +154,42 @@ class NewsGenerator:
                 return cat
         return raw
 
+    _STOPWORDS = {
+        "a", "an", "the", "of", "in", "on", "at", "to", "for", "and", "or",
+        "is", "are", "was", "were", "with", "its", "as", "by", "how", "why",
+        "what", "that", "this", "has", "have", "will", "from", "new", "get",
+    }
+
+    def _headline_tokens(self, headline: str) -> set:
+        words = re.sub(r'[^\w\s]', '', headline.lower()).split()
+        return {w for w in words if w not in self._STOPWORDS and len(w) > 3}
+
+    def _deduplicate_items(self, items: list) -> list:
+        """Remove near-duplicate items based on headline word overlap (Jaccard ≥ 0.35)."""
+        kept = []
+        for item in items:
+            tokens = self._headline_tokens(item.get("headline", ""))
+            duplicate_of = None
+            for i, k in enumerate(kept):
+                k_tokens = self._headline_tokens(k.get("headline", ""))
+                if not tokens or not k_tokens:
+                    continue
+                union = tokens | k_tokens
+                similarity = len(tokens & k_tokens) / len(union)
+                if similarity >= 0.35:
+                    duplicate_of = i
+                    break
+            if duplicate_of is None:
+                kept.append(item)
+            else:
+                # Keep whichever has the longer summary
+                if len(item.get("summary", "")) > len(kept[duplicate_of].get("summary", "")):
+                    kept[duplicate_of] = item
+        return kept
+
     def _render_digest_from_json(self, items: list) -> str:
         """Render a markdown digest from structured items, enforcing order and deduplication."""
+        items = self._deduplicate_items(items)
         grouped: Dict[str, list] = {}
         for item in items:
             cat = self._match_category(item.get("category", "Other"))
