@@ -316,10 +316,12 @@ class NewsGenerator:
                 config = Config()
                 stage2_template = config.stage2_prompt_template
 
-            # Format Stage 2 prompt with placeholders
-            summarization_prompt = stage2_template.format(
-                count=len(selected_ids),
-                selected_news=formatted_selected
+            # Format Stage 2 prompt with placeholders (avoid .format() — template may contain
+            # literal JSON braces that would be misinterpreted as format specifiers)
+            summarization_prompt = (
+                stage2_template
+                .replace("{count}", str(len(selected_ids)))
+                .replace("{selected_news}", formatted_selected)
             )
 
             # Add language instruction if not English (summaries only — JSON structure stays in English)
