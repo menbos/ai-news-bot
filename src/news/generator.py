@@ -17,13 +17,13 @@ logger = setup_logger(__name__)
 
 CATEGORY_ORDER = [
     "Thematic Investing",
-    "Large Language Models & Foundation Models",
-    "Multimodal AI",
     "Product Launches & Updates",
-    "AI Infrastructure & Hardware",
-    "Robotics & Autonomous Vehicles",
     "Enterprise & Industry Applications",
     "Funding & Market Dynamics",
+    "AI Infrastructure & Hardware",
+    "Large Language Models & Foundation Models",
+    "Multimodal AI",
+    "Robotics & Autonomous Vehicles",
     "Policy & Regulation",
     "Open Source & Community",
 ]
