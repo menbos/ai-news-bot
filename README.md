@@ -15,8 +15,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-00D4AA?style=flat-square)](https://telegram.org/)
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/giftedunicorn/ai-news-bot)
-[![Claude](https://img.shields.io/badge/Claude-Sonnet_4.5-FF6B6B?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com)
-[![DeepSeek](https://img.shields.io/badge/DeepSeek-Supported-4285F4?style=flat-square&logo=ai&logoColor=white)](https://www.deepseek.com)
+[![Active Model](https://img.shields.io/badge/Active_Model-Gemini_2.5_Flash_Lite-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
+[![Providers](https://img.shields.io/badge/Providers-Claude_·_DeepSeek_·_Gemini_·_Grok_·_OpenAI-FF6B6B?style=flat-square&logo=anthropic&logoColor=white)](#llm-provider-configuration)
 
 </div>
 
@@ -41,9 +41,9 @@
 - **AI-Powered News Generation**: Generate comprehensive AI news digests using your preferred LLM provider
 - **Web Search Integration**: Optional DuckDuckGo web search for additional news sources
 - **Beautiful Email Formatting**: Automatically converts AI content to stunning HTML emails - no markdown, just clean professional design
-- **Customizable Prompts**: 9 pre-built templates (comprehensive, research, business, technical, etc.) or create your own
-- **Multilingual Support**: Generate news in 13+ languages including English, Chinese, Spanish, French, Japanese, and more
-- **Chinese News Sources**: Built-in support for Chinese AI news sources (36Kr, JiQiZhiXin, etc.)
+- **Two-Stage AI Pipeline**: Stage 1 selects the highest-quality items from all fetched news; Stage 2 writes structured, categorized analytical summaries — both fully customizable in `config.yaml`
+- **Multilingual Support**: Generate digests in English, Chinese (中文), and German (Deutsch)
+- **Localized News Sources**: Built-in Chinese sources (36Kr, JiQiZhiXin, Leiphone, etc.) and German sources (Heise, t3n, Golem, etc.) in addition to the international feeds
 - **Multiple Notification Channels**: Supports email (Gmail SMTP), webhook, Slack, Telegram, and Discord notifications
 - **Flexible Configuration**: Easy-to-customize topics and notification settings via YAML config
 - **Automated Scheduling**: GitHub Actions workflow for daily automated execution
@@ -122,7 +122,7 @@ See [Email Setup Guide](#email-setup-guide) for detailed Gmail configuration ins
 
 | Secret Name            | Example Value              | Description                                                                       |
 | ---------------------- | -------------------------- | --------------------------------------------------------------------------------- |
-| `AI_RESPONSE_LANGUAGE` | `zh` or `es` or `en,zh,ja` | Language code(s) (defaults to `en`). Use commas for multiple languages           |
+| `AI_RESPONSE_LANGUAGE` | `zh` or `de` or `en,zh,de` | Language code(s): `en`, `zh`, `de` (defaults to `en`). Use commas for multiple    |
 | `ENABLE_WEB_SEARCH`    | `true` or `false`          | Enable web search for news (defaults to `false`)                                  |
 
 For other notification channels (Webhook, Slack, Telegram, Discord), see the [full configuration table](#github-actions-setup).
@@ -217,65 +217,31 @@ ENABLE_WEB_SEARCH=false
 
 > **Note**: The `.env` file is only for **local development**. For GitHub Actions automation, you'll configure these as **GitHub Secrets** (see [GitHub Actions Setup](#github-actions-setup) below).
 
-### 4. Customize News Prompt (Optional)
+### 4. Customize the News Pipeline (Optional)
 
-The bot uses an **optimized, concise prompt** (15 lines vs 50+ in typical systems) that generates high-quality news digests.
+The bot turns raw RSS items into a polished digest using a **two-stage prompt pipeline**, both defined in `config.yaml` under `news:`:
 
-**Default Prompt** (in config.yaml):
+- **Stage 1 — Selection** (`stage1_prompt_template`): the LLM reviews every fetched item and returns the IDs of the 15–20 highest-quality stories, with built-in deduplication and balanced category coverage.
+- **Stage 2 — Summarization** (`stage2_prompt_template`): for the selected items the LLM returns structured JSON (category, headline, date, 4–6 sentence analytical summary, source name, source URL). Python then enforces the category order and deduplication when rendering the final digest.
 
-```yaml
-Summarize 10 recent AI news items (5 international + 5 domestic) covering: {topics}
-
-Format:
-International News:
-1. [Headline]
-[2-3 sentence summary]
-Source: [Name]
-
-Domestic News:
-1. [Headline]
-...
-
-Rules: Recent news, no markdown, clear language
-```
-
-**Why it's concise:**
-
-- ✅ Faster processing
-- ✅ Lower cost
-- ✅ Easier to maintain
-- ✅ No redundancy
+Both templates are plain YAML strings you can edit freely. Stage 1 placeholders: `{total_items}`, `{formatted_news}`. Stage 2 placeholders: `{count}`, `{selected_news}`.
 
 **Multi-Language Support:**
 
-Prompts are in English (best for Claude), but output can be in **13+ languages**:
+Prompts are written in English (best for the LLM), but the digest can be produced in **English, Chinese, or German**:
 
 ```bash
 # In .env file - Single language
 AI_RESPONSE_LANGUAGE=zh  # Chinese output only
-AI_RESPONSE_LANGUAGE=es  # Spanish output only
-AI_RESPONSE_LANGUAGE=ja  # Japanese output only
+AI_RESPONSE_LANGUAGE=de  # German output only
 
 # Multiple languages (comma-separated)
-AI_RESPONSE_LANGUAGE=en,zh,ja  # English, Chinese, and Japanese
-AI_RESPONSE_LANGUAGE=en,es,fr  # English, Spanish, and French
+AI_RESPONSE_LANGUAGE=en,zh,de  # English, Chinese, and German
 
-# Supports: en, zh, es, fr, ja, de, ko, pt, ru, ar, hi, it, nl
+# Supported: en, zh, de
 ```
 
-**Pre-built Templates** (config.examples.yaml):
-
-1. Comprehensive (default) - Balanced coverage
-2. Research - Academic focus
-3. Business - Industry & funding
-4. Technical - Engineering depth
-5. Startup - Early-stage companies
-6. Policy - Regulations
-7. Weekly - Top stories
-8. Concise - Ultra-brief
-9. Chinese - 中文示例
-
-📖 **Full Guide**: See `config.examples.yaml` for customization and multi-language details.
+Chinese (`zh`) and German (`de`) each also pull from their own localized news feeds; English (`en`) uses the international feeds.
 
 ### 5. Run Locally
 
@@ -303,7 +269,7 @@ The bot requires the following configuration. How you set them depends on your d
 | `XAI_API_KEY`          | If using Grok     | Your xAI API key ([Get it here](https://x.ai/))                                                                                                  |
 | `OPENAI_API_KEY`       | If using OpenAI   | Your OpenAI API key ([Get it here](https://platform.openai.com/api-keys))                                                                        |
 | `NOTIFICATION_METHODS` | ✅ Required       | Comma-separated list: `email`, `webhook`, `slack`, `telegram`, `discord`, or any combination (e.g., `email,slack,telegram`)                      |
-| `AI_RESPONSE_LANGUAGE` | Optional          | Language code(s) for AI responses (default: `en`). Use commas for multiple (e.g., `en,zh,ja`). Supports: `zh`, `es`, `fr`, `ja`, `de`, `ko`, `pt`, `ru`, `ar`, `hi`, `it`, `nl` |
+| `AI_RESPONSE_LANGUAGE` | Optional          | Language code(s) for AI responses (default: `en`). Use commas for multiple (e.g., `en,zh,de`). Supports: `en`, `zh`, `de` |
 | `ENABLE_WEB_SEARCH`    | Optional          | Enable web search for news (default: `false`)                                                                                                    |
 | `GMAIL_ADDRESS`        | If using Gmail    | Your Gmail address                                                                                                               |
 | `GMAIL_APP_PASSWORD`   | If using Gmail    | Gmail App Password (16 characters, NOT regular password)                                                                         |
@@ -322,21 +288,20 @@ The bot requires the following configuration. How you set them depends on your d
 
 The `config.yaml` file allows you to customize the news digest behavior:
 
+> 🤖 **Currently configured model**: this repo's `config.yaml` is set to `provider: gemini` with no model override, so it runs on **`gemini-2.5-flash-lite`** (the Gemini provider's default). Change `provider` / `model` below to switch.
+
 **LLM Configuration**:
 
 - **Provider**: Choose between `claude`, `deepseek`, `gemini`, `grok`, or `openai`
-- **Model**: Optionally specify a specific model version
+- **Model**: Optionally specify a specific model version (if omitted, the provider's default is used)
 
 **News Configuration**:
 
-- **use_real_sources**: Enable fetching news from RSS feeds (recommended, default: true)
-- **enable_web_search**: Enable DuckDuckGo web search (default: false)
-- **max_items_per_source**: Maximum news items per source (default: 10)
-- **Topics**: Focus areas for news selection (optional, guides the AI)
-- **Prompt Template**: The instruction template for the LLM
-  - Default: Comprehensive 15-20 item digest with category headers
-  - Fully customizable with your own prompts
-  - See `config.examples.yaml` for 9 pre-built templates
+- **enable_web_search**: Enable DuckDuckGo web search (default: false; RSS feeds are more reliable)
+- **max_items_per_source**: Maximum news items fetched per source for the AI to select from (default: 10)
+- **lookback_hours**: How many hours back to keep fetched items (default: 48). Larger values catch primary-source announcements that broke a day or two before the run; items with no parseable publish date are always kept.
+- **stage1_prompt_template**: Stage 1 selection prompt (placeholders: `{total_items}`, `{formatted_news}`)
+- **stage2_prompt_template**: Stage 2 summarization prompt that returns structured JSON (placeholders: `{count}`, `{selected_news}`)
 
 **Logging Settings**: Control log verbosity and format
 
@@ -344,27 +309,30 @@ The `config.yaml` file allows you to customize the news digest behavior:
 
 ```yaml
 llm:
-  provider: claude # options: 'claude', 'deepseek', 'gemini', 'grok', 'openai'
+  provider: gemini # options: 'claude', 'deepseek', 'gemini', 'grok', 'openai'
   # model: claude-sonnet-4-5-20250929  # optional
 
 news:
-  use_real_sources: true
   enable_web_search: false
   max_items_per_source: 10
+  lookback_hours: 48
 
-  topics:
-    - "Large Language Models (LLM)"
-    - "AI Agents and Autonomous Systems"
-    - "Product launches"
+  stage1_prompt_template: |
+    {formatted_news}
+    ## YOUR TASK - STAGE 1: NEWS SELECTION
+    ...select 15-20 of the highest-quality items...
 
-  prompt_template: |
-    Your custom prompt...
-    Focus: {topics}
+  stage2_prompt_template: |
+    Write a 4-6 sentence analytical summary for each of the {count} items...
+    {selected_news}
+    ...return a raw JSON array...
 
 logging:
   level: INFO
-  format: "%(asctime)s - %(levelname)s - %(message)s"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 ```
+
+> 💡 See the committed `config.yaml` for the full default Stage 1 and Stage 2 templates, including the category list used to organize the digest.
 
 ### LLM Provider Configuration
 
@@ -405,13 +373,13 @@ llm:
 ```yaml
 llm:
   provider: gemini
-  model: gemini-3-pro-preview # optional, uses default if not set
+  model: gemini-2.5-flash-lite # optional, uses default if not set
 ```
 
 **Available Models:**
 
-- `gemini-3-pro-preview` - Latest Gemini 3 Pro (default) - Next-gen multimodal AI
-- `gemini-2.0-flash-thinking-exp-01-21` - Gemini 2.0 with thinking mode
+- `gemini-2.5-flash-lite` - Default - fast and cost-effective, used by this repo
+- `gemini-3-pro-preview` - Gemini 3 Pro - next-gen multimodal AI for higher-quality output
 
 **Pricing:** Free tier available, very cost-effective for production
 
@@ -460,13 +428,14 @@ llm:
 
 **How It Works:**
 
-- Prompts are always in **English** (best for Claude understanding)
-- Output can be in **13+ languages** (automatic translation)
+- Prompts are always in **English** (best for the LLM's understanding)
+- Output can be in **English, Chinese, or German**
+- `zh` and `de` additionally fetch from their own localized news feeds; `en` uses the international feeds
 - Set `AI_RESPONSE_LANGUAGE` in `.env` or GitHub Secrets
 
 **Supported Languages:**
 
-`en` (English) • `zh` (中文) • `es` (Español) • `fr` (Français) • `ja` (日本語) • `de` (Deutsch) • `ko` (한국어) • `pt` (Português) • `ru` (Русский) • `ar` (العربية) • `hi` (हिन्दी) • `it` (Italiano) • `nl` (Nederlands)
+`en` (English) • `zh` (中文) • `de` (Deutsch)
 
 **Usage:**
 
@@ -475,16 +444,16 @@ llm:
 AI_RESPONSE_LANGUAGE=zh  # Full Chinese output
 
 # .env file - Multiple languages (comma-separated)
-AI_RESPONSE_LANGUAGE=en,zh,ja  # Generate news in English, Chinese, and Japanese
+AI_RESPONSE_LANGUAGE=en,zh,de  # Generate digests in English, Chinese, and German
 
 # GitHub Secret
 # Add: AI_RESPONSE_LANGUAGE = zh
-# Or for multiple: AI_RESPONSE_LANGUAGE = en,zh,ja
+# Or for multiple: AI_RESPONSE_LANGUAGE = en,zh,de
 ```
 
 **Multi-Language Support:**
 
-When you specify multiple languages (e.g., `en,zh,ja`), the bot will:
+When you specify multiple languages (e.g., `en,zh,de`), the bot will:
 1. Generate separate news digests for each language
 2. Send individual notifications for each language
 3. Include the language code in the notification title (e.g., "AI News Digest - 2024-12-03 [ZH]")
@@ -567,7 +536,7 @@ Add the following secrets one by one:
 
 | Secret Name            | Example Value        | Description                                      |
 | ---------------------- | -------------------- | ------------------------------------------------ |
-| `AI_RESPONSE_LANGUAGE` | `zh` or `es` or `ja` | Language code (defaults to `en` if not set)      |
+| `AI_RESPONSE_LANGUAGE` | `zh` or `de` or `en,zh,de` | Language code(s): `en`, `zh`, `de` (defaults to `en`) |
 | `ENABLE_WEB_SEARCH`    | `true` or `false`    | Enable web search for news (defaults to `false`) |
 
 ### Step 2: Enable GitHub Actions
@@ -612,18 +581,26 @@ ai-news-bot/
 │   ├── __init__.py
 │   ├── config.py                    # Configuration management
 │   ├── logger.py                    # Logging utilities
-│   ├── news_generator.py            # News generation orchestration
-│   ├── news_fetcher.py              # RSS feed news fetching
-│   ├── web_search.py                # DuckDuckGo web search integration
+│   ├── news/
+│   │   ├── __init__.py
+│   │   ├── generator.py             # Two-stage digest orchestration
+│   │   ├── fetcher.py               # RSS/Atom feed news fetching
+│   │   └── web_search.py            # DuckDuckGo web search integration
 │   ├── llm_providers/
 │   │   ├── __init__.py
 │   │   ├── base_provider.py         # Base LLM provider interface
 │   │   ├── claude_provider.py       # Anthropic Claude provider
-│   │   └── deepseek_provider.py     # DeepSeek provider
+│   │   ├── deepseek_provider.py     # DeepSeek provider
+│   │   ├── gemini_provider.py       # Google Gemini provider
+│   │   ├── grok_provider.py         # xAI Grok provider
+│   │   └── openai_provider.py       # OpenAI provider
 │   └── notifiers/
 │       ├── __init__.py
 │       ├── email_notifier.py        # Email notification
-│       └── webhook_notifier.py      # Webhook notification
+│       ├── webhook_notifier.py      # Webhook notification
+│       ├── slack_notifier.py        # Slack notification
+│       ├── telegram_notifier.py     # Telegram notification
+│       └── discord_notifier.py      # Discord notification
 ├── main.py                          # Main application entry point
 ├── config.yaml                      # Active configuration file
 ├── requirements.txt                 # Python dependencies
