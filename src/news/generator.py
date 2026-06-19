@@ -37,7 +37,8 @@ class NewsGenerator:
         provider_name: str = "claude",
         api_key: Optional[str] = None,
         model: Optional[str] = None,
-        enable_web_search: bool = False
+        enable_web_search: bool = False,
+        lookback_hours: int = 48
     ):
         """
         Initialize the NewsGenerator.
@@ -47,6 +48,7 @@ class NewsGenerator:
             api_key: API key for the provider. If None, will read from environment
             model: Model name to use. If None, uses provider's default model
             enable_web_search: Whether to enable web search tool for fetching current news
+            lookback_hours: How many hours back to keep fetched news items
 
         Raises:
             ValueError: If provider is not recognized or API key is not provided
@@ -60,7 +62,7 @@ class NewsGenerator:
 
         self.enable_web_search = enable_web_search
         self.search_tool = WebSearchTool() if enable_web_search else None
-        self.news_fetcher = NewsFetcher()
+        self.news_fetcher = NewsFetcher(lookback_hours=lookback_hours)
         logger.info(
             f"NewsGenerator initialized with {self.provider.provider_name} "
             f"(model: {self.provider.model}, web_search: {enable_web_search})"

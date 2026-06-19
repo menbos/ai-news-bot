@@ -50,7 +50,8 @@ def main():
             provider_name=config.llm_provider,
             api_key=config.llm_api_key,
             model=config.llm_model,
-            enable_web_search=config.enable_web_search
+            enable_web_search=config.enable_web_search,
+            lookback_hours=config.lookback_hours
         )
 
         # Get enabled notification methods

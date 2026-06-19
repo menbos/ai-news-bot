@@ -15,8 +15,14 @@ logger = setup_logger(__name__)
 class NewsFetcher:
     """Fetch real-time AI news from RSS feeds and news APIs"""
 
-    def __init__(self):
-        """Initialize the news fetcher"""
+    def __init__(self, lookback_hours: int = 48):
+        """Initialize the news fetcher.
+
+        Args:
+            lookback_hours: Only keep items published within this many hours.
+                Items with no parseable date are always kept.
+        """
+        self.lookback_hours = lookback_hours
         # RSS feed sources for AI news (reliable sources only)
         self.rss_feeds = {
             # Major Tech Media
@@ -35,6 +41,11 @@ class NewsFetcher:
             "DeepMind Blog": "https://deepmind.google/blog/rss.xml",
             "Meta AI Blog": "https://ai.meta.com/blog/rss/",
             "Microsoft AI Blog": "https://blogs.microsoft.com/ai/feed/",
+
+            # Vendor feature/release announcements (via Google News search feeds).
+            # Catches product launches and developer-platform updates (e.g. new
+            # Codex/API features) that have no first-party RSS feed of their own.
+            "Vendor Releases (Google News)": "https://news.google.com/rss/search?q=(OpenAI+OR+Anthropic+OR+Claude+OR+Codex+OR+Gemini+OR+%22Google+DeepMind%22)+(launch+OR+release+OR+feature+OR+update+OR+announces)+when:3d&hl=en-US&gl=US&ceid=US:en",
 
             # Research & Academic
             "arXiv AI": "https://rss.arxiv.org/rss/cs.AI",
@@ -163,7 +174,7 @@ class NewsFetcher:
             # Parse XML
             root = ET.fromstring(response.content)
 
-            cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
+            cutoff = datetime.now(timezone.utc) - timedelta(hours=self.lookback_hours)
 
             items = []
             # Handle both RSS 2.0 and Atom formats

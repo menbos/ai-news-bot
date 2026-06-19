@@ -226,6 +226,11 @@ For each news item:
         return self.config_data.get("news", {}).get("max_items_per_source", 5)
 
     @property
+    def lookback_hours(self) -> int:
+        """How many hours back to keep news items (items with no date are kept)"""
+        return self.config_data.get("news", {}).get("lookback_hours", 48)
+
+    @property
     def llm_provider(self) -> str:
         """Get the LLM provider to use (claude or deepseek)"""
         # Check environment variable first, then config file
