@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI News Bot — How It Works</title>
+<style>
+  :root {
+    --bg: #0f172a;
+    --panel: #1e293b;
+    --panel-2: #273449;
+    --accent: #4285F4;
+    --accent-2: #38bdf8;
+    --text: #e2e8f0;
+    --muted: #94a3b8;
+    --border: #334155;
+    --good: #22c55e;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+  header {
+    padding: 48px 24px 32px;
+    text-align: center;
+    background: radial-gradient(1200px 400px at 50% -10%, rgba(66,133,244,.25), transparent);
+    border-bottom: 1px solid var(--border);
+  }
+  header h1 { margin: 0 0 8px; font-size: 2.2rem; }
+  header p { margin: 0; color: var(--muted); font-size: 1.05rem; }
+  .wrap { max-width: 960px; margin: 0 auto; padding: 32px 24px 80px; }
+  section { margin-top: 40px; }
+  h2 {
+    font-size: 1.4rem;
+    border-left: 4px solid var(--accent);
+    padding-left: 12px;
+    margin-bottom: 16px;
+  }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px 22px;
+    margin-bottom: 16px;
+  }
+  .badge {
+    display: inline-block;
+    background: var(--panel-2);
+    border: 1px solid var(--border);
+    color: var(--accent-2);
+    border-radius: 999px;
+    padding: 3px 12px;
+    font-size: .8rem;
+    margin: 2px 4px 2px 0;
+    white-space: nowrap;
+  }
+  code {
+    background: #0b1220;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 1px 6px;
+    font-family: "SF Mono", Menlo, Consolas, monospace;
+    font-size: .88em;
+    color: #cbd5e1;
+  }
+  /* pipeline */
+  .pipe { display: flex; flex-direction: column; gap: 0; }
+  .step {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 20px;
+    position: relative;
+  }
+  .step .n {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 26px; height: 26px; border-radius: 50%;
+    background: var(--accent); color: #fff; font-weight: 700;
+    font-size: .85rem; margin-right: 10px;
+  }
+  .step h3 { display: inline; font-size: 1.05rem; }
+  .step p { margin: 8px 0 0 36px; color: var(--muted); }
+  .arrow { text-align: center; color: var(--accent); font-size: 1.4rem; line-height: 1; padding: 6px 0; }
+  /* faq */
+  details {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 4px 18px;
+    margin-bottom: 10px;
+  }
+  details summary {
+    cursor: pointer;
+    font-weight: 600;
+    padding: 12px 0;
+    list-style: none;
+    outline: none;
+  }
+  details summary::-webkit-details-marker { display: none; }
+  details summary::before { content: "▸ "; color: var(--accent); }
+  details[open] summary::before { content: "▾ "; }
+  details .body { padding: 0 0 14px 18px; color: var(--muted); }
+  table { width: 100%; border-collapse: collapse; margin-top: 8px; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); font-size: .92rem; }
+  th { color: var(--accent-2); }
+  ul { margin: 8px 0 0 0; padding-left: 20px; }
+  li { margin: 4px 0; }
+  .muted { color: var(--muted); }
+  a { color: var(--accent-2); }
+  .footnote { font-size: .82rem; color: var(--muted); margin-top: 40px; border-top: 1px solid var(--border); padding-top: 16px; }
+  .kpi { display: flex; gap: 14px; flex-wrap: wrap; }
+  .kpi .card { flex: 1; min-width: 180px; text-align: center; }
+  .kpi .big { font-size: 1.5rem; color: var(--accent-2); font-weight: 700; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🤖 AI News Bot — How It Works</h1>
+  <p>An automated pipeline that fetches real-time AI news, has an LLM select &amp; summarize the best stories, and emails a daily digest.</p>
+</header>
+
+<div class="wrap">
+
+  <!-- Quick facts -->
+  <section>
+    <h2>At a glance</h2>
+    <div class="kpi">
+      <div class="card"><div class="big">RSS feeds</div><div class="muted">Data source</div></div>
+      <div class="card"><div class="big">Gemini 2.5 Flash&#8209;Lite</div><div class="muted">Active model</div></div>
+      <div class="card"><div class="big">2-stage LLM</div><div class="muted">Selection → Summary</div></div>
+      <div class="card"><div class="big">~06:30 Zürich</div><div class="muted">Daily run</div></div>
+    </div>
+  </section>
+
+  <!-- Workflow -->
+  <section>
+    <h2>The workflow, end to end</h2>
+    <div class="pipe">
+
+      <div class="step">
+        <span class="n">1</span><h3>Trigger</h3>
+        <p>An external scheduler (<a href="https://cron-job.org" target="_blank" rel="noopener">cron-job.org</a>) calls the GitHub Actions <code>workflow_dispatch</code> event around <strong>06:30 Zürich time</strong>. GitHub spins up an Ubuntu runner, installs Python 3.11 + dependencies, and runs <code>python main.py</code>.</p>
+      </div>
+      <div class="arrow">↓</div>
+
+      <div class="step">
+        <span class="n">2</span><h3>Fetch news</h3>
+        <p><code>NewsFetcher</code> pulls items from a curated list of RSS/Atom feeds (tech media, official AI company blogs, research, finance, thematic-investing and critical-minerals sources, plus a Google-News vendor-release feed). Only items published within the last <strong>48 hours</strong> are kept (<code>lookback_hours</code>); items with no date are always kept.</p>
+      </div>
+      <div class="arrow">↓</div>
+
+      <div class="step">
+        <span class="n">3</span><h3>Pre-filter &amp; deduplicate</h3>
+        <p>Near-duplicate articles (same story from different outlets) are removed using title word-overlap (Jaccard similarity) before anything reaches the LLM. Each surviving item gets a unique ID (<code>INT-1</code>, <code>DOM-2</code>, …).</p>
+      </div>
+      <div class="arrow">↓</div>
+
+      <div class="step">
+        <span class="n">4</span><h3>Stage 1 — Selection (LLM)</h3>
+        <p>All items are sent to the LLM with the <code>stage1_prompt_template</code>. Acting as a "senior AI industry analyst," it returns a JSON array of the <strong>15–20 highest-quality</strong> item IDs, balancing categories, preferring primary sources, and dropping duplicates. Code validates the IDs and enforces the 15–20 count (with a fallback if parsing fails).</p>
+      </div>
+      <div class="arrow">↓</div>
+
+      <div class="step">
+        <span class="n">5</span><h3>Stage 2 — Summarization (LLM)</h3>
+        <p>The selected items are sent back with the <code>stage2_prompt_template</code>. The LLM returns <strong>structured JSON</strong> per item: category, headline, date, a 4–6 sentence analytical summary, source name, and source URL.</p>
+      </div>
+      <div class="arrow">↓</div>
+
+      <div class="step">
+        <span class="n">6</span><h3>Render</h3>
+        <p>Python parses the JSON and builds the digest, <strong>enforcing a fixed category order</strong> and running a second deduplication pass (so formatting/order never depends on the model behaving). Output is Markdown.</p>
+      </div>
+      <div class="arrow">↓</div>
+
+      <div class="step">
+        <span class="n">7</span><h3>Notify</h3>
+        <p>The digest is converted to a styled HTML email and sent via Gmail SMTP to everyone on the distribution list (<code>EMAIL_TO</code>). Other channels — webhook, Slack, Telegram, Discord — can be enabled too. Each configured language is generated and sent separately.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section>
+    <h2>Common questions</h2>
+
+    <details open>
+      <summary>Where does the data come from?</summary>
+      <div class="body">
+        From <strong>RSS/Atom feeds</strong>, not a paid news API. Categories of sources:
+        <ul>
+          <li><strong>Tech media</strong> — TechCrunch, VentureBeat, MIT Tech Review, Ars Technica, Wired, The Verge, Engadget…</li>
+          <li><strong>Official AI company blogs</strong> — OpenAI, Google AI, DeepMind, Meta AI, Microsoft AI</li>
+          <li><strong>Vendor releases</strong> — a Google-News search feed catching product/feature launches (OpenAI, Anthropic, Codex, Gemini, …) that have no first-party RSS</li>
+          <li><strong>Research</strong> — arXiv (cs.AI, cs.LG, cs.CV, cs.CL)</li>
+          <li><strong>Verticals &amp; thematic</strong> — healthcare, robotics, finance, clean energy/ESG, critical minerals</li>
+          <li><strong>Localized</strong> — Chinese feeds (36Kr, JiQiZhiXin, Leiphone…) for <code>zh</code>; German feeds (Heise, t3n, Golem…) for <code>de</code></li>
+        </ul>
+        Defined in <code>src/news/fetcher.py</code>.
+      </div>
+    </details>
+
+    <details>
+      <summary>What model is used?</summary>
+      <div class="body">
+        The bot is <strong>provider-agnostic</strong> — it supports Claude, DeepSeek, Gemini, Grok, and OpenAI. This repo is currently configured with <code>provider: gemini</code> and no model override, so it runs on <strong>gemini-2.5-flash-lite</strong> (the Gemini provider's default). Change <code>provider</code> / <code>model</code> in <code>config.yaml</code> (or the <code>LLM_PROVIDER</code> / <code>LLM_MODEL</code> secrets) to switch.
+      </div>
+    </details>
+
+    <details>
+      <summary>How are the news stories selected?</summary>
+      <div class="body">
+        In two LLM stages plus code-side guarantees:
+        <ul>
+          <li><strong>Stage 1</strong> picks 15–20 items by quality, prioritizing breakthroughs, major launches, policy/regulation, big funding/M&amp;A, balanced category coverage, primary sources, and thematic-investing relevance — and explicitly dedupes "same story" items.</li>
+          <li><strong>Stage 2</strong> assigns each item to exactly one category and writes a 4–6 sentence analytical summary.</li>
+          <li><strong>Code</strong> enforces the canonical category order and runs an additional dedup pass, so the final digest is consistent regardless of model quirks.</li>
+        </ul>
+        Both prompts live in <code>config.yaml</code> and are fully editable.
+      </div>
+    </details>
+
+    <details>
+      <summary>What categories appear in the digest?</summary>
+      <div class="body">
+        In this fixed order:
+        <span class="badge">Thematic Investing</span>
+        <span class="badge">Product Launches &amp; Updates</span>
+        <span class="badge">Enterprise &amp; Industry Applications</span>
+        <span class="badge">Funding &amp; Market Dynamics</span>
+        <span class="badge">AI Infrastructure &amp; Hardware</span>
+        <span class="badge">Large Language Models &amp; Foundation Models</span>
+        <span class="badge">Multimodal AI</span>
+        <span class="badge">Robotics &amp; Autonomous Vehicles</span>
+        <span class="badge">Policy &amp; Regulation</span>
+        <span class="badge">Open Source &amp; Community</span>
+      </div>
+    </details>
+
+    <details>
+      <summary>How is the task scheduled?</summary>
+      <div class="body">
+        The GitHub Actions workflow (<code>.github/workflows/daily-news.yml</code>) is configured for <code>workflow_dispatch</code> only — it has <strong>no internal GitHub cron</strong>. An external scheduler, <strong>cron-job.org</strong>, fires the dispatch daily at roughly <strong>06:30 AM Zürich</strong> (≈04:30 UTC summer / 05:30 UTC winter). You can also trigger it manually from the repo's <em>Actions</em> tab → <em>Run workflow</em>.
+      </div>
+    </details>
+
+    <details>
+      <summary>How is it configured (secrets vs. config)?</summary>
+      <div class="body">
+        <ul>
+          <li><strong>Secrets</strong> (GitHub → Settings → Secrets, or local <code>.env</code>): API keys, <code>NOTIFICATION_METHODS</code>, Gmail credentials, <code>EMAIL_TO</code> distribution list, <code>AI_RESPONSE_LANGUAGE</code>, optional <code>LLM_PROVIDER</code>/<code>LLM_MODEL</code>.</li>
+          <li><strong><code>config.yaml</code></strong>: provider/model defaults, <code>max_items_per_source</code>, <code>lookback_hours</code>, and the Stage 1 / Stage 2 prompt templates.</li>
+        </ul>
+        Scheduled runs read <strong>GitHub secrets</strong>; the local <code>.env</code> only affects runs on your own machine.
+      </div>
+    </details>
+
+    <details>
+      <summary>What languages are supported?</summary>
+      <div class="body">
+        <span class="badge">en — English</span>
+        <span class="badge">zh — 中文</span>
+        <span class="badge">de — Deutsch</span><br>
+        Prompts are always English; the digest output is produced in each requested language, and a separate notification is sent per language.
+      </div>
+    </details>
+
+    <details>
+      <summary>How are recipients notified?</summary>
+      <div class="body">
+        <table>
+          <tr><th>Channel</th><th>Notes</th></tr>
+          <tr><td>Email (Gmail SMTP)</td><td>Primary; Markdown → styled HTML email to <code>EMAIL_TO</code></td></tr>
+          <tr><td>Webhook</td><td>JSON payload to any endpoint (e.g. MS Teams)</td></tr>
+          <tr><td>Slack / Telegram / Discord</td><td>Optional, via webhook/bot token</td></tr>
+        </table>
+        Enabled via the <code>NOTIFICATION_METHODS</code> setting (comma-separated). If one channel fails, the others still run.
+      </div>
+    </details>
+
+  </section>
+
+  <!-- Source map -->
+  <section>
+    <h2>Where things live in the code</h2>
+    <div class="card">
+      <table>
+        <tr><th>File</th><th>Responsibility</th></tr>
+        <tr><td><code>main.py</code></td><td>Entry point: loops over languages, generates the digest, dispatches notifications</td></tr>
+        <tr><td><code>src/news/fetcher.py</code></td><td>RSS/Atom fetching, 48h lookback filter, pre-LLM deduplication</td></tr>
+        <tr><td><code>src/news/generator.py</code></td><td>Two-stage LLM pipeline, JSON parsing, category ordering, digest rendering</td></tr>
+        <tr><td><code>src/llm_providers/</code></td><td>One adapter per provider (Claude, DeepSeek, Gemini, Grok, OpenAI)</td></tr>
+        <tr><td><code>src/notifiers/</code></td><td>Email, webhook, Slack, Telegram, Discord senders</td></tr>
+        <tr><td><code>config.yaml</code></td><td>Provider/model, fetch limits, lookback, Stage 1 &amp; 2 prompts</td></tr>
+        <tr><td><code>.github/workflows/daily-news.yml</code></td><td>CI job (manual / externally triggered run)</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <div class="footnote">
+    Generated from the repository state on 2026-06-19. Active model, schedule, and source list reflect <code>config.yaml</code>,
+    <code>src/news/fetcher.py</code>, and <code>.github/workflows/daily-news.yml</code> at that time — re-check those files if the bot is reconfigured.
+  </div>
+
+</div>
+</body>
+</html>

@@ -145,14 +145,18 @@ Repository → Actions tab → Daily AI News Digest → Run workflow button
 
 ### Step 5: Automated Daily Delivery
 
-The workflow runs automatically every day at midnight UTC (8:00 AM Beijing time). To customize the schedule, edit `.github/workflows/daily-news.yml`:
+The workflow is configured for **manual / external triggering only** (`workflow_dispatch`) — it has no built-in GitHub `cron`. In this deployment an external scheduler ([cron-job.org](https://cron-job.org)) calls the workflow daily at roughly **06:30 AM Zürich time** (≈04:30 UTC in summer / 05:30 UTC in winter).
+
+To change the time, edit the schedule on the external scheduler. To have GitHub run it on its own instead, add a `schedule:` trigger to `.github/workflows/daily-news.yml`:
 
 ```yaml
-schedule:
-  - cron: "0 0 * * *" # Midnight UTC (current)
-  - cron: "0 9 * * *" # 9:00 AM UTC
-  - cron: "0 */12 * * *" # Every 12 hours
+on:
+  workflow_dispatch:        # manual / external trigger (current)
+  schedule:
+    - cron: "30 4 * * *"   # 04:30 UTC daily (example)
 ```
+
+> ⚠️ GitHub's built-in `cron` uses **UTC only** (no DST), which is why this project triggers externally to keep a fixed local Zürich time year-round.
 
 🎉 **Done!** You'll now receive automated AI news digests daily.
 
@@ -472,7 +476,7 @@ The system automatically adds: "IMPORTANT: Please respond entirely in Chinese (�
 
 ## GitHub Actions Setup
 
-The project includes a GitHub Actions workflow that runs daily at midnight UTC (00:00).
+The project includes a GitHub Actions workflow triggered via `workflow_dispatch` (manual run, or called by an external scheduler such as cron-job.org — see [Customize Schedule](#step-4-customize-schedule-optional)).
 
 > **Important**: GitHub Actions uses **Repository Secrets** for configuration (NOT environment variables). All settings must be added as secrets.
 
@@ -559,16 +563,20 @@ This will run the workflow immediately so you can verify everything is working.
 
 ### Step 4: Customize Schedule (Optional)
 
-The workflow runs daily at midnight UTC by default. To change the schedule, edit `.github/workflows/daily-news.yml`:
+By default the workflow only exposes `workflow_dispatch`, and an external scheduler ([cron-job.org](https://cron-job.org)) calls it daily at about **06:30 AM Zürich time**. To change the time, update the job on the external scheduler.
+
+Prefer GitHub to run it natively? Add a `schedule:` trigger to `.github/workflows/daily-news.yml` (GitHub cron is **UTC only**, so it will shift one hour with daylight saving):
 
 ```yaml
-schedule:
-  - cron: "0 0 * * *" # Midnight UTC daily (current)
-  - cron: "0 9 * * *" # 9:00 AM UTC daily
-  - cron: "0 */6 * * *" # Every 6 hours
+on:
+  workflow_dispatch:        # keep manual/external trigger
+  schedule:
+    - cron: "30 4 * * *"   # 04:30 UTC daily
+    - cron: "0 9 * * *"    # 09:00 UTC daily
+    - cron: "0 */6 * * *"  # every 6 hours
 ```
 
-Use [crontab.guru](https://crontab.guru/) to create custom schedules.
+Use [crontab.guru](https://crontab.guru/) to build custom UTC cron expressions.
 
 ## Project Structure
 
