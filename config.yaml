@@ -25,7 +25,7 @@ news:
   # How many hours back to keep fetched items. Larger values catch primary-source
   # announcements (e.g. vendor feature launches) that broke a day or two before
   # the run. Items with no parseable publish date are always kept. Default: 48
-  lookback_hours: 48
+  lookback_hours: 24
 
   # Stage 1: Selection prompt template
   # Placeholders: {total_items}, {formatted_news}
