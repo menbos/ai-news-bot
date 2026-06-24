@@ -9,6 +9,7 @@ from datetime import datetime
 from src.config import Config
 from src.logger import setup_logger
 from src.news import NewsGenerator
+from src.news.history import NewsHistory
 from src.notifiers import (
     EmailNotifier,
     WebhookNotifier,
@@ -41,8 +42,16 @@ def main():
         if config.llm_model:
             logger.info(f"LLM Model: {config.llm_model}")
         logger.info(f"Languages: {', '.join(languages)}")
-        logger.info(f"Web Search: {config.enable_web_search}")
         logger.info("=" * 60)
+
+        # Initialize cross-run "already covered" memory (committed back by CI)
+        history = None
+        if config.history_enabled:
+            history = NewsHistory(
+                path=config.history_path,
+                retention_days=config.history_retention_days,
+            )
+            logger.info(f"Cross-run history enabled at {config.history_path}")
 
         # Initialize news generator once
         logger.info("Initializing news generator...")
@@ -50,8 +59,8 @@ def main():
             provider_name=config.llm_provider,
             api_key=config.llm_api_key,
             model=config.llm_model,
-            enable_web_search=config.enable_web_search,
-            lookback_hours=config.lookback_hours
+            lookback_hours=config.lookback_hours,
+            history=history
         )
 
         # Get enabled notification methods
@@ -73,6 +82,7 @@ def main():
                 news_digest = news_gen.generate_news_digest_from_sources(
                     language=language,
                     max_items_per_source=config.max_items_per_source,
+                    max_total_items=config.max_total_items,
                     stage1_template=config.stage1_prompt_template,
                     stage2_template=config.stage2_prompt_template
                 )

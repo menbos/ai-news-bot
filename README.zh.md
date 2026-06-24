@@ -123,7 +123,6 @@ cd ai-news-bot
 | Secret 名称            | 示例值                     | 描述                                                       |
 | ---------------------- | -------------------------- | ---------------------------------------------------------- |
 | `AI_RESPONSE_LANGUAGE` | `zh` 或 `es` 或 `en,zh,ja` | 语言代码（默认 `en`）。多语言用逗号分隔                    |
-| `ENABLE_WEB_SEARCH`    | `true` 或 `false`          | 启用网络搜索获取新闻（默认为 `false`）                     |
 
 其他通知渠道（Webhook、Slack、Telegram、Discord）配置请参见[完整配置表](#github-actions-设置)。
 
@@ -209,9 +208,6 @@ NOTIFICATION_METHODS=email,webhook
 AI_RESPONSE_LANGUAGE=zh
 # 多语言（逗号分隔）：
 # AI_RESPONSE_LANGUAGE=en,zh,ja
-
-# 网络搜索（可选，默认为 false）
-ENABLE_WEB_SEARCH=false
 ```
 
 > **注意**：`.env` 文件仅用于**本地开发**。对于 GitHub Actions 自动化，您需要将这些配置为 **GitHub Secrets**（参见下方 [GitHub Actions 设置](#github-actions-设置)）。
@@ -298,7 +294,6 @@ python main.py
 | `OPENAI_API_KEY`       | 使用 OpenAI 时需要   | 您的 OpenAI API 密钥（[获取](https://platform.openai.com/api-keys)）                                                                      |
 | `NOTIFICATION_METHODS` | ✅ 必需              | 逗号分隔的列表：`email`、`webhook` 或 `email,webhook`                                                                                     |
 | `AI_RESPONSE_LANGUAGE` | 可选                 | AI 响应的语言代码（默认：`en`）。多语言用逗号分隔（如 `en,zh,ja`）。支持：`zh`、`es`、`fr`、`ja`、`de`、`ko`、`pt`、`ru`、`ar`、`hi`、`it`、`nl` |
-| `ENABLE_WEB_SEARCH`    | 可选                 | 启用网络搜索获取新闻（默认：`false`）                                                                                                     |
 | `GMAIL_ADDRESS`        | 使用 Gmail 时需要    | 您的 Gmail 邮箱地址                                                                                           |
 | `GMAIL_APP_PASSWORD`   | 使用 Gmail 时需要    | Gmail 应用专用密码（16 位，不是普通密码）                                                                     |
 | `EMAIL_TO`             | 使用邮件时需要       | 收件人邮箱地址                                                                                                |
@@ -316,7 +311,6 @@ python main.py
 **新闻配置**：
 
 - **use_real_sources**：启用从 RSS 源获取新闻（推荐，默认：true）
-- **enable_web_search**：启用 DuckDuckGo 网络搜索（默认：false）
 - **max_items_per_source**：每个源的最大新闻条目数（默认：10）
 - **Topics（主题）**：新闻选择的焦点领域（可选，引导 AI）
 - **Prompt Template（提示词模板）**：LLM 的指令模板
@@ -334,8 +328,6 @@ llm:
   # model: claude-sonnet-4-5-20250929  # 可选
 
 news:
-  use_real_sources: true
-  enable_web_search: false
   max_items_per_source: 10
 
   topics:
@@ -523,7 +515,6 @@ OpenAI发布了GPT-5...
 | Secret 名称            | 示例值                     | 描述                                                       |
 | ---------------------- | -------------------------- | ---------------------------------------------------------- |
 | `AI_RESPONSE_LANGUAGE` | `zh` 或 `es` 或 `en,zh,ja` | 语言代码（默认 `en`）。多语言用逗号分隔                    |
-| `ENABLE_WEB_SEARCH`    | `true` 或 `false`          | 启用网络搜索获取新闻（默认为 `false`）                     |
 
 ### 步骤 2：启用 GitHub Actions
 
@@ -568,8 +559,8 @@ ai-news-bot/
 │   ├── config.py                    # 配置管理
 │   ├── logger.py                    # 日志工具
 │   ├── news_generator.py            # 新闻生成编排
-│   ├── news_fetcher.py              # RSS 源新闻获取
-│   ├── web_search.py                # DuckDuckGo 网络搜索集成
+│   ├── news_fetcher.py              # 分级 RSS/Atom + Google News 获取
+│   ├── history.py                   # 跨运行"已报道"记忆
 │   ├── llm_providers/
 │   │   ├── __init__.py
 │   │   ├── base_provider.py         # LLM 提供商基础接口

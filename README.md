@@ -123,7 +123,6 @@ See [Email Setup Guide](#email-setup-guide) for detailed Gmail configuration ins
 | Secret Name            | Example Value              | Description                                                                       |
 | ---------------------- | -------------------------- | --------------------------------------------------------------------------------- |
 | `AI_RESPONSE_LANGUAGE` | `zh` or `de` or `en,zh,de` | Language code(s): `en`, `zh`, `de` (defaults to `en`). Use commas for multiple    |
-| `ENABLE_WEB_SEARCH`    | `true` or `false`          | Enable web search for news (defaults to `false`)                                  |
 
 For other notification channels (Webhook, Slack, Telegram, Discord), see the [full configuration table](#github-actions-setup).
 
@@ -215,8 +214,6 @@ AI_RESPONSE_LANGUAGE=zh
 # Multiple languages (comma-separated):
 # AI_RESPONSE_LANGUAGE=en,zh,ja
 
-# Web Search (optional, defaults to false)
-ENABLE_WEB_SEARCH=false
 ```
 
 > **Note**: The `.env` file is only for **local development**. For GitHub Actions automation, you'll configure these as **GitHub Secrets** (see [GitHub Actions Setup](#github-actions-setup) below).
@@ -274,7 +271,6 @@ The bot requires the following configuration. How you set them depends on your d
 | `OPENAI_API_KEY`       | If using OpenAI   | Your OpenAI API key ([Get it here](https://platform.openai.com/api-keys))                                                                        |
 | `NOTIFICATION_METHODS` | ✅ Required       | Comma-separated list: `email`, `webhook`, `slack`, `telegram`, `discord`, or any combination (e.g., `email,slack,telegram`)                      |
 | `AI_RESPONSE_LANGUAGE` | Optional          | Language code(s) for AI responses (default: `en`). Use commas for multiple (e.g., `en,zh,de`). Supports: `en`, `zh`, `de` |
-| `ENABLE_WEB_SEARCH`    | Optional          | Enable web search for news (default: `false`)                                                                                                    |
 | `GMAIL_ADDRESS`        | If using Gmail    | Your Gmail address                                                                                                               |
 | `GMAIL_APP_PASSWORD`   | If using Gmail    | Gmail App Password (16 characters, NOT regular password)                                                                         |
 | `EMAIL_TO`             | If using email    | Recipient email address                                                                                                          |
@@ -301,9 +297,9 @@ The `config.yaml` file allows you to customize the news digest behavior:
 
 **News Configuration**:
 
-- **enable_web_search**: Enable DuckDuckGo web search (default: false; RSS feeds are more reliable)
 - **max_items_per_source**: Maximum news items fetched per source for the AI to select from (default: 10)
 - **lookback_hours**: How many hours back to keep fetched items (default: 48). Larger values catch primary-source announcements that broke a day or two before the run; items with no parseable publish date are always kept.
+- **history**: Cross-run "already covered" memory. When `enabled` (default), recently covered stories are recorded to `path` (default `data/news_history.json`, committed back by the workflow) and kept for `retention_days` (default 7). Stage 1 marks matching items `[COVERED]` so a continuation isn't re-reported as fresh news.
 - **stage1_prompt_template**: Stage 1 selection prompt (placeholders: `{total_items}`, `{formatted_news}`)
 - **stage2_prompt_template**: Stage 2 summarization prompt that returns structured JSON (placeholders: `{count}`, `{selected_news}`)
 
@@ -317,9 +313,12 @@ llm:
   # model: claude-sonnet-4-5-20250929  # optional
 
 news:
-  enable_web_search: false
   max_items_per_source: 10
   lookback_hours: 48
+  history:
+    enabled: true
+    path: data/news_history.json
+    retention_days: 7
 
   stage1_prompt_template: |
     {formatted_news}
@@ -541,7 +540,6 @@ Add the following secrets one by one:
 | Secret Name            | Example Value        | Description                                      |
 | ---------------------- | -------------------- | ------------------------------------------------ |
 | `AI_RESPONSE_LANGUAGE` | `zh` or `de` or `en,zh,de` | Language code(s): `en`, `zh`, `de` (defaults to `en`) |
-| `ENABLE_WEB_SEARCH`    | `true` or `false`    | Enable web search for news (defaults to `false`) |
 
 ### Step 2: Enable GitHub Actions
 
@@ -592,8 +590,8 @@ ai-news-bot/
 │   ├── news/
 │   │   ├── __init__.py
 │   │   ├── generator.py             # Two-stage digest orchestration
-│   │   ├── fetcher.py               # RSS/Atom feed news fetching
-│   │   └── web_search.py            # DuckDuckGo web search integration
+│   │   ├── fetcher.py               # Tiered RSS/Atom + Google News fetching
+│   │   └── history.py               # Cross-run "already covered" memory
 │   ├── llm_providers/
 │   │   ├── __init__.py
 │   │   ├── base_provider.py         # Base LLM provider interface

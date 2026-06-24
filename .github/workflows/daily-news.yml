@@ -5,6 +5,10 @@ on:
   # (4:30 AM UTC in summer / 5:30 AM UTC in winter)
   workflow_dispatch:
 
+# Needed to commit the cross-run news history file back to the repo.
+permissions:
+  contents: write
+
 jobs:
   generate-and-send-news:
     runs-on: ubuntu-latest
@@ -75,6 +79,29 @@ jobs:
 
         run: |
           python main.py
+
+      - name: Commit updated news history
+        if: always()
+        run: |
+          if [[ -z "$(git status --porcelain data/news_history.json)" ]]; then
+            echo "No changes to news history."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news_history.json
+          git commit -m "chore: update news history [skip ci]"
+          # Retry against a moving remote (e.g. overlapping runs): rebase our
+          # single history commit on top of origin/main and push, a few times.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Pushed news history (attempt $attempt)."
+              exit 0
+            fi
+            echo "Push rejected, rebasing on origin/main (attempt $attempt)..."
+            git pull --rebase --autostash origin main || true
+          done
+          echo "::warning::Could not push news history after 3 attempts; skipping."
 
       - name: Upload logs on failure
         if: failure()

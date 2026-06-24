@@ -14,18 +14,29 @@ llm:
   # model: claude-sonnet-4-5-20250929
 
 news:
-  # Enable web search tool (uses DuckDuckGo API via LLM tool calling)
-  # Note: DuckDuckGo API often returns limited results. RSS feeds are more reliable.
-  # Default: false (recommended to keep disabled)
-  enable_web_search: false
-
-  # Maximum news items to fetch per source (fetch more for AI to select from)
+  # Maximum news items to fetch per source (fetch more for AI to select from).
+  # High-volume feeds (arXiv, Reddit, GitHub Trending) carry their own lower
+  # per-feed caps in src/news/fetcher.py and ignore this value.
   max_items_per_source: 10
+
+  # Hard cap on the number of (tier-ordered) international items handed to the
+  # Stage-1 selector, to bound prompt size and cost. Feeds are ordered primary
+  # first, so trimming drops the low-tier tail. Default: 150
+  max_total_items: 150
 
   # How many hours back to keep fetched items. Larger values catch primary-source
   # announcements (e.g. vendor feature launches) that broke a day or two before
-  # the run. Items with no parseable publish date are always kept. Default: 48
-  lookback_hours: 24
+  # the run; the cross-run history (below) prevents the same story repeating
+  # day-to-day. Items with no parseable publish date are always kept. Default: 48
+  lookback_hours: 48
+
+  # Cross-run "already covered" memory. Tracks stories from previous digests so a
+  # continuation isn't re-reported as fresh news. The JSON file is committed back
+  # to the repo by the GitHub Actions workflow (the runner itself is ephemeral).
+  history:
+    enabled: true
+    path: data/news_history.json
+    retention_days: 7
 
   # Stage 1: Selection prompt template
   # Placeholders: {total_items}, {formatted_news}
@@ -43,9 +54,28 @@ news:
       - ✅ Large funding rounds or M&A activities
       - ✅ Balanced coverage across categories (LLM, Agents, Research, Products, etc.)
       - ✅ Include both international and domestic news when available
-      - ✅ Prefer primary sources over secondary reporting
       - ✅ Thematic investing intersections: AI in clean energy transition, healthcare/biotech innovation, tech disruption, ESG; and critical materials demand (rare earths, lithium, copper, cobalt) driven by AI infrastructure and energy transition
       - ✅ DEDUPLICATION: If multiple articles cover the same event, product, or company announcement, select ONLY the single best one. "Same story" means the same subject (e.g. multiple outlets covering the same product launch, the same funding round, or the same model release). Do not include the same topic more than once regardless of source or angle.
+
+      ### SOURCE HIERARCHY (each item is tagged with its source tier in parentheses):
+      When two items cover the same story, prefer the more authoritative tier in this order:
+      1. Primary/Official — company announcements, official docs, status pages
+      2. Government/Regulator — White House, NIST, FTC, EU/UK policy bodies
+      3. Wire/Business — Reuters, Bloomberg, FT, WSJ, Axios
+      4. Tech Media — TechCrunch, The Verge, MIT Tech Review, industry verticals
+      5. Research — arXiv, Nature
+      6. Community/Dev — Hacker News, GitHub Trending, Reddit
+      Use lower tiers (Research, Community) for genuinely new tools, papers, and developer trends, not as a substitute for a primary announcement that exists.
+
+      ### CONTINUATION FILTER:
+      - Items marked [COVERED] were already reported in a previous digest. Do NOT select them unless there is a genuinely NEW, material development (e.g. a price, a shipped feature, a regulatory ruling) beyond what was previously reported. Treat a mere follow-up, recap, or reaction as a continuation and skip it.
+
+      ### AVOID (do not select):
+      - ❌ Low-quality AI newsletters or aggregators that only copy an announcement without adding information
+      - ❌ SEO-generated AI content-farm articles
+      - ❌ Unverified rumors or speculation (especially sourced only from social media)
+      - ❌ Benchmark screenshots or claims without primary evidence
+      - ❌ Reposts that add no new information over a story already selected
 
       ### OUTPUT FORMAT:
       Return ONLY a JSON array of selected news IDs. No explanations, no markdown, just the JSON array.

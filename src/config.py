@@ -211,24 +211,34 @@ For each news item:
         return valid_languages if valid_languages else ["en"]
 
     @property
-    def enable_web_search(self) -> bool:
-        """Get whether to enable web search for fetching current news"""
-        # Check config file first, then environment variable
-        config_value = self.config_data.get("news", {}).get("enable_web_search")
-        if config_value is not None:
-            return bool(config_value)
-        env_value = os.getenv("ENABLE_WEB_SEARCH", "false").strip().lower()
-        return env_value in ("true", "1", "yes", "on")
-
-    @property
     def max_items_per_source(self) -> int:
         """Maximum news items to fetch per source"""
-        return self.config_data.get("news", {}).get("max_items_per_source", 5)
+        return self.config_data.get("news", {}).get("max_items_per_source", 10)
+
+    @property
+    def max_total_items(self) -> Optional[int]:
+        """Optional cap on total international items sent to Stage 1 (None = no cap)"""
+        return self.config_data.get("news", {}).get("max_total_items", 150)
 
     @property
     def lookback_hours(self) -> int:
         """How many hours back to keep news items (items with no date are kept)"""
         return self.config_data.get("news", {}).get("lookback_hours", 48)
+
+    @property
+    def history_enabled(self) -> bool:
+        """Whether to track already-covered stories across runs"""
+        return bool(self.config_data.get("news", {}).get("history", {}).get("enabled", True))
+
+    @property
+    def history_path(self) -> str:
+        """Path to the committed cross-run history JSON file"""
+        return self.config_data.get("news", {}).get("history", {}).get("path", "data/news_history.json")
+
+    @property
+    def history_retention_days(self) -> int:
+        """How many days a covered story stays in the history before expiring"""
+        return int(self.config_data.get("news", {}).get("history", {}).get("retention_days", 7))
 
     @property
     def llm_provider(self) -> str:

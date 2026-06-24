@@ -8,8 +8,8 @@ import email.utils
 from datetime import datetime, timezone
 from ..logger import setup_logger
 from ..config import LANGUAGE_NAMES
-from .web_search import WebSearchTool, get_search_tool_definition
-from .fetcher import NewsFetcher
+from .fetcher import NewsFetcher, TIER_LABELS
+from .history import NewsHistory
 from ..llm_providers import get_llm_provider
 
 
@@ -37,8 +37,8 @@ class NewsGenerator:
         provider_name: str = "claude",
         api_key: Optional[str] = None,
         model: Optional[str] = None,
-        enable_web_search: bool = False,
-        lookback_hours: int = 48
+        lookback_hours: int = 48,
+        history: Optional[NewsHistory] = None
     ):
         """
         Initialize the NewsGenerator.
@@ -47,8 +47,8 @@ class NewsGenerator:
             provider_name: Name of LLM provider to use ('claude' or 'deepseek')
             api_key: API key for the provider. If None, will read from environment
             model: Model name to use. If None, uses provider's default model
-            enable_web_search: Whether to enable web search tool for fetching current news
             lookback_hours: How many hours back to keep fetched news items
+            history: Optional NewsHistory for cross-run "already covered" tracking
 
         Raises:
             ValueError: If provider is not recognized or API key is not provided
@@ -60,12 +60,11 @@ class NewsGenerator:
             model=model
         )
 
-        self.enable_web_search = enable_web_search
-        self.search_tool = WebSearchTool() if enable_web_search else None
         self.news_fetcher = NewsFetcher(lookback_hours=lookback_hours)
+        self.history = history
         logger.info(
             f"NewsGenerator initialized with {self.provider.provider_name} "
-            f"(model: {self.provider.model}, web_search: {enable_web_search})"
+            f"(model: {self.provider.model})"
         )
 
     def _format_date(self, date_str: str) -> str:
@@ -96,38 +95,27 @@ class NewsGenerator:
         """
         formatted = "# Recent AI News Items for Selection\n\n"
         news_items = {}  # id -> full news item
-        item_id = 1
 
-        if news_data['international']:
-            formatted += "## International News\n\n"
-            for item in news_data['international']:
-                news_id = f"INT-{item_id}"
+        for section_title, key, prefix in (
+            ("International News", "international", "INT"),
+            ("Domestic News", "domestic", "DOM"),
+        ):
+            if not news_data[key]:
+                continue
+            formatted += f"## {section_title}\n\n"
+            for item_id, item in enumerate(news_data[key], 1):
+                news_id = f"{prefix}-{item_id}"
                 news_items[news_id] = item
 
-                formatted += f"### [{news_id}] {item['title']}\n"
-                formatted += f"**Source:** {item['source']}\n"
+                covered = " [COVERED]" if item.get('already_covered') else ""
+                formatted += f"### [{news_id}]{covered} {item['title']}\n"
+                tier_label = TIER_LABELS.get(item.get('tier', 4), "")
+                formatted += f"**Source:** {item['source']} ({tier_label})\n"
                 if item['description']:
                     formatted += f"**Description:** {item['description'][:400]}...\n"
                 if item['published']:
                     formatted += f"**Published:** {item['published']}\n"
                 formatted += "\n"
-                item_id += 1
-
-        if news_data['domestic']:
-            formatted += "## Domestic News\n\n"
-            item_id = 1
-            for item in news_data['domestic']:
-                news_id = f"DOM-{item_id}"
-                news_items[news_id] = item
-
-                formatted += f"### [{news_id}] {item['title']}\n"
-                formatted += f"**Source:** {item['source']}\n"
-                if item['description']:
-                    formatted += f"**Description:** {item['description'][:400]}...\n"
-                if item['published']:
-                    formatted += f"**Published:** {item['published']}\n"
-                formatted += "\n"
-                item_id += 1
 
         return formatted, news_items
 
@@ -167,7 +155,7 @@ class NewsGenerator:
         return {w for w in words if w not in self._STOPWORDS and len(w) > 3}
 
     def _deduplicate_items(self, items: list) -> list:
-        """Remove near-duplicate items based on headline word overlap (Jaccard ≥ 0.35)."""
+        """Remove near-duplicate items based on headline word overlap (Jaccard ≥ 0.4)."""
         kept = []
         for item in items:
             tokens = self._headline_tokens(item.get("headline", ""))
@@ -178,7 +166,7 @@ class NewsGenerator:
                     continue
                 union = tokens | k_tokens
                 similarity = len(tokens & k_tokens) / len(union)
-                if similarity >= 0.35:
+                if similarity >= 0.4:
                     duplicate_of = i
                     break
             if duplicate_of is None:
@@ -236,7 +224,8 @@ class NewsGenerator:
         self,
         max_tokens: int = 8000,
         language: str = "en",
-        max_items_per_source: int = 5,
+        max_items_per_source: int = 10,
+        max_total_items: Optional[int] = None,
         stage1_template: Optional[str] = None,
         stage2_template: Optional[str] = None
     ) -> str:
@@ -263,13 +252,25 @@ class NewsGenerator:
             logger.info("Fetching real-time AI news from sources...")
             news_data = self.news_fetcher.fetch_recent_news(
                 language=language,
-                max_items_per_source=max_items_per_source
+                max_items_per_source=max_items_per_source,
+                max_total_items=max_total_items
             )
 
             if not news_data['international'] and not news_data['domestic']:
                 error_msg = "No news items fetched from RSS sources. Please check your network connection or RSS feed availability."
                 logger.error(error_msg)
                 raise Exception(error_msg)
+
+            # Flag items already covered in a previous digest so Stage 1 can treat
+            # them as continuations rather than fresh news.
+            if self.history:
+                covered_count = 0
+                for section in news_data.values():
+                    for item in section:
+                        if self.history.is_covered(item):
+                            item['already_covered'] = True
+                            covered_count += 1
+                logger.info(f"Marked {covered_count} fetched items as already-covered from history")
 
             # Format news with unique IDs for selection
             formatted_news, news_items = self._format_news_with_ids(news_data)
@@ -376,6 +377,9 @@ class NewsGenerator:
             if items:
                 logger.info(f"Stage 2: parsed {len(items)} structured items, rendering markdown")
                 response_text = self._render_digest_from_json(items)
+                # Persist what we published so future runs recognize continuations.
+                if self.history:
+                    self.history.record(items)
             else:
                 logger.warning("Stage 2: JSON parse failed, using raw LLM output as fallback")
 

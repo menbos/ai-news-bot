@@ -1,9 +1,10 @@
 """
-Gemini Provider - Google Gemini API implementation
+Gemini Provider - Google Gemini API implementation (google-genai SDK)
 """
 import os
 from typing import List, Dict, Any, Optional
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 from .base_provider import BaseLLMProvider
 from ..logger import setup_logger
 
@@ -33,9 +34,8 @@ class GeminiProvider(BaseLLMProvider):
 
         super().__init__(api_key=api_key, model=model or self.default_model)
 
-        # Configure Gemini API
-        genai.configure(api_key=self.api_key)
-        self.client = genai.GenerativeModel(self.model)
+        # Configure Gemini API client (google-genai SDK)
+        self.client = genai.Client(api_key=self.api_key)
         logger.info(f"Gemini provider initialized with model: {self.model}")
 
     @property
@@ -54,7 +54,7 @@ class GeminiProvider(BaseLLMProvider):
         **kwargs
     ) -> str:
         """
-        Generate a response using Gemini API.
+        Generate a response using the Gemini API.
 
         Args:
             messages: List of message dicts with 'role' and 'content' keys
@@ -71,19 +71,15 @@ class GeminiProvider(BaseLLMProvider):
         try:
             logger.debug(f"Calling Gemini API with {len(messages)} messages")
 
-            # Convert messages to Gemini format
-            gemini_messages = self._convert_messages_to_gemini_format(messages)
+            prompt = self._convert_messages_to_prompt(messages)
 
-            # Configure generation settings
-            generation_config = genai.types.GenerationConfig(
-                max_output_tokens=max_tokens,
-                temperature=temperature,
-            )
-
-            # Generate response
-            response = self.client.generate_content(
-                gemini_messages,
-                generation_config=generation_config,
+            response = self.client.models.generate_content(
+                model=self.model,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    max_output_tokens=max_tokens,
+                    temperature=temperature,
+                ),
             )
 
             if response.text:
@@ -105,71 +101,27 @@ class GeminiProvider(BaseLLMProvider):
         **kwargs
     ) -> str:
         """
-        Generate a response with tool calling support.
-
-        Args:
-            messages: List of message dicts
-            tools: List of tool definitions
-            max_tokens: Maximum tokens in response
-            max_iterations: Maximum tool use iterations
-            tool_handler: Function to handle tool calls
-            **kwargs: Additional Gemini-specific parameters
-
-        Returns:
-            Generated text response after tool interactions
-
-        Raises:
-            Exception: If generation fails
+        Tool-calling is not implemented for Gemini; falls back to plain generation.
+        Retained to satisfy the BaseLLMProvider interface.
         """
-        try:
-            logger.debug(f"Calling Gemini API with tools, max_iterations={max_iterations}")
+        logger.debug("Gemini generate_with_tools: tools unsupported, using plain generate")
+        return self.generate(messages, max_tokens=max_tokens, **kwargs)
 
-            # Convert tools to Gemini format
-            gemini_tools = self._convert_tools_to_gemini_format(tools)
-
-            # For now, just generate without tools (simplified implementation)
-            # Full tool support would require more complex conversation handling
-            return self.generate(messages, max_tokens=max_tokens, **kwargs)
-
-        except Exception as e:
-            logger.error(f"Gemini API error with tools: {str(e)}", exc_info=True)
-            raise
-
-    def _convert_messages_to_gemini_format(self, messages: List[Dict[str, str]]) -> str:
+    def _convert_messages_to_prompt(self, messages: List[Dict[str, str]]) -> str:
         """
-        Convert standard message format to Gemini format.
+        Flatten standard role/content messages into a single prompt string.
 
-        Args:
-            messages: List of message dicts
-
-        Returns:
-            Formatted prompt string for Gemini
+        Gemini's single-turn generate_content takes plain text; the bot only ever
+        sends one user message per call, so a simple role-prefixed join is enough.
         """
-        # Gemini uses a simpler format - we'll combine all messages into a prompt
         prompt_parts = []
-
         for msg in messages:
             role = msg.get("role", "user")
             content = msg.get("content", "")
-
             if role == "system":
                 prompt_parts.append(f"System: {content}")
             elif role == "user":
                 prompt_parts.append(f"User: {content}")
             elif role == "assistant":
                 prompt_parts.append(f"Assistant: {content}")
-
         return "\n\n".join(prompt_parts)
-
-    def _convert_tools_to_gemini_format(self, tools: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-        """
-        Convert tool definitions to Gemini format.
-
-        Args:
-            tools: List of tool definitions
-
-        Returns:
-            List of tools in Gemini format
-        """
-        # Simplified - would need proper implementation for production use
-        return tools

@@ -6,120 +6,162 @@
 <title>AI News Bot — How It Works</title>
 <style>
   :root {
-    --bg: #0f172a;
-    --panel: #1e293b;
-    --panel-2: #273449;
-    --accent: #4285F4;
-    --accent-2: #38bdf8;
-    --text: #e2e8f0;
-    --muted: #94a3b8;
-    --border: #334155;
-    --good: #22c55e;
+    --accent: #667eea;
+    --accent-2: #764ba2;
+    --text: #333;
+    --muted: #666;
+    --bg-soft: #f8f9fa;
+    --border: #e9ecef;
   }
   * { box-sizing: border-box; }
   body {
     margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    background: var(--bg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Oxygen, Ubuntu, Cantarell, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: var(--text);
     line-height: 1.6;
   }
   header {
-    padding: 48px 24px 32px;
+    padding: 80px 24px 56px;
     text-align: center;
-    background: radial-gradient(1200px 400px at 50% -10%, rgba(66,133,244,.25), transparent);
-    border-bottom: 1px solid var(--border);
+    color: #fff;
   }
-  header h1 { margin: 0 0 8px; font-size: 2.2rem; }
-  header p { margin: 0; color: var(--muted); font-size: 1.05rem; }
-  .wrap { max-width: 960px; margin: 0 auto; padding: 32px 24px 80px; }
-  section { margin-top: 40px; }
+  header h1 {
+    margin: 0 0 16px;
+    font-size: 3rem;
+    font-weight: 700;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, .2);
+  }
+  header p { margin: 0 auto; max-width: 720px; font-size: 1.2rem; opacity: .92; }
+  .wrap {
+    background: #fff;
+    border-radius: 20px 20px 0 0;
+    max-width: 1000px;
+    margin: 24px auto 0;
+    padding: 60px 40px 80px;
+  }
+  section { margin-top: 64px; }
+  section:first-child { margin-top: 0; }
   h2 {
-    font-size: 1.4rem;
-    border-left: 4px solid var(--accent);
-    padding-left: 12px;
-    margin-bottom: 16px;
+    font-size: 2rem;
+    font-weight: 700;
+    border-left: 5px solid var(--accent);
+    padding-left: 14px;
+    margin: 0 0 24px;
+    color: #333;
   }
   .card {
-    background: var(--panel);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 20px 22px;
+    background: var(--bg-soft);
+    border: 2px solid transparent;
+    border-radius: 15px;
+    padding: 24px 26px;
     margin-bottom: 16px;
+    transition: all .3s ease;
+  }
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, .1);
+    border-color: var(--accent);
   }
   .badge {
     display: inline-block;
-    background: var(--panel-2);
-    border: 1px solid var(--border);
-    color: var(--accent-2);
-    border-radius: 999px;
-    padding: 3px 12px;
-    font-size: .8rem;
-    margin: 2px 4px 2px 0;
+    background: #e9ecef;
+    color: var(--accent);
+    border-radius: 25px;
+    padding: 8px 18px;
+    font-size: .9rem;
+    font-weight: 600;
+    margin: 4px 6px 4px 0;
     white-space: nowrap;
+    transition: all .3s ease;
   }
+  .badge:hover { background: var(--accent); color: #fff; transform: scale(1.06); }
   code {
-    background: #0b1220;
-    border: 1px solid var(--border);
+    background: #eef0fb;
     border-radius: 5px;
-    padding: 1px 6px;
+    padding: 2px 7px;
     font-family: "SF Mono", Menlo, Consolas, monospace;
     font-size: .88em;
-    color: #cbd5e1;
+    color: var(--accent-2);
   }
   /* pipeline */
   .pipe { display: flex; flex-direction: column; gap: 0; }
   .step {
-    background: var(--panel);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 16px 20px;
-    position: relative;
+    background: #fff;
+    border: 2px solid var(--border);
+    border-radius: 15px;
+    padding: 22px 26px;
+    transition: all .3s ease;
+  }
+  .step:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 30px rgba(102, 126, 234, .15);
+    border-color: var(--accent);
   }
   .step .n {
     display: inline-flex; align-items: center; justify-content: center;
-    width: 26px; height: 26px; border-radius: 50%;
-    background: var(--accent); color: #fff; font-weight: 700;
-    font-size: .85rem; margin-right: 10px;
+    width: 30px; height: 30px; border-radius: 50%;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: #fff; font-weight: 700; font-size: .9rem; margin-right: 12px;
   }
-  .step h3 { display: inline; font-size: 1.05rem; }
-  .step p { margin: 8px 0 0 36px; color: var(--muted); }
-  .arrow { text-align: center; color: var(--accent); font-size: 1.4rem; line-height: 1; padding: 6px 0; }
+  .step h3 { display: inline; font-size: 1.15rem; color: #333; }
+  .step p { margin: 12px 0 0 42px; color: var(--muted); }
+  .arrow { text-align: center; color: var(--accent); font-size: 1.5rem; line-height: 1; padding: 8px 0; }
   /* faq */
   details {
-    background: var(--panel);
+    background: var(--bg-soft);
     border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 4px 18px;
-    margin-bottom: 10px;
+    border-radius: 12px;
+    padding: 4px 22px;
+    margin-bottom: 12px;
+    transition: box-shadow .3s ease;
   }
+  details[open] { box-shadow: 0 10px 30px rgba(0, 0, 0, .06); }
   details summary {
     cursor: pointer;
     font-weight: 600;
-    padding: 12px 0;
+    font-size: 1.1rem;
+    color: var(--accent);
+    padding: 16px 0;
     list-style: none;
     outline: none;
   }
   details summary::-webkit-details-marker { display: none; }
   details summary::before { content: "▸ "; color: var(--accent); }
   details[open] summary::before { content: "▾ "; }
-  details .body { padding: 0 0 14px 18px; color: var(--muted); }
+  details .body { padding: 0 0 18px 4px; color: var(--muted); }
   table { width: 100%; border-collapse: collapse; margin-top: 8px; }
-  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); font-size: .92rem; }
-  th { color: var(--accent-2); }
-  ul { margin: 8px 0 0 0; padding-left: 20px; }
-  li { margin: 4px 0; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--border); font-size: .95rem; }
+  th { color: var(--accent); }
+  ul { margin: 8px 0 0 0; padding-left: 22px; }
+  li { margin: 6px 0; }
   .muted { color: var(--muted); }
-  a { color: var(--accent-2); }
-  .footnote { font-size: .82rem; color: var(--muted); margin-top: 40px; border-top: 1px solid var(--border); padding-top: 16px; }
-  .kpi { display: flex; gap: 14px; flex-wrap: wrap; }
-  .kpi .card { flex: 1; min-width: 180px; text-align: center; }
-  .kpi .big { font-size: 1.5rem; color: var(--accent-2); font-weight: 700; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { color: var(--accent-2); text-decoration: underline; }
+  .footnote { font-size: .85rem; color: #999; margin-top: 56px; border-top: 1px solid var(--border); padding-top: 18px; }
+  .kpi { display: flex; gap: 18px; flex-wrap: wrap; }
+  .kpi .card { flex: 1; min-width: 190px; text-align: center; }
+  .kpi .big {
+    font-size: 1.6rem;
+    font-weight: 700;
+    background: linear-gradient(120deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  /* Responsive */
+  @media (max-width: 768px) {
+    header h1 { font-size: 2.1rem; }
+    .wrap { padding: 40px 22px 60px; }
+    h2 { font-size: 1.6rem; }
+    .step p { margin-left: 0; }
+  }
 </style>
 </head>
 <body>
 <header>
-  <h1>🤖 AI News Bot — How It Works</h1>
+  <h1>AI News Bot — How It Works</h1>
   <p>An automated pipeline that fetches real-time AI news, has an LLM select &amp; summarize the best stories, and emails a daily digest.</p>
 </header>
 
@@ -129,7 +171,7 @@
   <section>
     <h2>At a glance</h2>
     <div class="kpi">
-      <div class="card"><div class="big">RSS feeds</div><div class="muted">Data source</div></div>
+      <div class="card"><div class="big">60+ tiered feeds</div><div class="muted">Data source</div></div>
       <div class="card"><div class="big">Gemini 2.5 Flash&#8209;Lite</div><div class="muted">Active model</div></div>
       <div class="card"><div class="big">2-stage LLM</div><div class="muted">Selection → Summary</div></div>
       <div class="card"><div class="big">~06:30 Zürich</div><div class="muted">Daily run</div></div>
@@ -149,19 +191,19 @@
 
       <div class="step">
         <span class="n">2</span><h3>Fetch news</h3>
-        <p><code>NewsFetcher</code> pulls items from a curated list of RSS/Atom feeds (tech media, official AI company blogs, research, finance, thematic-investing and critical-minerals sources, plus a Google-News vendor-release feed). Only items published within the last <strong>48 hours</strong> are kept (<code>lookback_hours</code>); items with no date are always kept.</p>
+        <p><code>NewsFetcher</code> pulls items from <strong>60+ RSS/Atom feeds, each tagged with a trust tier</strong> (1 primary/official → 6 community): official company blogs &amp; docs, status pages, government/regulator feeds, wire/business, tech media, research, dev community (Hacker News, GitHub Trending, Reddit), plus thematic-investing and critical-minerals sources. Sources without a usable first-party feed (Anthropic, xAI, Mistral, Reuters, FT, WSJ, policy bodies…) are covered by <strong>key-free Google&nbsp;News search feeds</strong>. Only items published within the last <strong>48 hours</strong> are kept (<code>lookback_hours</code>); items with no date are always kept.</p>
       </div>
       <div class="arrow">↓</div>
 
       <div class="step">
-        <span class="n">3</span><h3>Pre-filter &amp; deduplicate</h3>
-        <p>Near-duplicate articles (same story from different outlets) are removed using title word-overlap (Jaccard similarity) before anything reaches the LLM. Each surviving item gets a unique ID (<code>INT-1</code>, <code>DOM-2</code>, …).</p>
+        <span class="n">3</span><h3>Pre-filter, deduplicate &amp; flag continuations</h3>
+        <p>Near-duplicate articles (same story from different outlets) are removed using title word-overlap (Jaccard similarity) before anything reaches the LLM — and the collision is resolved in favor of the <strong>most primary source</strong> (lowest tier), so the digest links the original announcement rather than a rewrite. Items matching a recently covered story (see step&nbsp;8) are marked <code>[COVERED]</code>. Each surviving item gets a unique ID (<code>INT-1</code>, <code>DOM-2</code>, …).</p>
       </div>
       <div class="arrow">↓</div>
 
       <div class="step">
         <span class="n">4</span><h3>Stage 1 — Selection (LLM)</h3>
-        <p>All items are sent to the LLM with the <code>stage1_prompt_template</code>. Acting as a "senior AI industry analyst," it returns a JSON array of the <strong>15–20 highest-quality</strong> item IDs, balancing categories, preferring primary sources, and dropping duplicates. Code validates the IDs and enforces the 15–20 count (with a fallback if parsing fails).</p>
+        <p>All items are sent to the LLM with the <code>stage1_prompt_template</code>. Acting as a "senior AI industry analyst," it returns a JSON array of the <strong>15–20 highest-quality</strong> item IDs, balancing categories, following the <strong>source-trust hierarchy</strong>, applying an explicit <strong>avoid-list</strong> (SEO farms, copy-paste newsletters, unverified rumors, benchmark screenshots), and skipping <code>[COVERED]</code> continuations unless there's a materially new development. Code validates the IDs and enforces the 15–20 count (with a fallback if parsing fails).</p>
       </div>
       <div class="arrow">↓</div>
 
@@ -181,6 +223,12 @@
         <span class="n">7</span><h3>Notify</h3>
         <p>The digest is converted to a styled HTML email and sent via Gmail SMTP to everyone on the distribution list (<code>EMAIL_TO</code>). Other channels — webhook, Slack, Telegram, Discord — can be enabled too. Each configured language is generated and sent separately.</p>
       </div>
+      <div class="arrow">↓</div>
+
+      <div class="step">
+        <span class="n">8</span><h3>Persist history</h3>
+        <p>The published stories are recorded to <code>data/news_history.json</code> (headline + URL, kept for <code>retention_days</code>, default 7). Because the GitHub runner is ephemeral, the workflow <strong>commits that file back to the repo</strong> — giving the next day's run the cross-run memory it uses in step&nbsp;3 to tell a genuinely new story from a continuation.</p>
+      </div>
 
     </div>
   </section>
@@ -192,16 +240,17 @@
     <details open>
       <summary>Where does the data come from?</summary>
       <div class="body">
-        From <strong>RSS/Atom feeds</strong>, not a paid news API. Categories of sources:
+        From <strong>60+ RSS/Atom feeds</strong> (no paid news API), each tagged with a <strong>trust tier</strong> so selection and dedup can prefer the most authoritative source:
         <ul>
-          <li><strong>Tech media</strong> — TechCrunch, VentureBeat, MIT Tech Review, Ars Technica, Wired, The Verge, Engadget…</li>
-          <li><strong>Official AI company blogs</strong> — OpenAI, Google AI, DeepMind, Meta AI, Microsoft AI</li>
-          <li><strong>Vendor releases</strong> — a Google-News search feed catching product/feature launches (OpenAI, Anthropic, Codex, Gemini, …) that have no first-party RSS</li>
-          <li><strong>Research</strong> — arXiv (cs.AI, cs.LG, cs.CV, cs.CL)</li>
-          <li><strong>Verticals &amp; thematic</strong> — healthcare, robotics, finance, clean energy/ESG, critical minerals</li>
+          <li><strong>1 · Primary / official</strong> — OpenAI, Google AI, DeepMind, Meta AI, Microsoft, NVIDIA, Hugging Face, AWS, github.blog, Apple Newsroom + service <strong>status pages</strong> (OpenAI, Anthropic, Google Cloud, AWS, GitHub)</li>
+          <li><strong>2 · Government / regulator</strong> — White House, NIST, FTC, and an AI-policy / export-controls search feed</li>
+          <li><strong>3 · Wire / business</strong> — Reuters, Bloomberg, FT, WSJ, Axios</li>
+          <li><strong>4 · Tech media &amp; verticals</strong> — TechCrunch, VentureBeat, MIT Tech Review, Ars Technica, Wired, The Verge, Engadget; plus healthcare, robotics, finance, clean energy/ESG, critical minerals</li>
+          <li><strong>5 · Research</strong> — arXiv (cs.AI, cs.LG, cs.CV, cs.CL), Nature</li>
+          <li><strong>6 · Community / dev</strong> — Hacker News, GitHub Trending, Reddit (r/LocalLLaMA, r/MachineLearning)</li>
           <li><strong>Localized</strong> — Chinese feeds (36Kr, JiQiZhiXin, Leiphone…) for <code>zh</code>; German feeds (Heise, t3n, Golem…) for <code>de</code></li>
         </ul>
-        Defined in <code>src/news/fetcher.py</code>.
+        Vendors with no usable first-party feed (Anthropic, xAI, Mistral, Cohere, DeepSeek, Reuters, FT, WSJ…) are reached via <strong>key-free Google&nbsp;News search feeds</strong>. All defined in <code>src/news/fetcher.py</code>.
       </div>
     </details>
 
@@ -217,11 +266,18 @@
       <div class="body">
         In two LLM stages plus code-side guarantees:
         <ul>
-          <li><strong>Stage 1</strong> picks 15–20 items by quality, prioritizing breakthroughs, major launches, policy/regulation, big funding/M&amp;A, balanced category coverage, primary sources, and thematic-investing relevance — and explicitly dedupes "same story" items.</li>
+          <li><strong>Stage 1</strong> picks 15–20 items by quality, prioritizing breakthroughs, major launches, policy/regulation, big funding/M&amp;A, balanced category coverage, and thematic-investing relevance. It follows the <strong>source-trust hierarchy</strong> (primary &gt; regulator &gt; wire &gt; tech media &gt; research &gt; community), honors an explicit <strong>avoid-list</strong>, skips <code>[COVERED]</code> continuations, and dedupes "same story" items.</li>
           <li><strong>Stage 2</strong> assigns each item to exactly one category and writes a 4–6 sentence analytical summary.</li>
-          <li><strong>Code</strong> enforces the canonical category order and runs an additional dedup pass, so the final digest is consistent regardless of model quirks.</li>
+          <li><strong>Code</strong> enforces the canonical category order, resolves duplicates toward the most primary source, and runs an additional dedup pass, so the final digest is consistent regardless of model quirks.</li>
         </ul>
         Both prompts live in <code>config.yaml</code> and are fully editable.
+      </div>
+    </details>
+
+    <details>
+      <summary>How does it avoid repeating yesterday's news?</summary>
+      <div class="body">
+        Each run records the stories it published (headline + URL) to <code>data/news_history.json</code> and the workflow commits that file back to the repo. On the next run, fetched items matching a story from the last <code>retention_days</code> (default 7) — by normalized URL or title-token overlap — are flagged <code>[COVERED]</code>, and Stage&nbsp;1 drops them unless there's a genuinely new development. Toggle it under <code>news.history</code> in <code>config.yaml</code>.
       </div>
     </details>
 
@@ -254,7 +310,7 @@
       <div class="body">
         <ul>
           <li><strong>Secrets</strong> (GitHub → Settings → Secrets, or local <code>.env</code>): API keys, <code>NOTIFICATION_METHODS</code>, Gmail credentials, <code>EMAIL_TO</code> distribution list, <code>AI_RESPONSE_LANGUAGE</code>, optional <code>LLM_PROVIDER</code>/<code>LLM_MODEL</code>.</li>
-          <li><strong><code>config.yaml</code></strong>: provider/model defaults, <code>max_items_per_source</code>, <code>lookback_hours</code>, and the Stage 1 / Stage 2 prompt templates.</li>
+          <li><strong><code>config.yaml</code></strong>: provider/model defaults, <code>max_items_per_source</code>, <code>lookback_hours</code>, the <code>history</code> (cross-run memory) settings, and the Stage 1 / Stage 2 prompt templates.</li>
         </ul>
         Scheduled runs read <strong>GitHub secrets</strong>; the local <code>.env</code> only affects runs on your own machine.
       </div>
@@ -292,21 +348,41 @@
       <table>
         <tr><th>File</th><th>Responsibility</th></tr>
         <tr><td><code>main.py</code></td><td>Entry point: loops over languages, generates the digest, dispatches notifications</td></tr>
-        <tr><td><code>src/news/fetcher.py</code></td><td>RSS/Atom fetching, 48h lookback filter, pre-LLM deduplication</td></tr>
+        <tr><td><code>src/news/fetcher.py</code></td><td>Tiered RSS/Atom + Google News feeds, 48h lookback filter, tier-aware pre-LLM deduplication</td></tr>
+        <tr><td><code>src/news/history.py</code></td><td>Cross-run "already covered" memory (load, match, record to JSON)</td></tr>
         <tr><td><code>src/news/generator.py</code></td><td>Two-stage LLM pipeline, JSON parsing, category ordering, digest rendering</td></tr>
         <tr><td><code>src/llm_providers/</code></td><td>One adapter per provider (Claude, DeepSeek, Gemini, Grok, OpenAI)</td></tr>
         <tr><td><code>src/notifiers/</code></td><td>Email, webhook, Slack, Telegram, Discord senders</td></tr>
-        <tr><td><code>config.yaml</code></td><td>Provider/model, fetch limits, lookback, Stage 1 &amp; 2 prompts</td></tr>
-        <tr><td><code>.github/workflows/daily-news.yml</code></td><td>CI job (manual / externally triggered run)</td></tr>
+        <tr><td><code>config.yaml</code></td><td>Provider/model, fetch limits, lookback, history settings, Stage 1 &amp; 2 prompts</td></tr>
+        <tr><td><code>.github/workflows/daily-news.yml</code></td><td>CI job (manual / externally triggered run); commits the history file back</td></tr>
       </table>
     </div>
   </section>
 
   <div class="footnote">
-    Generated from the repository state on 2026-06-19. Active model, schedule, and source list reflect <code>config.yaml</code>,
+    Generated from the repository state on 2026-06-24. Active model, schedule, and source list reflect <code>config.yaml</code>,
     <code>src/news/fetcher.py</code>, and <code>.github/workflows/daily-news.yml</code> at that time — re-check those files if the bot is reconfigured.
   </div>
 
 </div>
+
+<script>
+  // Subtle scroll-in animation, matching the landing page.
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        entry.target.style.opacity = "1";
+        entry.target.style.transform = "translateY(0)";
+      }
+    });
+  }, { threshold: 0.1, rootMargin: "0px 0px -40px 0px" });
+
+  document.querySelectorAll(".step, details, .card").forEach((el) => {
+    el.style.opacity = "0";
+    el.style.transform = "translateY(20px)";
+    el.style.transition = "opacity .6s ease, transform .6s ease";
+    observer.observe(el);
+  });
+</script>
 </body>
 </html>

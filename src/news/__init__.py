@@ -1,14 +1,13 @@
 """
-News Module - News fetching, generation, and web search functionality
+News Module - News fetching, generation, and cross-run history
 """
 from .generator import NewsGenerator
 from .fetcher import NewsFetcher
-from .web_search import WebSearchTool, get_search_tool_definition
+from .history import NewsHistory
 
 
 __all__ = [
     'NewsGenerator',
     'NewsFetcher',
-    'WebSearchTool',
-    'get_search_tool_definition',
+    'NewsHistory',
 ]
