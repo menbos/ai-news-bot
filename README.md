@@ -250,6 +250,20 @@ Chinese (`zh`) and German (`de`) each also pull from their own localized news fe
 python main.py
 ```
 
+#### Dry run (preview without sending)
+
+To test the digest without emailing your distribution list, set `DRY_RUN=true`:
+
+```bash
+DRY_RUN=true python main.py
+```
+
+This renders each language to `output/digest_<lang>.md` and `output/digest_<lang>.html`
+(open the HTML in a browser to see exactly what recipients would get) and sends
+**no** notifications. The cross-run history file is left untouched in dry-run mode.
+Alternatively, to send a real test only to yourself, set `EMAIL_TO` to your own
+address in `.env` (your local `.env` never affects the scheduled GitHub Actions run).
+
 ---
 
 ## Configuration

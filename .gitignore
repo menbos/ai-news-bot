@@ -40,6 +40,9 @@ ENV/
 # Logs
 *.log
 
+# Dry-run rendered output
+output/
+
 # OS
 .DS_Store
 Thumbs.db

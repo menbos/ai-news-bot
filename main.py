@@ -5,6 +5,7 @@ AI News Bot - Main Application
 Generates and distributes daily AI news digests using Anthropic's Claude API.
 """
 import sys
+from pathlib import Path
 from datetime import datetime
 from src.config import Config
 from src.logger import setup_logger
@@ -17,6 +18,30 @@ from src.notifiers import (
     TelegramNotifier,
     DiscordNotifier
 )
+
+
+def write_dry_run_output(content: str, language: str) -> tuple:
+    """Render the digest to output/digest_<lang>.{md,html} and send nothing.
+
+    The HTML is produced by the real email renderer, so the file is exactly what
+    recipients would have received. Returns the (markdown_path, html_path) written.
+    """
+    out_dir = Path("output")
+    out_dir.mkdir(exist_ok=True)
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    lang_suffix = f" [{language.upper()}]" if language != "en" else ""
+    subject = f"AI News Digest - {today}{lang_suffix}"
+
+    md_path = out_dir / f"digest_{language}.md"
+    html_path = out_dir / f"digest_{language}.html"
+
+    md_path.write_text(content, encoding="utf-8")
+    # Placeholder creds avoid the "not configured" warning; rendering needs none.
+    renderer = EmailNotifier(gmail_address="dry@run", gmail_app_password="x", email_to="dry@run")
+    html_path.write_text(renderer._create_html_email(content, subject), encoding="utf-8")
+
+    return md_path, html_path
 
 
 def main():
@@ -42,11 +67,14 @@ def main():
         if config.llm_model:
             logger.info(f"LLM Model: {config.llm_model}")
         logger.info(f"Languages: {', '.join(languages)}")
+        if config.dry_run:
+            logger.info("DRY RUN enabled: digests render to output/ and nothing is sent")
         logger.info("=" * 60)
 
-        # Initialize cross-run "already covered" memory (committed back by CI)
+        # Initialize cross-run "already covered" memory (committed back by CI).
+        # Skipped in dry-run so a test never mutates the history file.
         history = None
-        if config.history_enabled:
+        if config.history_enabled and not config.dry_run:
             history = NewsHistory(
                 path=config.history_path,
                 retention_days=config.history_retention_days,
@@ -95,6 +123,13 @@ def main():
                 preview = news_digest[:500] + "..." if len(news_digest) > 500 else news_digest
                 logger.info(preview)
                 logger.info("-" * 60)
+
+                # Dry run: render to files, send nothing to the distribution list.
+                if config.dry_run:
+                    md_path, html_path = write_dry_run_output(news_digest, language)
+                    logger.info(f"DRY RUN: wrote {md_path} and {html_path} (no notifications sent)")
+                    overall_results["sent"].append(f"dry-run ({language.upper()})")
+                    continue
 
                 # Track notification results for this language
                 lang_results = {"sent": [], "failed": []}

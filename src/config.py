@@ -190,6 +190,11 @@ For each news item:
         return [m.strip().lower() for m in methods_str.split(",")]
 
     @property
+    def dry_run(self) -> bool:
+        """Dry-run mode: render the digest to files under output/ and send nothing."""
+        return os.getenv("DRY_RUN", "false").strip().lower() in ("true", "1", "yes", "on")
+
+    @property
     def ai_response_language(self) -> str:
         """Get the language for AI-generated content (single language, deprecated)"""
         return os.getenv("AI_RESPONSE_LANGUAGE", "en").strip().lower()
