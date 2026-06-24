@@ -222,7 +222,7 @@ class NewsGenerator:
 
     def generate_news_digest_from_sources(
         self,
-        max_tokens: int = 8000,
+        max_tokens: int = 16000,
         language: str = "en",
         max_items_per_source: int = 10,
         max_total_items: Optional[int] = None,

@@ -109,6 +109,7 @@ def main():
                 logger.info(f"Generating AI news digest in {language.upper()} from real-time sources...")
                 news_digest = news_gen.generate_news_digest_from_sources(
                     language=language,
+                    max_tokens=config.max_output_tokens,
                     max_items_per_source=config.max_items_per_source,
                     max_total_items=config.max_total_items,
                     stage1_template=config.stage1_prompt_template,

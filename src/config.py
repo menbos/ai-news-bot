@@ -226,6 +226,12 @@ For each news item:
         return self.config_data.get("news", {}).get("max_total_items", 150)
 
     @property
+    def max_output_tokens(self) -> int:
+        """Max output tokens for the Stage-2 digest. Must be large enough for all
+        selected items or the JSON is truncated and rendering falls back to raw text."""
+        return self.config_data.get("news", {}).get("max_output_tokens", 16000)
+
+    @property
     def lookback_hours(self) -> int:
         """How many hours back to keep news items (items with no date are kept)"""
         return self.config_data.get("news", {}).get("lookback_hours", 48)

@@ -62,11 +62,11 @@ class NewsFetcher:
         # "type" is informational (blog/status/search/paper/forum/media).
         self.rss_feeds: Dict[str, Dict] = {
             # ---- Tier 1: Primary / official company sources ----
-            "OpenAI Blog": {"url": "https://openai.com/blog/rss/", "tier": 1, "type": "blog"},
+            "OpenAI Blog": {"url": "https://openai.com/news/rss.xml", "tier": 1, "type": "blog"},
             "Google AI Blog": {"url": "https://blog.google/technology/ai/rss/", "tier": 1, "type": "blog"},
             "Google DeepMind": {"url": "https://deepmind.google/blog/rss.xml", "tier": 1, "type": "blog"},
-            "Meta AI Blog": {"url": "https://ai.meta.com/blog/rss/", "tier": 1, "type": "blog"},
-            "Microsoft AI Blog": {"url": "https://blogs.microsoft.com/ai/feed/", "tier": 1, "type": "blog"},
+            "Meta AI (Google News)": {"url": _gnews("Meta AI OR Llama announces OR launches OR releases"), "tier": 1, "type": "search"},
+            "Microsoft Blog": {"url": "https://blogs.microsoft.com/feed/", "tier": 1, "type": "blog"},
             "NVIDIA Blog": {"url": "https://blogs.nvidia.com/feed/", "tier": 1, "type": "blog"},
             "AWS Machine Learning": {"url": "https://aws.amazon.com/blogs/machine-learning/feed/", "tier": 1, "type": "blog"},
             "Hugging Face Blog": {"url": "https://huggingface.co/blog/feed.xml", "tier": 1, "type": "blog"},
@@ -93,7 +93,7 @@ class NewsFetcher:
             "GitHub Status": {"url": "https://www.githubstatus.com/history.rss", "tier": 1, "type": "status"},
 
             # ---- Tier 2: Government / regulation / policy ----
-            "White House": {"url": "https://www.whitehouse.gov/feed/", "tier": 2, "type": "gov"},
+            "White House (Google News)": {"url": _gnews("White House AI OR \"executive order\" artificial intelligence", days=4), "tier": 2, "type": "search"},
             "NIST News": {"url": "https://www.nist.gov/news-events/news/rss.xml", "tier": 2, "type": "gov"},
             "FTC (Google News)": {"url": _gnews("FTC artificial intelligence OR antitrust", days=4), "tier": 2, "type": "search"},
             "AI Policy & Regulation (Google News)": {"url": _gnews("AI regulation OR \"AI Act\" OR \"export controls\" OR \"AI safety institute\"", days=3), "tier": 2, "type": "search"},
@@ -112,14 +112,14 @@ class NewsFetcher:
             "Ars Technica AI": {"url": "https://arstechnica.com/tag/ai/feed/", "tier": 4, "type": "media"},
             "Wired AI": {"url": "https://www.wired.com/feed/tag/ai/latest/rss", "tier": 4, "type": "media"},
             "The Verge AI": {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "tier": 4, "type": "media"},
-            "Engadget AI": {"url": "https://www.engadget.com/tag/ai/rss.xml", "tier": 4, "type": "media"},
+            "Engadget": {"url": "https://www.engadget.com/rss.xml", "tier": 4, "type": "media"},
             "The Next Web": {"url": "https://thenextweb.com/feed", "tier": 4, "type": "media"},
 
             # ---- Tier 4: Industry verticals ----
-            "Healthcare IT News AI": {"url": "https://www.healthcareitnews.com/taxonomy/term/31/feed", "tier": 4, "type": "media"},
+            "Healthcare AI (Google News)": {"url": _gnews("healthcare AI OR clinical AI OR \"FDA\" AI", days=3), "tier": 4, "type": "search"},
             "Robotics Business Review": {"url": "https://www.roboticsbusinessreview.com/feed/", "tier": 4, "type": "media"},
             "Autonomous Vehicle News": {"url": "https://www.autonomousvehicleinternational.com/feed", "tier": 4, "type": "media"},
-            "American Banker": {"url": "https://www.americanbanker.com/feed", "tier": 4, "type": "media"},
+            "Banking AI (Google News)": {"url": _gnews("banking OR fintech artificial intelligence", days=3), "tier": 4, "type": "search"},
             "FinExtra AI": {"url": "https://www.finextra.com/rss/channel.aspx?channel=ai", "tier": 4, "type": "media"},
 
             # ---- Tier 4: Thematic investing (Tech Disruptor / Green Planet / Future Health) ----
@@ -130,7 +130,7 @@ class NewsFetcher:
 
             # ---- Tier 4: Strategic materials & critical minerals ----
             "Mining.com": {"url": "https://www.mining.com/feed/", "tier": 4, "type": "media"},
-            "Benchmark Mineral Intelligence": {"url": "https://www.benchmarkminerals.com/feed/", "tier": 4, "type": "media"},
+            "Critical Minerals (Google News)": {"url": _gnews("lithium OR \"rare earth\" OR cobalt OR copper supply", days=3), "tier": 4, "type": "search"},
             "Energy Monitor": {"url": "https://www.energymonitor.ai/feed/", "tier": 4, "type": "media"},
 
             # ---- Tier 5: Research (high volume -> capped to keep the signal-to-noise high) ----

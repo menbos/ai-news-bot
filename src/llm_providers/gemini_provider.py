@@ -2,14 +2,20 @@
 Gemini Provider - Google Gemini API implementation (google-genai SDK)
 """
 import os
+import time
 from typing import List, Dict, Any, Optional
 from google import genai
 from google.genai import types
+from google.genai import errors as genai_errors
 from .base_provider import BaseLLMProvider
 from ..logger import setup_logger
 
 
 logger = setup_logger(__name__)
+
+# Transient errors worth retrying: 503 (overloaded) and 429 (rate limited).
+_RETRYABLE_STATUS = {429, 503}
+_MAX_ATTEMPTS = 5
 
 
 class GeminiProvider(BaseLLMProvider):
@@ -68,28 +74,41 @@ class GeminiProvider(BaseLLMProvider):
         Raises:
             Exception: If API call fails
         """
-        try:
-            logger.debug(f"Calling Gemini API with {len(messages)} messages")
+        prompt = self._convert_messages_to_prompt(messages)
+        config = types.GenerateContentConfig(
+            max_output_tokens=max_tokens,
+            temperature=temperature,
+        )
 
-            prompt = self._convert_messages_to_prompt(messages)
+        last_error: Optional[Exception] = None
+        for attempt in range(1, _MAX_ATTEMPTS + 1):
+            try:
+                logger.debug(f"Calling Gemini API (attempt {attempt}/{_MAX_ATTEMPTS})")
+                response = self.client.models.generate_content(
+                    model=self.model,
+                    contents=prompt,
+                    config=config,
+                )
+                if response.text:
+                    return response.text
+                raise Exception("No response received from Gemini")
 
-            response = self.client.models.generate_content(
-                model=self.model,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    max_output_tokens=max_tokens,
-                    temperature=temperature,
-                ),
-            )
+            except genai_errors.APIError as e:
+                # Retry transient overload/rate-limit responses with backoff.
+                if getattr(e, "code", None) in _RETRYABLE_STATUS and attempt < _MAX_ATTEMPTS:
+                    wait = min(2 ** attempt, 30)
+                    last_error = e
+                    logger.warning(
+                        f"Gemini {e.code} (attempt {attempt}/{_MAX_ATTEMPTS}); retrying in {wait}s"
+                    )
+                    time.sleep(wait)
+                    continue
+                logger.error(f"Gemini API error: {str(e)}", exc_info=True)
+                raise
 
-            if response.text:
-                return response.text
-
-            raise Exception("No response received from Gemini")
-
-        except Exception as e:
-            logger.error(f"Gemini API error: {str(e)}", exc_info=True)
-            raise
+        # Exhausted retries on a transient error.
+        logger.error(f"Gemini API still failing after {_MAX_ATTEMPTS} attempts: {last_error}")
+        raise last_error
 
     def generate_with_tools(
         self,
