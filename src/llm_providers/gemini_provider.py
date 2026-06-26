@@ -52,6 +52,44 @@ class GeminiProvider(BaseLLMProvider):
     def default_model(self) -> str:
         return "gemini-2.5-flash-lite"
 
+    def _build_config(self, max_tokens: int, temperature: float) -> "types.GenerateContentConfig":
+        """Build the request config, disabling 'thinking' on 2.5 flash models.
+
+        Gemini 2.5 models spend part of ``max_output_tokens`` on internal
+        thinking. That can truncate the actual JSON we asked for, which then
+        gets dumped into the digest as a raw dict. Disabling thinking
+        (``thinking_budget=0``) gives the whole budget to real output. Pro has a
+        non-zero minimum thinking budget, so it is left untouched.
+        """
+        kwargs: Dict[str, Any] = dict(
+            max_output_tokens=max_tokens,
+            temperature=temperature,
+        )
+        model = (self.model or "").lower()
+        if model.startswith("gemini-2.5") and "pro" not in model:
+            kwargs["thinking_config"] = types.ThinkingConfig(thinking_budget=0)
+        return types.GenerateContentConfig(**kwargs)
+
+    @staticmethod
+    def _raise_if_truncated(response: Any) -> None:
+        """Raise if Gemini stopped because it hit the output-token limit.
+
+        A MAX_TOKENS finish means the text is cut off mid-output (e.g. an
+        unterminated JSON array). Returning it would feed a truncated response
+        downstream, so fail loudly instead. This is not retryable — retrying the
+        same prompt/budget truncates again — so callers should treat it as fatal.
+        """
+        candidates = getattr(response, "candidates", None) or []
+        if not candidates:
+            return
+        finish_reason = getattr(candidates[0], "finish_reason", None)
+        name = getattr(finish_reason, "name", str(finish_reason)) if finish_reason else ""
+        if name == "MAX_TOKENS":
+            raise Exception(
+                "Gemini response truncated at max_output_tokens; increase "
+                "news.max_output_tokens or shorten the prompt."
+            )
+
     def generate(
         self,
         messages: List[Dict[str, str]],
@@ -75,10 +113,7 @@ class GeminiProvider(BaseLLMProvider):
             Exception: If API call fails
         """
         prompt = self._convert_messages_to_prompt(messages)
-        config = types.GenerateContentConfig(
-            max_output_tokens=max_tokens,
-            temperature=temperature,
-        )
+        config = self._build_config(max_tokens, temperature)
 
         last_error: Optional[Exception] = None
         for attempt in range(1, _MAX_ATTEMPTS + 1):
@@ -89,6 +124,7 @@ class GeminiProvider(BaseLLMProvider):
                     contents=prompt,
                     config=config,
                 )
+                self._raise_if_truncated(response)
                 if response.text:
                     return response.text
                 raise Exception("No response received from Gemini")

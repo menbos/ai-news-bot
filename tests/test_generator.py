@@ -1,4 +1,6 @@
 """Tests for NewsGenerator pure helpers (provider not constructed)."""
+import pytest
+
 from src.news.generator import NewsGenerator, CATEGORY_ORDER
 
 
@@ -20,6 +22,21 @@ def test_extract_json_array_handles_code_fences():
     assert g._extract_json_array('```json\n["A", "B"]\n```') == ["A", "B"]
     assert g._extract_json_array('noise before ["X"] noise after') == ["X"]
     assert g._extract_json_array("not json at all") is None
+
+
+def test_parse_stage2_items_returns_parsed_array():
+    g = _bare_generator()
+    items = g._parse_stage2_items('[{"headline": "A"}, {"headline": "B"}]')
+    assert [i["headline"] for i in items] == ["A", "B"]
+
+
+def test_parse_stage2_items_raises_on_truncated_json():
+    g = _bare_generator()
+    # Truncated array (no closing ']') must NOT fall back to raw text — it must
+    # raise so the run fails instead of emailing a raw JSON dict.
+    truncated = '[{"headline": "A", "summary": "incomplete'
+    with pytest.raises(ValueError):
+        g._parse_stage2_items(truncated)
 
 
 def test_deduplicate_items_keeps_longer_summary():
