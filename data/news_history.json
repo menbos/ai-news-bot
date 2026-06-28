@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T04:34:39.141528+00:00",
+  "updated": "2026-06-28T04:32:34.785201+00:00",
   "entries": [
     {
       "url": "openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -100,6 +100,106 @@
       "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNZEc3OVB3WWZUSTR1cVpwX3NPSmUwVWFhdWZnbXdYSVhJVWdjNEx4UnBKWFV1UGw1TktnYTJDWlE0RWVGNjhjV1dXdy05RGd0bG5BdWlra3BnUC1BMVZ3Nl9aS3hFNHh4dUJGeVI4ZWJUc3c3U3p2MHc4UHhuczhvRV9LbllsbUlDY0RUcEJ2cTRnT21hWWwxUXZsY2xHSU9Iclp4RE1MWWJ2UUE",
       "title": "Qualcomm to Acquire AI Software Firm Modular for $3.9 Billion",
       "first_seen": "2026-06-25T04:34:39.141528+00:00"
+    },
+    {
+      "url": "openai.com/index/previewing-gpt-5-6-sol",
+      "title": "OpenAI Previews GPT-5.6 Sol with Enhanced Coding, Science, and Cybersecurity Capabilities",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxQVDlSOEhXdnpHalVSTXRRMGN6cklvbkpZNGdhT0drUlhXZkJyNkE5eXZGeGZURGxMOXNGQ09BckRQS2NfTjBLMlNBSVpUXzJVbm53VDZGNFhXR1NpMWZQY2pjY2VuSVBZc0lrSDlMSExPNkxvWnluZVRENTQxNUJhZThCR0RkYzROalo4UnR3WlpKTnNKR3c0c3B2MF9DNkRwakgxRVp3RlhNdTUyTEFFdHNvZEV2bFRCM0RNOENFQ1Aydw",
+      "title": "Meta Launches $299 AI Glasses, Integrating Qualcomm's Technology",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxPTy1oMy13VnByb3RJNHhGM2laSmphM05lc1BzUnYyVTJld085RjJSMUpkWXRBcHVkam1IZHdjeVpuZW8zX0pyNTktclM2OHJUcUZQbllYNVJMMGMyQnZrWVUxSmNrV0VUWks0SF9Wb3dNekFBekE1LWM3TTdsTFRrS2ZBVXZSSlZubW5RejlR",
+      "title": "Microsoft Introduces MAI-Code-1-Flash for GitHub Copilot",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3",
+      "title": "AWS Enables Real-Time Interactive PDF Text Extraction from Amazon S3",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe",
+      "title": "Stripe's AI Agent Framework for Production-Grade Financial Compliance",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source",
+      "title": "GitHub and UNDP Collaborate to Advance Development Priorities in Ghana with Open Source",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxQeG1SQ2UxUF9nRHQ1ejZ2VU95NllPMFBvd3d4NzVMcEU2ai1JSzlTS3p2em5naEZickIyZWw3S0RPVzl0c0JBZnM5SDBzaEViRWoxY3FXNnBvQy1OdHEySlJmS0x3ZGVaa000RFpUNWwxTjI0bmdkSkhEMGFmMTJrTmE1YWZ0RUsxYnEzS1o3QlMxdHpxTHZDbHVrbFRGQUlCMGl3TmI2Z1dPN1U",
+      "title": "Anthropic Releases Powerful 'Mythos' Model to Select US Companies",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi6AFBVV95cUxPQjV4YmtqWVZhUFBLVXV2c1dSanUzRG52d2JibnFES05RZzRncWMtOGIwS2dnS0NqTUFQY2pqNnpwLVJVQ09MaXVyemJZN3BJSXowUVotWlpnZURwU0hfQ0pZNEF3a2gwbXloeDMyVXBJeGxjLUhKVlBiNFZ2em9pQTJJengzZ3ptMFJGU3JwMmZlWnBJRHdELTBLTVJocndKNmUtbU9mdWU2TWw2N01CNTlZeDVmc29mZ3BWMU11WmxSSHlhbmhpVUtYRC10VnB2c3JvUExueFRubGxJVjJ5OTUwbi1FaUU0",
+      "title": "Anthropic Unveils Claude Design for Rapid Prototype and Presentation Creation",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0gFBVV95cUxPNHlXTllQTVVoZFF1aGFPTTY0bEtHaFNJa0ItR2kwTzhhSHc0M3BvejVhNmppMUlwVEEzWjJwOUswdlQ4UG15Z3AxLWdhRVNOV2JNWkw2WnpkWDhVd29raVJraU5nSVRsR3g3WWNXajFQVWxWZEFXQlNqOVgxZzEteWE5WHltZXNGaEdMWkxVNDZtT3VMU243NE5mYmZlX0lSdkV2azA1SHk1RG1mU3Z5d0xCeEJDWXdBTzFQVWptblR5cXg2RXZtNGh1U0NDRVJLcmc",
+      "title": "OpenAI's GPT-5.6 Sol Competes with Anthropic's Mythos Amid Government Access Concerns",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxPd2dfUVFJYk5XdkczRGxmSk5USUpySXBTODJxam5fZHFaMllWdG1BMHdSNmMzVFFkNDB4ZTI5VzdVRHZyLThQbFhubjNPaEpJUTRQQ3duYzZhOHRPZTVkU0o3TjNGc2p3WFZMc3VkcEh6alE1bFpHclk2cDZJZk9JYmpjVUs1bTRHYmVMSHAtLXN6VERmNko2UjRQY1ByNVdxc3l3d2ZzckRhQ1VKVlpVNnVJRkdlQkQtOFNnTVZwWmc4Zk5ob2cySk53dFlYZw",
+      "title": "Mistral OCR 4 Streamlines Document AI Pipelines by Collapsing OCR Stages",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxNV2tDbjR0dE5QV3hnRkplSGxQLXF3TENvNldiaHV0MDBPMnc5VlI4Ty1QTnJGSjhnSjhNbXpCak12Q0tYS3NMd1UyZDFWaTJUQXg5U2NSbGVBYkFlQUFhVzRfMkhxMFVNLU1nVnpuM0tKTnF3eVZNaWdMblJhbEhiT1lyX1NZWlBEVGc5LUpQQnBMOHpZa3d1bk1lODIyRGRuY0NxMQ",
+      "title": "Domyn Plans 400-Billion-Parameter Open AI Model for Europe",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijwNBVV95cUxOYUdYMGtLa2NlRXMzeUR1SWQyeVFHWkliQlZ3Y3JSUGRBVEozaFpUMEp1RWhWNmZMTXdpSXg3SER0M0F0T1YwWHcwS0xLc3phVmx1SWxkSDRJeHlZRXhzNmFsQkJLVEdGSTBiWkQxVkx1cVpETmlLXzVqSDdnLUJ5Qk1hdUp0WU8yU1kxTm5xQTcwdjFQc0plNnh3TTdaOTV2MjdWUUVrTFJlQXc0cm1oMEUtQ0p2Yzk2NkhMWEV3RGZSM2wxM210bWw3YThrRnJHa3owSXUwOS1kbXhPUm5wd0xCOFl5dzd1dHBzeHN3dE5LbWh5eGtkNkN2TmsyOU1VdjFZcmRQdENKT19Ndm9ra0lnS0ZkUGh3WG9MSHpOQ1ZPZGdhQ3FpUW1FQTlDM3JNdWRnM1FKMnExc0I2NXAxSVVYNVJ<bos>WNGa0pFU2FOcjEwVzQwljc0ljX0xOSDZsZzNVdlJkZjg2OGI3cWFIVHNILW9nanVxUmItME5abzJwUjVXeU0yVjF0UURtV0gyRGs",
+      "title": "Mistral Explores In-House Chip Design Amid Infrastructure Expansion",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxPYktfeFNmMEc1RjhqYkUzRDZaRVA2UWg2cEtRYkh0RV8xc3EteUE3dFpCY2xnMXNkLS13bV9USkJLLUROUGRoUDc4T05ROWxnNFRCOWpJMDZGQ1pyR19CNEdaS2Rmb2lOeEM2V0RRYmRCQUdCMUZScW5BVjRPOFlwOEdycTRiX0oxZUdpUEdqQW4yempt",
+      "title": "DeepSeek V4 Introduces DSpark, Boosting Inference Speed by 80%",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihgFBVV95cUxNREwxdGg2aXlreXo5blo4WENaSFZEV2NGckE3MzBTbk1WeDQ5eVJsMkdjdlNnVUx5R1QxbHJSMmVRUmRHbkZWeV9PY2ExYXhxZ19tQnpjTFlPTWtPZy1VWmdxUFBKV2dFZmt2WHR0NmQtUlR6bzRVUVZpcHpVOGVuYnR5UHBUdw",
+      "title": "Google Cloud AI Announces Latest News and Updates",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA",
+      "title": "Google Cloud Launches Interactions API for Gemini Models and Agents",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "status.openai.com//incidents/01KW5HJAH5X1A2V62HP4ZST1V7",
+      "title": "ChatGPT Windows Desktop App Experiences Resolved Service Issues",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "status.openai.com//incidents/01KW2E6W0503W4NXJNCVAG8V6T",
+      "title": "OpenAI Addresses Codex Usage Limit Discrepancies Related to Abuse Prevention Systems",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPNVlNQzRCZGtLUWpBb1ZmZS1aM19wX1BUZkV3cmtIRzgtMHFLbGpnbV9pekVzcVd5SnJvZ0pmTkhXM2I2UXo3R3pVTVltZUczRGg3RnE1R2RpbjJlSkdPTWNqYWlRY0VReUJBWHh4XzVuQm40am5RNGt3aXdqQmZqRkR2cEw",
+      "title": "Tech Industry Reacts to Shifting AI Stances by Donald Trump",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi6AFBVV95cUxQVDJGR054QmhSWXhKU044TDlTN0E2OXVDM0x4cUduS1Q0N0wwakE5Z2pvWm5SNTZib2lGUjhlMERESDk1bHkyMHpoRHRfVmdHaHJRVEtxVlVIeU9LR2xtVjdweUs2Y2xGSDlja2VtaDh3Yll0WVBWVWRoYUVuYWdGNm0xSXg3VVVseDhfNmVSdTdCX0xLUnhpQ1N0WWxLamJzRDl4Y0FQWDdQWkRiMUdRWl9paG5vQ0ZvRk5zeG9Wa2J1cUxLUWFQd2lFczA0RWZmUXJ1elVISlFjaEoyNUhHWEFFTFZkMk8w",
+      "title": "White House Promotes Nuclear Power Amid Surging AI-Driven Energy Demand",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxNNzhoRkpwLXcxUUozZHdnTFBjR0RLdkhBR2dLRXFidlpQT1JUU2MwVjcwV19oeFkwdjlNZzQzUEdMb0l5ZHRzUnFocDJ5VTF3UDkzbWZReWRmLV9jZUNNa2d6NENqckF3Mld3ZjFpUEVsNGhuS1RHTjBkNHNfTW4xc2R3Tk9OcllCX2JON2NuTzBVb093aERabDRfN0ducFN0LTRmVjVMMFV3dmRZZFJ6czlZOFFQNnNGb1VCRm5R",
+      "title": "Call for Patient-Centered AI Regulation in Healthcare Systems",
+      "first_seen": "2026-06-28T04:32:34.785201+00:00"
     }
   ]
 }
