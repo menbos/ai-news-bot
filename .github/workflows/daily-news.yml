@@ -77,8 +77,23 @@ jobs:
           # The bot will generate and send news for each language separately
           AI_RESPONSE_LANGUAGE: ${{ secrets.AI_RESPONSE_LANGUAGE }}
 
+        # bash + pipefail so the python exit code survives the `tee` pipe.
+        shell: bash
         run: |
-          python main.py
+          set -o pipefail
+          # main.py exits non-zero only when NOTHING was sent, so a retry can
+          # never duplicate an email. Daily failures are usually a transient LLM
+          # response (truncation/empty/parse), so one retry absorbs most of them.
+          for attempt in 1 2; do
+            echo "=== Run attempt ${attempt}/2 ==="
+            if python main.py 2>&1 | tee -a run.log; then
+              exit 0
+            fi
+            echo "::warning::Run attempt ${attempt} failed."
+            [[ ${attempt} -lt 2 ]] && { echo "Retrying in 30s..."; sleep 30; }
+          done
+          echo "::error::All run attempts failed; see the run.log artifact."
+          exit 1
 
       - name: Commit updated news history
         if: always()
@@ -108,6 +123,6 @@ jobs:
         uses: actions/upload-artifact@v5
         with:
           name: error-logs
-          path: |
-            *.log
+          path: run.log
+          if-no-files-found: warn
           retention-days: 7

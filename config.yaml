@@ -25,9 +25,11 @@ news:
   max_total_items: 150
 
   # Max output tokens for the Stage-2 digest. Must be large enough to hold all
-  # selected items as JSON; if it truncates, rendering falls back to raw text.
-  # ~15-20 items of 4-6 sentences each needs well above 8000. Default: 16000
-  max_output_tokens: 16000
+  # selected items as JSON; if it truncates, the run now FAILS (no raw-text
+  # fallback) so a clipped digest is never sent. Keep generous headroom over the
+  # JSON for max_total_items entries. ~15-20 items of 4-6 sentences needs well
+  # above 8000; with many items, give more. Default: 24000
+  max_output_tokens: 24000
 
   # How many hours back to keep fetched items. Larger values catch primary-source
   # announcements (e.g. vendor feature launches) that broke a day or two before
