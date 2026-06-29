@@ -26,10 +26,12 @@ news:
 
   # Max output tokens for the Stage-2 digest. Must be large enough to hold all
   # selected items as JSON; if it truncates, the run now FAILS (no raw-text
-  # fallback) so a clipped digest is never sent. Keep generous headroom over the
-  # JSON for max_total_items entries. ~15-20 items of 4-6 sentences needs well
-  # above 8000; with many items, give more. Default: 24000
-  max_output_tokens: 24000
+  # fallback) so a clipped digest is never sent. NOTE: this is also a *capacity
+  # reservation* — Gemini's free flash-lite tier sheds large-output requests
+  # first during demand spikes (503 UNAVAILABLE), so an inflated budget makes the
+  # run more likely to fail. ~15-20 items of 4-6 sentences fit well under 16000;
+  # keep this as low as truncation allows. Default: 16000
+  max_output_tokens: 16000
 
   # How many hours back to keep fetched items. Larger values catch primary-source
   # announcements (e.g. vendor feature launches) that broke a day or two before

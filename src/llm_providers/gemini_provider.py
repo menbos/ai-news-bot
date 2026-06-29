@@ -2,6 +2,7 @@
 Gemini Provider - Google Gemini API implementation (google-genai SDK)
 """
 import os
+import random
 import time
 from typing import List, Dict, Any, Optional
 from google import genai
@@ -16,6 +17,16 @@ logger = setup_logger(__name__)
 # Transient errors worth retrying: 503 (overloaded) and 429 (rate limited).
 _RETRYABLE_STATUS = {429, 503}
 _MAX_ATTEMPTS = 5
+
+# Sibling model to fall back to when the primary keeps returning a transient
+# (503/429) error after exhausting retries. flash-lite is the lowest-capacity
+# free tier and sheds heavy requests first during demand spikes; flash has a
+# separate capacity pool, so a fallback there often succeeds when lite is
+# overloaded. Pro is paid-only (since 2026-04-01), so it is not a free-tier
+# fallback. The fallback uses the same free tier and works without billing.
+_FALLBACK_MODELS = {
+    "gemini-2.5-flash-lite": "gemini-2.5-flash",
+}
 
 
 class GeminiProvider(BaseLLMProvider):
@@ -52,21 +63,24 @@ class GeminiProvider(BaseLLMProvider):
     def default_model(self) -> str:
         return "gemini-2.5-flash-lite"
 
-    def _build_config(self, max_tokens: int, temperature: float) -> "types.GenerateContentConfig":
+    def _build_config(
+        self, max_tokens: int, temperature: float, model: str
+    ) -> "types.GenerateContentConfig":
         """Build the request config, disabling 'thinking' on 2.5 flash models.
 
         Gemini 2.5 models spend part of ``max_output_tokens`` on internal
         thinking. That can truncate the actual JSON we asked for, which then
         gets dumped into the digest as a raw dict. Disabling thinking
         (``thinking_budget=0``) gives the whole budget to real output. Pro has a
-        non-zero minimum thinking budget, so it is left untouched.
+        non-zero minimum thinking budget, so it is left untouched. Keyed on the
+        per-call ``model`` so a flash fallback gets the right config too.
         """
         kwargs: Dict[str, Any] = dict(
             max_output_tokens=max_tokens,
             temperature=temperature,
         )
-        model = (self.model or "").lower()
-        if model.startswith("gemini-2.5") and "pro" not in model:
+        name = (model or "").lower()
+        if name.startswith("gemini-2.5") and "pro" not in name:
             kwargs["thinking_config"] = types.ThinkingConfig(thinking_budget=0)
         return types.GenerateContentConfig(**kwargs)
 
@@ -113,14 +127,45 @@ class GeminiProvider(BaseLLMProvider):
             Exception: If API call fails
         """
         prompt = self._convert_messages_to_prompt(messages)
-        config = self._build_config(max_tokens, temperature)
 
+        # Try the primary model, then a sibling fallback if it keeps returning a
+        # transient error. flash-lite overload (503) is the common failure, and
+        # flash draws from separate capacity, so the fallback often succeeds.
+        models = [self.model]
+        fallback = _FALLBACK_MODELS.get((self.model or "").lower())
+        if fallback and fallback != self.model:
+            models.append(fallback)
+
+        last_error: Optional[Exception] = None
+        for index, model in enumerate(models):
+            config = self._build_config(max_tokens, temperature, model)
+            try:
+                return self._generate_with_retries(prompt, config, model)
+            except genai_errors.APIError as e:
+                last_error = e
+                # Advance to the fallback model only on transient overload/limit.
+                is_last = index == len(models) - 1
+                if getattr(e, "code", None) in _RETRYABLE_STATUS and not is_last:
+                    logger.warning(
+                        f"Gemini model '{model}' still {e.code} after "
+                        f"{_MAX_ATTEMPTS} attempts; falling back to '{models[index + 1]}'"
+                    )
+                    continue
+                raise
+
+        # Should be unreachable (loop either returns or raises), but keep a guard.
+        raise last_error
+
+    def _generate_with_retries(
+        self, prompt: str, config: "types.GenerateContentConfig", model: str
+    ) -> str:
+        """Call one Gemini model, retrying transient 503/429 with jittered backoff."""
         last_error: Optional[Exception] = None
         for attempt in range(1, _MAX_ATTEMPTS + 1):
             try:
-                logger.debug(f"Calling Gemini API (attempt {attempt}/{_MAX_ATTEMPTS})")
+                logger.debug(f"Calling Gemini API model='{model}' (attempt {attempt}/{_MAX_ATTEMPTS})")
                 response = self.client.models.generate_content(
-                    model=self.model,
+                    model=model,
                     contents=prompt,
                     config=config,
                 )
@@ -131,19 +176,22 @@ class GeminiProvider(BaseLLMProvider):
 
             except genai_errors.APIError as e:
                 # Retry transient overload/rate-limit responses with backoff.
+                # Jitter spreads retries so concurrent runs don't resync onto the
+                # same overloaded window.
                 if getattr(e, "code", None) in _RETRYABLE_STATUS and attempt < _MAX_ATTEMPTS:
-                    wait = min(2 ** attempt, 30)
+                    wait = min(2 ** attempt, 30) + random.uniform(0, 1)
                     last_error = e
                     logger.warning(
-                        f"Gemini {e.code} (attempt {attempt}/{_MAX_ATTEMPTS}); retrying in {wait}s"
+                        f"Gemini {e.code} on '{model}' (attempt {attempt}/{_MAX_ATTEMPTS}); "
+                        f"retrying in {wait:.1f}s"
                     )
                     time.sleep(wait)
                     continue
-                logger.error(f"Gemini API error: {str(e)}", exc_info=True)
+                logger.error(f"Gemini API error on '{model}': {str(e)}", exc_info=True)
                 raise
 
         # Exhausted retries on a transient error.
-        logger.error(f"Gemini API still failing after {_MAX_ATTEMPTS} attempts: {last_error}")
+        logger.error(f"Gemini '{model}' still failing after {_MAX_ATTEMPTS} attempts: {last_error}")
         raise last_error
 
     def generate_with_tools(
