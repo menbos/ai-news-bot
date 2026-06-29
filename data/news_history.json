@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T04:32:34.785201+00:00",
+  "updated": "2026-06-29T05:56:55.175755+00:00",
   "entries": [
     {
       "url": "openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -200,6 +200,91 @@
       "url": "news.google.com/rss/articles/CBMivgFBVV95cUxNNzhoRkpwLXcxUUozZHdnTFBjR0RLdkhBR2dLRXFidlpQT1JUU2MwVjcwV19oeFkwdjlNZzQzUEdMb0l5ZHRzUnFocDJ5VTF3UDkzbWZReWRmLV9jZUNNa2d6NENqckF3Mld3ZjFpUEVsNGhuS1RHTjBkNHNfTW4xc2R3Tk9OcllCX2JON2NuTzBVb093aERabDRfN0ducFN0LTRmVjVMMFV3dmRZZFJ6czlZOFFQNnNGb1VCRm5R",
       "title": "Call for Patient-Centered AI Regulation in Healthcare Systems",
       "first_seen": "2026-06-28T04:32:34.785201+00:00"
+    },
+    {
+      "url": "openai.com/index/hp-frontier-partnership",
+      "title": "HP Inc. Scales OpenAI Frontier Partnership for AI Integration",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNbnFYX19mVmlNakkzaG5IV2MzZ3VzREZmRVhoNFFsMGNvY1hqX2hiVHRYZ3Y4ZERKWmpmQkRkQU9iMzdZSnBtVk1pSVppd2NMbllRQVQ0NHg1bzhFOXUxaGdMQm4zcUdXYkZGLXFzb29JWWZRMXhLR3I4UzNKWTlrOE1aVnVYdi0xVmdza2RRRDJvb2R3RUs5R3FTaDZwQmtSRXlHQmgzN0Rvem12Z1h6YVJaN0ZyS1E",
+      "title": "AI Emerges as a Controversial Justification for Tech Layoffs at Meta, Amazon, and Salesforce",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxNT2NzdFJhRHlzbHVobVliSW5HM3pibm1za0xWYU55RnVIMG40Q1ZqcDJEZkRrMmhEYVNDZTBpVTRMS29vc21BaUU1RTdYMU1UdFZqSURBeGFFdjlFS3FPallKUkxZY21PaDZSWnpHaDJzT19ORS10U3E2TTJ0UUlHUy1mV0tSNVBya2c",
+      "title": "Meta Introduces New AI-Powered Smart Glasses",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxQMWE1VjNsR05PdlNaMk1TUzRRNEhscU5faDMxQ3RHOGYxRDZGelpHbERMY29hV3d5ckRhOElUeVlEbE9PbUo0OXdrLVJEWnVRR21BRUtoS2FwSE5WTnFqdE1UZDNpRU9sc3ZFclh1MlpPdjlYUXJVTzd5T25kbGZ1ekhzTVpOM2ljOUtaN1B2V0xXT0hYQUlR0gGXAUFVX3lxTFAxYTVWM2xHTk92U1oyTVNTNFE0SGxxTl9oMzFDdEc4ZjFENkZ6WkdsRExjb2FXd3lyRGE4SVR5WURsT09tSjQ5d2stUkRadVFHbUFFS2hLYXBITlZOcWp0TFRkM2lFT2xzdkVyWHUyWk92OVhRclVPN3lPbmRsZnV6SHNNWk4zaWM5S1o3UHZXTFdPSFhBSVE",
+      "title": "Google Imposes Restrictions on Meta's Use of Gemini AI Models",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi2AFBVV95cUxOV0tJejJCenhGd3huQWJ1R0N2R0xGVmJnV3FFSGt5aDVxSmRObGRIQlZTTzBic2hOOTB4bGhhaGdGbDVld3Focnl1NnNuWEdSZVZGN3dJUXEwNGhSM2QyZUJNNXdqYXp4SS1fcjFWX3Y4LTIzbnhhOUNhQ2ZXQURRdWF0WGtxV0NEd0R3Wm53aE5IWFhmRVFKMUNKSGVmZHNYZXFvQ0RHc1FJQ21RUjQxbE1MRmR1TkJZcEhNZldVSGVncG5yMEl1N290cnIxcWFhcERwUjNrZ1U",
+      "title": "WhatsApp Piloting Private 'Side Chat' Feature Powered by Meta AI",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMic0FVX3lxTE94eV8zaHVGSzdrdUhURGh3cU1paGNHRlBmV1Z6eGdySkxyRkJiT1o0WXVsY3J6RWJMMW9STXRqR0xDRVVSNS1LVGZhYkhfODNLNVpnT3FNUTZ1THhvNlU5U1p4d21tVzFMa0NXbTBhVWNHLUU",
+      "title": "OpenAI Unveils GPT-5.6 Series, Surpassing Claude Mythos 5, with Limited Preview Due to US Government Directives",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMingFBVV95cUxOaEVZbHdFMjRSam16Y0lwOWt5Y0hhLUQ2LW16ai1LUG5Kd0Z4ZVoyRHBKVVZxbF8xbjNCVGJ4QWNhaFd1TXVIdWNoWS1fSEppQ1RxM0s4cm5XVDAwdGtUa3RZc0lSMW5SR1NlZXZMbjlpMWhrTlloTndlNFFhUHBDNGVEY012UVlkNnRlcVZBckUwSWtvNWMweElOVERUQQ",
+      "title": "Trump Administration Authorizes Anthropic to Release Mythos AI to 'Trusted' U.S. Organizations",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiaEFVX3lxTE1va1lHaG5wdVhfTlVhNWhhTTdHc1ZDeGN2SmJYdktEM2ZnTDBYSjRkRk54bXFHMjZ2QVZQX19MLXpsa1FRaHdNb3kzWVlzenZBeWt2S1g4UDR2TTNxSVNtNFRWRkpXRWxH",
+      "title": "xAI Unveils Grok 4.5, Powered by 1.5 Trillion Parameter V9 Model, Markin a Significant Upgrade",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilgJBVV95cUxNTE1wblNEeWJYQ1djTXg3RC1oaUdvQjFHNnJhdDZSeVF0cVlCREp0a2diUDNIZ29jbWZjdk02eDVUcld3Z0hMZ2poMFdKd1FBVVE0RENxNXVCcGNZVElwMUdOSHVBejVOSTNzQ0k2dFgtdW5hMlFnMWRFTHJwZ1lIdHZ4YkVJLTlINm9YU2JSNTZYcTl2S0tCQy1pNEtVdDhuTlRhV283WE1lc2VYVjNhLVZSVHVkS09KTUppb080cHlLTVoxSXBNT0d4Ri11ZGhzVm5lbVU5TDdMOExSRkFfQ21obVZSeEZacFZVLXJXR3FVSEtkdzR1b0ZfM1VYNEFqak01TVRzS0pOTHJtd1N3RVJNOTU4dw",
+      "title": "SpaceX Invests $60 Billion in AI, Fueling Speculation of Elon Musk's Expansion Beyond Space",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxPd2dfUVFJYk5XdkczRGxmSk5USUpySXBTODJxam5fZHFaMllWdG1BMHdSNmMzVFFkNDB4eTI5VzdVRHZyLThQbFhubjNPaEpJUTRQQ3duYzZhOHRPZTVkU0o3TjNGc2p3WFZMc3VkcEh6alE1bFpHclk2cDZJZk9JYmpjVUs1bTRHYmVMSHAtLXN6VERmNko2UjRQY1ByNVdxc3l3d2ZzckRhQ1VKVlpVNnVJRkdlQkQtOFNnTVZwWmc4Zk5ob2cySk53dFlYZw",
+      "title": "Mistral OCR 4 Unifies Document AI Pipeline by Collapsing Three Stages into One",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi7AFBVV95cUxPakhFLTVCTG14dWxrZ1FWSmMtR01uVEZBWkpYM1VjbV93YTRuT09lYXFHNm9ocjVSdnZ0QWx2QXdyZVUtcnRaanBrQm5NZDYtSlpBVGFVVjNtekI5MXhJTElXc2FwOEVqY0lCQlNXMFRJVjl3b2EzMVAxbWFNa295NEZyRmxjUDBQTU51SVk5VW1YckR3d0FRQkpYTTdocVlwd2c3QllTbS1OWUFHWDdLMVJZVGhQQlJlT3ZfeEhINWNzLUVtYXhIWUpaWk5YMjR5azFKZldrRzB4Y3RueFpjSWQ1RFVUbDNSZlItOA",
+      "title": "HIVE Digital Technologies' Buzz HPC Joins Bell and Cohere to Establish Canadian AI Factory",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxNRVRFbTltV1I2R2hYbGNmc2ZSdWhCczVWRFdCT0JJc3hoNFJNVjhhM3hyZG1nT004dGJRWGw4eHRUY3lLY2NleTR1VXRlZ1l0VzZtSFZpQ1AzY3JmdVZacEdncjFhV18tM3pEMDFKbGV5WXhZRGo0RldsT1lueFZnOXBRTTJVNlJJTEptNlJtUzBrYldLUHF6U1VTVUtjS2Z5VFp0VjRGQjNGTjFma0V1ODViY0xSOENxeEtTYXhWSXJRYlVVYnc",
+      "title": "DeepSeek Releases DSpark, Accelerating V4 Model by Up to 85% with Speculative Decoding",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNY05fZlJ6UjMwbkZlQThmV0dvTzQ0R1pKd0RCQUVVWEtyRk9VdU9TbkJCYnZwOUdSWFlkeHdwTkV0OS0telo5MnVOdGZ5R05ncThibmN6dEJIVjBkM2RUSEx4Z2dMNGNpZzlGWGYwdHh1UzV0a193TFhJbGdpU01iNUFJWWxpT0FGS0pEVXBkMXNfMm8zanduNEpiMWNTZjc2dGM4MnJuNXVPeTdDTXVvYnBPQUJ2Mkk",
+      "title": "OpenAI and Korea AI Safety Institute Sign High-Risk AI Evaluation Agreement",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi2wFBVV95cUxQZTQybmdwbFdZT1FsdE0waXJGcHdweVNTSFhnZFJqNlRROTRBNkY3OEVtQzZ4cmI0eFQyT0V5cXl0b21sY1RzOWp1eklRdC1EQzZVcTI0bkdvVGJyQm1TeEdvb1puNUxsMTdtRjZRekI0a0xWTUxaNS1OZWVTMV92aXdjdFd4WVpfZ1E3dDA4WjVjaTFtRnlZS1E1dVNfWXEyOE1CNFp3WVlBeFVXcVNzZFZkSE0yNVNPUnlnYWNrcWZ3dk02VHNRWWxlMTJWQUFWYlZSTUhhblh4eFE",
+      "title": "AI Export Controls Under Scrutiny as GLM-5.2 Benchmarks Expose Cybersecurity Gaps",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxNUXhFdWlpT3kxWEM2cXkySklsX0FuOVdOU1JadkNMVVNLTTIxd0lmOUpHamVfSzBHdnVTdm93VW83cm9lZ3oxQ3RyZTZ5Q2dUdVJTYUZJQWxjSGNueXJLUVJ6aHdmOFBvQVdoNVBPckN6b2ZTLThRNVJsOU0yM2w2TWxDdklkR2JHRDVmY29kYnhMdGdqT21jZDhDUkU1dTJ3ZDNKUUdtWW5Nd2x0bVgyN1ZGdk0zR2NOZjRSZw",
+      "title": "Australia's Firmus Technologies Secures AI Access Deal with Nvidia",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-06-29/south-korea-unveils-plan-to-sustain-lead-in-ai-video",
+      "title": "South Korea Unveils Ambitious Plan to Maintain Lead in AI",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-06-28/samsung-sk-reportedly-to-invest-1-3-trillion-over-10-years",
+      "title": "Samsung and SK Hynix Lead Record Spending to Cement Korea's AI Dominance",
+      "first_seen": "2026-06-29T05:56:55.175755+00:00"
     }
   ]
 }
