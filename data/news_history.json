@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T05:56:55.175755+00:00",
+  "updated": "2026-06-30T04:32:39.885716+00:00",
   "entries": [
     {
       "url": "openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -285,6 +285,106 @@
       "url": "bloomberg.com/news/articles/2026-06-28/samsung-sk-reportedly-to-invest-1-3-trillion-over-10-years",
       "title": "Samsung and SK Hynix Lead Record Spending to Cement Korea's AI Dominance",
       "first_seen": "2026-06-29T05:56:55.175755+00:00"
+    },
+    {
+      "url": "openai.com/index/mapping-ai-jobs-transition-eu",
+      "title": "OpenAI Report Maps EU AI Workforce Transformation",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMib0FVX3lxTE91aThDTWNvVHJ5MlZVNUMxTHZLS0RwRW1DdXZvWTdndTZnVjctMlhUclhDWjJMUGZzLUhiLUZpeVdZb1RHNlpoaUI3RXhBSmt1Z2pHakZ5MXd1VGxGamVLdG0teU1hV09nVThCYWJuaw",
+      "title": "Meta's Brain2Qwerty v2 Decodes Text from Brain Activity Non-Invasively",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure",
+      "title": "Anthropic's Claude Models Now Leverage NVIDIA GB300 Blackwell Ultra on Azure",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models",
+      "title": "Palantir Integrates NVIDIA Nemotron Open Models for U.S. Government AI",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing",
+      "title": "Cost-Optimized Document Processing with AWS Nova 2 Lite and Claude Sonnet 4.6",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-an-agentic-ai-healthcare-claims-pipeline-with-amazon-bedrock-and-aws-healthlake",
+      "title": "Agentic AI Healthcare Claims Pipeline Built with Amazon Bedrock and AWS HealthLake",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability",
+      "title": "Debugging Production AI Agents with Amazon Bedrock AgentCore Observability",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "github.blog/open-source/git/highlights-from-git-2-55",
+      "title": "GitHub Highlights Key Features in Git 2.55 Release",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihwJBVV95cUxNNVdrb0JtdWt6OU1tU2FicENIa0R3SFBPaHVPYjJHQThPX1ZQR0dZNndHeEI1Nlo1eDVJMDJNQlJUOEcxZldnUUtGQVUyWEhrV29SMGhFMmpubEt6MWxUai0zdmluM1k4YTBNUVBkUmsyZUFwVXRpWVhpcDJKRnpBR1ppNjBMZXhoX0RNUTlOUERKenlyQkc4Tjd3aXh1ZHpzSV9wWGdvWlRDNHpsWUEwVE1BVS1ZVHYwVnNackQ0ejl4NElKVHpXS1NkX2VaMDA3TFRjX3kzVEloS3Q2S1Yzc1phekx0UjE1clFzQVN1NkZRb3VfMGZETWV3cXV6ZnNMQWUwSzNkOA",
+      "title": "California Agencies Partner with Anthropic for AI-Enhanced Public Services",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxPOUZpTzN4ZEgwVWVNd0JXNTl6T2UyLUQ1X25qUTVJUWpwVUVjYURnckhSS2NYM29ZUmJBNWFLSzFPZG5rY1J4RndpOEhhRDlOWGNmajY4SFVSVW11OXlTbWxMZDkxNXkzNUY4TXFESVpoaHNtZGVvcGQ0YlBNNjY5U2Nxbmt2WmZ6R1hMRTF5UzNrNVdZMXNaSWFDMnJ5TDVEMXBHSmhHa1ZmNHdu",
+      "title": "Anthropic Releases Mythos Model to Developers",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOakhJZmdRTmhFUnRZc20tYnhCU29MYmk0Y1N2MUhEczdPcGZTTjRVcTVDbVVhWkJSUnRjY2VObUZ4RDViTnhkQWttVWpfNVZ4Wi1qTGhRc0VQOWcydVJfaVYteEc2LTU5S0N1MW5mZjZSbmR4Q3hKc3lxWlU0bWpIc2tKTFg",
+      "title": "Grok 4.5 Challenges Claude Opus in Performance",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi2AFBVV95cUxONlNSSnhfS3hoSGZZZmVZM09lUzlUa2c1T19HZXVmTDFua0FhX1owbVh4VDZySnF6ME8wUG5iNlhBTWY0eXlmajItNFo1TEVTOWpFczFkcnhaempySkpqV2RGbWlkTXRlVXlfX2tzRk9IcTFMS193cVdtYS02QUtFc0lTdnM0WWNreW04MVdaeG5Wa2RWWS1MaDFYZ1llbzV3SXZfdUtWdFBIT05mN0kzS00zZmtDajBXUXIxcEZ5ZXA3a2VreDFjejB2bmR4NWVfS2p5azc4Wlo",
+      "title": "Grok 4.5 Deployed at Tesla and SpaceX, Bolstering xAI's Challenger Status",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxPOHZDQWRkY1hKUVJwUjFsZlpWT1F0ck9CcWJoajNnd1RXWjJxVXZBYVZBWTdxS1drelFFbW05LVFZcEtiWVNBUExJM3FwNC1vb2tCSzUzZmFja09URkExUTNsRE9pUUhYRmNPU1FOdUtseFE2VzhDT2pCVE1ES0kzSW5BQ2hQdTJhVm1CZmMySUdTUFRvT3RtRGV2MHRkd0NiZFpmQ0VXbldCcWJleTZfOV9IaE1GSFpSaHpWTA",
+      "title": "DeepSeek Open Sources DSpark for Accelerated LLM Inference",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidkFVX3lxTE9DSklFbi1fY1FkdnlVWm9EN2RjS1Y3LXpsTVR1R1RiNklMVlk0Rk0xckpKeFhlTFA0LVBIWXNTLTBUOWdPN0Y0aHlYMENfMHRDTjE3Ti1iS2gtT1ljOFg1ZVVmZWM2SW9VbmFNcEdFMlBKTWtLMmc",
+      "title": "DeepSeek V4 Official Version Releasing Mid-July with API Price Adjustments",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxOTHQwaWRlNkFKMjRCWUUxRWVJVUZaQkVTMUZkbUJFYkJzTTFkWE9jLS1hM1JpN3NFdUk1aEEzc0p2WW1xWTBBaC1rcWxoUmhfLWl1RXNyanF5VmFIWkFyRTIzemhPY2NWc2Q2SGNHTVJCdkg0LThDeU11QTN3dTNwT0J5VFl1bE9HUm1QSlg5eGlXLXFmNnhkV0Jtbk03WW5GcmNpdmhJQTZDeUV5bW5MUjBpWTZGbE55cTZoMTBJWnJPaUU",
+      "title": "Google Cloud Security Leverages AI Internally for Enhanced Protection",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilgFBVV95cUxObUdWbk8wZzZQTDVfcnhPTi1XZDVpbGcxaEtzVUF1Q05NcmlzUHkzSnc3N2FoZnFfLWZlbkR1eG9RRnlkOFU3OHNVM0lORHBwUGlkOWlsdHJleDBxUmwzVUZsUWJCeGVCeUJRdVZZM0tfREdYbTRQOHcxSHJWemhLa3lyZmJuTi1PRDNWWjMzdHpWdEUzcGc",
+      "title": "California Agencies Secure Anthropic AI Tools at Discounted Rate",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijAFBVV95cUxPS0JUSUJ5VFNpMFN4YXNTWlBrYUx0Y3dMVG9rdXpTYmpFUzhGT1JWOXNLaU04SkoxNkJwcXJWeDloTFpFT2drMEUwN0plbFN1RzZraWRWMlRrX2Y3Rk1XOGRTMTl4cXBHUGZaaUVXdWw1QzJJai1IZU15UXlYSF9kUHc4cnhMNU1VQWtTUw",
+      "title": "OpenAI Voluntarily Restricts New AI Model Releases at Government Request",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies",
+      "title": "NIST Establishes Quantum Manufacturing Engineering Center",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidEFVX3lxTE5LTkpzT2h5eWpzU0ZCWHQxQzkybm5XSjJheFVsMlBiYVNyVmNhcGdIT2NNZ0Fkc29FVEJYajFVdENja2VHeHhUMlVzUV9uakZhZ2dTUFVBRmpMbDdoQWxGeHVMYU5QZzUzMGlxVXNCdmhqbndF",
+      "title": "Warner Bill Proposes Federally Vetted List for Secure AI Agents",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNZEF3Q2VFVkpyWTJER1lHZjFJemVBMGhHZ002VkVicjNJSk9PSlpwM0lnbmVKMWpIdXVyOFoxaUFGelBDQmQzNjcxTTNKV29MNTU4Vm5GUUUwRHlvZzdyWjdzUDRDUy1CYnluMl9CaGRCU2xkT0k3N01HWm1VU0xFczlOVXVoX2o2QUZnNkdiTGNfV3NjdnFyeGJfNW9MSzJ5dHl1cnV6TWQ5ZGM",
+      "title": "Poll Indicates Bipartisan Support for Tighter AI Regulation",
+      "first_seen": "2026-06-30T04:32:39.885716+00:00"
     }
   ]
 }
