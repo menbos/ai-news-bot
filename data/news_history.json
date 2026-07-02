@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T04:32:43.579583+00:00",
+  "updated": "2026-07-02T04:32:34.555810+00:00",
   "entries": [
     {
       "url": "openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -480,6 +480,101 @@
       "url": "news.google.com/rss/articles/CBMivgFBVV95cUxOeGxKSHlWcTR3cGdaeElyeVdvZmlUUERGd1FucHVMNHhYWWhOc1hrVTdkZ2FCUUI4MFJlakYxMWlhUlZVclVWcE03a3lqSXF6eWVuTHA3THhWQnMzc1FhNHZGQjY0azl5TmxfdzJ3WW1HenhGVUZzc3RpMVh1aU1GemNJMEpvQnlZbk0yVDVCaG9pNVhsaW16cERUUWRFVHdjWDJTOURZdEd6Mi1xdFgxRk5WSDRaOXZod1dlZGZn",
       "title": "White House Lifts Restrictions on Anthropic AI Models After Two-Week Ban",
       "first_seen": "2026-07-01T04:32:43.579583+00:00"
+    },
+    {
+      "url": "openai.com/index/how-chatgpt-adoption-has-expanded",
+      "title": "ChatGPT Sees Global Surge in Adoption and Usage",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
+      "title": "Google AI Rolls Out June 2026 Updates",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "blog.google/products-and-platforms/products/education/nyc-ai-summit",
+      "title": "New York City Leaders Convene to Shape AI in Education",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+      "title": "Google DeepMind Releases Nano Banana 2 Lite and Gemini Omni Flash",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxQLXhTQlFXWHNNdmlsTENPd2tXSkZzXy1mbEF1VXVxZHdPRTZfYjVrSjd0STNZOGYtVnBCMzVBOGZtM0tacEtHcE1JY1ZuOU9KazlZLUtyMXNxYjlWV1dNTE9ERlJtM0JXUVA2SmxFTHRWRlA5OTVHelNyc2dKdWZuaTYwTUtnZWthWUk0NEl2TU5WME16TDZzTjZLZVVuN21YMWE3TGhmX2h2dVdybFhr",
+      "title": "Meta Plans Cloud Business to Offer AI Computing Power",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout",
+      "title": "NVIDIA Enables AI Compute at Scale for Production Inference",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america",
+      "title": "NVIDIA and Partners Invest in American AI Manufacturing",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us",
+      "title": "NVIDIA Nemotron and OpenAI GPT OSS Models Now Available on AWS GovCloud",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank",
+      "title": "HippoRAG Enhances Enterprise AI with AWS Services",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds",
+      "title": "Inscribe Utilizes Amazon Bedrock for Rapid Document Fraud Detection",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "title": "Hugging Face and Cerebras Partner for Real-Time Voice AI with Gemma 4",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiygFBVV95cUxNTmN2WTU0cnBFTWY2ZDZlR3VfNTM1R3lvMlNUU1ZHODNla21NNHVOUFNjcVlUTnpOMTdKbHk0aUtmd2NoR1o4cjVCLVpyNHFkdDRhYUxVdzNZd0Mxc2Z6SXFlbHVZQjV2MXgwTEgtZmZlaWR0QXEyZWRvYmVuT0pHM3d1STFXSWxLc05zTVg2NGJ3Z3RqWUhmaUVHSjkyelVhaWc2dFNxQ3VSSkJOTWdJc0xRUVRPZngwTnN0ZnZWRndsZDdWWlRYZ1JB",
+      "title": "Portugal Launches First Open-Source AI Model, Bolstering European Sovereignty",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE5oYllGRXZKVDVHcUM2ZnNXdkNydnZ2NWhBTXBLMkhFeTFoM2h2QVlObWppNldneG1wd3hYTDhhVjRWaGRHNmJSNUlfdjladGJRVTBkNXN5Q0NBZWZENGVRVHBMamZxNURSRUpuS2tZbGo",
+      "title": "Mistral Releases Leanstral 1.5 for Automated Theorem Proving",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMid0FVX3lxTE92TmRWQWJiODVoVkFLZXhfbGNKZm0xaXhWN3NFalNkeHNILTV3MkN3NDJkTGs2N2lRWVdYeGRnYzY2cGJYcU5UT1YtdGNoeUVsakFlZVVVTDRUWVowWHVYdURmOHlhQjlvVzBOWXRHN0FxNlBxNmtv",
+      "title": "UN Launches 'AI for Good' Commission",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxPUDhZbWF5Q2dSTkFlYzNhd1RZUS1zU25vd2wzcldjSmh2eDhNNDVaT2x3X0JmVEt1dVlwQmd1cGdrRy1HRHNOU0hDNmsxWXgxQzdkN01HRlNHQ1lhYm5UVFB0QUZNSk5lT3ItRFlwdTJLbWk5Uy1oajV3cHVrUnd1NHNlYzhwQ2JkSTlPYVVR",
+      "title": "NVIDIA Software Cuts DeepSeek V4 Token Costs Fivefold",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiywFBVV95cUxPVk5nbzlPamhmaDUzV21EZlAyYjJRY2xrZ2YtSzczcUwxRnZzZkdVamxXS2xRUWltNkZJMWNiMV83T0FqTm9kRGFIbUJYNjdyM0psUTZjbl9DaVBpdHd5VGRtYXZ6aC1uWmcwZVpRaUhnZ2tEdVczQkpiWDBlLURoN1IwTEt1NGV5OFgyTzl0X0hRUTJtRkFIcDZQSk9FRDFXdU9FWEFvdEt1ZWVYTllySzNxNUFNcWNiY0pfOFp0Z0l6S0lobm9Od0VJa9IBywFBVV95cUxPb1oxUWhRbktqRVNIRWQ4LW5IUXFUWFdJVG16NXNRcS00ZzlJUE94UnRNTmhKUmZZZ2E2cldIZ0s2aEhicjFITEVLQmFvNVljcGVmZG5YTUJUYVE4cUktUkNlTGtRV3EyUU1ISWp2c2NYR3ZTbmtQMVk0TWJOMmxWUTVMaVVVbXhKZW1aelNlYnBHS09OWkgtUGpIQzBJdW5xTS1DUDBvR1pidU9PdnczRmduT2F2cnhJZm16OE13eWlDeXVIVklhWHozYw",
+      "title": "Meituan Claims China's Largest AI Model Trained on Local Chips",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxORlEzSFczX0VFNy1TNFR3S09mMlZWOUtZRjRNb0tqMl9Sc0dpV0d4b2pmcWFBaERweDhBdGM1N21jNWN5dUEtbkE3Vlo5V1l6WjN0TEFzTmdEUzZCR0paLTFRNlcxdTNXd20zUTJibEtaODFIbGRDVmZ0a3BNNFJpX3h3",
+      "title": "US OMB Considers AI Tool to Align Grants with Policy Agenda",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxPN0lyeWVRWHkzdDFrTjBPd1V3MDdkOE0xVnJaUGs0T3RLWkNZYkRhRVJkYktIRS04c2ttN0tscHEwclRNc0RpNTYxS2JiUXl0R3drWGRKbENTNzZSY1ZyY2ZZQTFpT1VDbEFBX01RNmtRb21ZYzBHV3ZNNEJha2pacU5jOHkzQS16NFBCZXpwYkINGRfTDQ3RjBkNlBiNXQ3RUdiZjl2Vk0zNTdhaE5V",
+      "title": "US FTC Warns AI Bias Safeguards May Conflict with Consumer Law",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxQcjRFbGY1bUU1aTR0VC1FWEstalYzVHlDMXkzYXh6OHBVRFU0Zy12LWlkbDFIWl8tTGNtQ3A3UXE1dmRaYV9KRlRoaEJXWWVjelhkM3ZnQXowWkMtanpFcUZjSGZadjRpblIxRHhTSExCOFpFXzZpU003NDNZTHdUZWNUaDlTcF9KVDZDcHotN1ZaWXpkZVRWWXVKaHBFaGNoRzhN",
+      "title": "Global Central Banks Discuss AI's Economic Impact and Risks",
+      "first_seen": "2026-07-02T04:32:34.555810+00:00"
     }
   ]
 }
