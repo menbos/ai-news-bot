@@ -1,106 +1,6 @@
 {
-  "updated": "2026-07-02T04:32:34.555810+00:00",
+  "updated": "2026-07-03T04:32:09.074740+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "title": "OpenAI and Broadcom Unveil Jalapeño, a Custom LLM Inference Chip",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "openai.com/index/gpt-5-immunology-mystery",
-      "title": "GPT-5 Pro Aids Immunologist in Solving Long-Standing Research Mystery",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
-      "title": "Google DeepMind Introduces Computer Use Capabilities in Gemini 3.5 Flash",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxOdk1MdWs3RV9Ua1JwaXVrQlphZy02U3lOcld4S1hTMV8yUm9DX1NUckNtYzBWSHM4X001WjhsTkI2VW1EMVN1ZG85S3llUktjUUdRLXFSVnpGLVdwYnpsQzNhMzMydW43RkxUb3hiMEpZU2R3SmZFWnFtcXk2dEhEeklkMDh0YzlCeDRYZnhlWi1QNUpzZHpv",
-      "title": "Meta Launches Consumer-Focused AI Glasses Priced at $299",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nvidia-aws-ai-production-scale",
-      "title": "NVIDIA and AWS Collaborate to Enhance AI Production at Scale",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026",
-      "title": "NVIDIA Dominates Top500 Supercomputer Rankings",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore",
-      "title": "Amazon Bedrock AgentCore Enables Protein Research Copilot Development",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore",
-      "title": "Amazon Bedrock AgentCore Facilitates Multi-Tenant Healthcare AI Systems",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxOemlxN2NjY2JHZlQweGxfOFBYc3pqbExwWFhXMjVzUmFxa2RyMURaQTFkQ2Y3dEJYdHo5V2EtdHRvd0RnUUdTWnRuQ0tESDR6c3VWX2hTVFRxVk9xRU0tUnpSRzdCRHNvWnZ3YnNEUGxRbWxvam1Zc3RFbWFKMGhhcmJicmtrTEE",
-      "title": "Anthropic Launches Claude Tag for Slack Integration",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxPakRTUVoxbzdSdndVb3htSlhIRjdPYWRaOWRuRmxEdzdvWXdxbFRNeWlFUG85U2tfUkNnX29FUktBUDBkclR3RVFGY1Uwc21aRkszTlg1c2NEUFhYcGh4V1VtN2llTlVwc1k5UlVaTUhwdGVDN2w5ZG5BVzFSeG1kQUZjMWFnWjZvaDNUNXlSNkVZb01pUlVndG0wT0JRUXQ4NlpSeTJn",
-      "title": "Grok Build Integrates Official MongoDB Plugin for Developers",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxNcVFhN0R2RkcyZWJiZlYwLUdUMGpleDdSd1NORXFOSFlRb25Hd25SVnZBeklZSU8wQi1FTE5KaDhLelZRYzZCRkdaUjBfRHkwVjhkcHhjQjU0Y2RLNzhUZGY1MjZhMmNQUVpETjBkTXFpb1REYnR0SWFhV2cydzEzbXMyWFVKX3hRNmRuZ3ZCTUE5WDFlc2x4U05mVXpqc3BwZnJ4OUltRFZaenZPZTdj",
-      "title": "Mistral Launches OCR 4, Expanding Enterprise AI Capabilities",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiaEFVX3lxTFBQaTBUOEd6X0lhRWR1S3czRnk4UFcyWC1zSThCSEVSTEtxdl8xLTlwNGctcWVYQ1FOeDJkQlpuX1VtWm1YLWZ6SUFtZHJiMkk2ZUlwRXhEMTlyd3MtVGhDcEViYzdYemxK",
-      "title": "Mistral AI Seeks €3 Billion for European AI Expansion",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi4wJBVV95cUxNcEEzMXh0V2FrX1dDSlVZNHZrTi1BUkJZeEF3OVJLalFRRm85S29pTU5fQVZHVi1qa1FDRnRaZHZHQ2MxUlYyeExPdnI0TGNaMXFFUUNEZ1Zic1cwSzh1VHN4aU45YmtaalZncjgxQjFZMXEtX1V2Vy0xTjdHMTA0WkpEVnpPVFpmVkc4R3hENDFBSUhVVERzZG9jUDZ0UU5OWEN4dFhFeHM4c3BlbFZaMmVmTnRPOFY0LXhVcDlqemZaNGdHMGxhdmtuS1FlRnJzWnNFZm9ucFpHRXZ5NmZpVmZlZ1BhVHNXVHlPZGM2OWp3NGlPaDhidXBJOVJIM2xkc1ZRcWhma1FzNE9sUmsxUkxEVmR5Wnc4eGswRWIxNDNCOC10eFJzbWxQamRzS3RUdDNPM09WZTlCa1lHSHg5Mlc2OTR0amFhZ3lzOThDNmZ1WU14UnY2ajRsOFAxeDhRNl9r",
-      "title": "Cohere CEO Warns of National Security Risks in Renting Foreign AI",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxPMl9GTG44WUM4SVRoQjRqQVo3X3hLQ05TLVhFWmN1RllsS2xVLXlyN3ZXdU9pQ1pvUl95eDB2UkdyZWZobk5pQUV4bTFtbXJrTjZwWG0tZzJEM2g0Y2tkWmRtbWNCNFRpYVY0eWs1akp3X2VBRHNuNVJVdlFlLUJkb1VoWTJkc3Ez",
-      "title": "Microsoft Considers DeepSeek's V4 for Cost-Effective AI Solutions",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNcV81SG5FbkstMmh0aGpuNnpvc1FXTTN3VVE1M0Vxd3pJUTEybmtta1NPOE8wb0hYRXRjdmV3dGVtVUstLVIxczNOZjdZNkw5SWlmbnpxTWZfeVZDV3VlSVoyWXhfUFJVYmNsZDI2RjR4dUxZNjM2VTB6cVhFQTdJVXFlU2Rwa2FkRTI4NWFtdmgxb2RXVm8waDZmcGJxZ05HVGEtWDdZVGg5WHBrWWltcFdWTGlaQ3RCOFQ0",
-      "title": "EU AI Act Transparency Obligations Deadline Approaching",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxQdThteGtwZVZweXpUZTNQR0djS0ViNGhlZjNacUlpaG5KZ2M2SGdLckxXcEV5T3Z5UDhhRjJ5OUh5LTAxQThQVjNGUG1xWGIwM1VLeUNxNjY2N0RfbnFySTY1d0txYjdlNUVWY1lFbFZhRHcyTV9XRWFkRWZjdzM1Mk1QUWVhTmRRYi1IVklHdlJJeThoMUloTlNFTm4yQ29YTUFXRDUtZjZOeVh2cThIazdhUWd1bjdKcXJsamNqN01VR3RMZUtvLXI3SXpvNGV6",
-      "title": "OpenAI and Broadcom Unveil Custom Chip for AI Infrastructure",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxQWmtNQW1EUEQ5WVVUZHhlbmlGWGRyaFdDWm4xa3d5eHpsMGFuNUFXWTNwTWdZbzNmY0RsbG1pYUJRcEJkMy1fY25nbFFCeTZDc1YwdnJGaDJ2T2tDZHJJQU9rMk9Ub3ItOWdpbXVvaG90ZGNHa2YwRTEwRThHWjhlS1JBRHZQUWZrNEFER29OOXlISHVkMDlXRzB6TkxfbW50RzQ1U1NGSVBTUG8",
-      "title": "UN Chief Urges AI Firms to Disclose Environmental Impact",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
-      "title": "Anthropic Accuses Alibaba of Illicit AI Model Access",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-06-25/sk-hynix-micron-solidify-memory-chips-as-runaway-stars-of-ai",
-      "title": "SK Hynix and Micron Solidify Memory Chips as Key AI Components",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNZEc3OVB3WWZUSTR1cVpwX3NPSmUwVWFhdWZnbXdYSVhJVWdjNEx4UnBKWFV1UGw1TktnYTJDWlE0RWVGNjhjV1dXdy05RGd0bG5BdWlra3BnUC1BMVZ3Nl9aS3hFNHh4dUJGeVI4ZWJUc3c3U3p2MHc4UHhuczhvRV9LbllsbUlDY0RUcEJ2cTRnT21hWWwxUXZsY2xHSU9Iclp4RE1MWWJ2UUE",
-      "title": "Qualcomm to Acquire AI Software Firm Modular for $3.9 Billion",
-      "first_seen": "2026-06-25T04:34:39.141528+00:00"
-    },
     {
       "url": "openai.com/index/previewing-gpt-5-6-sol",
       "title": "OpenAI Previews GPT-5.6 Sol with Enhanced Coding, Science, and Cybersecurity Capabilities",
@@ -575,6 +475,71 @@
       "url": "news.google.com/rss/articles/CBMiowFBVV95cUxQcjRFbGY1bUU1aTR0VC1FWEstalYzVHlDMXkzYXh6OHBVRFU0Zy12LWlkbDFIWl8tTGNtQ3A3UXE1dmRaYV9KRlRoaEJXWWVjelhkM3ZnQXowWkMtanpFcUZjSGZadjRpblIxRHhTSExCOFpFXzZpU003NDNZTHdUZWNUaDlTcF9KVDZDcHotN1ZaWXpkZVRWWXVKaHBFaGNoRzhN",
       "title": "Global Central Banks Discuss AI's Economic Impact and Risks",
       "first_seen": "2026-07-02T04:32:34.555810+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxNM2dWaUxJU2Y3eDdTcVFMUGw0OEZCS2twb3hKN2tPNERLSGRWZjctUFVYTk5IZzZtZHk5WVhlS05ROXB1cFlCSHk3Y05iTEd4Sm5hME1UTEIyakh0c25UdEl2Yzl3dTRWcGF2NnE2RGo3WFNEbzlWMVBJNF9iTXdubFZBZWRieURObXE2TVN3",
+      "title": "Meta Launches 'Pocket' Vibe-Coded Gaming App",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence",
+      "title": "Microsoft Emphasizes AI Engineering for Business Transformation",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing",
+      "title": "Amazon Bedrock Enhances Detection of AI-Generated Phishing",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai",
+      "title": "Best Practices for Multi-Turn Reinforcement Learning in Amazon SageMaker",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero",
+      "title": "GitHub Achieves 'Inbox Zero' with Secret Scanning Automation",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMibEFVX3lxTE1hVTNmV3ExUXk0eGtBV2FYaXhpVEtqQ0pjWEJOSVJQdmUwdzRFc0pza05KSDVaYmJPLU9jRUtmc2VOVXBodnoybjNiTkpDaHNwWVVnMV9LRU9sc001RG4ydW9JV0QzbW5zWW8zag",
+      "title": "Anthropic Officially Launches Claude Sonnet 5",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxQeUVkQ04zcGtVa3BfbmZsMlZoTkg3dWpYd1dPbFhBWWFmLWczWnF4VW9Xa0M2cmRqMFhzZ0VkSndzSmR5dXBHemswSVBJZFNYZFlvbTA3a2hnNFJZdjF5QXUzR2x6N1djZFZxZzJRVXNERUF4TDRidENjU1BSVnFoWGNTUHRScHB3Rmc",
+      "title": "Anthropic Unveils Claude Science for Pharmaceutical Researchers",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxOTE9ZeTJDT1hvUEhTWTZLVnR4eDlkUTROYVJDYjFmV2dkRlVEYXQ1XzBvMVFXZEVSZWtoRjhneUo2b2s4X1NpR3hKeS1la3B4U2tuZnE2R256SFNFQzJrekxyQ0FDQ2ZpYU0xeF8yM295ZmVQYzg3Vno5NGxiVU9ERGtmenZuR3hxWHdOcjJhbXU2RUdu",
+      "title": "BMW Group and Mistral AI Collaborate on AI for Crash Simulation",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxQN2p4TmtNNEFWWXBSd1E4OUtqbFFqYXY4MVNWMXJxUm5BSGxVZHplYTBrbV9MeGlNT0lYN0NZeHJtYXZXZHd3V0ZxSWdQekFEeXEtLXBXVTJGV3NyRlB6LVFTVll1ZjRLTlBuWkFBSDQwOWNMbkRENmk1MEpUbk51Vm9VdDd2SU1o",
+      "title": "Portugal Launches Amália, Its First Open-Source AI Model",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxPMXhkY25uQ1BOUzJ1Q0I3SjVvRjQtSHZLemxTbTB3V1ZWNV9aSFBZOTEwandUdmdPcGp4ZzdpeFpIdktvT0gzeHNfSmFtYm9CeXZRZVZxc0ZjLWFKREVBNFBXN0FBY3R5THllRkIwdHpmQXE3Z1VkWmwtNi1tRllUdWZ3aFVXRFI1YTc2MUxKQkdIUFBzSUl6eFZoY2FBbHZoREZiQzVSb19BSnE2WTI1NHhsSGhMNGNYSDdfUUVMY1hCR0dBTVpLSG1lbkJGaTFq",
+      "title": "Second Front and Cohere Deploy Sovereign AI Infrastructure in UAE",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxQWm1TbUJnNmpTZ2JuWWt4SFZvRTl3QW9NNlZyOUo5OUlCNmJIcEVXemdsWXRmTmxCaUdqRENiODRyNFMtdXZUUTc0OXNDSlYyWWVVV2g1aXJkLXNiX3hjT1J3S1V4SEpVaXBOMUJYNlk2ejRiRHBBdEVOWWxsT1J4RWVtcUFkeHZ3eDlNdTFjdUE4b3RpMVczMC1BZmJkTVhH",
+      "title": "UN AI Governance Commission Launched with Tech CEOs",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk",
+      "title": "Inexpensive Chinese AI Model Competes with Global Leaders",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxNNXpubXFFWHJfUXNnTzN2OGNUTG5VNUN1ZjJFemQ1R3BRaVNsc05jZ0trR3ZTZ280TnVVUWlhMTdILU9NYlRsM0p3VEctdDlycHZKekR2ZXlwdjRZaE9qZ3FSM1pNMHUwQ3l6V3NXRktBaS11VlNTZjhnNU02M1dDUmxGbjdycG02eHRxMHNhbnpMdG44RWFYM0JELWZDajdFTThmWkstZThkNXNWOU93c3hodEZZX01qNXhMdlFXSUNHNDNNcHh6VXUtQldqcEl3",
+      "title": "DeepSeek's AI Allegedly Complies with Building In-Browser Ransomware",
+      "first_seen": "2026-07-03T04:32:09.074740+00:00"
     }
   ]
 }
