@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T04:32:09.074740+00:00",
+  "updated": "2026-07-04T04:33:34.733752+00:00",
   "entries": [
     {
       "url": "openai.com/index/previewing-gpt-5-6-sol",
@@ -540,6 +540,66 @@
       "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxNNXpubXFFWHJfUXNnTzN2OGNUTG5VNUN1ZjJFemQ1R3BRaVNsc05jZ0trR3ZTZ280TnVVUWlhMTdILU9NYlRsM0p3VEctdDlycHZKekR2ZXlwdjRZaE9qZ3FSM1pNMHUwQ3l6V3NXRktBaS11VlNTZjhnNU02M1dDUmxGbjdycG02eHRxMHNhbnpMdG44RWFYM0JELWZDajdFTThmWkstZThkNXNWOU93c3hodEZZX01qNXhMdlFXSUNHNDNNcHh6VXUtQldqcEl3",
       "title": "DeepSeek's AI Allegedly Complies with Building In-Browser Ransomware",
       "first_seen": "2026-07-03T04:32:09.074740+00:00"
+    },
+    {
+      "url": "deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
+      "title": "Google DeepMind and A24 Partner on AI Research for Filmmaking",
+      "first_seen": "2026-07-04T04:33:34.733752+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxOSWN5bEZWTHNWbDJHcnQ4X0tSNFlNUS0yTlhlMlNmenk1TERmUEsxVDlGbElDSThnVHV4eXFXVEpDWXZDZkJkTUVyM1M3OVNRdGlfWWVEVTNQMG5BREx1QzNmdlR1VHZfX2gtQnhaUnJnMkgyMkFwNXVRQzRtMG5tVHhXNjZFWVRubWctVkkzdw",
+      "title": "Meta to Enter Cloud Business Selling Excess AI Compute",
+      "first_seen": "2026-07-04T04:33:34.733752+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE4zckg4Z1N3NVUxSmxlTUlVaTZOVGVuZkY2c0V6dXlib25kMUJiWGRia3RGel_lZlVhZzRmTzhoQ3dXc2ZzNmNaNmtIVDR6Z0JJR3VBaWFIS0hfWlBfUURIVHVBanRUWS1teVRONFZuYTFsbXBrajVxUGVB",
+      "title": "Anthropic Unveils Claude Science AI Workbench for Researchers",
+      "first_seen": "2026-07-04T04:33:34.733752+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxPZTVFWjMwZjlhbzY1RzNsT1pQSEFJYjFfZ1puS2FNVEFkbFM5NndSMHNwTlRkRXBYLVVEdlNmc09GVWVVY3FieGlxeDFWYWpjWG0yR2xXV2NONGpXeEN5d2ljMjVnbEtLOGN0TUhzR3JEcHZqbDlYREhRdlBjSGZxVFNoNjQ4WUdtT3ZmUlY2ZVpmWjd3Ync5eEJCSG9NQU1fanFIZEVhdWQxQQ",
+      "title": "xAI Launches No-Code Grok Voice AI Agent Builder",
+      "first_seen": "2026-07-04T04:33:34.733752+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMid0FVX3lxTE1rOEE4bEVPbmY3Z09QbWZmLVpIOWVlRzVOeDN5R04yY3FuUkxfTEJKaXNTeHlkNkx6Nk05Tmg0d3BYX01VV3N1VWRLRzRGMlVibEZvX2ZLZGRPQVlQVl9BSHdBRXc2NU5LLVJMNW5yRnZGVlBMbXV3",
+      "title": "Cohere Secures US Drone Defense Contract",
+      "first_seen": "2026-07-04T04:33:34.733752+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi8wFBVV95cUxQNndMQUF5NVJ4UzZoRGFmU3pEVmpBQmFoQ2JxbkxLTHBxdkJlekdnY1BaendOcDNhSnRVRnFoS2oxNmZpSGpkOEFFS2VkNVZ1VU5YTi1MdjEtSXh1Y0tuMV9PMkV6aVJBRnpYME9OUFRBTjhuZjhzWjYzNEZZX25GVXNQSzRJVU1kNVNKVWpnV3puUlhjUG05OUtVNGVqV21RTk1wQ3hHYjBjbks0OUVkRnNEY2YtWWxmUjZ1OXJPQnpkdUNlckE3cjd3U0ZpS0k1QTVvVXU0VFh1YndZZUFPbHlpYWtaRHRYRXpBUi1FdnNUSVU",
+      "title": "Nvidia Software Update Reduces DeepSeek V4 Token Costs Fivefold",
+      "first_seen": "2026-07-04T04:33:34.733752+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi4gFBVV95cUxPd2lpTWVLQ0pRbGJleTRTVERNUWRjNVl2c2szdndSaGtFNnlhTHVnalBDc3hXMG5BOEZ0anlkNDY3SzM1MVFxdGdObHFobmJmT1lEX0tQNmVwUFRWV0xGWktCSUg4TXVFeGp3Nl9vS19FRXkweFppejQ1b3pLWkIzMDF0Y1QwYnY2ckpRRHpjeWp5TXNwdGQ4MTBScjdMSFh4b1AzSklQb255VURmVXhxSTNXYklrandKMmNRR2hNZlhaeFlRbHEtV0MzenA4RVNBWk51dFdXNUVJOFBqLXRMQlZB",
+      "title": "FTC Proposes Policy on AI Accuracy and Ideological Manipulation",
+      "first_seen": "2026-07-04T04:33:34.733752+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi2wFBVV95cUxQQ2x1Q3pDNFFGdlpNRUZ4X2NHTE5jcm83cEl1WmdEVUtycURnNTFTeGZQQ1hEWG80OHdod2JkUEtpYWZrUE1vbFZRLVdTS3VCZTNLZUpoY201QjhJVDMyTTMwLWRyd282RnBlYlhuWDBiMmV6bEctR0lpdXJrOE9Tb1BITEFHdUU4d0Y0NHV2Y3pndV9udlNHQ0VjZkdJODNvN2NfenROTjA4N2l1cU1RRnFWU1VvSjFCSWthX25nTnFjZnR2MURuSm56M3Q2U09hQS1IWmhGajJFNHM",
+      "title": "FTC Proposes Policy to Prohibit Deceptive Steering of AI Products",
+      "first_seen": "2026-07-04T04:33:34.733752+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPQXc3akZIUTRKbmNvTGpUa3h1Y2FtQmV1cDhtazd2NVNlUlBaYlBma01aVzRDRWkzdWtaZVNkYWxVMDdWcEd3alJlNHF0eWE4OEd2dXJyR2ZmWVdGQnIzMGV5YWZnb1Q1dnRaSTFSamVYd3VrU0x5WmlvbnlpQmVlY20tRXU2Z29iMGZha3NIWEN6cUp1ODZEclRBdFpjSlRGaENvRGp2NlQtR3ZoZUxYYWZ4ak9jaGI2",
+      "title": "Thailand Advances Towards Comprehensive AI Regulation with New Draft Act",
+      "first_seen": "2026-07-04T04:33:34.733752+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxQUEhweVd0dWNyYnFWdDNQZGx1Z2JmNjFlNlZMdl8xRTlhV3RTYVdGUk0xR05WMm42N1dVbkVVUmk4YW5iNnc2VWhNZ3ZLbXpSaU15Q1huRndBZWUyeFFtUTg5MHBIaHBmdFpuZFhSa3lDa2JLQ0puMWpzc01rM3VqUmZDQ0pFcl9zSnJWSGJzcVNRVEky0gGaAUFVX3lxTFBKLWQ5bm9HRzIzMndnYmpFM2lSSUV0RlFxVW5WcDJHNXViNjVzZFM5dVUzVDFqdlUxcmw0cEI0SE5ZcDBocW1Cc29PbW5STXZRRXYwZDRsV0lYLXg1b1JJVDVPOWY5MVlHYzdjb2Q2WW5NMF8zZUI2UTRuYk53dVlORVFKMTluSl9KbWdKV3doTnVQVnhmZE1RRmc",
+      "title": "European Bankers and Regulators Warn AI Outpacing Regulatory Frameworks",
+      "first_seen": "2026-07-04T04:33:34.733752+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN",
+      "title": "Meta's Zuckerberg Notes Slower-Than-Expected Progress in AI Agent Technology",
+      "first_seen": "2026-07-04T04:33:34.733752+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-02/nvidia-offers-revenue-sharing-model-for-aspiring-ai-startups",
+      "title": "Nvidia Proposes Revenue Sharing Model to Foster AI Growth",
+      "first_seen": "2026-07-04T04:33:34.733752+00:00"
     }
   ]
 }
