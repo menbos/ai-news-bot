@@ -78,6 +78,7 @@ def main():
             history = NewsHistory(
                 path=config.history_path,
                 retention_days=config.history_retention_days,
+                prompt_days=config.history_prompt_days,
             )
             logger.info(f"Cross-run history enabled at {config.history_path}")
 

@@ -252,6 +252,11 @@ For each news item:
         return int(self.config_data.get("news", {}).get("history", {}).get("retention_days", 7))
 
     @property
+    def history_prompt_days(self) -> int:
+        """How many days of published headlines to inject into the Stage-1 prompt"""
+        return int(self.config_data.get("news", {}).get("history", {}).get("prompt_days", 3))
+
+    @property
     def llm_provider(self) -> str:
         """Get the LLM provider to use (claude or deepseek)"""
         # Check environment variable first, then config file

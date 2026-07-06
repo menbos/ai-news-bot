@@ -197,13 +197,13 @@
 
       <div class="step">
         <span class="n">3</span><h3>Pre-filter, deduplicate &amp; flag continuations</h3>
-        <p>Near-duplicate articles (same story from different outlets) are removed using title word-overlap (Jaccard similarity) before anything reaches the LLM — and the collision is resolved in favor of the <strong>most primary source</strong> (lowest tier), so the digest links the original announcement rather than a rewrite. Items matching a recently covered story (see step&nbsp;8) are marked <code>[COVERED]</code>. Each surviving item gets a unique ID (<code>INT-1</code>, <code>DOM-2</code>, …).</p>
+        <p>Near-duplicate articles (same story from different outlets) are removed using title word-overlap (Jaccard similarity) before anything reaches the LLM — and the collision is resolved in favor of the <strong>most primary source</strong> (lowest tier), so the digest links the original announcement rather than a rewrite. Then the cross-run history (see step&nbsp;8) is applied: items whose <strong>URL was already published</strong> in a recent digest are <strong>dropped outright</strong>, and items whose title fuzzily matches a recent story are marked <code>[COVERED]</code>. Each surviving item gets a unique ID (<code>INT-1</code>, <code>DOM-2</code>, …).</p>
       </div>
       <div class="arrow">↓</div>
 
       <div class="step">
         <span class="n">4</span><h3>Stage 1 — Selection (LLM)</h3>
-        <p>All items are sent to the LLM with the <code>stage1_prompt_template</code>. Acting as a "senior AI industry analyst," it returns a JSON array of the <strong>15–20 highest-quality</strong> item IDs, balancing categories, following the <strong>source-trust hierarchy</strong>, applying an explicit <strong>avoid-list</strong> (SEO farms, copy-paste newsletters, unverified rumors, benchmark screenshots), and skipping <code>[COVERED]</code> continuations unless there's a materially new development. Code validates the IDs and enforces the 15–20 count (with a fallback if parsing fails).</p>
+        <p>All items are sent to the LLM with the <code>stage1_prompt_template</code>. The prompt also embeds the <strong>headlines published in the last few digests</strong> (<code>prompt_days</code>, default 3 — roughly 1K extra input tokens), so the model can skip a story it already covered <em>even when it's reworded</em> — semantic, topic-level dedup that URL/title matching can't do. Acting as a "senior AI industry analyst," it returns a JSON array of the <strong>15–20 highest-quality</strong> item IDs, balancing categories, following the <strong>source-trust hierarchy</strong>, applying an explicit <strong>avoid-list</strong> (SEO farms, copy-paste newsletters, unverified rumors, benchmark screenshots), and skipping <code>[COVERED]</code> continuations unless there's a materially new development. Code validates the IDs and enforces the 15–20 count (with a fallback if parsing fails).</p>
       </div>
       <div class="arrow">↓</div>
 
@@ -227,7 +227,7 @@
 
       <div class="step">
         <span class="n">8</span><h3>Persist history</h3>
-        <p>The published stories are recorded to <code>data/news_history.json</code> (headline + URL, kept for <code>retention_days</code>, default 7). Because the GitHub runner is ephemeral, the workflow <strong>commits that file back to the repo</strong> — giving the next day's run the cross-run memory it uses in step&nbsp;3 to tell a genuinely new story from a continuation.</p>
+        <p>The published stories are recorded to <code>data/news_history.json</code> — the rewritten headline, the <strong>original RSS title</strong> (so future runs compare incoming RSS titles like-for-like), and the URL, kept for <code>retention_days</code> (default 7). Because the GitHub runner is ephemeral, the workflow <strong>commits that file back to the repo</strong> — giving the next day's run the cross-run memory used in steps&nbsp;3 and&nbsp;4 to tell a genuinely new story from a continuation.</p>
       </div>
 
     </div>
@@ -277,7 +277,13 @@
     <details>
       <summary>How does it avoid repeating yesterday's news?</summary>
       <div class="body">
-        Each run records the stories it published (headline + URL) to <code>data/news_history.json</code> and the workflow commits that file back to the repo. On the next run, fetched items matching a story from the last <code>retention_days</code> (default 7) — by normalized URL or title-token overlap — are flagged <code>[COVERED]</code>, and Stage&nbsp;1 drops them unless there's a genuinely new development. Toggle it under <code>news.history</code> in <code>config.yaml</code>.
+        Each run records the stories it published (rewritten headline, original RSS title, URL) to <code>data/news_history.json</code> and the workflow commits that file back to the repo. The next run uses it in three layers:
+        <ul>
+          <li><strong>Hard drop</strong> — a fetched item whose normalized URL was already published is removed before the LLM ever sees it.</li>
+          <li><strong>Soft flag</strong> — an item whose title fuzzily matches a recent story (token overlap, against both the published headline and the original RSS title) is marked <code>[COVERED]</code>; Stage&nbsp;1 skips it unless there's a genuinely new development.</li>
+          <li><strong>LLM-side topic dedup</strong> — the headlines from the last <code>prompt_days</code> (default 3) of digests are embedded in the Stage&nbsp;1 prompt, so the model also skips the same story <em>reworded</em> or covered from a different angle — cases string matching misses.</li>
+        </ul>
+        Entries expire after <code>retention_days</code> (default 7); only the prompt-embedded headlines cost API tokens (~1K per run at 3 days). Configure it under <code>news.history</code> in <code>config.yaml</code>.
       </div>
     </details>
 
@@ -360,7 +366,7 @@
   </section>
 
   <div class="footnote">
-    Generated from the repository state on 2026-06-24. Active model, schedule, and source list reflect <code>config.yaml</code>,
+    Generated from the repository state on 2026-07-06. Active model, schedule, and source list reflect <code>config.yaml</code>,
     <code>src/news/fetcher.py</code>, and <code>.github/workflows/daily-news.yml</code> at that time — re-check those files if the bot is reconfigured.
   </div>
 

@@ -45,10 +45,20 @@ news:
   history:
     enabled: true
     path: data/news_history.json
+    # How long entries stay in the file for URL/title matching. Costs no API
+    # tokens (matching is local), so 7 days is fine. Default: 7
     retention_days: 7
+    # How many days of published headlines to inject into the Stage-1 prompt
+    # (the {recent_coverage} placeholder) so the model can skip stories it
+    # already covered, even when reworded. This DOES cost input tokens:
+    # roughly 15-20 tokens per headline, so 3 days (~60 headlines) adds about
+    # 1K tokens per Stage-1 call — small next to the ~150-item news dump.
+    # Repeats mostly happen within 1-3 days of a story breaking, so raising
+    # this past 3-4 buys little. Default: 3
+    prompt_days: 3
 
   # Stage 1: Selection prompt template
-  # Placeholders: {total_items}, {formatted_news}
+  # Placeholders: {total_items}, {formatted_news}, {recent_coverage}
   stage1_prompt_template: |
       {formatted_news}
 
@@ -78,6 +88,7 @@ news:
 
       ### CONTINUATION FILTER:
       - Items marked [COVERED] were already reported in a previous digest. Do NOT select them unless there is a genuinely NEW, material development (e.g. a price, a shipped feature, a regulatory ruling) beyond what was previously reported. Treat a mere follow-up, recap, or reaction as a continuation and skip it.
+      {recent_coverage}
 
       ### AVOID (do not select):
       - ❌ Low-quality AI newsletters or aggregators that only copy an announcement without adding information

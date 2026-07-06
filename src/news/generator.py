@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 from ..logger import setup_logger
 from ..config import LANGUAGE_NAMES
 from .fetcher import NewsFetcher, TIER_LABELS
-from .history import NewsHistory
+from .history import NewsHistory, _normalize_url as history_normalize_url
 from ..llm_providers import get_llm_provider
 
 
@@ -279,16 +279,25 @@ class NewsGenerator:
                 logger.error(error_msg)
                 raise Exception(error_msg)
 
-            # Flag items already covered in a previous digest so Stage 1 can treat
-            # them as continuations rather than fresh news.
+            # Drop items whose URL already appeared in a previous digest (the
+            # exact same article re-fetched), and flag fuzzy title matches as
+            # [COVERED] so Stage 1 can treat them as continuations.
             if self.history:
-                covered_count = 0
-                for section in news_data.values():
-                    for item in section:
-                        if self.history.is_covered(item):
+                covered_count = dropped_count = 0
+                for key in news_data:
+                    kept = []
+                    for item in news_data[key]:
+                        kind = self.history.match_kind(item)
+                        if kind == 'url':
+                            dropped_count += 1
+                            continue
+                        if kind == 'title':
                             item['already_covered'] = True
                             covered_count += 1
-                logger.info(f"Marked {covered_count} fetched items as already-covered from history")
+                        kept.append(item)
+                    news_data[key] = kept
+                logger.info(f"History: dropped {dropped_count} already-published URLs, "
+                            f"marked {covered_count} items as [COVERED]")
 
             # Format news with unique IDs for selection
             formatted_news, news_items = self._format_news_with_ids(news_data)
@@ -307,10 +316,25 @@ class NewsGenerator:
                 config = Config()
                 stage1_template = config.stage1_prompt_template
 
+            # Recent digest headlines, injected so the model can dedup at the
+            # topic level (heuristic URL/title matching misses reworded stories).
+            recent_coverage = ""
+            if self.history:
+                recent_titles = self.history.recent_titles()
+                if recent_titles:
+                    recent_coverage = (
+                        "- The following stories were published in recent digests. Do NOT select any item "
+                        "covering the same story or topic — even if worded differently or not marked "
+                        "[COVERED] — unless it reports a genuinely NEW, material development:\n"
+                        + "\n".join(f"  - {t}" for t in recent_titles)
+                    )
+                    logger.info(f"Injecting {len(recent_titles)} recent digest headlines into Stage 1 prompt")
+
             # Format Stage 1 prompt with placeholders
             selection_prompt = stage1_template.format(
                 formatted_news=formatted_news,
-                total_items=total_items
+                total_items=total_items,
+                recent_coverage=recent_coverage
             )
 
             messages = [{"role": "user", "content": selection_prompt}]
@@ -397,7 +421,20 @@ class NewsGenerator:
             logger.info(f"Stage 2: parsed {len(items)} structured items, rendering markdown")
             response_text = self._render_digest_from_json(items)
             # Persist what we published so future runs recognize continuations.
+            # Attach the original RSS title to each item (matched by URL) so
+            # future runs can compare incoming RSS titles like-for-like instead
+            # of only against the LLM-rewritten headline.
             if self.history:
+                link_to_rss_title = {}
+                for news_id in selected_ids:
+                    orig = news_items[news_id]
+                    norm = history_normalize_url(orig.get('link', ''))
+                    if norm:
+                        link_to_rss_title[norm] = orig.get('title', '')
+                for item in items:
+                    rss_title = link_to_rss_title.get(history_normalize_url(item.get('source_url', '')))
+                    if rss_title:
+                        item['rss_title'] = rss_title
                 self.history.record(items)
 
             # Add footer with GitHub link

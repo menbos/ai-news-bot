@@ -49,16 +49,24 @@ class NewsHistory:
     """Tracks recently covered stories across runs."""
 
     def __init__(self, path: str = "data/news_history.json", retention_days: int = 7,
-                 title_similarity: float = 0.6):
+                 title_similarity: float = 0.6, prompt_days: int = 3):
         self.path = Path(path)
         self.retention_days = retention_days
         self.title_similarity = title_similarity
+        self.prompt_days = prompt_days
         self._entries: List[Dict] = self._load()
         # Matching structures are a frozen snapshot of what was loaded from disk.
         # They are NOT updated by record(), so stories published earlier in the
         # same multi-language run don't suppress later languages.
         self._match_urls = {e["url"] for e in self._entries if e.get("url")}
-        self._match_tokens = [_tokens(e.get("title", "")) for e in self._entries]
+        # Match on both the published headline and the original RSS title (when
+        # recorded) — incoming items carry RSS titles, so comparing against the
+        # LLM-rewritten headline alone weakens the overlap.
+        self._match_tokens = []
+        for e in self._entries:
+            self._match_tokens.append(_tokens(e.get("title", "")))
+            if e.get("rss_title"):
+                self._match_tokens.append(_tokens(e["rss_title"]))
         # URLs already written this session, to avoid duplicate file entries.
         self._recorded_urls = set(self._match_urls)
 
@@ -85,22 +93,47 @@ class NewsHistory:
         logger.info(f"Loaded {len(fresh)} recently-covered stories from history (retention {self.retention_days}d)")
         return fresh
 
-    def is_covered(self, item: Dict) -> bool:
-        """True if this item was already reported in a recent digest."""
+    def match_kind(self, item: Dict) -> Optional[str]:
+        """How this item matches the history: 'url' (same article), 'title'
+        (fuzzy headline overlap), or None."""
         url = _normalize_url(item.get("link") or item.get("source_url") or "")
         if url and url in self._match_urls:
-            return True
+            return "url"
 
         tokens = _tokens(item.get("title") or item.get("headline") or "")
         if len(tokens) < 3:
-            return False
+            return None
         for seen_tokens in self._match_tokens:
             if len(seen_tokens) < 3:
                 continue
             union = tokens | seen_tokens
             if union and len(tokens & seen_tokens) / len(union) >= self.title_similarity:
-                return True
-        return False
+                return "title"
+        return None
+
+    def is_covered(self, item: Dict) -> bool:
+        """True if this item was already reported in a recent digest."""
+        return self.match_kind(item) is not None
+
+    def recent_titles(self, days: Optional[int] = None) -> List[str]:
+        """Headlines published within the last `days` (default prompt_days),
+        for injection into the Stage-1 prompt as already-covered context."""
+        days = self.prompt_days if days is None else days
+        cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+        titles, seen = [], set()
+        for e in self._entries:
+            ts = e.get("first_seen")
+            try:
+                seen_at = datetime.fromisoformat(ts) if ts else None
+            except Exception:
+                seen_at = None
+            if seen_at is not None and seen_at < cutoff:
+                continue
+            title = (e.get("title") or "").strip()
+            if title and title.lower() not in seen:
+                seen.add(title.lower())
+                titles.append(title)
+        return titles
 
     def record(self, items: List[Dict]) -> None:
         """Add newly published items to the store and persist (pruning old ones)."""
@@ -113,7 +146,11 @@ class NewsHistory:
                 continue
             if url and url in self._recorded_urls:
                 continue
-            self._entries.append({"url": url, "title": title, "first_seen": now})
+            entry = {"url": url, "title": title, "first_seen": now}
+            rss_title = (item.get("rss_title") or "").strip()
+            if rss_title and rss_title != title:
+                entry["rss_title"] = rss_title
+            self._entries.append(entry)
             if url:
                 self._recorded_urls.add(url)
             added += 1

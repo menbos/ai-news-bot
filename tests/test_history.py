@@ -51,6 +51,47 @@ def test_retention_prunes_old_entries(tmp_path):
     assert h.is_covered({"link": "https://example.com/new"}) is True
 
 
+def test_match_kind_distinguishes_url_and_title(tmp_path):
+    p = tmp_path / "h.json"
+    h = NewsHistory(path=str(p), retention_days=7)
+    h.record([{"headline": "OpenAI launches GPT-6 reasoning model",
+               "source_url": "https://openai.com/blog/gpt6"}])
+
+    h2 = NewsHistory(path=str(p), retention_days=7)
+    assert h2.match_kind({"link": "http://www.openai.com/blog/gpt6"}) == "url"
+    assert h2.match_kind({"title": "OpenAI launches GPT-6 reasoning model today"}) == "title"
+    assert h2.match_kind({"title": "Anthropic raises a Series F funding round",
+                          "link": "https://example.com/x"}) is None
+
+
+def test_record_keeps_rss_title_and_matches_against_it(tmp_path):
+    p = tmp_path / "h.json"
+    h = NewsHistory(path=str(p), retention_days=7)
+    h.record([{"headline": "Cohere Secures US Drone Defense Contract",
+               "rss_title": "Anduril taps Cohere for military drone AI partnership",
+               "source_url": "https://example.com/a"}])
+
+    h2 = NewsHistory(path=str(p), retention_days=7)
+    # A next-day RSS item phrased like the original RSS title still matches
+    assert h2.is_covered({"title": "Anduril taps Cohere for military drone AI work",
+                          "link": "https://example.com/b"}) is True
+
+
+def test_recent_titles_respects_prompt_days(tmp_path):
+    p = tmp_path / "h.json"
+    old = (datetime.now(timezone.utc) - timedelta(days=5)).isoformat()
+    fresh = datetime.now(timezone.utc).isoformat()
+    p.write_text(json.dumps({"entries": [
+        {"url": "example.com/old", "title": "Old story from last week", "first_seen": old},
+        {"url": "example.com/new", "title": "Fresh story from today", "first_seen": fresh},
+        {"url": "example.com/dup", "title": "Fresh story from today", "first_seen": fresh},
+    ]}), encoding="utf-8")
+
+    h = NewsHistory(path=str(p), retention_days=7, prompt_days=3)
+    assert h.recent_titles() == ["Fresh story from today"]  # old excluded, dup collapsed
+    assert "Old story from last week" in h.recent_titles(days=7)
+
+
 def test_tokens_drops_stopwords_and_short_words():
     toks = _tokens("The new AI model from OpenAI")
     assert "the" not in toks and "new" not in toks
