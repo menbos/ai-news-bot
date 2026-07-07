@@ -1,91 +1,6 @@
 {
-  "updated": "2026-07-06T04:32:35.815228+00:00",
+  "updated": "2026-07-07T04:32:05.745401+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/hp-frontier-partnership",
-      "title": "HP Inc. Scales OpenAI Frontier Partnership for AI Integration",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNbnFYX19mVmlNakkzaG5IV2MzZ3VzREZmRVhoNFFsMGNvY1hqX2hiVHRYZ3Y4ZERKWmpmQkRkQU9iMzdZSnBtVk1pSVppd2NMbllRQVQ0NHg1bzhFOXUxaGdMQm4zcUdXYkZGLXFzb29JWWZRMXhLR3I4UzNKWTlrOE1aVnVYdi0xVmdza2RRRDJvb2R3RUs5R3FTaDZwQmtSRXlHQmgzN0Rvem12Z1h6YVJaN0ZyS1E",
-      "title": "AI Emerges as a Controversial Justification for Tech Layoffs at Meta, Amazon, and Salesforce",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxNT2NzdFJhRHlzbHVobVliSW5HM3pibm1za0xWYU55RnVIMG40Q1ZqcDJEZkRrMmhEYVNDZTBpVTRMS29vc21BaUU1RTdYMU1UdFZqSURBeGFFdjlFS3FPallKUkxZY21PaDZSWnpHaDJzT19ORS10U3E2TTJ0UUlHUy1mV0tSNVBya2c",
-      "title": "Meta Introduces New AI-Powered Smart Glasses",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxQMWE1VjNsR05PdlNaMk1TUzRRNEhscU5faDMxQ3RHOGYxRDZGelpHbERMY29hV3d5ckRhOElUeVlEbE9PbUo0OXdrLVJEWnVRR21BRUtoS2FwSE5WTnFqdE1UZDNpRU9sc3ZFclh1MlpPdjlYUXJVTzd5T25kbGZ1ekhzTVpOM2ljOUtaN1B2V0xXT0hYQUlR0gGXAUFVX3lxTFAxYTVWM2xHTk92U1oyTVNTNFE0SGxxTl9oMzFDdEc4ZjFENkZ6WkdsRExjb2FXd3lyRGE4SVR5WURsT09tSjQ5d2stUkRadVFHbUFFS2hLYXBITlZOcWp0TFRkM2lFT2xzdkVyWHUyWk92OVhRclVPN3lPbmRsZnV6SHNNWk4zaWM5S1o3UHZXTFdPSFhBSVE",
-      "title": "Google Imposes Restrictions on Meta's Use of Gemini AI Models",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi2AFBVV95cUxOV0tJejJCenhGd3huQWJ1R0N2R0xGVmJnV3FFSGt5aDVxSmRObGRIQlZTTzBic2hOOTB4bGhhaGdGbDVld3Focnl1NnNuWEdSZVZGN3dJUXEwNGhSM2QyZUJNNXdqYXp4SS1fcjFWX3Y4LTIzbnhhOUNhQ2ZXQURRdWF0WGtxV0NEd0R3Wm53aE5IWFhmRVFKMUNKSGVmZHNYZXFvQ0RHc1FJQ21RUjQxbE1MRmR1TkJZcEhNZldVSGVncG5yMEl1N290cnIxcWFhcERwUjNrZ1U",
-      "title": "WhatsApp Piloting Private 'Side Chat' Feature Powered by Meta AI",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMic0FVX3lxTE94eV8zaHVGSzdrdUhURGh3cU1paGNHRlBmV1Z6eGdySkxyRkJiT1o0WXVsY3J6RWJMMW9STXRqR0xDRVVSNS1LVGZhYkhfODNLNVpnT3FNUTZ1THhvNlU5U1p4d21tVzFMa0NXbTBhVWNHLUU",
-      "title": "OpenAI Unveils GPT-5.6 Series, Surpassing Claude Mythos 5, with Limited Preview Due to US Government Directives",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMingFBVV95cUxOaEVZbHdFMjRSam16Y0lwOWt5Y0hhLUQ2LW16ai1LUG5Kd0Z4ZVoyRHBKVVZxbF8xbjNCVGJ4QWNhaFd1TXVIdWNoWS1fSEppQ1RxM0s4cm5XVDAwdGtUa3RZc0lSMW5SR1NlZXZMbjlpMWhrTlloTndlNFFhUHBDNGVEY012UVlkNnRlcVZBckUwSWtvNWMweElOVERUQQ",
-      "title": "Trump Administration Authorizes Anthropic to Release Mythos AI to 'Trusted' U.S. Organizations",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiaEFVX3lxTE1va1lHaG5wdVhfTlVhNWhhTTdHc1ZDeGN2SmJYdktEM2ZnTDBYSjRkRk54bXFHMjZ2QVZQX19MLXpsa1FRaHdNb3kzWVlzenZBeWt2S1g4UDR2TTNxSVNtNFRWRkpXRWxH",
-      "title": "xAI Unveils Grok 4.5, Powered by 1.5 Trillion Parameter V9 Model, Markin a Significant Upgrade",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilgJBVV95cUxNTE1wblNEeWJYQ1djTXg3RC1oaUdvQjFHNnJhdDZSeVF0cVlCREp0a2diUDNIZ29jbWZjdk02eDVUcld3Z0hMZ2poMFdKd1FBVVE0RENxNXVCcGNZVElwMUdOSHVBejVOSTNzQ0k2dFgtdW5hMlFnMWRFTHJwZ1lIdHZ4YkVJLTlINm9YU2JSNTZYcTl2S0tCQy1pNEtVdDhuTlRhV283WE1lc2VYVjNhLVZSVHVkS09KTUppb080cHlLTVoxSXBNT0d4Ri11ZGhzVm5lbVU5TDdMOExSRkFfQ21obVZSeEZacFZVLXJXR3FVSEtkdzR1b0ZfM1VYNEFqak01TVRzS0pOTHJtd1N3RVJNOTU4dw",
-      "title": "SpaceX Invests $60 Billion in AI, Fueling Speculation of Elon Musk's Expansion Beyond Space",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxPd2dfUVFJYk5XdkczRGxmSk5USUpySXBTODJxam5fZHFaMllWdG1BMHdSNmMzVFFkNDB4eTI5VzdVRHZyLThQbFhubjNPaEpJUTRQQ3duYzZhOHRPZTVkU0o3TjNGc2p3WFZMc3VkcEh6alE1bFpHclk2cDZJZk9JYmpjVUs1bTRHYmVMSHAtLXN6VERmNko2UjRQY1ByNVdxc3l3d2ZzckRhQ1VKVlpVNnVJRkdlQkQtOFNnTVZwWmc4Zk5ob2cySk53dFlYZw",
-      "title": "Mistral OCR 4 Unifies Document AI Pipeline by Collapsing Three Stages into One",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi7AFBVV95cUxPakhFLTVCTG14dWxrZ1FWSmMtR01uVEZBWkpYM1VjbV93YTRuT09lYXFHNm9ocjVSdnZ0QWx2QXdyZVUtcnRaanBrQm5NZDYtSlpBVGFVVjNtekI5MXhJTElXc2FwOEVqY0lCQlNXMFRJVjl3b2EzMVAxbWFNa295NEZyRmxjUDBQTU51SVk5VW1YckR3d0FRQkpYTTdocVlwd2c3QllTbS1OWUFHWDdLMVJZVGhQQlJlT3ZfeEhINWNzLUVtYXhIWUpaWk5YMjR5azFKZldrRzB4Y3RueFpjSWQ1RFVUbDNSZlItOA",
-      "title": "HIVE Digital Technologies' Buzz HPC Joins Bell and Cohere to Establish Canadian AI Factory",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxNRVRFbTltV1I2R2hYbGNmc2ZSdWhCczVWRFdCT0JJc3hoNFJNVjhhM3hyZG1nT004dGJRWGw4eHRUY3lLY2NleTR1VXRlZ1l0VzZtSFZpQ1AzY3JmdVZacEdncjFhV18tM3pEMDFKbGV5WXhZRGo0RldsT1lueFZnOXBRTTJVNlJJTEptNlJtUzBrYldLUHF6U1VTVUtjS2Z5VFp0VjRGQjNGTjFma0V1ODViY0xSOENxeEtTYXhWSXJRYlVVYnc",
-      "title": "DeepSeek Releases DSpark, Accelerating V4 Model by Up to 85% with Speculative Decoding",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNY05fZlJ6UjMwbkZlQThmV0dvTzQ0R1pKd0RCQUVVWEtyRk9VdU9TbkJCYnZwOUdSWFlkeHdwTkV0OS0telo5MnVOdGZ5R05ncThibmN6dEJIVjBkM2RUSEx4Z2dMNGNpZzlGWGYwdHh1UzV0a193TFhJbGdpU01iNUFJWWxpT0FGS0pEVXBkMXNfMm8zanduNEpiMWNTZjc2dGM4MnJuNXVPeTdDTXVvYnBPQUJ2Mkk",
-      "title": "OpenAI and Korea AI Safety Institute Sign High-Risk AI Evaluation Agreement",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi2wFBVV95cUxQZTQybmdwbFdZT1FsdE0waXJGcHdweVNTSFhnZFJqNlRROTRBNkY3OEVtQzZ4cmI0eFQyT0V5cXl0b21sY1RzOWp1eklRdC1EQzZVcTI0bkdvVGJyQm1TeEdvb1puNUxsMTdtRjZRekI0a0xWTUxaNS1OZWVTMV92aXdjdFd4WVpfZ1E3dDA4WjVjaTFtRnlZS1E1dVNfWXEyOE1CNFp3WVlBeFVXcVNzZFZkSE0yNVNPUnlnYWNrcWZ3dk02VHNRWWxlMTJWQUFWYlZSTUhhblh4eFE",
-      "title": "AI Export Controls Under Scrutiny as GLM-5.2 Benchmarks Expose Cybersecurity Gaps",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxNUXhFdWlpT3kxWEM2cXkySklsX0FuOVdOU1JadkNMVVNLTTIxd0lmOUpHamVfSzBHdnVTdm93VW83cm9lZ3oxQ3RyZTZ5Q2dUdVJTYUZJQWxjSGNueXJLUVJ6aHdmOFBvQVdoNVBPckN6b2ZTLThRNVJsOU0yM2w2TWxDdklkR2JHRDVmY29kYnhMdGdqT21jZDhDUkU1dTJ3ZDNKUUdtWW5Nd2x0bVgyN1ZGdk0zR2NOZjRSZw",
-      "title": "Australia's Firmus Technologies Secures AI Access Deal with Nvidia",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-06-29/south-korea-unveils-plan-to-sustain-lead-in-ai-video",
-      "title": "South Korea Unveils Ambitious Plan to Maintain Lead in AI",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-06-28/samsung-sk-reportedly-to-invest-1-3-trillion-over-10-years",
-      "title": "Samsung and SK Hynix Lead Record Spending to Cement Korea's AI Dominance",
-      "first_seen": "2026-06-29T05:56:55.175755+00:00"
-    },
     {
       "url": "openai.com/index/mapping-ai-jobs-transition-eu",
       "title": "OpenAI Report Maps EU AI Workforce Transformation",
@@ -685,6 +600,126 @@
       "url": "thenextweb.com/news/ai-native-startups-entry-level-hiring",
       "title": "Harvard Study Finds AI-Native Startups Prioritize Senior Talent, Hire Fewer Juniors",
       "first_seen": "2026-07-06T04:32:35.815228+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiygFBVV95cUxQMWpwNHdOREtfNnBoRWNRX1hIZnpKVHpnSUhJRE9Db1p1a1EtbF9HY1J0T1Y3T2dtNXNhaDdwVExjbHQzOTVWYzhwc1Z6bUswVk4zZXdEdnBrSG1ISHAwNWJKN2lkdlZsbERielB1N1J6MHh5aGJwb2dRN2g4dzNETVpwUGVkdERrRDd0U3FXSk5TSnp3MGRqUWFEaVJ3aGpHZWllSGZ5T2NwemE4XzROczlLMmQ4VGViemdBb29KRk9VRS1JSjNva05n0gHPAUFVX3lxTE1Zd2JEcDB2T0xCLVpFWmVoamJWNnVBdzJ5QzBjVVBuYjA3NmxjcGQ5cHdNS2JPUXg3MGVmYVFJN2s4Ni1oWGRhOHIzQ2phbUlfcTZ2cEdDYlY1djRLZDVuNEthY0pxa1UwNkJ1cVVsQTVmaGs1V0dFbnR1RWNVdF9wODRrWFNXakZ1NU9lZ2ZGaER2eFk3blpoVnBiUUVzMG5uYWpYNmJuUnBkbEZ6RVJHUHRPY2RGdjBSM1lvWjh6YkJ0bDdLeWdORlNQSUJUaw",
+      "title": "Meta Nears $6.5 Billion Samsung AI Chip Deal Amidst Meta Compute Launch",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Meta (META) Nears $6.5 Billion Samsung AI Chip Deal And Launches Meta Compute - simplywall.st"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiY0FVX3lxTE05ZlgtWUsxUlZkUUJzN2N3ektNSERobFJ0QXREQnIwZmpqMVNVb3Q0ZG1KTW84TERMNlFwM1VQLURfaElfOEF1Z2VQX2VHTEFwZTh0R2NUMy1xelNVaDRWMEJRNA",
+      "title": "GPT-5.6, Claude Sonnet 5, and Meta's 'Watermelon' AI Headline Latest Developments",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "[AI DAILY NEWS RUNDOWN - TEASER] GPT-5.6 Arrives, Claude Sonnet 5 Launches, Meta Decodes... Live Football Streams (2PuabCOp7S) - Fathom Journal"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiakFVX3lxTFBLS3lYdEZadjhqcE8tZTk1RmtMSVBZRnZZNTE3S1UzdmFyQW95RFctbm0xc2tkTjVBR3U4cWRrNFNta295ZE9QaF96VjBZVEgweE55dTJLNHFBZXBJOWxWenQ3b3R0X2V5Y0E",
+      "title": "Meta's 'Watermelon' AI Poised for Release, Competing with GPT-5.5 Performance",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Meta's new AI, 'Watermelon,' will soon be released with performance comparable to OpenAI's GPT-5.5. - GIGAZINE"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/open-models-icml-2026",
+      "title": "Open Frontier Models and Infrastructure Drive AI Research Trends at ICML 2026",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "How Open Models Are Driving AI Research"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova",
+      "title": "Amazon Nova Introduces Selective Unlearning for Content Moderation",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Teaching models to forget: Selective unlearning with Amazon Nova"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova",
+      "title": "Amazon Nova Enhances PII Redaction in Images Using Multimodal AI",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Automatically redact PII in images with Amazon Nova"
+    },
+    {
+      "url": "huggingface.co/blog/lerobot-release-v060",
+      "title": "LeRobot v0.6.0 Release Focuses on Imagine, Evaluate, Improve Cycle for Robotics",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "LeRobot v0.6.0: Imagine, Evaluate, Improve"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMickFVX3lxTE1VMGNMbDZSS3ppUkRBeWZjU3JjWkpxRk9ZR19uWXJFN3F6aW42V0xkUUR1SnFwb0xXMmRyaXRsbm8yX0ZBbDgyYzFuU3pwQXJZS3UzVkhjbFl1bkZqOVRzNER5ejlidW9fY0laNWNwSjNQdw",
+      "title": "Anthropic CEO Discusses AI's Transformative Impact on the Biotech Sector",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "I spoke to Anthropic’s CEO about how AI may affect biotech. Here’s what I learned - STAT"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxQb3Z2Yno4ZzNWQXdyVnhjR3YtZUs2TXU3MFNpZUZFcl9xUFNfZ3owYjg3Rm9ubXNtRVc0NUdrZzRteFVMV0hJUmJSN1ZjQ2FndnFWNm94Z2tocWZzQ2phcDJLd1pJQjJ1Y3hJUDYzRF8xejlydks0NEk2dXBtUDk0TjA5cmRFb1NXSUJycWJjWTc0bDZIZmhIc3ZSZ3NrenhKaVVmZVRuUEFZc2dfUUNvX2N3",
+      "title": "Anthropic Explores Claude's Internal 'Workspace' in New Research Paper",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Anthropic Releases Paper About Claude’s Mental ‘Workspace.’ Don’t Read It Uncritically - Gizmodo"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggJBVV95cUxQR0lDYWg1X2Q0WTZtbGlMdUNTNXR2dmVSTUlfM1BRemVsdFR4NW5MUE1TWmFMTUt5U3hrRGdOaG1KNEVLN2tZNkY0bXFpTUpvUTRxQVZpRFc1MGZLSjlDamprTURxVnBrY19ZNVEwQnBmeWtMV1o3N21yU0dUWFBIMEM1clIxaElPdXhCdnhYUXRMSDFWRjFIZmZPZUt5RUdlZHhSSVY4c0dRQjRsN0ZudFNhVXltd2l1dDk5T3VqRkpQMmpsNzdYcWFFc3drbmtxN3paeHRTYUdNT2ZyelEwOXpaanJDWHR5TDBMSUZiY1o1RHZpVjd2bEZSSFVDSDVwN3c",
+      "title": "CloudMasonry Launches Claude Consulting Practice for Enterprise AI Adoption",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "CloudMasonry Launches Claude Consulting Practice to Help Enterprises Put Anthropic's AI at the Core of Their Business - PR Newswire"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxPREF2XzFMNDN2V1dMRDZaOW9adkctT1pmbzJNWm9BUnBzblptQWFaT25OS0k5amtlWkRmUm4tdC1mYXN2UmlSR3RMVEdBMmdibDZKRXRzQTczLV9LVlp1b1lyUy1wMmpfcEJfT0MxWVBCbDk1WUVHWVhFWWUtQVJSTXkyd3BXWk0",
+      "title": "Anthropic Launches Claude Science to Expand Revenue Streams Ahead of IPO",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Anthropic launches Claude Science in bid to expand revenue streams ahead of IPO - AOL.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi6AFBVV95cUxPQjV4YmtqWVZhUFBLVXV2c1dSanUzRG52d2JibnFES05RZzRncWMtOGIwS2dnS0NqTUFQY2pqNnpwLVJVQ09MaXVyemJZN3BJSXowUVotWlpnZURwU0hfQ0pZNEF3a2gwbXloeDMyVXBJeGxjLUhKVlBiNFZ2em9pQTJJengzZ3ptMFJGU3JwMmZlWnBJRHdELTBLTVJocndKNmUtbU9mdWU2TWw2N01CNTlZeDVmc29mZ3BWMU11WmxSSHlhbmhpVUtYRC10VnB2c3JvUExueFRubGxJVjJ5OTUwbi1FaUU0",
+      "title": "Anthropic Unveils Claude Design for Rapid Prototyping and Presentation Generation",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Anthropic launches Claude Design: AI that creates prototypes and presentations at the click of a button - آي-فون إسلام"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxNTWQzbHphRTlHdnZoR3hLX2R4emkzeGhWT0RkanhDSk1uUVVuWHYyZ253Z25MZnkwRDktUDVFVGlkd3h1MGstenBmeGp4b3pna3lQay1MLUsxYkxCa0ozUmxocEFmNXVmdGZ4bEhPQjNoSW9tX01adU93UEY4YmxqTjZXbGMydk50VWExcS1TalBrWGNyOWhvTlZqcTJvWDY4SUh2bDh5SdIBpwFBVV95cUxNTWQzbHphRTlHdnZoR3hLX2R4emkzeGhWT0RkanhDSk1uUVVuWHYyZ253Z25MZnkwRDktUDVFVGlkd3h1MGstenBmeGp4b3pna3lQay1MLUsxYkxCa0ozUmxocEFmNXVmdGZ4bEhPQjNoSW9tX01adU93UEY4YmxqTjZXbGMydk50VWExcS1TalBrWGNyOWhvTlZqcTJvWDY4SUh2bDh5SQ",
+      "title": "Mistral AI Releases Leanstral 1.5 for Formal Proof Engineering",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Mistral AI Releases Leanstral 1.5 for Lean 4 Proof Engineering - TechGig"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiekFVX3lxTFBCX2hVb2g1bjNtbVN5MGFVNVpFWlVUUml2MmtyMzN1MFl2WjFwMDRoaktsRzVpUHhxYkl1MHp4ZTVNSjIwUmwwWGdpNUI3bHlkMUtuQ1hwanNMak14TVU3S2RweWVqR0Q1dlBBVzZxT1ZzaldxamNqemFn",
+      "title": "Airbus Partners with Mistral AI to Advance Aerospace AI Development",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Aerospace AI Development Strengthens as Airbus Partners With Mistral AI - safariindia.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMie0FVX3lxTE11TzloZm5PRDB0Vk4zYTBQekgtZ0RxTDZEUmtoSkRkcFNTa0FyQzhxcmM2bG1memNJd0pfaGlJT19jRThKODlPeFVoZTBuZlZFaGMxdWQtZGtMRGc3NFF0TUJfZTBmM3gxeC04UC1KaWJJMmtPVFBiS25IMA",
+      "title": "BCE Inc. Signs Major AI Infrastructure Deal with Cohere",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "BCE Inc. (BCE) Inks Major AI Infrastructure Deal - Yahoo! Finance Canada"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE9HTDcyNldOYTh3T2tvUFFlLVFvekhnOTk5aHpYQTdob1FHVzRJTzBwTkVyS3NMcUIxN3BGYlMyQ1oyeTUtSVVkX2dLZEN4QXFma0xSbG1pZkMtY211X2xzVHBldGRVdHViLWtWM3lDZVhmenB2YlI5YmxB",
+      "title": "Hermes MoA 2.0 Integrates Multiple LLMs to Surpass Single-Model Performance",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Hermes MoA 2.0 Combines GPT, Claude, And DeepSeek To Outscore Any Single Model - Yellow.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxQbXVHdmFyRGhQelRlcEo2WmpaSzc1VjhyTHhqdV9xMi14SmJPT1FFMk40V0swaWJqREY0ak9nS3oyV3JSSksyMmdSWHcxekdVY0RsbjVVT0xfd3Z0bmZsX2l6SGlrTmw0LXVEWXg0Q25PM0tIVU5ydG9IMmdlVzAwSjln",
+      "title": "Sakana AI Launches Sakana Translate for Enhanced Japanese-English-Chinese Translation",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes - MarkTechPost"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxOV3BhTkJiYlBzcVpPUkhjQWFjM3dDWDU0X3lEVktSSDZMUUVoRHRxQmxUZllQeE5Uc09WX1IzUzFBWnp1U05NOEp0SUFfS1ZRcTF5Zi1xVDVMQTgxQ2NHMEI2UE1ENEZrTkRMRUtTRnBhNXRDOXRKeWlEd3NId0JRSEkxMV90cjA",
+      "title": "Claude Integrates with Spotify, Uber, and Numerous Other Apps",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Claude can now connect with Spotify, Uber, and a lot more apps - Mashable"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiZ0FVX3lxTE5kbFZRX1NMcFdvZElDV1V5SWNjdU05NU1MdmxlVGVQZnNadFpKbDhKRUF4cVJidjZBZTIzMmdqNTZrUE80QmgtcmMtLTNKaHdfOGkwZS10S1dXM2phcVN0TGNwalR2WEU",
+      "title": "Claude Sonnet 5 Achieves 63.2% SWE-bench Score with Competitive Pricing",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "Claude Sonnet 5: 63.2% SWE-bench, $2/M Tokens [2026] - tech-insider.org"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxOUTgtNlBnektXY0p2T2VjSjBrX0xRTG1EZGZ2WlRCc0NBTGlQbnl0YXVReXVyTkZRWWFuYzFlZk9TN2kzQjlvVXZ3WUxLNFB5eVl4cE1iMG5ua1RHME0yWVRZTXVTYjRIOUI4Wko3cFpJM0dCYnV3dG5CRUI1VkR3SlpsQTlsVVd0V3dqLW90Z1BRWGNIRlJ4akk4NWlXX25yeHpxLTE0SFZyaFl1dEYwckNLdmtVcEZvaU1EUWhsbDlLdTJzZEptb3dLM0d2ZkE1",
+      "title": "GPT-5.6 Nears Release with 'Ultra Mode,' Subagents, and Cost Reductions",
+      "first_seen": "2026-07-07T04:32:05.745401+00:00",
+      "rss_title": "GPT-5.6 Release Nears: Ultra Mode Spawns Subagents, Terra Cuts Cost, METR Flags Risk - Tech Times"
     }
   ]
 }
