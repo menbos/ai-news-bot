@@ -1,101 +1,6 @@
 {
-  "updated": "2026-07-08T04:32:05.102507+00:00",
+  "updated": "2026-07-09T04:32:03.160007+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/introducing-genebench-pro",
-      "title": "OpenAI Launches GeneBench-Pro, a New Benchmark for AI in Genomics",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "title": "OpenAI Engineers Leverage Core Dump Analysis to Resolve Infrastructure Bugs",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-      "title": "Google UK Report Highlights AI's Economic Impact and Urges AI Trailblazer Nation Building",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi8gFBVV95cUxOVFpNdm1UaHJ4d3hzNWdqakRjS3RlSUxoRVVaYzlfb0JUUmlNZ0I3YlV3bzJZdXhqMTlmREFFeERsem9uX2REYjhwSnkxRmkxRzZmcWtuSlRxY1VSUElnMVZBU2o3MDZRODJkTlgxSkVXd2FuRzBPRWdRV01DRU0tb2IzUEp5NDZJejRLVUp6Z2g1M1NkTVlPM1o3OWR6S0lfaGVtUXhra3BWQmk1UzJjOFg5UDQzMTRaQ0Q3SGJtdHBZZmxiV2M3WlpIVWJDTGs5amNYeTVvNVVvMWdzY0pKMkNMY0pBdF8yTEtyUkNGS3FJUQ",
-      "title": "Meta AI Releases Brain2Qwerty v2 for Non-Invasive Brain-to-Text Decoding",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit",
-      "title": "NVIDIA Integrates BioNeMo Agent Toolkit with Anthropic's Claude Science for Life Sciences AI",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/inference-software-lowest-token-cost",
-      "title": "NVIDIA’s Inference Software Stack Powers Lowest Token Cost for AI Production",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model",
-      "title": "Anthropic Launches Claude Sonnet 5 on AWS, Featuring Enhanced Coding and Agent Capabilities",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol",
-      "title": "AWS Introduces Generative UI for AI Agents on Amazon Bedrock AgentCore with AG-UI Protocol",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements",
-      "title": "AWS Simplifies Multi-Account Access to Amazon Bedrock Models with Managed Entitlements",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/fine-tune-amazon-nova-models-for-accurate-email-data-extraction",
-      "title": "AWS Offers Fine-Tuning for Amazon Nova Models for Enhanced Email Data Extraction",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies",
-      "title": "GitHub Utilizes New License Compliance Product for Open Source Dependency Management",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected",
-      "title": "Apple Creator Studio Receives Intelligence, Speed, and Connectivity Upgrades",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxNeWlCbzhyVDZCYmhIaGpiOWp4QldGLXBTdDhlM2J1RzBRRjlMUVozMk1IQ1h4VVhndTBrX2tYUGtlWnhHN3ZLSFVEd0h2b2QyVnBjX2s5RVZ0WTdHbWRtT0hqTHFuZUtnZjhLcFZ1b1Z6SjdubHZORERWQ3RTN2oxRmVYNjRJa0NqTElhNFVpVQ",
-      "title": "Anthropic Launches Claude Science, an AI Workbench for Researchers and Pharma",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxNTncyREZOZ3NoRDZ4aTBTWGxNMGw3dFNTOE5HcWRGVGozeTNNOGZlcDFlRGdadlp4cjBicXpKNkZNWFdscFhBMWhacVB0S2RnLU90NjNRUEVMeVdKQTFiUnFJdU1GUTlIX2NCeTZuVjlDaHllLXdoUnlZRC1HN3E1ak5SWF9NYnA3NFAtRjljM0dWa0tLOUxCY05B",
-      "title": "Anthropic Updates Claude Sonnet 5 with Enhanced Coding and Safety Features",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxNX2l3azNGRHZzQVpuZTR6RF9FUUd0SFV4ZTZkeHByMURrQXVGYXQ4U1R5TDBjSGZEenh0TlA0aGtWeXBRcE9pUjhCLUpfSUVoN2pSc2QyUUZ0OXBWWFVWblpvcEQyc3JydzMtbmRSM1lLaTAtRzNDM0xiT0ZHM3djRERTcmFnTi1xcGt6b2JCdGYwVWVIUTJsTWlKZmE4SW9uc254OW0wdjB1MnB4VVE",
-      "title": "US Lifts Export Controls on Anthropic's Fable and Mythos AI Models",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxQYXc2bXo5Y2VueWFwMzM5WTU1MGRvRUpPaHBLaVN4MGpITjg0RXpPdUhVNUNoWmJZNVJPMlFadFA5OWNmLS1YMkJkeHJiWDZidEVnUmU3bGFVTVR2U2E4NmwwMzVhZFZwU3ctZlNZMk1EMmZkWFN0Q0dsTlRCUnd1Wmd6ZDFqWXppUDFXWlBiODdXbTd3Y1NEQ1h3b3F6Q2Q1WFBxUWIwNUJWQVNVaV9Ycms5cw",
-      "title": "Anthropic Launches Claude Science AI Workbench for Scientific Research",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiywFBVV95cUxPVk5nbzlPamhmaDUzV21EZlAyYjJRY2xrZ2YtSzczcUwxRnZzZkdVamxXS2xRUWltNkZJMWNiMV83T0FqTm9kRGFIbUJYNjdyM0psUTZjbl9DaVBpdHd5VGRtYXZ6aC1uZ20wZVpRaUhnZ2tEdVczQkpiWDBlLURoN1IwTEt1NGV5OFgyTzl0X0hRUTJtRkFIcDZQSk9FRDFXdU9FWEFvdEt1ZWVYTllySzNxNUFNcWNiY0pfOFp0Z0l6S0lobm9Od0VJa9IBywFBVV95cUxPb1oxUWhRbktqRVNIRWQ4LW5IUXFUWFdJVG16NXNRcS00ZzlJUE94UnRNTmhKUmZZZ2E2cldIZ0s2aEhicjFITEVLQmFvNVljcGVmZG5YTUJUYVE4cUktUkNlTGtRV3EyUU1ISWp2c2NYR3ZTbmtQMVk0TWJOMmxWUTVMaVVVbXhKZW1aelNlYnBHS09OWkgtUGpIQzBJdW5xTS1DUDBvR1pidU9PdnczRmduT2F2cnhJZm16OE13eWlDeXVIVklhWHozYw",
-      "title": "Meituan Claims China's Largest AI Model Trained on Local Chips",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxNNUs2N0FDV1ZwVGdkWGxTZFpWaUZWTkk0dVpBNFNkUXVoazdLVEc2YVNtYk01cnBkVi1zYVVUMXBfTHJsQklhNnQ4cjNoRzlLMjBBN0ZiX2Y1U1p4YWVsTl9kanlnR2l5YUQ5NmlLRzB4b2t1M2kxNS00aGJVZ0lUTFI4MA",
-      "title": "DeepSeek V4 Introduces Utility-Style AI Pricing, Moving Beyond China's LLM Price War",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxOeGxKSHlWcTR3cGdaeElyeVdvZmlUUERGd1FucHVMNHhYWWhOc1hrVTdkZ2FCUUI4MFJlakYxMWlhUlZVclVWcE03a3lqSXF6eWVuTHA3THhWQnMzc1FhNHZGQjY0azl5TmxfdzJ3WW1HenhGVUZzc3RpMVh1aU1GemNJMEpvQnlZbk0yVDVCaG9pNVhsaW16cERUUWRFVHdjWDJTOURZdEd6Mi1xdFgxRk5WSDRaOXZod1dlZGZn",
-      "title": "White House Lifts Restrictions on Anthropic AI Models After Two-Week Ban",
-      "first_seen": "2026-07-01T04:32:43.579583+00:00"
-    },
     {
       "url": "openai.com/index/how-chatgpt-adoption-has-expanded",
       "title": "ChatGPT Sees Global Surge in Adoption and Usage",
@@ -740,6 +645,125 @@
       "title": "House Committee Seeks Information on AI Risks and Modernization in Financial Services",
       "first_seen": "2026-07-08T04:32:05.102507+00:00",
       "rss_title": "Ranking Member Waters Launches Request for Information on AI Risks and Modernization in Financial Services - House Financial Services Committee Democrats (.gov)"
+    },
+    {
+      "url": "openai.com/index/introducing-gpt-live",
+      "title": "OpenAI Unveils GPT-Live: Next-Generation Voice Models Powering ChatGPT Voice",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "Introducing GPT-Live"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI",
+      "title": "Meta Introduces Muse Image: Personalized Image Generation for Consumer Use",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "Introducing Muse Image: Image Generation Built for Your World - Meta Store"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxNUktIWTh5R2VnbXNXVkUycXZOLW90cWtMMWhxOFphOGk2SkFLRHBZQVU3dnNYYmJibTRPTXB3a1hNNDNjazdnZFR0SU1zWFVjODhUaWhoTGxGb0tmWnBja1k4MGdtMTZYVUZkUURFZUVya0hNc3F0U2JpdV9odHpSbTE1Z0NkVzJhMFNDdWZlbWJVd2tJNk1Bb3ZVMWZEZWtEODFkRC1lWHB4NGc1TE5KNGd3",
+      "title": "Major AI Labs Unveil Wave of New Models Including OpenAI, Meta, and xAI Offerings",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "OpenAI, Meta and xAI unleash flurry of new AI models this week - Euronews"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack",
+      "title": "NVIDIA Nemotron Achieves Leading Performance in AI Agents with LangChain Integration",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws",
+      "title": "AWS Introduces Claude Apps Gateway for Enhanced Control Over Claude Deployments",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "Introducing Claude apps gateway for AWS"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research",
+      "title": "AWS Leverages GraphRAG and BYOKG for Pharmaceutical Research Acceleration",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+      "title": "GitHub Agentic Workflows Automate Cross-Repo Documentation Updates",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "Automating cross-repo documentation with GitHub Agentic Workflows"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+      "title": "GitHub Copilot Simplifies GitHub Pages Deployment with Zero DNS Configuration",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxQQkxab3B2alV0UVRwR1Nhek5LWDF3dFplWkx6T0ZlVVNoOWJCUVVrTldkWTNrVk1SYzd3d0hiakU4b2JpTUs3UTEzaE5fMTJ5YWZlZzVhMzQ4UXNobHhKb1hpZGZzQ3A1MmFOZFN4dW1faUVIUjJhR2FfRG94STJ1aVVJZW5sdW9SNXlGeDNMUWNPNXN5VjNsR2Z2TkFXbkk0",
+      "title": "Anthropic Launches Lower-Cost Claude Sonnet 5, Expanding Model Accessibility",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "Anthropic Launches Lower-Cost Claude Sonnet 5 - Campus Technology"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0wFBVV95cUxPSDNnMmg0STN0VXg4aUE0M2N0YXpZaGtaRmpMX2poX3JGNkZpSW5VQU1IbldXakRpeGpDa1MxX3I1dm1sZnNjZ1JxOUU0NUtHU0tnS2dFVkhpQjcwOEt2bUhIdGdOQTh1a2VrbGpNOTJ1Znhzc1hTd1dIRWQ3QzYyaWw2LXF4NEozSlFpbklYblNhcENTcE93WU9Nc3B1WDVHR2lONzBISWluYURQQzZvNGs3cERtdUtPWk5MX2JYdnF5NnRLMXnuTExUNHBocmlZNEhN",
+      "title": "xAI's Grok 4.5 Launches at Half Price, Targeting Anthropic and OpenAI Market Share",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxQYnRNTGEzZWNTUkRwaElRa2VPYTU3ajNmN2RqMXRXWmxCcTdnS3Zkcm5yUGQtWS1YZWVNbDgxLTM0MVN6TXRkNTVLQmFDR0g0SmpsSXJDeExpck1uZjBOR203S0xuVFhzNGpoUnd2VkhUNmRUTXB6OXRjbnRYam51SDZHRTUtNXZpdjZCMmo2aEF3Q09LWndOYUduV21SRmlHVWlF",
+      "title": "Anthropic Introduces Claude Science for Specialized Scientific Research",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "Business Watch: Anthropic launches Claude Science; AstraZeneca links with CSPC again - Chemical & Engineering News"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxNcDBMNkdabWp0TVZ1RkVjTGsxNG11UG5tdE1YNktCQWZWTGxvS3BUdGk4N2p0MmFMM1ZmUVhsd24wWFJ4Xy0xMU9iU1M4X0NLX2RRSXIwVUtmNUJiVDl1WEl2T2I5RkFINm5QcmxycDV1eXRMMThpLUtlUy1MQXNLWUNB",
+      "title": "Claude Cowork Set to Launch on Mobile Devices Soon, Enhancing Accessibility",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "You Will Soon Use Claude Cowork on Your Phone - AI Business"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxPbzBma2tydDVaUjI2ZFJlcS1zbTRfZFRyMHhwYXRocXNTUV9hSjRncEVqSjh3eW1iVU5WanB2OWpmcF9QbS0wVjdSOEhuMFJrUnlMTFp1Zm40VF9qdDE1ZWlkeHFHXzFjazNhdVlWU0llekdBd1N2QXB4WTdsWWRtRF92dUVFMVRJdHBIZGl4azlXVWhMaG1sQ3hRNEZTZGs",
+      "title": "xAI's Grok 4.5 Priced to Undercut Anthropic's Opus, Intensifying LLM Competition",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "xAI Launches Grok 4.5 With Pricing Built to Undercut Anthropic's Opus 4.8 - Startup Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiZ0FVX3lxTE51d21OUHdGVUs3NktST0d4cGt3dmVJTkd1TVBPRlJ3STc4QmVlc3Q4YWtqZnNFUkRON3gzdHpZRThzSk5Vc2VaTUVxTWNxUVdFQTEwWUszWHhJVFcyMlRPcnpma01udDA",
+      "title": "xAI Unveils Grok 4.5, Positioning it as an 'Opus-Class Model'",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "Scoop: SpaceXAI launches new model, Grok 4.5 - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxQZGxfOGQ0djFhVXRtcVoxUENRUnJhZlMyWmctdE9ETl9WZ29lT3o0YlpDVk5uWC1TR3k2WVVGekhTbDhPZWJmU2tGTURONWxMRi1YZHQtVU1xTEt5Q0xFZVlJOHZUQmwtNHowRDlMYjFFbE1hWnJxcFAxUjNyZS1PUExPLUhSWFl0eGE0VGhsNTRjYndtc283ZGhQbWlqcGFWMWxZaS0tUlo",
+      "title": "xAI Releases Grok 4.5, Touted as an 'Opus-Class Model'",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’ - TechCrunch"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxOWEhvMGlyMXhJREFWZURld1hnTEJaMUpoeTA4d1pZQUQyQTNwZUhDOHE2SGJqTzJnZlNXelJTR2FDSGwtb00zRTlzZFlHVnh6dGp4X2s0dXhwd1V4S2JnWUw1cUY4Ylppd09nM21lQ1RfM0tIM1VmYjc3NlRGeDdSSUJmTDBqRGttZmxIemtSX2JVNTdFdm5vMktBVlNXMnB0",
+      "title": "Mistral Enters Robotics with First Physical AI Model Launch",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "Mistral launches first robotics model in physical AI push - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDTSAYwBQVVfeXFMTWNWajVVa1E4LUFmSkxieEhfOGhPNHFDamRRUmRma0xOYzNVXzBKTThOSnVBS2RkY2JydlNoU1dQcHR4UU9qNmlINmptaXJnOTdhbWh5QXlwbDk4SzBXcUVYZUUtYy1YTG11bjREQ2xMMmNkelFMSDFJQjA0ZlJjajlxWGFpNGZQaGpnbXM",
+      "title": "Chinese AI Models Gain Traction in US Amidst Rising Costs of OpenAI and Anthropic",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxOY0R5YUFSYVc0ckhHcS02WndlY1puOFJqOHdfWG5jNGszRjJFTW4wN051ak95UFdRXzZPQk1UZ1NZeEV3ZHdka21kRzRpUXZKUndOWU5DcmM1LXFaMGZjVWZyTHFrTWg1b2c4QlZoWGNtbGxFOFh5QVVqek55bFRmYmxtODl3SEo4U2tjUjlSdS1COU0",
+      "title": "DeepSeek Develops Proprietary AI Inference Chip to Enhance Performance and Efficiency",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "DeepSeek develops proprietary AI inference chip - Let's Data Science"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizwFBVV95cUxNSjB3QzJ2bDJQNTV3Ymdzdno0TG92elc1MGVyYkw1N09wODFzRGo3OWl3R0UwSVRZYkxuQXlmbTRpSVR4Zmxzck5iQ09FN093aTE4bUdLcm5wZ2FBeUVfeGNzMWRoV21oV1BMSXNxcUVBSXVDZTlBZnpWa0JNb0h4S0lsMUk1R0toZmdsMFZHdnVQTGFyMkw1em1KbTFoT1VaMVh5dmpyR20wMHRzeGg0NUUzX1NBRmttdXdtVmF5MGwzRGVtRlZEMENHWEVwcEk",
+      "title": "FTC Proposes New AI Accuracy Policy, Warning Against Misleading Steering Practices",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "FTC Proposes New Policy on AI Accuracy: Hiding How an AI System is Steered May Violate Federal Law - Spencer Fane"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMif0FVX3lxTE1HdXZpU1BldHowbnRqdHpxci05bl8xbjFsSU84QjlXUl9zVkVOcldoUW1Qbm5qNEpUVm5HZkJyX1RmMFZwV2NqaW5OWURadnFRSEhNNUd3cHpTaGlzejU0Z3FSLVR5ODlQZ0RIcXlGY2NxVEhfY1VraTJhZGxCNE3SAYQBQVVfeXFMUDlBazNBQzg2cGtfbXZ5NFRoRmNIYkVIZW1va2R6Vkk4Z0RNd1h0VG9WOUdEdlAydlNvZDhkV3dlWjlDaXViU3NJbWJocHVwdnBMWGFrRGRTYng5VWlObEZiTjkwTk42eHZDdU5uZmQ2T3lIVFA3dEpEZV8xRFY2azNVVmZT",
+      "title": "OpenAI to Release Advanced GPT Model After Government-Requested Delay",
+      "first_seen": "2026-07-09T04:32:03.160007+00:00",
+      "rss_title": "OpenAI will publicly release advanced GPT model after government-requested delay - The Hill"
     }
   ]
 }
