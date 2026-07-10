@@ -1,101 +1,6 @@
 {
-  "updated": "2026-07-09T04:32:03.160007+00:00",
+  "updated": "2026-07-10T04:32:07.050190+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/how-chatgpt-adoption-has-expanded",
-      "title": "ChatGPT Sees Global Surge in Adoption and Usage",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
-      "title": "Google AI Rolls Out June 2026 Updates",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "blog.google/products-and-platforms/products/education/nyc-ai-summit",
-      "title": "New York City Leaders Convene to Shape AI in Education",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
-      "title": "Google DeepMind Releases Nano Banana 2 Lite and Gemini Omni Flash",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxQLXhTQlFXWHNNdmlsTENPd2tXSkZzXy1mbEF1VXVxZHdPRTZfYjVrSjd0STNZOGYtVnBCMzVBOGZtM0tacEtHcE1JY1ZuOU9KazlZLUtyMXNxYjlWV1dNTE9ERlJtM0JXUVA2SmxFTHRWRlA5OTVHelNyc2dKdWZuaTYwTUtnZWthWUk0NEl2TU5WME16TDZzTjZLZVVuN21YMWE3TGhmX2h2dVdybFhr",
-      "title": "Meta Plans Cloud Business to Offer AI Computing Power",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout",
-      "title": "NVIDIA Enables AI Compute at Scale for Production Inference",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america",
-      "title": "NVIDIA and Partners Invest in American AI Manufacturing",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us",
-      "title": "NVIDIA Nemotron and OpenAI GPT OSS Models Now Available on AWS GovCloud",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank",
-      "title": "HippoRAG Enhances Enterprise AI with AWS Services",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds",
-      "title": "Inscribe Utilizes Amazon Bedrock for Rapid Document Fraud Detection",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "title": "Hugging Face and Cerebras Partner for Real-Time Voice AI with Gemma 4",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiygFBVV95cUxNTmN2WTU0cnBFTWY2ZDZlR3VfNTM1R3lvMlNUU1ZHODNla21NNHVOUFNjcVlUTnpOMTdKbHk0aUtmd2NoR1o4cjVCLVpyNHFkdDRhYUxVdzNZd0Mxc2Z6SXFlbHVZQjV2MXgwTEgtZmZlaWR0QXEyZWRvYmVuT0pHM3d1STFXSWxLc05zTVg2NGJ3Z3RqWUhmaUVHSjkyelVhaWc2dFNxQ3VSSkJOTWdJc0xRUVRPZngwTnN0ZnZWRndsZDdWWlRYZ1JB",
-      "title": "Portugal Launches First Open-Source AI Model, Bolstering European Sovereignty",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE5oYllGRXZKVDVHcUM2ZnNXdkNydnZ2NWhBTXBLMkhFeTFoM2h2QVlObWppNldneG1wd3hYTDhhVjRWaGRHNmJSNUlfdjladGJRVTBkNXN5Q0NBZWZENGVRVHBMamZxNURSRUpuS2tZbGo",
-      "title": "Mistral Releases Leanstral 1.5 for Automated Theorem Proving",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMid0FVX3lxTE92TmRWQWJiODVoVkFLZXhfbGNKZm0xaXhWN3NFalNkeHNILTV3MkN3NDJkTGs2N2lRWVdYeGRnYzY2cGJYcU5UT1YtdGNoeUVsakFlZVVVTDRUWVowWHVYdURmOHlhQjlvVzBOWXRHN0FxNlBxNmtv",
-      "title": "UN Launches 'AI for Good' Commission",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxPUDhZbWF5Q2dSTkFlYzNhd1RZUS1zU25vd2wzcldjSmh2eDhNNDVaT2x3X0JmVEt1dVlwQmd1cGdrRy1HRHNOU0hDNmsxWXgxQzdkN01HRlNHQ1lhYm5UVFB0QUZNSk5lT3ItRFlwdTJLbWk5Uy1oajV3cHVrUnd1NHNlYzhwQ2JkSTlPYVVR",
-      "title": "NVIDIA Software Cuts DeepSeek V4 Token Costs Fivefold",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiywFBVV95cUxPVk5nbzlPamhmaDUzV21EZlAyYjJRY2xrZ2YtSzczcUwxRnZzZkdVamxXS2xRUWltNkZJMWNiMV83T0FqTm9kRGFIbUJYNjdyM0psUTZjbl9DaVBpdHd5VGRtYXZ6aC1uWmcwZVpRaUhnZ2tEdVczQkpiWDBlLURoN1IwTEt1NGV5OFgyTzl0X0hRUTJtRkFIcDZQSk9FRDFXdU9FWEFvdEt1ZWVYTllySzNxNUFNcWNiY0pfOFp0Z0l6S0lobm9Od0VJa9IBywFBVV95cUxPb1oxUWhRbktqRVNIRWQ4LW5IUXFUWFdJVG16NXNRcS00ZzlJUE94UnRNTmhKUmZZZ2E2cldIZ0s2aEhicjFITEVLQmFvNVljcGVmZG5YTUJUYVE4cUktUkNlTGtRV3EyUU1ISWp2c2NYR3ZTbmtQMVk0TWJOMmxWUTVMaVVVbXhKZW1aelNlYnBHS09OWkgtUGpIQzBJdW5xTS1DUDBvR1pidU9PdnczRmduT2F2cnhJZm16OE13eWlDeXVIVklhWHozYw",
-      "title": "Meituan Claims China's Largest AI Model Trained on Local Chips",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxORlEzSFczX0VFNy1TNFR3S09mMlZWOUtZRjRNb0tqMl9Sc0dpV0d4b2pmcWFBaERweDhBdGM1N21jNWN5dUEtbkE3Vlo5V1l6WjN0TEFzTmdEUzZCR0paLTFRNlcxdTNXd20zUTJibEtaODFIbGRDVmZ0a3BNNFJpX3h3",
-      "title": "US OMB Considers AI Tool to Align Grants with Policy Agenda",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxPN0lyeWVRWHkzdDFrTjBPd1V3MDdkOE0xVnJaUGs0T3RLWkNZYkRhRVJkYktIRS04c2ttN0tscHEwclRNc0RpNTYxS2JiUXl0R3drWGRKbENTNzZSY1ZyY2ZZQTFpT1VDbEFBX01RNmtRb21ZYzBHV3ZNNEJha2pacU5jOHkzQS16NFBCZXpwYkINGRfTDQ3RjBkNlBiNXQ3RUdiZjl2Vk0zNTdhaE5V",
-      "title": "US FTC Warns AI Bias Safeguards May Conflict with Consumer Law",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxQcjRFbGY1bUU1aTR0VC1FWEstalYzVHlDMXkzYXh6OHBVRFU0Zy12LWlkbDFIWl8tTGNtQ3A3UXE1dmRaYV9KRlRoaEJXWWVjelhkM3ZnQXowWkMtanpFcUZjSGZadjRpblIxRHhTSExCOFpFXzZpU003NDNZTHdUZWNUaDlTcF9KVDZDcHotN1ZaWXpkZVRWWXVKaHBFaGNoRzhN",
-      "title": "Global Central Banks Discuss AI's Economic Impact and Risks",
-      "first_seen": "2026-07-02T04:32:34.555810+00:00"
-    },
     {
       "url": "news.google.com/rss/articles/CBMijgFBVV95cUxNM2dWaUxJU2Y3eDdTcVFMUGw0OEZCS2twb3hKN2tPNERLSGRWZjctUFVYTk5IZzZtZHk5WVhlS05ROXB1cFlCSHk3Y05iTEd4Sm5hME1UTEIyakh0c25UdEl2Yzl3dTRWcGF2NnE2RGo3WFNEbzlWMVBJNF9iTXdubFZBZWRieURObXE2TVN3",
       "title": "Meta Launches 'Pocket' Vibe-Coded Gaming App",
@@ -764,6 +669,125 @@
       "title": "OpenAI to Release Advanced GPT Model After Government-Requested Delay",
       "first_seen": "2026-07-09T04:32:03.160007+00:00",
       "rss_title": "OpenAI will publicly release advanced GPT model after government-requested delay - The Hill"
+    },
+    {
+      "url": "openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "title": "OpenAI Powers Microsoft 365 Copilot with Advanced GPT-5.6 Model",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot"
+    },
+    {
+      "url": "openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "title": "ChatGPT Work Emerges as Ambitious Project Agent",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "ChatGPT is now a partner for your most ambitious work"
+    },
+    {
+      "url": "openai.com/index/gpt-5-6",
+      "title": "OpenAI Unveils GPT-5.6, Promising Enhanced Intelligence and Efficiency",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "GPT-5.6: Frontier intelligence that scales with your ambition"
+    },
+    {
+      "url": "openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "title": "OpenAI Highlights Concerns in AI Coding Benchmark Reliability",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "Separating signal from noise in coding evaluations"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk",
+      "title": "Meta Releases New AI Model Amidst Intensifying Global Tech Competition",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "Meta Launches New A.I. Model as Global Technology Race Heats Up - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxOU3ZaLWo1ZkNjYlo2YWxyX0NLdWdSY1BUYmhFV0M4cmpaWDRsOVRlYjZYS0JKekR4LU1yTjZWZmtMV25lX1lnSG53ZlR1SjFoOUxLTUdwdlNFZkdMNVRadUtkTFdVemZVODVVaTB3R2ZhN0R1aXhDYWRhS3lBaWFINHNOd2RSMV9rNkR3WUlMZTJJUTJOcXNSLVNDNjBHZUNfY3JPeVhGaGJ4TnhnSk9nczJB",
+      "title": "Meta Aims for Aggressive Pricing with First Pay-to-Use AI Service",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijAFBVV95cUxPdi13YzVZQTNBZ0UwV1RQelN5V05wT2t4X25KdjBkSjA5cmRsamlmUGJsNlQxNTZMUmlVbnZRZXNyZWdnWENPVkVGZzBSdWF4QzhxNFN3cnpiQlBwbklvMkVmbVB1bVFrd3FBSS16SzRnempHWnhVWEZDNWRjazdMd1I5SHl6ZnFRazRKMg",
+      "title": "Meta's New AI Model Targets Coding Competency",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "Meta says its new AI model is ready to compete on coding - The Verge"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM",
+      "title": "Meta Launches Paid Muse Spark 1.1 API to Vie with OpenAI and Anthropic",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic - qz.com"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs",
+      "title": "AWS Offers Practical Guidance on MCP Tool Design Tradeoffs",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "MCP tool design: Practical approaches and tradeoffs"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration",
+      "title": "SageMaker HyperPod Enhances Enterprise Inference with Advanced Features",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock",
+      "title": "Amazon Bedrock Enables Automated Mailbox Prioritization for Public Sector",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "Automatically sort and prioritize your mailboxes by using Amazon Bedrock"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMickFVX3lxTE1ScWRxcUZHcF9BRnY3cDhBdXc1dlI3OTdRLXFpb3lFMmN3a3g3azVCdDhHT290RXN1Mmh3NElzNkhWNDZtN3BwT09tTUhnMzBaSW44SF9qR2FmVFd2NFF5VmlmdU1tMkZOaDN3ZjluLUtFZw",
+      "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model to Date",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiSEFVX3lxTFBKWXJOODhiTGVVSHVxYml3SDJiTkFXd0RGSTZBQ2R2SVdPRTllQ1RoT0N4S05uQlF0Z3NxcFZnVFF2NG1OdXhBVA",
+      "title": "Anthropic Launches Claude Reflect Beta for Tracking AI Habits",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "Anthropic Launches Claude Reflect Beta to Track AI Habits - SQ Magazine"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMickFVX3lxTE1HM0ZPUkgwUjBHRzRydkJRSUVpdnVUMmwzbFJ6Y0N3VmVzWGdPekN4aWNyQW5QRlNiVTdHb3hCMkhfZkE0eHJOUTdydkd1blg2RlA2dEd2eDhXeFB6bXN4VUhTWWdReUFKTlItWUpHTFlzUQ",
+      "title": "Anthropic's Claude Reflect Encourages Mindful AI Workflows",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "Anthropic launches Reflect in Claude to visualize AI use and encourage mindful workflows - Межа. Новини України."
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA",
+      "title": "X.ai Introduces Grok 4.5 Model",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "Introducing Grok 4.5 - X.ai"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxPb3BEVnlCbkJJTC1RYi1yWEV1TDJDcktCRkFJbnlCYlFLZk0tbGl0LXg1RVF4b0ZYdTFUZVRNeWFjWjdhNXFDbEVyTmE4QnhmNktwWkxHZ3pyNG1qUklvem5BcVRPYTUzUkRsczZ0aXRYMV9CODNwYUY0Mmw2Y05XakJuRXJXRXJrRktoclQ3d0NlS3ZhOXB1SnNVZnFUb2RO",
+      "title": "Cohere and Saudi Arabia's Humain Forge AI Compute and Sovereign AI Partnerships",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "Saudi Arabia's Humain, Canada's Cohere to work together on AI compute, sovereign AI models - Yahoo Finance"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiakFVX3lxTE91c1R4SXVhZGFqcVl3V2tacFI0dGlaNEluZUhsSnZScS1NRUVMdUp4eEtZSHlaa0RqNW9SWXRSdnQwUnI1VkhxVkhOWDBvaXVjeTdOMTV5enFYR0ZYZVZvZF9HYkVBMWFHY2c",
+      "title": "DeepSeek Challenges Major AI Labs with Cost-Effective AI Solutions",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "DeepSeek Turns Cheap AI Into A Problem For OpenAI And Anthropic - Yellow.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMie0FVX3lxTFAzV3Bmc2pFMFZUSzNzN2owMGFTMWVVRzItclpkWml3WWt1SV9iRU5kY0VMbGt4eGctMDZjTTFJVW9zVFRDZTExV0lrRGtqRC1VUGZNdkh2bkpwR2RDblhiV1RVdjZocVJGY19CS2I5a3RwUDdvRmZhRg",
+      "title": "DeepSeek Pursues In-House AI Chip Development",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMie0FVX3lxTE1LY1pvR0tMd3hJVVMwamJUMXM3LTRYRF9GaFNuV0FlYmhsLVNaOFVMdXZiUGhxZTU2OE1ERmp5dllJVjd4ZDNmSnQtNVZDZnBrNXd2ang2MFhUQ3EtdGhOYkJHVTB3UEpoRnNVbDA5ZXVOVktRZEhLeG8xZw",
+      "title": "DeepSeek Reportedly Developing Its Own AI Chip",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "DeepSeek to Develop Its Own AI Chip, Sources Say - ForkLog"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxNM01XNDd6Uml0NTkzVDBUWDZndll0NllOQm5FellLUWVmLTJoSFlsYV9mTmc5Vjh4Q3MxZWQ3a2xyd3JxbWlBcXA1UXBvdDM5NUc0clVPY3JZYk5PY0lKZVNiV3BaMjNwcnRnUEs5NzJDam8zcC1faHFOUHRIZEpqZ0FKUGpWQU1tbmpxWU9sMHR2dmEyNEVwR21xN2s",
+      "title": "Google Cloud Makes AlphaEvolve Accessible to All Users",
+      "first_seen": "2026-07-10T04:32:07.050190+00:00",
+      "rss_title": "AlphaEvolve is available for everyone - Google Cloud"
     }
   ]
 }
