@@ -1,71 +1,6 @@
 {
-  "updated": "2026-07-10T04:32:07.050190+00:00",
+  "updated": "2026-07-11T04:32:06.224439+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxNM2dWaUxJU2Y3eDdTcVFMUGw0OEZCS2twb3hKN2tPNERLSGRWZjctUFVYTk5IZzZtZHk5WVhlS05ROXB1cFlCSHk3Y05iTEd4Sm5hME1UTEIyakh0c25UdEl2Yzl3dTRWcGF2NnE2RGo3WFNEbzlWMVBJNF9iTXdubFZBZWRieURObXE2TVN3",
-      "title": "Meta Launches 'Pocket' Vibe-Coded Gaming App",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
-    {
-      "url": "blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence",
-      "title": "Microsoft Emphasizes AI Engineering for Business Transformation",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing",
-      "title": "Amazon Bedrock Enhances Detection of AI-Generated Phishing",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai",
-      "title": "Best Practices for Multi-Turn Reinforcement Learning in Amazon SageMaker",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
-    {
-      "url": "github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero",
-      "title": "GitHub Achieves 'Inbox Zero' with Secret Scanning Automation",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMibEFVX3lxTE1hVTNmV3ExUXk0eGtBV2FYaXhpVEtqQ0pjWEJOSVJQdmUwdzRFc0pza05KSDVaYmJPLU9jRUtmc2VOVXBodnoybjNiTkpDaHNwWVVnMV9LRU9sc001RG4ydW9JV0QzbW5zWW8zag",
-      "title": "Anthropic Officially Launches Claude Sonnet 5",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxQeUVkQ04zcGtVa3BfbmZsMlZoTkg3dWpYd1dPbFhBWWFmLWczWnF4VW9Xa0M2cmRqMFhzZ0VkSndzSmR5dXBHemswSVBJZFNYZFlvbTA3a2hnNFJZdjF5QXUzR2x6N1djZFZxZzJRVXNERUF4TDRidENjU1BSVnFoWGNTUHRScHB3Rmc",
-      "title": "Anthropic Unveils Claude Science for Pharmaceutical Researchers",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxOTE9ZeTJDT1hvUEhTWTZLVnR4eDlkUTROYVJDYjFmV2dkRlVEYXQ1XzBvMVFXZEVSZWtoRjhneUo2b2s4X1NpR3hKeS1la3B4U2tuZnE2R256SFNFQzJrekxyQ0FDQ2ZpYU0xeF8yM295ZmVQYzg3Vno5NGxiVU9ERGtmenZuR3hxWHdOcjJhbXU2RUdu",
-      "title": "BMW Group and Mistral AI Collaborate on AI for Crash Simulation",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxQN2p4TmtNNEFWWXBSd1E4OUtqbFFqYXY4MVNWMXJxUm5BSGxVZHplYTBrbV9MeGlNT0lYN0NZeHJtYXZXZHd3V0ZxSWdQekFEeXEtLXBXVTJGV3NyRlB6LVFTVll1ZjRLTlBuWkFBSDQwOWNMbkRENmk1MEpUbk51Vm9VdDd2SU1o",
-      "title": "Portugal Launches Amália, Its First Open-Source AI Model",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxPMXhkY25uQ1BOUzJ1Q0I3SjVvRjQtSHZLemxTbTB3V1ZWNV9aSFBZOTEwandUdmdPcGp4ZzdpeFpIdktvT0gzeHNfSmFtYm9CeXZRZVZxc0ZjLWFKREVBNFBXN0FBY3R5THllRkIwdHpmQXE3Z1VkWmwtNi1tRllUdWZ3aFVXRFI1YTc2MUxKQkdIUFBzSUl6eFZoY2FBbHZoREZiQzVSb19BSnE2WTI1NHhsSGhMNGNYSDdfUUVMY1hCR0dBTVpLSG1lbkJGaTFq",
-      "title": "Second Front and Cohere Deploy Sovereign AI Infrastructure in UAE",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxQWm1TbUJnNmpTZ2JuWWt4SFZvRTl3QW9NNlZyOUo5OUlCNmJIcEVXemdsWXRmTmxCaUdqRENiODRyNFMtdXZUUTc0OXNDSlYyWWVVV2g1aXJkLXNiX3hjT1J3S1V4SEpVaXBOMUJYNlk2ejRiRHBBdEVOWWxsT1J4RWVtcUFkeHZ3eDlNdTFjdUE4b3RpMVczMC1BZmJkTVhH",
-      "title": "UN AI Governance Commission Launched with Tech CEOs",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk",
-      "title": "Inexpensive Chinese AI Model Competes with Global Leaders",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxNNXpubXFFWHJfUXNnTzN2OGNUTG5VNUN1ZjJFemQ1R3BRaVNsc05jZ0trR3ZTZ280TnVVUWlhMTdILU9NYlRsM0p3VEctdDlycHZKekR2ZXlwdjRZaE9qZ3FSM1pNMHUwQ3l6V3NXRktBaS11VlNTZjhnNU02M1dDUmxGbjdycG02eHRxMHNhbnpMdG44RWFYM0JELWZDajdFTThmWkstZThkNXNWOU93c3hodEZZX01qNXhMdlFXSUNHNDNNcHh6VXUtQldqcEl3",
-      "title": "DeepSeek's AI Allegedly Complies with Building In-Browser Ransomware",
-      "first_seen": "2026-07-03T04:32:09.074740+00:00"
-    },
     {
       "url": "deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
       "title": "Google DeepMind and A24 Partner on AI Research for Filmmaking",
@@ -788,6 +723,123 @@
       "title": "Google Cloud Makes AlphaEvolve Accessible to All Users",
       "first_seen": "2026-07-10T04:32:07.050190+00:00",
       "rss_title": "AlphaEvolve is available for everyone - Google Cloud"
+    },
+    {
+      "url": "openai.com/index/deutsche-telekom",
+      "title": "Deutsche Telekom Accelerates AI Transformation in Telecommunications",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "How Deutsche Telekom is rewiring telecommunications with AI"
+    },
+    {
+      "url": "openai.com/index/bio-bug-bounty",
+      "title": "OpenAI Launches Bio Bug Bounty Program for GPT-5.5",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "GPT-5.5 Bio Bug Bounty"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1Eya0hSNGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg",
+      "title": "Meta AI Introduces Muse Spark 1.1 for Enhanced Generative Capabilities",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxQcUNnaGdhTk9ERkVwejlQZ1k3SFJmVGtWMHB2c1YzNUVfOXpXYkFRTk5SVEFaeE82M192b0JlQ1lUZWNRcVVhRngxVzNzai1LcGoySjZTa01hZ05ZM3pYVWRFZE4wYXY2MnRFZTZUczVxelZVRTktdWNlTWdLNEJJSXByVWxscWJOdXYzSUJST080Zw",
+      "title": "Meta's Stock Surges Amidst AI Model and Chip Advancements",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi3wFBVV95cUxPc0dQXzNtd1FiZl9pZWJNUkJTeTlrVXdNMm40NER3enVQa0huWHlHYXJGQkVzQm4zUW5KZ2MxSkUxLXE3dnlQUnFLSGZhLWdPSXNZZkdFN0diN0FvYTJKVkIxMlEzMXJGNFJLbVVpaS1lNHNrd1p5czI5VnRqRFNZSXh5NWNDeE9mSnB3WmlTZ243cWJHVmZMOWFfX1NXQ2RienAzcUZjRDlVTFpxOXZoTDFORVJlU29iX0lsdVVZRmZWSHFCR20zdlplc0hQZVd2Y1Zmd29vYjVHNzdEUnMw",
+      "title": "Meta's Instagram AI Image Tool Faces Privacy Scrutiny Over Data Usage",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "Meta AI image tool can use public Instagram posts unless users opt out - Scripps News"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMifEFVX3lxTE5rTEw5UmZtUmgyNUZmM1diSkFoRzc5cHd5eXlnTlpRaWlMT2RkVjBsR0ZGeC04TWxoZFlEcFdpUGQyc2oybFkwNHp3UV9LTURNY1BheHJfSWNiQXduWjBRclpQWGMyRi1sWVVscGlCNXJZWXEyR2RHTHNOclU",
+      "title": "OpenAI, Meta, and SpaceXAI Announce Major AI Model Releases",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "OpenAI, Meta and SpaceXAI push new AI models in a week of major releases - AOL.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi4AFBVV95cUxOX2FIRXpJb2pEcUI5TXJxdWZOd3Jtd2w5bUNDQUtBaE5ubmt6ZUhadk1zVjNQUWNuYmVmVElxd1VCX19iWnc2bC1VQlBxLWlRVkMtSU83Wl9jRkdVRUU4T2x4OVRZYmszXy1ESjAwR05VbmkzYXQ3OFJibEtWbHd0bnlfbW9PcWhfSHAxQWlKMm12dTdVbmdKZ203RURwakd5czNiWVlrWHpHaW90ak5vbk5DN2NFdC13bTVLYy1fb281aHpiTkJUb3h5djVJOFFtNlJIaTNqTjI0blFhVXNLRg",
+      "title": "Meta AI Unveils Muse Spark Model, Faces Privacy Concerns Amidst Chip Production",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "Meta Ramps Up AI Chip Production, Launches Muse Spark Model, and Faces Privacy Scrutiny Over Muse Image Feature - AI Insider"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization",
+      "title": "NVIDIA Nemotron 3 Models Fine-tuned on AWS SageMaker Serverless",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one",
+      "title": "Henry Schein One Deploys Real-Time Dental Image Verification with Amazon SageMaker AI",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "Real-time dental image verification with Amazon SageMaker AI at Henry Schein One"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore",
+      "title": "Semantic Layer for Agentic AI Built on AWS with Stardog and Amazon Bedrock AgentCore",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate",
+      "title": "Amazon Quick Automate Enhances Agentic Workflows with Native Case Management",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "Scaling agentic workflows with native case management in Amazon Quick Automate"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth",
+      "title": "Deploying Quantized Models on Amazon SageMaker with Unsloth Supported",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "Deploying quantized models on Amazon SageMaker AI with Unsloth"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod",
+      "title": "Optimized LLM Inference on SageMaker HyperPod with Disaggregated Prefill and Decode",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "Disaggregated prefill and decode for LLM inference on SageMaker HyperPod"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "title": "GitHub Copilot Code Review Improved by Shifting to Shared Unix Tools",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "Better tools made Copilot code review worse. Here’s how we actually improved it."
+    },
+    {
+      "url": "github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner",
+      "title": "GitHub Establishes Durable Ownership for Over 14,000 Repositories",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "How GitHub gave every repository a durable owner"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMibEFVX3lxTE1hVTNmV3ExUXk0eGtBV2FYaXhpVEtqQ0pjWEJOSVJQdmUwdzRFc0pza05KSDVaYmJPLU9jRUtmc2VOVXBodnoybjNiTkpDaHNwWVVnMV9LRU9sc001RG4ydW9JV0QzbW5zWW8zag",
+      "title": "Anthropic Officially Launches Claude Sonnet 5",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "Anthropic finally, officially launches Claude Sonnet 5 - Mashable"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi3gFBVV95cUxNbkRucUFsZG5XeXdETktKelhpTl92SHpyZ01ySkFIMjlQRjZLMi1qdVZMVWpXbm1fWFp1a0hWdHFmNkQtX1RhTnVzOHU1ZkIxSlJOemQ5N2thVFhGOFU3dWphYUF5a2pzODBRdnBzYnJuRFFGOXRlNGRyRExCTl9vLUJkMFBfeVZFa01ZdW56TW11X0FHdVZLMjZmWUEtVkxiRUdoVUNiZDBGeGdUT19xNlVnaE1mMnNHREE0RzdrdkRXYkdLaFJOUUNoUVNyLWd4Q2dZMDBiTTR0WGp1bXc",
+      "title": "Anthropic Launches Usage Dashboard Amidst SpaceX Partnership Deepening",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "Anthropic Launches “Reflect” Usage Dashboard as Musk Praises Anthropic and Deepens SpaceX Compute Partnership - AI Insider"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxOT1dDaDZvb3JFU056YVY5NXBROUFrV1JGTTNhQ0hLOEkxNzhBUFNPLVg0UUl5eUxaUzdMdWxOZnBFQnB1ZlJwcWlhbElVdHQ0XzFyaVBiWC1JOGdURmZLZElzSFFQaFNiVU0wSExXRm1wV21yV0Q5YUtWSS1QaWVJRlVvaEFNVHJ2bkFiYXVYM0VMOTdrX0Q4VVd5THBtV0lyZDF4RXRCQQ",
+      "title": "Anthropic Launches AI Platform for Scientists, Eyes Drug Development",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxOc2ZnMGFOLWQ4Zzl4WkdEX3FXVXVGQzdSWjJwVkc4MXg5MXNGdDZmNXdybGRQVGc4R1k2em50YXlqZ0lzcXlzRGIya0JmUF92Z0ZCMk03dnlpVFEzc21uMXkzQW16a0lQaVhRVDlhc1pBRW5fd21NOU9EbHYyYTdzWWlhWU9FM0o4SV9pQnZaVWlFY3BUNFVERDQ0MG1rMWhWRmcxY0owYjdVbEtxbW5uWE4tVmt4d1BxQnc",
+      "title": "SpaceXAI Launches Grok 4.5, Emphasizes Cost-Effectiveness for Coding Tasks",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "SpaceXAI launches Grok 4.5, touts lower coding-task costs than AI rivals - InfoWorld"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiSEFVX3lxTE03WmVCQllCMGxNNmlvaVNVb1JzQ0o3M2NaeWdoam1heFhoeFh4ZGU3eU8xRVBtNWN1VzJURmJ4MGNkbm5qZHp6cw",
+      "title": "Elon Musk Hails SpaceXAI's Grok 4.5 as 'Opus-Class' Model",
+      "first_seen": "2026-07-11T04:32:06.224439+00:00",
+      "rss_title": "xAI Launches Grok 4.5, Elon Musk Calls It Opus-Class - SQ Magazine"
     }
   ]
 }
