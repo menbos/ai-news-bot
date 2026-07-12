@@ -1,66 +1,6 @@
 {
-  "updated": "2026-07-11T04:32:06.224439+00:00",
+  "updated": "2026-07-12T04:33:30.414960+00:00",
   "entries": [
-    {
-      "url": "deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-      "title": "Google DeepMind and A24 Partner on AI Research for Filmmaking",
-      "first_seen": "2026-07-04T04:33:34.733752+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxOSWN5bEZWTHNWbDJHcnQ4X0tSNFlNUS0yTlhlMlNmenk1TERmUEsxVDlGbElDSThnVHV4eXFXVEpDWXZDZkJkTUVyM1M3OVNRdGlfWWVEVTNQMG5BREx1QzNmdlR1VHZfX2gtQnhaUnJnMkgyMkFwNXVRQzRtMG5tVHhXNjZFWVRubWctVkkzdw",
-      "title": "Meta to Enter Cloud Business Selling Excess AI Compute",
-      "first_seen": "2026-07-04T04:33:34.733752+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE4zckg4Z1N3NVUxSmxlTUlVaTZOVGVuZkY2c0V6dXlib25kMUJiWGRia3RGel_lZlVhZzRmTzhoQ3dXc2ZzNmNaNmtIVDR6Z0JJR3VBaWFIS0hfWlBfUURIVHVBanRUWS1teVRONFZuYTFsbXBrajVxUGVB",
-      "title": "Anthropic Unveils Claude Science AI Workbench for Researchers",
-      "first_seen": "2026-07-04T04:33:34.733752+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxPZTVFWjMwZjlhbzY1RzNsT1pQSEFJYjFfZ1puS2FNVEFkbFM5NndSMHNwTlRkRXBYLVVEdlNmc09GVWVVY3FieGlxeDFWYWpjWG0yR2xXV2NONGpXeEN5d2ljMjVnbEtLOGN0TUhzR3JEcHZqbDlYREhRdlBjSGZxVFNoNjQ4WUdtT3ZmUlY2ZVpmWjd3Ync5eEJCSG9NQU1fanFIZEVhdWQxQQ",
-      "title": "xAI Launches No-Code Grok Voice AI Agent Builder",
-      "first_seen": "2026-07-04T04:33:34.733752+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMid0FVX3lxTE1rOEE4bEVPbmY3Z09QbWZmLVpIOWVlRzVOeDN5R04yY3FuUkxfTEJKaXNTeHlkNkx6Nk05Tmg0d3BYX01VV3N1VWRLRzRGMlVibEZvX2ZLZGRPQVlQVl9BSHdBRXc2NU5LLVJMNW5yRnZGVlBMbXV3",
-      "title": "Cohere Secures US Drone Defense Contract",
-      "first_seen": "2026-07-04T04:33:34.733752+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi8wFBVV95cUxQNndMQUF5NVJ4UzZoRGFmU3pEVmpBQmFoQ2JxbkxLTHBxdkJlekdnY1BaendOcDNhSnRVRnFoS2oxNmZpSGpkOEFFS2VkNVZ1VU5YTi1MdjEtSXh1Y0tuMV9PMkV6aVJBRnpYME9OUFRBTjhuZjhzWjYzNEZZX25GVXNQSzRJVU1kNVNKVWpnV3puUlhjUG05OUtVNGVqV21RTk1wQ3hHYjBjbks0OUVkRnNEY2YtWWxmUjZ1OXJPQnpkdUNlckE3cjd3U0ZpS0k1QTVvVXU0VFh1YndZZUFPbHlpYWtaRHRYRXpBUi1FdnNUSVU",
-      "title": "Nvidia Software Update Reduces DeepSeek V4 Token Costs Fivefold",
-      "first_seen": "2026-07-04T04:33:34.733752+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi4gFBVV95cUxPd2lpTWVLQ0pRbGJleTRTVERNUWRjNVl2c2szdndSaGtFNnlhTHVnalBDc3hXMG5BOEZ0anlkNDY3SzM1MVFxdGdObHFobmJmT1lEX0tQNmVwUFRWV0xGWktCSUg4TXVFeGp3Nl9vS19FRXkweFppejQ1b3pLWkIzMDF0Y1QwYnY2ckpRRHpjeWp5TXNwdGQ4MTBScjdMSFh4b1AzSklQb255VURmVXhxSTNXYklrandKMmNRR2hNZlhaeFlRbHEtV0MzenA4RVNBWk51dFdXNUVJOFBqLXRMQlZB",
-      "title": "FTC Proposes Policy on AI Accuracy and Ideological Manipulation",
-      "first_seen": "2026-07-04T04:33:34.733752+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi2wFBVV95cUxQQ2x1Q3pDNFFGdlpNRUZ4X2NHTE5jcm83cEl1WmdEVUtycURnNTFTeGZQQ1hEWG80OHdod2JkUEtpYWZrUE1vbFZRLVdTS3VCZTNLZUpoY201QjhJVDMyTTMwLWRyd282RnBlYlhuWDBiMmV6bEctR0lpdXJrOE9Tb1BITEFHdUU4d0Y0NHV2Y3pndV9udlNHQ0VjZkdJODNvN2NfenROTjA4N2l1cU1RRnFWU1VvSjFCSWthX25nTnFjZnR2MURuSm56M3Q2U09hQS1IWmhGajJFNHM",
-      "title": "FTC Proposes Policy to Prohibit Deceptive Steering of AI Products",
-      "first_seen": "2026-07-04T04:33:34.733752+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPQXc3akZIUTRKbmNvTGpUa3h1Y2FtQmV1cDhtazd2NVNlUlBaYlBma01aVzRDRWkzdWtaZVNkYWxVMDdWcEd3alJlNHF0eWE4OEd2dXJyR2ZmWVdGQnIzMGV5YWZnb1Q1dnRaSTFSamVYd3VrU0x5WmlvbnlpQmVlY20tRXU2Z29iMGZha3NIWEN6cUp1ODZEclRBdFpjSlRGaENvRGp2NlQtR3ZoZUxYYWZ4ak9jaGI2",
-      "title": "Thailand Advances Towards Comprehensive AI Regulation with New Draft Act",
-      "first_seen": "2026-07-04T04:33:34.733752+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxQUEhweVd0dWNyYnFWdDNQZGx1Z2JmNjFlNlZMdl8xRTlhV3RTYVdGUk0xR05WMm42N1dVbkVVUmk4YW5iNnc2VWhNZ3ZLbXpSaU15Q1huRndBZWUyeFFtUTg5MHBIaHBmdFpuZFhSa3lDa2JLQ0puMWpzc01rM3VqUmZDQ0pFcl9zSnJWSGJzcVNRVEky0gGaAUFVX3lxTFBKLWQ5bm9HRzIzMndnYmpFM2lSSUV0RlFxVW5WcDJHNXViNjVzZFM5dVUzVDFqdlUxcmw0cEI0SE5ZcDBocW1Cc29PbW5STXZRRXYwZDRsV0lYLXg1b1JJVDVPOWY5MVlHYzdjb2Q2WW5NMF8zZUI2UTRuYk53dVlORVFKMTluSl9KbWdKV3doTnVQVnhmZE1RRmc",
-      "title": "European Bankers and Regulators Warn AI Outpacing Regulatory Frameworks",
-      "first_seen": "2026-07-04T04:33:34.733752+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN",
-      "title": "Meta's Zuckerberg Notes Slower-Than-Expected Progress in AI Agent Technology",
-      "first_seen": "2026-07-04T04:33:34.733752+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-02/nvidia-offers-revenue-sharing-model-for-aspiring-ai-startups",
-      "title": "Nvidia Proposes Revenue Sharing Model to Foster AI Growth",
-      "first_seen": "2026-07-04T04:33:34.733752+00:00"
-    },
     {
       "url": "news.google.com/rss/articles/CBMimwFBVV95cUxNb21pZFRHblc1dDU0WEZtSnpwWXEtTnBIQlVJckNmVXhxSzEzZ285NzFJclBubDg2YmxlXzQ3V0VXOHZRcFphR3c5LW9qV1hJTXJ1eUxSNTVIdGVvM0M4Y0JfNjBFenNNaHlxeWtWM1JqdXhnNHFURVowckFVdXpnSnMyWjZLeGpUeVV1d2M4OExfRFFlbVMxMlFkZw",
       "title": "Meta Launches 'Meta Compute' to Offer AI Infrastructure Services Beyond Advertising",
@@ -840,6 +780,121 @@
       "title": "Elon Musk Hails SpaceXAI's Grok 4.5 as 'Opus-Class' Model",
       "first_seen": "2026-07-11T04:32:06.224439+00:00",
       "rss_title": "xAI Launches Grok 4.5, Elon Musk Calls It Opus-Class - SQ Magazine"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNcXZpYmZ2bzZHd2pmUTVhcXdfUW1UWXBub3hVWXNpWUUxY19TUVNyYWxyM29GTm55R1NndlNmbk5UU1NUS1lxYm5GRllTSFlGQnM3RWlRNDZuTTFJZmRiMEZ2bmtyWHZ0ZHpxcnBSdzB0NnNPbkVyM3VoTE5jMnM1YktXTFhTOVRwYkt3dVI1UnVlYkt2Z2pYTFVsamZRd2o5d0RwaXJjY21nU0k",
+      "title": "Meta Launches AI Imaging Tool",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxPNkpYY3Q1NFoxb014bnR0YkpwdjBPdzdOUXpLREZWRWlYVXJtMmtrckdNUjl3eEFHVjduSkZtN3dyUUN4RmlscUNPdU5JOWphNzYtNnAxeEJUUlh3LXI2VVdIdTk3QXpPZEFiN2Z0d2tydGdJd0dZTGk1QW1XX0Q1VjBYTEhOSnhEVlByMklBMkdpV1dBeHVsVzNLUlA1MElZemZz0gGoAUFVX3lxTE85c1pWbkxzMG9KSkxwWmFKcFhJd09kR0Yxc082WDFMVHducVZWcS1vSEhRdmpvY2pySldTSlRPa19UNzF5emk3Sk9LVnJ0RTJNUEc2Y1Q4UzJMTnZvUXQ0b2RzbXZ3WTdkeWkzVWFLaXp1TDhHSG9BUU9ZMnJMZC1EOVZQbjdfTlE1X2lCNDlNeTJNbk9lbUM0bERmeDJVZVAyUGsteDRxVA",
+      "title": "Meta Launches Muse Spark 1.1, a Multimodal Reasoning Model for Agentic Tasks",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxNeW5xTmRRQ3p0cS1qaWpTRDYybU5fYmlSekNQQzN2d2w2MjBLdFVfMkhfS1d0NnNKcnFURHNDaVlZYlJNWktzdUYyR0JyZGpVNGYyUlplcW9TUkJ0N1VjdnRjaWdfXy0xYkNmUkdwYXI0YW9kNHN0UDRkWG52SWlRQkZnODV0cTBVNWcyOG1NNTR6dE92ZG9LV1J0eUlqNXE4WUw4",
+      "title": "Innovative Eyewear Integrates Claude AI into Lucyd Smart Eyewear",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "Innovative Eyewear Launches Claude AI Integration for Lucyd Smart Eyewear - Yahoo Finance"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigAFBVV95cUxQbHBhOS04NlU5MmlOaV9xQUZMc1B5Y19SQmNWMFAzSnRQXzM2NUJaOVktcVdCT3pBbzU1ckJtYUM0TnQ0Tnc2RFk2NklfRWdJc3pnLTNmMGRjQzNDaXhQYzNKMGJsa1ZsejlZV3RsS1I0MkpsX1UtTXVvU0dXMElhbg",
+      "title": "Anthropic Launches Claude Science, an AI Workbench for Researchers",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "Anthropic launches Claude Science, an AI workbench for researchers - CryptoRank"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiakFVX3lxTFBrY1pfa3U0bHlxaW84LXdqTWxZcmFhSl83MGttRklmNGFJZVJyQkNoRS1RVWFYMVVCZlVpeVRtcVk0VHdpSERzdFBBZ3VRTWItcVZlUlpmdnVWckZucjFGWHgxbnJxc1pfa3c",
+      "title": "Grok 4.5 Launches with Aggressive Pricing, Undercutting Rivals by Over 60%",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "Grok 4.5 launches with aggressive pricing, undercutting Anthropic and OpenAI by over 60% - Crypto Briefing"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMibkFVX3lxTE0yZHRaazljNU0yTGpTWTlCSlk2RWZrOEZQd1JNZ0FmN3RhZTZxWTQzSkVrcUV5U2Q2RzZrMkh3dHV6eDFacGRSSnM4OGNvbkFpNWl1czNHeW9VZ0RrMFFpckp4Y29OZVBFNVJYb1pB",
+      "title": "OpenAI Launches ChatGPT Work with GPT-5.6 to Challenge Anthropic",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "OpenAI launches ChatGPT Work to challenge Anthropic with GPT-5.6 - Межа. Новини України."
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxQMmF1NXlwMUdMZnFVdjFLMS0tbWpMcjFUczlfZVQ0SWNTZFM0X052ZkxqRF9yeWVOLU9naUVnMHhjM2dXZ3BtRDEyUmpmMlkzS3U1SVVWT2dyNWVuQTNxeWtPTUFXUU5JaXM0ZjVraHExOEdtcXhHVnpyQjBLT09jblNtVk9zSENHVlBIMUxFbGxEdjVt",
+      "title": "Elon Musk's xAI Debuts Grok 4.5 with Aggressive Competition Against AI Rivals",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "Elon Musk pulls no punches with AI rivals as Grok 4.5 debuts - Yahoo Finance"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxOU2ROV2lrT2xTdXFCRkNmcWhYaExiRGVObDJTS1NVaXE2c01MaEt1VWU3WmIxV2ViTFF4Q21QeTgzdEdwYnlHRi1SS3A2M2J5M0tTZnBueksyNkFicFo0U1MtMUNWcUlFcXBmYXc5OXpnWnRoODRaMVNMUmlEaGRiUktBQmxoVUltek9FU3ktRzFVTkMtYjB6Vg",
+      "title": "SpaceXAI’s Grok 4.5 Undercuts Anthropic and OpenAI on Coding Agent Pricing",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxOTXN5bXhuZ0RRRllmcERzZ0JMOXJ5QV9oSU0tYkJZNU03REF6MWdHajVYcFlIMUJSLWVKUmJ6Nzg1cHdMNlMwUWR3ZzlLb1ZJb1VtWUE5VTJMLXZTSzlic29mOU1RWWxkcUxGeHBHQWV3VElxQk1xNXNqSVllUWpqUmlDYXFxbUhvZXhiOWt2Y2ZDMGRuRk1qNXF1WGl3ejhXYjRnT3o5NTBaVXVmWlVDbGxXTTZUY2g4LU1hc3A2ZW9ZLVF5TXNwN9IBzgFBVV95cUxNbXRSZFZPTHMzLXdFbFNVN1pFVlhCbnNDV0ZLRW1GNXQ4V0JLcHo4ekFuRTFINGR1SHpBSFdocmxxVGlQUjhvYk5SMmZpZUFmZFVzN20tR3dLWDdfc1NlQjVRSnRNeFZOQnd4ZDlYejFXN19UTUVVRm9YWW8zQU5DUy1mMWRoZm81M2Jwd2h4MjA3LUxSWmtoTVl4WENBSFVqRzExNHZpNUVfWEYzdE4tOENfUnZLSXJqYlZrR0E4a3lIVVVNMWVXeGs2VGpFdw",
+      "title": "SpaceXAI Launches Grok 4.5 Model for Coding and Agentic Tasks",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "SpaceXAI launches Grok 4.5 model for coding, agentic tasks - ET BrandEquity"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi4AFBVV95cUxPNUwza2ZGczIzSFlnZ2JxT0FfQ0tjMmI5OTZmUWJKLWlHTnRCSlFCNVNad05WbGFFaGdCalluWng4US1XcXR2OERmY1BrSDF2U0p0VFpRVnMxekRmXzVnNy11NGVMdVlqelJDcjhWRFgwUlNMeG1lNkVUbXJUeFRJU1Q0OGthZW5UTE5lX2l0R25tMmtkT3ZUQ1o5QUtTYUVSYkI4ZTd3TV8xa05mclJPMXpXS084eXNQc2F1d2ZlWFZqYVVGYVU0ZGkwWC1rTXM0Mkt3QVV5QXNELXV3bUdvRdIB5gFBVV95cUxQV1JNUXZvdjdyWG9qOTNsY1NkbmF2TVlzRGdHUTJXZ1pJcGNBeU90Uk40SUl4QU1iRVA5NU10MXV5VGVfbWQwV3hDQXc1ajhzWUNlWFliWnJfVWhfd1Ryb0tEbW9HSWxMWms2VjVNaHB4RVgzZ2FCMXA3WG5RZjRPT2lVSUl1WmJuQzdaN0NIRUdsWEtoQlI2Nm5ZV3lwbFBSeUhNTXNBbWV5d3IwQm1UOE1JYjNHVlZ5Zy13WHd5cjNDak9zLXpMRUgtUjBuOC1FbTZ3dHVSVmpiMzVXT3pQbFdVSDRYZw",
+      "title": "Mistral AI Launches Robostral Navigate, an 8B Robotics Model for Single-Camera Navigation",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "Mistral AI Launches Robostral Navigate, An 8B Robotics Model That Steers Robots With A Single Camera And Plain‑Language Commands - Pulse 2.0"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxOdHRzcFVLNEtRRlFmaGVGQXZNVFRfZVVBSGJacHNKVklBQmwyQXlxUE9DTXEzcC1uN2VVYlFvN0liWlNPLUlhZzFuUmR2VUFsNWlQN0ZhdWY3SGFyLVFoNWY0ZmN4ZHZLazBSU0NIclZSNEdwd2hHZzRvS2plWVhUbmFqMElfU1NubWgyYm1BTlVaYjhtbUNxTA",
+      "title": "Mistral Releases Apache 2.0 Open Source Leanstral 1.5",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxNQ0owZk1TVlM4dFd0LUJpMWdsZmhFM0tYYWpPbVM3Y0I5VENuMG12UGtQa2d0SXdqb3ZGOVpIQTZjRWE3ZUMzcjdZZmxXLVFnM09CMXN6ZGROOUFTd0dCWWh1Wjc2NW5rX3ptczB2bEg1dFljc19Oc01xMl9JZ0JpRVlCYkUxRUQyOFNpRExqbWJlOWF5VFZublhvNVVRQ1U3MlloNEs3Q3ZKRE9PUWJMb3NMZUVpT0laVVBaQnI2UkZyUmdHdlo4",
+      "title": "Humain and Cohere Partner for Large AI Infrastructure Deployment in Middle East",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "Humain and Cohere partner to build one of the Middle East's largest AI infrastructure deployments - Fast Company Middle East"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNV0N5c3VxX3BHalQ5aUxveUoyQWJLbEdPSVdOclp2cUlrajBSSDg0dVA4TGpwLV9aQ2lQbVdKYmY0Q2dpSXdYU2Z1aFFfN1Q5MWRxRlRVWG93LVAwZVhEcnVBUjVrRENHQmtlaW5VWG9Bbzd2bHV4VllybkJ2aU5MN2RvU1Y",
+      "title": "DeepSeek's Chip Gambit: U.S. Export Controls Force China's AI Lab into Semiconductor Production",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikgNBVV95cUxPVXFROFF3RENGV0t2M0h3T2VxZjhoY2JacXJwQVZ6Z2xyZVphdnJoZ0VDbEI5NUtTSXJoek9Pem12cTJUSHZfaGFZRElTWGlDdGtuRHZMeGc0U2hFQmtLU3pRd0NTeEprRndFWUFkNkh0SFYwN2FMVEFFQkhWREpCcDJrQlc5Vk1aeTFtVWkzWDAwR2R6R3JXRVVfRmdVbEljN2o1aHZjM3RrQnpyRlpYbnZCeEZzbEFfS1RJdmt1S29uNmhrQzY2RGxsbXJkYmZHUTNva1p0OF9VR2VZMWJmNWVuZTRuVnpUdVNTcDNsQXdNdlppYTJaOVEzTEtqblJ3azRIZklNaThycDhtcWczeEwyaXNKcmZJV0FYVWJKZlJ0Z0NaZ2hXNnpaUTdkeVZGTzhVOTBBUl8xOGFhbVp3UDFZZ3VNTHk1OXlUWnA2a3BzZl9fNHQ5R21sMzBOdmF2bGYzM3FtbVVQOS1rZVVQQVdaQXQ4MzduOTNrTHYxRWRzN1QwM2owZ1RiQW5JUkNOUmc",
+      "title": "Meituan Launches LongCat-2.0 Open-Source AI Model with 1 Million-Token Context Window",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "Meituan launches LongCat-2.0 open-source AI model with 1 million-token context window - MSN"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiZEFVX3lxTFBiQ3lhc3hCX3hnOGRpTmpldzlMVW94ZXlNb0w3NWhYd0FUQ0tjd2NYcEZ0R05uUzZaa1VGY0p0OGIweFAxR2NLU3hoRFFhUjg5V0s5NTFBc3REWGNGM2dVYmE1OVA",
+      "title": "Colibrì Inference Engine Enables GLM-5.2 (744B Parameters) on Standard PC with 25GB Memory",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "A new inference engine called 'Colibrì' has emerged that can run the massive AI 'GLM-5.2,' with 744 billion parameters, on a regular PC with 25GB of memory. - gigazine.net"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi8gFBVV95cUxQQ1FCUGhRWEdISGswc2NSMURReWtySnhDaEN0U3o3TGVnSi1ZbVJnd3N2LUNvS29kcWUwT0x0dU1EMTI2TXpLWHZoaWtBbUFLVVZJV1hDNmNKNUZqUjFWN2RQanJoYUlzd3JXTjNHQ0xzOVJTVE40M3pXQlhRRkhEZ3JHOW9MWmNTeTJXR3pXNTBhQW56YTVXRUY2VFdsTTIyRXA4bDB2TVR3S0xCc1RhTEtPZmxQOGJpMnZrWk45U0dQa3k3QzN5aXRUc3lvRTg1eUZQbkR5NkFnRFRjTmE5eDZ6aGNhVmxxbHpTUHVVeGtFZw",
+      "title": "Google's Gemini Update for Android Auto Fixes User Frustrations",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "I tested Google's new Gemini update for Android Auto and it finally fixes everything that made the old Google Assistant so frustrating to use while driving - Tom's Guide"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxPTUhrV0tPUWdaalhDc2tMal9MWlR3SFlQdHdUZUMxaWszYTN4ZFlBMDdhZzJHa1JPVlRlbml2S3RmMHA1NnFFV3Z1WTBLR0YzMHhLRVY2U0lrdUVfLWdIRFdBWTJ5cG5Nb2xiRnQyZFFOQl9pME5rckl3RXplUnYzeGxyLS05eHFsZ3lxUGg1dzJRQQ",
+      "title": "OpenAI Declares 'Old' ChatGPT Dead Amidst New Updates",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "OpenAI Just Declared ChatGPT as You Know It Dead - inc.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMifkFVX3lxTE13TmNaZWdxdVVMZS1TOWMzdld6OUFiODJCV1o2U1ZBdmFSeDNvaUpkdVF1OFJsbjZuRUI1dDVIQkN5bmVJOHl3RzhZYjV6TXA1Z0Y1NE8weUtTNkZNNFR6SVRzWHpSYjc5UFBDVFRTMTBXVnFJZVRDdnNMN0NNQQ",
+      "title": "OpenAI Set to Launch Most Capable GPT Model After Delayed Rollout",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "OpenAI set to launch most capable GPT model after delayed rollout - AOL.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxOTVVMOVpKbV9rUk5adlcxZ0poVmYxZUY3UUpFQjJOYk9EUGVXRFRwUFY0RXYwNHQ4cW5JSzZsMFJUX05EWi1xUThOdE9ITnF5V25sQ212UXdPNUU0ZTE3U3dYRTJ4ODRUZlVoeHRFTzVjOHZGYnlCWF9CcTlYaThYYnNLeV9LT01Ed2ZybW9FTmpmY01odGlnd2dJemFJb1FpSjEzckF5WWpNZFFjaDdYOGJlbkpDbHM5d2VKRHBDeG9tSWtBZVRVZXNEWWdZdw",
+      "title": "OpenAI Admits ChatGPT Work Launch Flaws, Scrambles to Fix UX and Costs",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs - the-decoder.com"
+    },
+    {
+      "url": "status.openai.com//incidents/01KX7Y6ETMKP3ATQ85Z33J0EHN",
+      "title": "Elevated Errors for Sora API Resolved by OpenAI",
+      "first_seen": "2026-07-12T04:33:30.414960+00:00",
+      "rss_title": "Elevated Errors for Sora API"
     }
   ]
 }
