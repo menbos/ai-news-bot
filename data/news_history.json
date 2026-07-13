@@ -1,101 +1,6 @@
 {
-  "updated": "2026-07-12T04:33:30.414960+00:00",
+  "updated": "2026-07-13T04:32:25.582455+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxNb21pZFRHblc1dDU0WEZtSnpwWXEtTnBIQlVJckNmVXhxSzEzZ285NzFJclBubDg2YmxlXzQ3V0VXOHZRcFphR3c5LW9qV1hJTXJ1eUxSNTVIdGVvM0M4Y0JfNjBFenNNaHlxeWtWM1JqdXhnNHFURVowckFVdXpnSnMyWjZLeGpUeVV1d2M4OExfRFFlbVMxMlFkZw",
-      "title": "Meta Launches 'Meta Compute' to Offer AI Infrastructure Services Beyond Advertising",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTFBoQkkwMnB2b0tyeFllX3Iwa2FrRXNZbW5Dem5ERGlLVzFkbGNycUN1UXVEMnhYVlVmaGNTNDZuSTVWZ3d3alpjN29LbkprZV9qTjg1QVFKdURnYk9FYlFTQWFReVRNdEJPaHdTWlhGUTM",
-      "title": "Anthropic Releases Claude Opus 4.7 with Enhanced Capabilities and Safety",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihgFBVV95cUxPYjJabGZzM01VQTY3MndSdTZSZEF0d0poLXFXUGwtZlF5NnB1dTY0SEhjTGZBTGNKWUQ4SEI5alZiaDFHczNpdVg2NDdRNlFZcFJZcjh1dTJlT0VaVlpvdDVJajRsekFsaVdGcG5oRDZkR25mNmZkd012amRVamZnNHI3MmNTQQ",
-      "title": "Anthropic Launches Claude Science Beta for Multi-Agent AI in Genomics and Proteomics",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxNcGFSU3o3RndTLUZEZ2U0cVpTbFE2WElSNUNCb2Z3OFpYZkFHd1puSEtJVHBhcm1wS0VzYk91N3ZUMnc0Si1NZ1pKcHF6bFoyWEs0SXBxVGhTUEVlWWZaNG1RWE5sRXVsOW81X19Vdk5KUG8xNG5JMWJWSGVCbGdaN0cxQ25EcnRJREUzc0hJR21EdzBjS04ybFRfWGk3OG9DOFRibXotM1hER3FKLUp3VlhsZ2k1bThPTC1XQ2dfcWpNM3JSZllV",
-      "title": "Anthropic Initiates Drug Discovery Programs Targeting Unprofitable Diseases",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiigNBVV95cUxNeldrMTZ5RkNUMjh2a1FXb2dfTDBNbzlQTC1BM1Y2ZkdKbnJxcTIwTC1yakFRLXdhM3dxMnB1QmVaNDZHUm9oeWduaUFHSzY4OGwtTjFUYlZ2Vy1UX3lEeTJScGpaWm1IU01fOFY2bk05SXFqQ0VtanZ2VzRNanBIZENCQmtvTUoycFJ5dFhXMUs0VEtIOWp0a0lnM2V0UWdYRFRHUUlpcFhYWEtjazJXZElWQUJaS2p1ZXBVSGJwV3Y5YmhtZzFEZlhnVVdHaWluZHptVTVGamluWGd5V0loM1ZYVUVxTUtuNGNPaDdsZ2NSSHRmVW1ldEFlbXlJNW54T3h4d0lUcTZPQXlpRTFJcXRiWXdjbmJRMTZTbUh5NnlkaXRkMDZkaVFvOWFVZDFSRUZGQnh4cDJWU3VOaXBWWUxEX2dyNmtLM2gyYUVabnFablNVZENtTXdYREkwVC1JRXRFNmZCcVlXWDh5eENvNGZaSUl3VUhwbDgxcWF4VnBXdVh5TTJscFdn",
-      "title": "xAI Plans Monthly AI Model Releases, Intensifying Competition with OpenAI and Anthropic",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi5wFBVV95cUxPdnJkSTA0NDFkUnpDaWZTYjdKVmROaEdNNVNON3RrNTctMlBBdmZRajl0VHZmLXpZaXJRYnBFVF9haEI1eVhORFFnLTFBenJZQ3VzWE5BT25FMGtHcWJ5MVNkTnpIUDVUcFBYQk5SdE5oc2haVW1OWVd2aUJvR0taamd4N3Jpd3BXbkN3RHNXQWhrYXg2WXVzM1NvV181RHh4WVFVdl9ibDQ2UnpzTUVhRTBFTTJHY0RlaVVpWkVwczdRZXZHdENSQXo3Y0FnQkU1cFk5YVNZWHVNdFQwN2t5VFh3ZDRTOFU",
-      "title": "Mistral AI Releases Leanstral 1.5, a High-Performing Code Agent Model",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxNM2pQMVIxSHF6S0JYSklROXc4TDAtTHBzYUJXTWdMaWRzOUVBakNueUVRTW5ITTJIWWpoTDRDUjhkcmtialV2REVPT3FKbVBfeVhoYTBROElZMFhjY2lTc1dDb1d3S1dJMDRudmJHcUp4WTJvdGNnNWNsX1h2eGFCX1MtTWV4eTduMGZqQjVjNlBpUlpxSENWV3JqUEwwY2JmRlVlaVRBNElHWWlNOWRtWXZCSjIwRXl6TzhUXzNjdmE1SjVJ",
-      "title": "UN Establishes Governance Commission with AI CEOs and Heads of State",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMid0FVX3lxTE1rOEE4bEVPbkY3Z09QbWZmLVpIOWVlRzVOeDN5R04yY3FuUkxfTEJKaXNTeHlkNkx6Nk05Tmg0d3BYX01VV3N1VWRLRzRGMlVibEZvX2ZLZGRPQVlQVl9BSHdBRXc2NU5LLVJMNW5yRnZGVlBMbXV3",
-      "title": "Cohere Secures US Drone Defense Contract",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxNLXRWZ1ZVaXI5MDBqdWtjLWc0VFB4Y1hMRl84M0FCQ1haa3JvRjBNVnQtUzlxYm5lcm9ScUx3QXVPV2ZjcGoyRWo5Njk1NnEwdXVIZ09ScDd5aFpJLU1JblpObkRIbENvcFh4ZDl6ZkNSVHVuZW9nLUZzNFdiSThyVWlaeF9JeDlI",
-      "title": "DeepSeek V4 Model Released, Challenging ChatGPT, Claude, and Gemini",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxOeDNEOENnNElER1g3V19KNzRwTUxZcjU0NnFmNVEtZHJQR1owQjRodm5EVFpOUlg3ZUlfV3JtZk1ENVRBNGltMmtBd1M2QUliUEhDVGx6THh4M3RnYXZFYVl3dlYyNTBLMGs1dExuYU4tNjVyaWtjTEh0UzhKVGZiV0h5amdTdXVkTWlkMktWcVhXX1JVLURqakNkZE1rMms",
-      "title": "Together AI Doubles Valuation to $800M in Latest Funding Round",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiygFBVV95cUxNZEtsU0FyVDF1dGNiZDJlU1hIREg1NlFpTUdSUU1UUmZGLU1pRkdmQkxMQWptVnl2bUVPeE9jREF3ZjZuOW1SYVZJajBCMEtYRUljTjR5YUFnbHZQSWd0N2lpeURmbUdoa1pURWtYQUQ1Rk44bDV2TVg2Vi12V2FXYlQtTDZyY3hQMTM0elMyQkk0SVhRY3daNEhmNV9mTTVaemU1RTNZQ1FENVBnR1NJSFFuMzd1MmpHU1JKZ2NBM0lSczV2alJNdG9n",
-      "title": "Together AI Raises $800M for Open-Source Inference, Valuing it Over $1 Billion",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxObG1lLTZIdDBzanFOMnNpNHZONlY2TzUzSXB4dTVFTGJBSXlZMUYwTjYtUDBJWERVTEFEb0pCc2hDRXc3OUptZkRXclYtZlBCQXJEblJ0TGFvS1BaZTh2WHlISDZhUzN5c0o2Tmsxbk53RHduNGxVRDBRZklaR19yVDhBcXFWd0R6QnR6cGtHMTV4RlRxQXlrNjd0ck1hcWllZDl2RjNxUHR2cEdjQUNwTXpOUzBtdzdubXc",
-      "title": "OpenAI Halves Inference Costs Through Software Optimizations, Reducing GPU Dependency",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxPYXBJR2FPWEdDYUJKWnRfemIyT1o0VjBxWkU3cTdNMVhTNkZHcGg4bjFrU2c4UlAyTldOOFA5bEtnVXgtRjhhVkc1dkVWU2I1VjRZZ094a2NYRnFWdThwM0lDeGJIekhYZzgyVGJjWWpxV2g2b09jelNJRmF4dmdaYzhJUUN1SW55bVRMaVRHWVNWb00",
-      "title": "DeepSeek Seeks $7 Billion Funding Round Amidst Intensifying China AI Race",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi4AFBVV95cUxPV2p1Rkl5OHM2VWZUUHdzYVNmbnozQ3dYNWNTSXRSSk5lUjJ5V0RjRkdzaTNHUHhsUnpEQlJUMzhGT0hXWFp1cDl4VkNfcEFDV3hxMzZnakpoVElncFBXMWg3a2pPaEdsWjJSa3RQYWRlZlJ3M1Vjd1NMc0R0QU1DdmI5eUtEaW0tU05ZbXNEaXpmV2FFVWpkTG5Rb3JOa3FHeHYzQ3J5eUF0aEFpckYtbl9XVVBJM2hHUFlHMjhIRng3cW5xbDMtVlBiYkZxQU1fQ0NjNlB3bUYxcVZUd3VEUw",
-      "title": "Alibaba Bans Employees from Using Anthropic's Claude Code, Citing Western Alternatives",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxNQkt1LWFhbzdIemRxR2JxTmJwS3N5UWx0VGNVOVZiOUdzeTN0N3BGandkeG0tZ3d6X2s3cFNZM1lCVkpSUHlOZlRCRFZ3STJOdUstUnJmQVZoTUtBSHIxdDVxbGoxN2ZiNFBIM0lxWEYtRFlIUWJIWVpZY242RmFTbmJjNk4zMWloV2IxUGlYYTdLdzBSMTNoZg",
-      "title": "GM Integrates Google Gemini AI into Cadillac and Corvette Vehicles",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "status.claude.com/incidents/c0052w6jxl47",
-      "title": "Anthropic Reports Elevated Errors Across Multiple Models, Promptly Resolved",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAJBVV95cUxPQXFwcGtGSnIyZWhnTWNKMmVJa1pmQVlJNmxzWUVDUmd6N1dweUZQZi1tQU1RYmxTT3lMdWlPLTVWelA3Y0VxMkQzVkl1TFJ2Ymk1YVRrb2VnSm5COVotd0FKWFdIUy1qTEZXZjZhZ0Y2RUR2WGF3VTk1emctSmZaNW1vNFZKbXR0NVE2LXFsQW5sT0NEa1lnYVRoUDdfRXNIbi1GaHFUN3ByVTFtTktJampza3BNTF83MnNwZDhTclByeG0zbXNQR1pnQmNpMmtyVlp0dU9pZVVoVFpMd3lVdng5MXk4NVNReHhDd2hibTU0bGQ1QnpnYzhpYzBOa0Vfczlod0JHaUJfUWwwVWs1YzdBR0h6a3AyMlJtSHBNVFlGQ3NkcmlLd3NEVHBILWZtZkpnLWdLVXRmeURKSWlHedIBxgJBVV95cUxPWUYxOU5Kelc5Q05SWWl0Yi1lZjdtbklGVkF2UWZZcmU0NzRhRGxZMmZZZXByUWZ2emxDVGxKN3duUTlyb2RiN21WNjNNNjJmM3JUT3l4c2VfWEhzREhwZTcyN0RSUTFvRmtQcDJVWDMwak9UeFFCNThKbU03eFRuVktXMl9EdjBCZmlLTlZ4cUl5ZXY4OHRVYk5qLXdaTkh2UFk4MmFUOGFxaEFLZkkyMjRuQmhPaWNnOU9NaUxwc3JwbUo5TGg4QVJFREJPeEhlMzBDUzhLTEJBQUhmMk9VVFBCaHF4TFpNZFFPYVpJMmxuZ2NhLVQzLUpraUtxQ3VoVU03TmlzYlZyRmRnZjJkc3pRWnh0dVlJaDUyeHBWOE9tVUhaeTMzTVd2cGhkc0M2ZkloMHhTWWZQQjJBZmVmcGNiSWQtdw",
-      "title": "Trump's Outgoing AI Advisor Criticizes AI Leaders for Poor Regulation Efforts",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQNW9USXIyLVQtZ1MzMjU1U2JrQ20tWlVkVU5KOW9GRlNmMVBibkNCLTFCdjNxcHJzRng0eURnbXFaR09iZDVyZEFiamVtTk1fM09oRXp3cWxtSUF5NzNHWTI3cmZhM09WVW1Ib0ltZG5NTGhHYVBrQUFoZ19WYjloTi02Nms",
-      "title": "Trump Administration Opposes Heavy US AI Regulation, Cites Outgoing Advisor",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiwFBVV95cUxOU25weG1mamRYS0JTREhvdEFGZDh4Y1BZYi11YVdfcFFGUUxRVjQ5aldXdkRtWk9xZ2pfRWlKWGZCZTFObWdvNDJHWmRVR0NLYVR4X0JfVzZTcE8tZUlvYW1PSUZ6TFpwMGpTYkYySFdwRFB5TEhsQmVPSXBCcHZCXzJ1QXJLRjk4TGY0",
-      "title": "Sixth Street's Chavez Identifies Significant Problem in US AI Regulation Approach",
-      "first_seen": "2026-07-05T04:32:47.386462+00:00"
-    },
     {
       "url": "news.google.com/rss/articles/CBMiygFBVV95cUxQMWpwNHdOREtfNnBoRWNRX1hIZnpKVHpnSUhJRE9Db1p1a1EtbF9HY1J0T1Y3T2dtNXNhaDdwVExjbHQzOTVWYzhwc1Z6bUswVk4zZXdEdnBrSG1ISHAwNWJKN2lkdlZsbERielB1N1J6MHh5aGJwb2dRN2g4dzNETVpwUGVkdERrRDd0U3FXSk5TSnp3MGRqUWFEaVJ3aGpHZWllSGZ5T2NwemE4XzROczlLMmQ4VGViemdBb29KRk9VRS1JSjNva05n0gHPAUFVX3lxTE1Zd2JEcDB2T0xCLVpFWmVoamJWNnVBdzJ5QzBjVVBuYjA3NmxjcGQ5cHdNS2JPUXg3MGVmYVFJN2s4Ni1wWGJkOHIzQ2phbUlfcTZ2cEdDYlY1djRLZDVuNEthY0pxa1UwNkJ1cVVsQTVmaGs1V0dFbnR1RWNVdF9wODRrWFNXakZ1NU9lZ2ZGaER2eFk3blpoVnBiUUVzMG5uYWpYNmJuUnBkbEZ6RVJHUHRPY2RGdjBSM1lvWjh6YkJ0bDdLeWdORlNQSUJUaw",
       "title": "Meta Nears $6.5 Billion Samsung AI Chip Deal and Launches Meta Compute",
@@ -895,6 +800,123 @@
       "title": "Elevated Errors for Sora API Resolved by OpenAI",
       "first_seen": "2026-07-12T04:33:30.414960+00:00",
       "rss_title": "Elevated Errors for Sora API"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxPRGVhQ2R4dFpWcUFFdVo4WjQ1WVlKMy04VENjZlVPN1hPNy1XZFhzOWJzMlJlYkF3eGNtN3B6dXN1UjZGV01vRkdDYlpiR1lqOEhyd2pqRGhyclRuaWtidGhnd1lmTHdHQlFZRmdpNzVXUTB5NlUtTzh0aGd5VzM3YkNScGN3cjRhaFRRZWVDeWZkZUNlLVAwU18yVTRpbEpN",
+      "title": "Meta Withdraws Controversial AI Image Generation Feature Amidst Public Backlash",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "Meta withdraws its controversial AI image feature - Mashable"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi5wFBVV95cUxOeXJJbFlLRm44SERmaHVPVDRLUVZlMkRtWWk1NkZuQ0JXNHd4MHMwOWtCSjF0eFVsLWtYZnBROUwyUnI3Wl8tQUlnY1lPYldULXEwLVRiM09TcFBKWVRQVEcwX0lOdXVGVFdRUnhkYjlIU2ZodGMxZFJSdVZlMEU2Mml6bEc2RU81TjJMZGIxMWxVbDBadGVVd0VDa05JY3hxSHpYMUQtSEZud3NoaFZrVjEzZHlCVlQ1VzBzUHFwTFI1QjN3N0tPZ043M3FwcWJSdllNQ1ZZNkRpS1R0MzlKbTdNa04zNVU",
+      "title": "Meta Pulls Instagram AI Photo Tool Following Widespread Criticism and Backlash",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "Meta pulls Instagram AI photo tool after backlash - MSN"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxOaGFYQldVX1psWW50MjNYcXg0SmZvb1RmXzEwNjFldzR3RUlOZEFFZTRhYjdWaGJGc2xoYURUVUNMZmtGN2hPVmppajQwVWRwXzU4NnFkaHhIcENUR1lydTkzRFl0OGdmazFxUkF6TmpVNF9HS3NwcGxqc3lpTWVSMGhxOG1JVGkwbnFiSDc0R1hNelNJWFF1UUVvOF9MSE1YMFlGTW90cEd4dFpKUFBMVDUwQ0cyUVlHWU15cXRTRkNUUdIBxwFBVV95cUxQR2FnWU9HaWg1bDdheUlRSXRtb0k1VzFCNW84ZGFIZldBWTR0Y0RUbG5wQ0hYcGNLdW14X2pPSUdPaEF2ZS1UQ1FBN3p2ZWJ6NnRuX05zUGhMMFR4NjRFVnNsbEJudVRvRkJDTUM1a25SdWlhb1ZkTFNLUnRCS1pmZl9CS0lMZHhVZnp3Qk1vOUUzWVBSaHJaZWpKdmU0NkxMeVg5eTFsNWpQdHFtU0lBTHRlSlJxUnFEMmRXZ2htRDhMY2hjdnhV",
+      "title": "Anthropic Introduces Claude Reflect to Enhance User Understanding of AI Interaction",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "Anthropic introduces Claude Reflect to help you understand your AI usage better - Firstpost"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxOQ0hrbktpdUxnMm9TczZIZlBzb3M2c1h0U0RjOWg3ZlRNRHhzUE1oeGRLSUx0aXlOMU1RZ2Uzak1DTmpWSFAxX3lvUmZkeG5vNlZLQzlZaDg5V3ZvRlpfUkJDQ1A3MVphX0ZuWVQ1am9JNjBPc2ZpcTd4NGtTcVFMaV8yS1l6UVpXMHprcFUyYkZoTEZ6al81RENtSXd4MmJyQVRJVERTbE1iNGFiWXYwUlVHTnc4XzI2LTFmclIySGF6VWVmc1VCUzNYaFBNUQ",
+      "title": "Anthropic's Claude Code Shifts to Auto Opt-In Default on Major Cloud Platforms",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "Claude Code Removes Enterprise Opt-In: Auto Mode Now Default on Major Cloud Platforms - Tech Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggJBVV95cUxObGRNVXJ3OEpEaHB6ZmFRZ2tjUG8zUHhvS0xnTzQ4MWJsT0dld3AxaVh6N3pwU1dpamZ6QjJROWpXLThqN1NMZTF3Tzd6ZzBmam5STGhBSG93VE9CamNKRDUweVZKV2NIMlMwWlptVlpGcHp1Vjg1U1Q0T2gzaVl0TUMtcEMwUTZtdnU1NmhvQ3RVbnZ0ODlDMnh2M1VmSjFlXzkxOWZnRUZFeGJwLVREUy1uVnBnSmFMbGlDYlJaeE00enp6S2ZZeE1ndFB1WS1CelZVc29iRFUzSjdKTDVNYzhRV1ZtYUZaai1MZ1NaaHNDeTBoWjJHZUE2NjYzR25Hamc",
+      "title": "IPO-Bound Anthropic Reportedly Partners with Blackstone and Goldman Sachs for $1.5 Billion Joint Venture",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "IPO-Bound Anthropic Is Reportedly Teaming Up With Blackstone, Goldman Sachs In $1.5B Joint Venture To Sell AI - Stocktwits"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidkFVX3lxTFBsYjdHSVIzdjIwaVZZREs4Y2lIME5GYlNSajgwVHVJbktXNktoSWlrdUZvd2twODI4dUVNTzI5SVZvRThGdnhRUXZ6dDY1dWNyVGtCNDc1ZlpuRl9rVGQyMUJXZ1lDbVBjTUw3YjFuRUJrencyaFE",
+      "title": "US Government Imposes Enhanced Security Review on Frontier AI Model Releases",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "US Ramps Up Frontier AI Security Controls: OpenAI and Anthropic Model Releases Now Subject to Government Review - finance.biggo.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMibkFVX3lxTE8tTW5OcUh3ekU3NG4tazdkVFFHR1NsdXFvZGpxdkNYNF9oaTZUYU1FbXpacnRMZW1NeU16d2cyN2xYY05oN3ZDQ05SOXFDcTJmbDNQbnJYNWJoZjBvTERrcnFZbnY0R0kwRDY2WEVR",
+      "title": "Long March 10B Debut Marks a Busy Launch Week in Space Technology",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "Long March 10B Debut Highlights 4-Launch Week | KeepTrack Week in Review - KeepTrack"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidEFVX3lxTFBRckZGeV9ka0M4TVZoTzBZRC0tcUtfcjlFWkN3UmRvZnZIcGpiNGVsOXRyX2x3ZGR1Nno4T2I4dDBrbE1uN0JXd2tJLTFIVHJVQ2dVT1dZdHZSNm1RbjFCTGpkdGdyQ3FpZmw4WlpLN2pVaUJq",
+      "title": "Mistral AI Releases Robotics Model as Valuation Approaches $23 Billion",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggNBVV95cUxQUHpaSEtaRHIzYlRaZzhMRUc0LVBhZkx2cEZrWWJKWmN5ckQzREtIeExnUG84WExXYlowYnFTRlBFQ2F1NTduZnhGNnhVeUhlck1CcUl6d295TXhleGs4NUg5VFY0WXVHTjZNZ0hfYTBoMlFITGE0eGZIVnV6eW0wVk1lS0JucmZ0anBOZVlWMXVlTmpDTV8tTU52RHd3b3ZXbU9xVWMza2ZzdXZwOTVZQnp1ZFp2eGdFUl83NlZpR2JWQ0E1djc1SWRsUlpNa0ZoWDJ4ZWFnRXJkQzJVTTN5ajkxWlhsclp6S3VBcUNjMTdubUFWVUkyQlNtdE1VNUNRYWZwNERKRWVROUsyUVEzT2xKaW1UNFdrMjNhS2NRb3luZFpaOFJ3cUxwQWJWMmdqN0xMbk9xT0tCWHd4LFA3QmRVOVY1S2s4cWNVT0JqbWF2aGMxZDFmb01NeFJjOGZPNXhNRXRQZ0tZeVlRc3RJTzZuS0lqOGdPSEdhcHc0NVBsUQ",
+      "title": "SpaceXAI Launches Grok 4.5 with Enhanced Token Efficiency",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxOWnY0TEg0U3BfQ1pQVUZlN3FaQzF0azNCUmVTZTBBRERwN3huNzI0STkycFZuanhsVnNYdGVhRlFtRUNfY2xRU04yQ3NreUhBdmpWUUJaQnloekE5WGlOZWk0SzhLMXUzVkFiN1BqVFlVRV9VM18zS3YwU1JnN01DbTNpQVhEQVdnTnczZjFXVFhsV3V5dHJ2Y3Q4MG9VMzVlbzdVZ1E1TEU",
+      "title": "SpaceXAI's Grok 4.5 Achieves Opus-Level Performance at Reduced Cost",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "SpaceXAI launches Grok 4.5, matching Opus-level performance at a lower cost - KuCoin"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93",
+      "title": "Mistral AI Unveils Robostral Navigate for Single-Camera AI Navigation",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "Robostral Navigate: single-camera AI navigation - mistral.ai"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxOUWsyRVdsdEppRl9sU1lsclh6UmRTcVVOUlhXVzFvaVRaUXE2QXJqMVFyR09mcEJLYS1ReDRPNXZiY21TbXFqaGw3cnZTYWJ2ckZvTVpfNHNvbXJIZW80c3NDRkNqTmE3aEpnOFA4M1JpZ0FSdXZDOFhNZm5kaHl1dDJ3TzU4bTduUW1NczRXay1HdER5TGtQVU9hb2dKX0I3a3pMQk5iUl9lYU55RnZpWGoxRmHSAbQBQVVfeXFMTlFrMkVXbHRKaUZfbFNZbHJYelJkU3FVTlJYV1cxb2lUWlFxNkFyajFRckdPZnBCS2EtUXg0TzV2YmNtU21xamhsN3J2U2FidnJGb01aXzRzb21ySGVvNHNzQ0ZDak5hN2hKZzhQODNSaWdBUnV2QzhYTWZuZGh5dXQyd081OG03blFtTXM0V2stR3REeUxrUFVPYW9nSl9CN2t6TEJOYlJfZWFOeUZ2aVhqMUZh",
+      "title": "Mistral Open-Sources AI Model Capable of Verifying Code and Mathematical Proofs",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "Mistral Open-Sources AI Model That Can Verify Code and Mathematical Proofs - ProPakistani"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxQZ1JHeVYtOEZaWWRCcGdEV1FjVHdLUk5YYkxTUndzTVA4dGx4dXlwbC1TNmJRdFVyUlpNSEdGU2lRSG5xMk1FSDM5SHhwY3FrLVExQmN6ck1kVGU5bVB6OHlLLVpmM3ZIVEQwWFM4RVFuNy0zV1gxU2JtWV9tR2VHeW1EMTJ3ekh4bFoyQUlR",
+      "title": "DeepSeek Cuts Model Prices by 75%, Addressing the '100x Problem'",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "DeepSeek cut prices 75%. The 100x problem remains - VentureBeat"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNV0N5c3VxX3BHalQ5aUxveUoyQWJLbEdPSVdOclp2cUlrak9Sbzg0dVA4TGpwLV9aQ2lQbVdKYmY0Q2dpSXdYU2Z1aFFfN1Q5MWRxRlRVWG93LVAwZVhEcnVBUjVrRENHQmtlaW5VWG9Bbzd2bHV4VllybkJ2aU5MN2RvU1Y",
+      "title": "US Export Controls Force DeepSeek to Develop In-House Semiconductor Capabilities",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "DeepSeek's Chip Gambit: How U.S. Export Controls Are Forcing China's Most Dangerous AI Lab to Become a Semiconductor Company - FourWeekMBA"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigwNBVV95cUxPTVlWNW5aT2s0YjUxeHVPcDJKbVJRZFlaaHpuNGJPbzFqcElJUjBhZkZNS3VKQTJPbk9GZklHcXZrOEREYlQ2OG9BZzMtNGFRZTVrMzkxSERwbTNzVFNUTlJQazc2bzNHMFcyN3AwVDJfYWQ3VEZtaVpqcEJMNWp1WHg1MXhmUVdNeWlTaFdrR0kxeW5yMjMyNlhoSW1ONDR2QUVwTnZiVk9jeVR2UUtJT21USWk1bHV2R3Z6RzEtMUdvSW4yWW83dnBBczBkSlU0aGdLbDRPdlpVc3NrM09xdHBaUUJPR3VhbzZJVmlxVG1JQ2tERFFiSWFJU1Z5VThNd3V4T0xkYnRPOTB1SDU0V1BoQ3A1bmlOcEhfTzlfRmRPb0tpLURhYl9BUVlTc25QNG9ZOVBkMkd6MTNQTExBNVlMSmJwXzZvcFFySHpPZ1FnVjVJeEx4MTdJSU45RFpGX0Y1RXE0SGVuTkhVYWYxN19vS1BNeXR6aEJvcHhGWHpVOTQ",
+      "title": "Meituan Releases LongCat-2.0 AI Model with Unprecedented 1 Million Token Context Window",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "Meituan launches LongCat-2.0 open-source AI model with 1 million-token context window - MSN"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxPYXBJR2FPWEdDYUJKWnRfemIyT1o0VjBxWkU3cTdNMVhTNkZHcGg4bjFrU2c4UlAyTldOOFA5bEtnVXgtRjhhVkc1dkVWU2I1VjRZZ094a2NYRnFWdThwM0lDeGJIekhYZzgyVGJjWWpxV2g2b09jelNJRmF4dmdaYzhJUUN1SW55bVRMaVRHWVNWb00",
+      "title": "DeepSeek Seeks $7 Billion Funding Amidst China's Evolving AI Race",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "DeepSeek Eyes $7 Billion Funding Round As China’s AI Race Moves Into A New Phase - ascendants.in"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMifkFVX3lxTFBBVFBzaEJTenA1Ym5iR2JNaVpRS3FrcHo5Xy1uQVZKaHktOU02VVBSY0haR1hVbE9laFZ1endaSXF0ZUQzVHoxRmFtYVJxcTNwbktydFQ3UlJoUHhkbzFvRWlEaXJBUVoyNzVZWlJYVkY2X3A4Z28yb2pma2M0UQ",
+      "title": "OpenAI Shutters Its AI Browser, Citing Strategic Reassessment",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "OpenAI Is Shutting Down Its Browser That Was Supposed to Change Everything - Futurism"
+    },
+    {
+      "url": "status.openai.com//incidents/01KXAVPTZ85KG478DP1YC0SV2V",
+      "title": "OpenAI Addresses and Resolves Service Disruptions on ChatGPT for iOS and macOS",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "Elevated conversation and login errors on ChatGPT for iOS and macOS"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxQZjVGQXlCTDNTVE93YlNFRktNS3dBTzFTcFJrb3dEWS1XWktWa2swN0Vubmo0QTZFaHdibzQ4OGx2TmV3U3J0VWJiOFVEc1VaVjZPQVhNNHEzYXFDd1oxcTM0b29fbzVXSjNLRVJTX3hUaWcyakt3Y0plQmk4THZpV2ROM0N3QUNESGZIbm9kLWl6eENRMmNkSWlsTUhYbXdzNUhfdmlKUjF6NF9ab1VrVFVlUzB2c3puTHF3NThCeEVFd28",
+      "title": "Grok Users Complain to FTC About Uncensored Content Demands, Prompting Regulatory Scrutiny",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00",
+      "rss_title": "'I Want Everything Completely Uncensored': Here's What Grok Users Are Complaining About to the FTC - Gizmodo"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihgJBVV95cUxPTktKSE9ISGp0V1N2cVBFZjU4V2dfSDdUazM5RVhfR2szN0IyN2ZPc0xKRmpRQmtBVDhzWFg0TFBFU2EtOFlQbjBsVnJwQUt0RlZVYUNkOWdoYVh6MWRBdG9FQ2E1WE85T3BUOTBpTmxRQnF5XzRTdS00ekl3MHBxODY2ZXllMEg5Q240RkNyYXF6bFVTOXkwLUc0VVZ0ZnBqZW5TbFFFM085YTV5b0VBT21BUDRQVnZtdVJRT19aODFyY2lFU1JTUUFnRHhZU2NjWHpRV3pBWVFVNzZzMmF5YlhKMGNMdWtOUjJWZGZYei1EQnZPYmJRckxEWXdHZUVEcEFlNklR0gGLAkFVX3lxTE8wc1owT3daR1FPWmxjVVRsX3M4WmExZDFGa0p1ZUNudlh0U21GXzdkLURhRG9FNkJIRXlJVVAzcEp5bWYwTFlWZDRwSkt5aXRnUlhqeUlsSG9xajFQOFhKUXZyOGpJb1ZrYTdKUkM5RzZpOTBlU0FwVVlHOWlVLThjQjdxbElmOVktbDNrU0dDN0FZQkNKeXFGUGc0YWxvZDBuMzVabEd6Vk8yRHJXNE5OMVIwSEZYSjQyTTc4MkRFdTFrVVRISmxpVXZvM0s2aTU1Z3h0TmpvVmQwNkRzcXA2b21kbzFaVl9OcFg0ZF9IWTVsRjAxVDFsS2VlRlBLU3JNbWtqWnF6WVRORQ",
+      "title": "Protesters Demand AI Regulation and Pause in AI Race, Marching on OpenAI and Google DeepMind Offices",
+      "first_seen": "2026-07-13T04:32:25.582455+00:00"
     }
   ]
 }
