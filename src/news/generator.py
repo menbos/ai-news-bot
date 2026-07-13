@@ -279,16 +279,18 @@ class NewsGenerator:
                 logger.error(error_msg)
                 raise Exception(error_msg)
 
-            # Drop items whose URL already appeared in a previous digest (the
-            # exact same article re-fetched), and flag fuzzy title matches as
-            # [COVERED] so Stage 1 can treat them as continuations.
+            # Drop items already published in a previous digest — same URL, or a
+            # near-identical headline (the same article re-fetched under a fresh
+            # Google News redirect URL). Only genuinely fuzzy title matches are
+            # kept and flagged [COVERED], so Stage 1 can still pick up a real
+            # continuation of a covered story.
             if self.history:
                 covered_count = dropped_count = 0
                 for key in news_data:
                     kept = []
                     for item in news_data[key]:
                         kind = self.history.match_kind(item)
-                        if kind == 'url':
+                        if kind in ('url', 'title_strong'):
                             dropped_count += 1
                             continue
                         if kind == 'title':
@@ -296,7 +298,8 @@ class NewsGenerator:
                             covered_count += 1
                         kept.append(item)
                     news_data[key] = kept
-                logger.info(f"History: dropped {dropped_count} already-published URLs, "
+                logger.info(f"History: dropped {dropped_count} already-published items "
+                            f"(same URL or near-identical title), "
                             f"marked {covered_count} items as [COVERED]")
 
             # Format news with unique IDs for selection

@@ -64,6 +64,28 @@ def test_match_kind_distinguishes_url_and_title(tmp_path):
                           "link": "https://example.com/x"}) is None
 
 
+def test_match_kind_flags_near_identical_title_as_strong(tmp_path):
+    """The same article re-fetched under a fresh Google News URL carries an
+    (almost) identical RSS title and must be a strong match, not a fuzzy one."""
+    p = tmp_path / "h.json"
+    h = NewsHistory(path=str(p), retention_days=7)
+    h.record([{"headline": "Meituan Launches LongCat-2.0 Open-Source AI Model "
+                           "with 1 Million-Token Context Window",
+               "rss_title": "Meituan launches LongCat-2.0 open-source AI model "
+                            "with 1 million-token context window - MSN",
+               "source_url": "https://news.google.com/rss/articles/AAAA"}])
+
+    h2 = NewsHistory(path=str(p), retention_days=7)
+    # Identical RSS title, different Google News redirect URL -> strong match
+    assert h2.match_kind({"title": "Meituan launches LongCat-2.0 open-source AI "
+                                   "model with 1 million-token context window - MSN",
+                          "link": "https://news.google.com/rss/articles/BBBB"}) == "title_strong"
+    # A partly reworded continuation stays a plain (soft) title match
+    assert h2.match_kind({"title": "Meituan expands LongCat-2.0 open-source "
+                                   "model with million-token context",
+                          "link": "https://news.google.com/rss/articles/CCCC"}) == "title"
+
+
 def test_record_keeps_rss_title_and_matches_against_it(tmp_path):
     p = tmp_path / "h.json"
     h = NewsHistory(path=str(p), retention_days=7)

@@ -49,10 +49,12 @@ class NewsHistory:
     """Tracks recently covered stories across runs."""
 
     def __init__(self, path: str = "data/news_history.json", retention_days: int = 7,
-                 title_similarity: float = 0.6, prompt_days: int = 3):
+                 title_similarity: float = 0.6, strong_title_similarity: float = 0.85,
+                 prompt_days: int = 3):
         self.path = Path(path)
         self.retention_days = retention_days
         self.title_similarity = title_similarity
+        self.strong_title_similarity = strong_title_similarity
         self.prompt_days = prompt_days
         self._entries: List[Dict] = self._load()
         # Matching structures are a frozen snapshot of what was loaded from disk.
@@ -94,8 +96,10 @@ class NewsHistory:
         return fresh
 
     def match_kind(self, item: Dict) -> Optional[str]:
-        """How this item matches the history: 'url' (same article), 'title'
-        (fuzzy headline overlap), or None."""
+        """How this item matches the history: 'url' (same article),
+        'title_strong' (near-identical headline — same article re-fetched under
+        a different URL, e.g. Google News re-encoding its redirect links),
+        'title' (fuzzy headline overlap), or None."""
         url = _normalize_url(item.get("link") or item.get("source_url") or "")
         if url and url in self._match_urls:
             return "url"
@@ -103,12 +107,17 @@ class NewsHistory:
         tokens = _tokens(item.get("title") or item.get("headline") or "")
         if len(tokens) < 3:
             return None
+        best = 0.0
         for seen_tokens in self._match_tokens:
             if len(seen_tokens) < 3:
                 continue
             union = tokens | seen_tokens
-            if union and len(tokens & seen_tokens) / len(union) >= self.title_similarity:
-                return "title"
+            if union:
+                best = max(best, len(tokens & seen_tokens) / len(union))
+        if best >= self.strong_title_similarity:
+            return "title_strong"
+        if best >= self.title_similarity:
+            return "title"
         return None
 
     def is_covered(self, item: Dict) -> bool:
