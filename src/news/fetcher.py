@@ -12,6 +12,8 @@ most authoritative source for a given story, mirroring the editorial hierarchy:
     5  Research                arXiv, Nature
     6  Community / dev          Hacker News, GitHub Trending, Reddit
 """
+import time
+
 import requests
 from concurrent.futures import ThreadPoolExecutor
 from typing import List, Dict, Optional, Tuple
@@ -379,6 +381,49 @@ class NewsFetcher:
             logger.info(f"Deduplication removed {removed} near-duplicate articles")
         return kept
 
+    # HTTP attempts per feed for transient failures (network errors, 5xx, 429).
+    _FETCH_ATTEMPTS = 3
+
+    def _get_with_retry(self, feed_url: str) -> requests.Response:
+        """GET a feed URL, retrying transient failures with exponential backoff.
+
+        Network-level errors, 5xx, and 429 get up to _FETCH_ATTEMPTS tries
+        (2s/4s backoff); other 4xx are treated as permanent and raise
+        immediately. Sleeping here is cheap: feeds fetch on parallel workers.
+        """
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        for attempt in range(1, self._FETCH_ATTEMPTS + 1):
+            try:
+                response = requests.get(feed_url, headers=headers, timeout=10)
+            except requests.RequestException as e:
+                if attempt == self._FETCH_ATTEMPTS:
+                    raise
+                wait = 2 ** attempt
+                logger.warning(
+                    f"Fetch attempt {attempt}/{self._FETCH_ATTEMPTS} failed for {feed_url}: {e}; "
+                    f"retrying in {wait}s"
+                )
+                time.sleep(wait)
+                continue
+
+            if response.status_code == 429 or response.status_code >= 500:
+                if attempt == self._FETCH_ATTEMPTS:
+                    response.raise_for_status()
+                wait = 2 ** attempt
+                logger.warning(
+                    f"HTTP {response.status_code} from {feed_url} "
+                    f"(attempt {attempt}/{self._FETCH_ATTEMPTS}); retrying in {wait}s"
+                )
+                time.sleep(wait)
+                continue
+
+            response.raise_for_status()
+            return response
+
+        raise requests.RequestException(f"All {self._FETCH_ATTEMPTS} attempts failed for {feed_url}")
+
     def fetch_rss_feed(self, feed_url: str, max_items: int = 10) -> List[Dict[str, str]]:
         """
         Fetch news items from an RSS feed.
@@ -393,12 +438,7 @@ class NewsFetcher:
         try:
             logger.info(f"Fetching RSS feed: {feed_url}")
 
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-            }
-
-            response = requests.get(feed_url, headers=headers, timeout=10)
-            response.raise_for_status()
+            response = self._get_with_retry(feed_url)
 
             # Parse XML
             root = ET.fromstring(response.content)

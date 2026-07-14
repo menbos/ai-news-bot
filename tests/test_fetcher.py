@@ -1,5 +1,19 @@
 """Tests for NewsFetcher pure logic (no network)."""
+import pytest
+import requests
+
+from src.news import fetcher as fetcher_mod
 from src.news.fetcher import NewsFetcher, TIER_LABELS, UNVERIFIED_TIER, _gnews
+
+
+class FakeResponse:
+    def __init__(self, status_code: int, content: bytes = b"<rss></rss>"):
+        self.status_code = status_code
+        self.content = content
+
+    def raise_for_status(self):
+        if self.status_code >= 400:
+            raise requests.HTTPError(f"HTTP {self.status_code}")
 
 
 def test_feed_meta_dict_and_string():
@@ -168,3 +182,60 @@ def test_fetch_feed_group_concurrent_preserves_feed_order_and_tags():
     assert [i["source"] for i in items] == ["Slow Feed", "Fast Feed"]
     assert [i["tier"] for i in items] == [1, 4]
     assert items[0]["source_type"] == "blog"
+
+
+def test_get_with_retry_recovers_from_transient_errors(monkeypatch):
+    f = NewsFetcher(lookback_hours=48)
+    calls = []
+
+    def fake_get(url, headers=None, timeout=None):
+        calls.append(url)
+        if len(calls) == 1:
+            raise requests.ConnectionError("boom")
+        if len(calls) == 2:
+            return FakeResponse(503)
+        return FakeResponse(200)
+
+    monkeypatch.setattr(fetcher_mod.requests, "get", fake_get)
+    monkeypatch.setattr(fetcher_mod.time, "sleep", lambda s: None)
+
+    response = f._get_with_retry("http://feed")
+    assert response.status_code == 200
+    assert len(calls) == 3
+
+
+def test_get_with_retry_does_not_retry_permanent_4xx(monkeypatch):
+    f = NewsFetcher(lookback_hours=48)
+    calls = []
+
+    def fake_get(url, headers=None, timeout=None):
+        calls.append(url)
+        return FakeResponse(404)
+
+    monkeypatch.setattr(fetcher_mod.requests, "get", fake_get)
+    monkeypatch.setattr(fetcher_mod.time, "sleep", lambda s: None)
+
+    with pytest.raises(requests.HTTPError):
+        f._get_with_retry("http://feed")
+    assert len(calls) == 1
+
+
+def test_get_with_retry_gives_up_after_max_attempts(monkeypatch):
+    f = NewsFetcher(lookback_hours=48)
+    calls = []
+
+    def fake_get(url, headers=None, timeout=None):
+        calls.append(url)
+        raise requests.Timeout("slow")
+
+    monkeypatch.setattr(fetcher_mod.requests, "get", fake_get)
+    monkeypatch.setattr(fetcher_mod.time, "sleep", lambda s: None)
+
+    with pytest.raises(requests.Timeout):
+        f._get_with_retry("http://feed")
+    assert len(calls) == NewsFetcher._FETCH_ATTEMPTS
+
+    # And fetch_rss_feed still swallows the failure into an empty list.
+    calls.clear()
+    assert f.fetch_rss_feed("http://feed") == []
+    assert len(calls) == NewsFetcher._FETCH_ATTEMPTS
