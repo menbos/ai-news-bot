@@ -31,6 +31,82 @@ TIER_LABELS = {
     4: "Tech Media",
     5: "Research",
     6: "Community/Dev",
+    7: "Unverified",
+}
+
+# Tier assigned to Google News items whose publisher is not in PUBLISHER_TIERS.
+UNVERIFIED_TIER = 7
+
+# Publisher domain -> trust tier, for items that arrive via Google News search
+# feeds. Those feeds carry a per-feed tier that says nothing about who actually
+# wrote the piece (a content farm surfacing in the tier-1 "DeepSeek" search
+# would otherwise be labeled Primary/Official). Matching is by domain suffix,
+# so subdomains inherit the parent's tier. Publishers not listed here get
+# UNVERIFIED_TIER; *.gov domains get tier 2 without needing an entry.
+PUBLISHER_TIERS = {
+    # Tier 1: first-party vendor domains
+    "openai.com": 1,
+    "anthropic.com": 1,
+    "claude.com": 1,
+    "deepseek.com": 1,
+    "x.ai": 1,
+    "spacex.com": 1,
+    "meta.com": 1,
+    "fb.com": 1,
+    "blog.google": 1,
+    "deepmind.google": 1,
+    "cloud.google.com": 1,
+    "microsoft.com": 1,
+    "nvidia.com": 1,
+    "aws.amazon.com": 1,
+    "huggingface.co": 1,
+    "github.blog": 1,
+    "apple.com": 1,
+    "mistral.ai": 1,
+    "cohere.com": 1,
+    "qwen.ai": 1,
+    "nousresearch.com": 1,
+    # Tier 3: wire / business press
+    "reuters.com": 3,
+    "bloomberg.com": 3,
+    "ft.com": 3,
+    "wsj.com": 3,
+    "axios.com": 3,
+    "cnbc.com": 3,
+    "nytimes.com": 3,
+    "washingtonpost.com": 3,
+    "economist.com": 3,
+    "fortune.com": 3,
+    "businessinsider.com": 3,
+    "theinformation.com": 3,
+    "apnews.com": 3,
+    "technode.com": 3,
+    # Tier 4: tech media
+    "techcrunch.com": 4,
+    "theverge.com": 4,
+    "arstechnica.com": 4,
+    "wired.com": 4,
+    "technologyreview.com": 4,
+    "venturebeat.com": 4,
+    "engadget.com": 4,
+    "zdnet.com": 4,
+    "macrumors.com": 4,
+    "9to5mac.com": 4,
+    "theregister.com": 4,
+    "statnews.com": 4,
+    "endpoints.news": 4,
+    "36kr.com": 4,
+    "jiqizhixin.com": 4,
+    "heise.de": 4,
+    "golem.de": 4,
+    "t3n.de": 4,
+    # Tier 5: research
+    "arxiv.org": 5,
+    "nature.com": 5,
+    # Tier 6: community / dev
+    "news.ycombinator.com": 6,
+    "github.com": 6,
+    "reddit.com": 6,
 }
 
 
@@ -49,14 +125,22 @@ def _gnews(query: str, days: int = 2, lang: str = "en-US", country: str = "US") 
 class NewsFetcher:
     """Fetch real-time AI news from RSS feeds and key-free search feeds."""
 
-    def __init__(self, lookback_hours: int = 48):
+    def __init__(self, lookback_hours: int = 48, blocked_sources: Optional[List[str]] = None):
         """Initialize the news fetcher.
 
         Args:
             lookback_hours: Only keep items published within this many hours.
                 Items with no parseable date are always kept.
+            blocked_sources: Publishers to drop entirely. Each entry is either a
+                domain ("technosports.co.in", matched against the item link and
+                the Google News <source> URL) or a publisher-name substring
+                ("technosports", matched case-insensitively against the
+                <source> name). Needed because Google News search feeds carry
+                whatever site gamed the index, including content farms that
+                republish stale articles with fresh dates.
         """
         self.lookback_hours = lookback_hours
+        self.blocked_sources = [b.strip().lower() for b in (blocked_sources or []) if b.strip()]
 
         # International feeds: name -> {"url", "tier", "type"}.
         # "type" is informational (blog/status/search/paper/forum/media).
@@ -192,6 +276,61 @@ class NewsFetcher:
             )
         return value, 4, "", None
 
+    @staticmethod
+    def _hostname(url: str) -> str:
+        """Lowercased hostname of a URL ('' if unparseable)."""
+        from urllib.parse import urlsplit
+        try:
+            return (urlsplit(url).hostname or '').lower()
+        except ValueError:
+            return ''
+
+    def _is_blocked(self, item: Dict[str, str]) -> bool:
+        """True if the item comes from a blocked publisher.
+
+        Domain entries (containing a dot) match the item link's host and the
+        publisher <source> URL's host, including subdomains. Name entries match
+        as a substring of the publisher name.
+        """
+        if not self.blocked_sources:
+            return False
+        hosts = [h for h in (self._hostname(item.get('link', '')),
+                             self._hostname(item.get('publisher_url', ''))) if h]
+        publisher = item.get('publisher', '').lower()
+        for blocked in self.blocked_sources:
+            if '.' in blocked:
+                if any(h == blocked or h.endswith('.' + blocked) for h in hosts):
+                    return True
+            elif blocked in publisher:
+                return True
+        return False
+
+    @classmethod
+    def _publisher_tier(cls, host: str) -> int:
+        """Trust tier for a publisher hostname (UNVERIFIED_TIER if unknown)."""
+        if not host:
+            return UNVERIFIED_TIER
+        if host.endswith('.gov'):
+            return 2
+        for domain, tier in PUBLISHER_TIERS.items():
+            if host == domain or host.endswith('.' + domain):
+                return tier
+        return UNVERIFIED_TIER
+
+    def _apply_publisher_tier(self, item: Dict) -> None:
+        """Re-tier a Google News-proxied item by its actual publisher.
+
+        Search feeds carry a per-feed tier, but the publisher can be anyone
+        Google indexed. Rate such items by the <source> element's domain
+        instead, and surface the publisher name in 'source' so the Stage-1
+        prompt judges the real outlet rather than the feed name.
+        """
+        if self._hostname(item.get('link', '')) != 'news.google.com':
+            return
+        item['tier'] = self._publisher_tier(self._hostname(item.get('publisher_url', '')))
+        if item.get('publisher'):
+            item['source'] = f"{item['publisher']} (via {item['source']})"
+
     def deduplicate_news(self, items: List[Dict]) -> List[Dict]:
         """
         Remove articles that cover the same story using title word-overlap
@@ -274,18 +413,27 @@ class NewsFetcher:
                     link = item.find('link')
                     description = item.find('description')
                     pub_date = item.find('pubDate')
+                    # Google News search feeds name the real publisher here;
+                    # the <link> itself is a news.google.com redirect.
+                    source = item.find('source')
 
                     pub_date_str = pub_date.text if pub_date is not None else ''
                     parsed_date = self._parse_date(pub_date_str)
                     if parsed_date and parsed_date < cutoff:
                         continue
 
-                    items.append({
+                    parsed = {
                         'title': title.text if title is not None else '',
                         'link': link.text if link is not None else '',
                         'description': self._clean_html(description.text if description is not None else ''),
                         'published': pub_date_str,
-                    })
+                        'publisher': (source.text or '') if source is not None else '',
+                        'publisher_url': source.get('url', '') if source is not None else '',
+                    }
+                    if self._is_blocked(parsed):
+                        logger.info(f"Dropping blocked source item: {parsed['title']!r} ({parsed['publisher'] or parsed['link']})")
+                        continue
+                    items.append(parsed)
             else:
                 # Atom format
                 namespace = {'atom': 'http://www.w3.org/2005/Atom'}
@@ -301,12 +449,16 @@ class NewsFetcher:
                     if parsed_date and parsed_date < cutoff:
                         continue
 
-                    items.append({
+                    parsed = {
                         'title': title.text if title is not None else '',
                         'link': link.get('href', '') if link is not None else '',
                         'description': self._clean_html(summary.text if summary is not None else ''),
                         'published': updated_str,
-                    })
+                    }
+                    if self._is_blocked(parsed):
+                        logger.info(f"Dropping blocked source item: {parsed['title']!r} ({parsed['link']})")
+                        continue
+                    items.append(parsed)
 
             logger.info(f"Fetched {len(items)} items from RSS feed")
             return items
@@ -347,6 +499,7 @@ class NewsFetcher:
                 item['source'] = source_name
                 item['tier'] = tier
                 item['source_type'] = source_type
+                self._apply_publisher_tier(item)
                 collected.append(item)
         return collected
 
@@ -391,6 +544,11 @@ class NewsFetcher:
         # Deduplicate within each category (tier-aware: keeps the most primary source)
         all_news['international'] = self.deduplicate_news(all_news['international'])
         all_news['domestic'] = self.deduplicate_news(all_news['domestic'])
+
+        # Restore tier order: publisher re-tiering can demote items from
+        # early (tier-1) Google News feeds, so feed order alone no longer
+        # guarantees it. Stable sort keeps within-tier feed order.
+        all_news['international'].sort(key=lambda i: i.get('tier', 4))
 
         # Bound the total to keep the Stage-1 prompt manageable. Items are
         # tier-ordered, so this trims the long tail of low-tier feeds first.

@@ -89,7 +89,8 @@ def main():
             api_key=config.llm_api_key,
             model=config.llm_model,
             lookback_hours=config.lookback_hours,
-            history=history
+            history=history,
+            blocked_sources=config.blocked_sources
         )
 
         # Get enabled notification methods

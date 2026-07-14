@@ -237,6 +237,12 @@ For each news item:
         return self.config_data.get("news", {}).get("lookback_hours", 48)
 
     @property
+    def blocked_sources(self) -> List[str]:
+        """Publisher domains/names whose items are dropped at fetch time"""
+        value = self.config_data.get("news", {}).get("blocked_sources", [])
+        return [str(v) for v in value] if isinstance(value, list) else []
+
+    @property
     def history_enabled(self) -> bool:
         """Whether to track already-covered stories across runs"""
         return bool(self.config_data.get("news", {}).get("history", {}).get("enabled", True))

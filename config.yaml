@@ -33,6 +33,15 @@ news:
   # keep this as low as truncation allows. Default: 16000
   max_output_tokens: 16000
 
+  # Publishers to drop entirely at fetch time. Entries are either a domain
+  # ("example.com" — matched against the item link and the Google News
+  # <source> URL, subdomains included) or a lowercase publisher-name substring
+  # ("example media" — matched against the Google News <source> name). Use for
+  # content farms that reach the digest via Google News search feeds, e.g.
+  # sites that republish stale articles with fresh dates to game the index.
+  blocked_sources:
+    - technosports.co.in
+
   # How many hours back to keep fetched items. Larger values catch primary-source
   # announcements (e.g. vendor feature launches) that broke a day or two before
   # the run; the cross-run history (below) prevents the same story repeating
@@ -84,7 +93,9 @@ news:
       4. Tech Media — TechCrunch, The Verge, MIT Tech Review, industry verticals
       5. Research — arXiv, Nature
       6. Community/Dev — Hacker News, GitHub Trending, Reddit
+      7. Unverified — publishers surfaced via Google News that are not on the known-outlet list (often SEO aggregators or content farms)
       Use lower tiers (Research, Community) for genuinely new tools, papers, and developer trends, not as a substitute for a primary announcement that exists.
+      Select an Unverified item ONLY if the story is significant and no higher-tier item covers it, and never for extraordinary claims (new models, prices, mergers) that no known outlet reports.
 
       ### CONTINUATION FILTER:
       - Items marked [COVERED] were already reported in a previous digest. Do NOT select them unless there is a genuinely NEW, material development (e.g. a price, a shipped feature, a regulatory ruling) beyond what was previously reported. Treat a mere follow-up, recap, or reaction as a continuation and skip it.

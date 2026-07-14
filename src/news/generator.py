@@ -38,7 +38,8 @@ class NewsGenerator:
         api_key: Optional[str] = None,
         model: Optional[str] = None,
         lookback_hours: int = 48,
-        history: Optional[NewsHistory] = None
+        history: Optional[NewsHistory] = None,
+        blocked_sources: Optional[List[str]] = None
     ):
         """
         Initialize the NewsGenerator.
@@ -49,6 +50,7 @@ class NewsGenerator:
             model: Model name to use. If None, uses provider's default model
             lookback_hours: How many hours back to keep fetched news items
             history: Optional NewsHistory for cross-run "already covered" tracking
+            blocked_sources: Publisher domains/names whose items are dropped at fetch time
 
         Raises:
             ValueError: If provider is not recognized or API key is not provided
@@ -60,7 +62,7 @@ class NewsGenerator:
             model=model
         )
 
-        self.news_fetcher = NewsFetcher(lookback_hours=lookback_hours)
+        self.news_fetcher = NewsFetcher(lookback_hours=lookback_hours, blocked_sources=blocked_sources)
         self.history = history
         logger.info(
             f"NewsGenerator initialized with {self.provider.provider_name} "
