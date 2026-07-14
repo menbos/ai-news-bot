@@ -6,20 +6,13 @@
 
 ## Open
 
-### 1. Concurrent RSS fetching
-`_fetch_feed_group` (src/news/fetcher.py) fetches ~60–72 feeds serially with a
-10s timeout each — worst case several minutes of wall time per run. Use a
-`ThreadPoolExecutor` (~10 workers) inside `_fetch_feed_group`, keeping the
-per-item tagging (`source`/`tier`/`source_type`) and `_apply_publisher_tier`
-call intact. One failed source must not affect the others (already true today).
-
-### 2. Retry transient RSS failures
+### 1. Retry transient RSS failures
 `fetch_rss_feed` does a single `requests.get`; one network blip loses that
 source for the day. Add 2–3 attempts with exponential backoff (plain loop —
-no need for the `tenacity` dependency). Do this after / together with #1 so
-retries don't multiply serial wall time.
+no need for the `tenacity` dependency). Fetching is now concurrent, so
+retries cost little wall time.
 
-### 3. Startup config validation
+### 2. Startup config validation
 Nothing validates configuration up front, so a missing notification credential
 is discovered only after fetching all feeds and spending LLM tokens. Add a
 `_validate_config()` in `src/config.py` that fails fast with a clear list of
@@ -28,6 +21,11 @@ enabled notification method, at least one valid language). Check the actual
 env-var names the notifiers read — don't trust a stale list.
 
 ## Done (kept here so it isn't re-proposed)
+
+- **Concurrent RSS fetching** — `_fetch_feed_group` fetches feeds through a
+  10-worker `ThreadPoolExecutor`; full 60-feed run dropped from minutes to
+  ~5s. Results are collected in feed order so dedup tie-breaking and the
+  tier sort stay deterministic.
 
 - **Deduplication** — tier-aware Jaccard title dedup in `fetcher.py`, plus
   cross-run history dedup (`data/news_history.json`), plus near-identical-title

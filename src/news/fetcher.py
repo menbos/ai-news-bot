@@ -13,6 +13,7 @@ most authoritative source for a given story, mirroring the editorial hierarchy:
     6  Community / dev          Hacker News, GitHub Trending, Reddit
 """
 import requests
+from concurrent.futures import ThreadPoolExecutor
 from typing import List, Dict, Optional, Tuple
 from datetime import datetime, timezone, timedelta
 import email.utils
@@ -489,18 +490,40 @@ class NewsFetcher:
         clean = re.compile('<.*?>')
         return re.sub(clean, '', text).strip()
 
+    # Concurrent feed fetches per group. Bounded so a group of ~60 feeds
+    # doesn't open 60 sockets at once (Google News hosts many of the feeds
+    # and would see a burst from one IP).
+    _FETCH_WORKERS = 10
+
     def _fetch_feed_group(self, feeds: Dict[str, Dict], max_items_per_source: int) -> List[Dict]:
-        """Fetch every feed in a group, tagging each item with source/tier/type."""
+        """Fetch every feed in a group concurrently, tagging each item with source/tier/type.
+
+        Results are collected in feed order, not completion order: the feed
+        dict is tier-ordered, and both dedup tie-breaking and the final tier
+        sort (stable) rely on that order being deterministic.
+        """
         collected: List[Dict] = []
-        for source_name, meta in feeds.items():
-            url, tier, source_type, feed_max = self._feed_meta(meta)
-            limit = feed_max if feed_max is not None else max_items_per_source
-            for item in self.fetch_rss_feed(url, limit):
-                item['source'] = source_name
-                item['tier'] = tier
-                item['source_type'] = source_type
-                self._apply_publisher_tier(item)
-                collected.append(item)
+        with ThreadPoolExecutor(max_workers=self._FETCH_WORKERS) as executor:
+            submitted = []
+            for source_name, meta in feeds.items():
+                url, tier, source_type, feed_max = self._feed_meta(meta)
+                limit = feed_max if feed_max is not None else max_items_per_source
+                future = executor.submit(self.fetch_rss_feed, url, limit)
+                submitted.append((source_name, tier, source_type, future))
+            for source_name, tier, source_type, future in submitted:
+                try:
+                    items = future.result()
+                except Exception as e:
+                    # fetch_rss_feed catches its own errors; this guards the
+                    # future machinery itself so one feed can't kill the run.
+                    logger.error(f"Feed fetch failed for {source_name}: {e}")
+                    continue
+                for item in items:
+                    item['source'] = source_name
+                    item['tier'] = tier
+                    item['source_type'] = source_type
+                    self._apply_publisher_tier(item)
+                    collected.append(item)
         return collected
 
     def fetch_recent_news(

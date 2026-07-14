@@ -142,3 +142,29 @@ def test_apply_publisher_tier_ignores_first_party_feeds():
     f._apply_publisher_tier(item)
     assert item["tier"] == 1
     assert item["source"] == "OpenAI Blog"
+
+
+def test_fetch_feed_group_concurrent_preserves_feed_order_and_tags():
+    import time
+
+    f = NewsFetcher(lookback_hours=48)
+    feeds = {
+        "Slow Feed": {"url": "http://slow", "tier": 1, "type": "blog"},
+        "Fast Feed": {"url": "http://fast", "tier": 4, "type": "media"},
+        "Broken Feed": {"url": "http://broken", "tier": 4, "type": "media"},
+    }
+
+    def fake_fetch(url, max_items):
+        if url == "http://slow":
+            time.sleep(0.05)  # finishes after Fast Feed; order must not change
+            return [{"title": "slow story", "link": "https://a.example/1", "description": "", "published": ""}]
+        if url == "http://fast":
+            return [{"title": "fast story", "link": "https://b.example/1", "description": "", "published": ""}]
+        raise RuntimeError("boom")  # a raising future must not kill the group
+
+    f.fetch_rss_feed = fake_fetch
+    items = f._fetch_feed_group(feeds, max_items_per_source=5)
+
+    assert [i["source"] for i in items] == ["Slow Feed", "Fast Feed"]
+    assert [i["tier"] for i in items] == [1, 4]
+    assert items[0]["source_type"] == "blog"
