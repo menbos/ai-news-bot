@@ -1,12 +1,11 @@
-# AI News Bot — TODO
+# AI News Bot — Design Decisions
 
-> Rewritten 2026-07-14. The original version of this file was an AI-generated
-> code review saved on 2026-02-11; most of it had since been implemented,
-> superseded, or invalidated. Items below reflect the current code.
-
-## Open
-
-(nothing)
+> Formerly TODO.md (originally an AI-generated code review from 2026-02-11,
+> rewritten 2026-07-14, renamed 2026-07-15 once the last open item shipped).
+> This file records what was built and why, and — more importantly — what was
+> deliberately **not** built. Check the "Rejected" section before proposing
+> improvements: several obvious-sounding ideas were considered and turned down
+> for reasons that still hold.
 
 ## Done (kept here so it isn't re-proposed)
 
@@ -40,6 +39,14 @@
   into real use.)
 
 ## Rejected / superseded (with reasons)
+
+- **Multi-language output (zh, de)** — removed 2026-07-15 at the owner's
+  request: only the English digest is used. Removal covered the per-language
+  loop in `main.py`, `AI_RESPONSE_LANGUAGE`, `LANGUAGE_NAMES`, the Chinese and
+  German "domestic" feed lists, the international/domestic split in the
+  fetcher/generator (now a single flat item list; IDs stay `INT-n` so the
+  prompts didn't change), and the notifiers' `language` parameter. Restoring a
+  language means reverting that commit, not re-implementing from scratch.
 
 - **Quality pre-scoring before Stage 1** — superseded by the tier system +
   publisher re-tiering + Stage-1 selection criteria; keyword scoring is a
