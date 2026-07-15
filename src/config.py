@@ -18,6 +18,28 @@ LANGUAGE_NAMES = {
     "de": "German (Deutsch)",
 }
 
+# Env var holding the API key for each supported LLM provider
+PROVIDER_API_KEY_VARS = {
+    "claude": "ANTHROPIC_API_KEY",
+    "deepseek": "DEEPSEEK_API_KEY",
+    "gemini": "GOOGLE_API_KEY",
+    "grok": "XAI_API_KEY",
+    "openai": "OPENAI_API_KEY",
+}
+
+# Env vars each notifier requires (must match what the notifier classes read)
+NOTIFIER_REQUIRED_VARS = {
+    "email": ("GMAIL_ADDRESS", "GMAIL_APP_PASSWORD", "EMAIL_TO"),
+    "webhook": ("WEBHOOK_URL",),
+    "slack": ("SLACK_WEBHOOK_URL",),
+    "telegram": ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID"),
+    "discord": ("DISCORD_WEBHOOK_URL",),
+}
+
+
+class ConfigError(Exception):
+    """Raised when required configuration is missing or invalid."""
+
 
 class Config:
     """Application configuration manager"""
@@ -296,6 +318,67 @@ For each news item:
         elif provider == "openai":
             return os.getenv("OPENAI_API_KEY")
         return None
+
+    def validate(self) -> None:
+        """Fail fast on missing or invalid settings, before any feed fetching
+        or LLM spend. Collects every problem and raises a single ConfigError,
+        so one failed run surfaces the complete list instead of the first item.
+
+        In dry-run mode notifier checks are skipped (nothing is sent), but the
+        LLM key is still required.
+        """
+        problems: List[str] = []
+
+        provider = self.llm_provider
+        key_var = PROVIDER_API_KEY_VARS.get(provider)
+        if key_var is None:
+            problems.append(
+                f"Unknown LLM provider '{provider}'. "
+                f"Supported: {', '.join(sorted(PROVIDER_API_KEY_VARS))}"
+            )
+        elif not (os.getenv(key_var) or "").strip():
+            problems.append(
+                f"{key_var} is not set (required by LLM provider '{provider}')"
+            )
+
+        raw_languages = os.getenv("AI_RESPONSE_LANGUAGE", "").strip()
+        if raw_languages:
+            requested = [l.strip() for l in raw_languages.lower().split(",") if l.strip()]
+            supported = {"en", *LANGUAGE_NAMES}
+            if not any(lang in supported for lang in requested):
+                problems.append(
+                    f"AI_RESPONSE_LANGUAGE='{raw_languages}' contains no supported "
+                    f"language. Supported: {', '.join(sorted(supported))}"
+                )
+
+        if not self.dry_run:
+            methods = [m for m in self.notification_methods if m]
+            if not methods:
+                problems.append(
+                    "NOTIFICATION_METHODS is empty: the digest would be generated "
+                    "but sent nowhere. Enable at least one method, or set "
+                    "DRY_RUN=true to render to output/ instead."
+                )
+            for method in methods:
+                required = NOTIFIER_REQUIRED_VARS.get(method)
+                if required is None:
+                    problems.append(
+                        f"Unknown notification method '{method}'. "
+                        f"Supported: {', '.join(sorted(NOTIFIER_REQUIRED_VARS))}"
+                    )
+                    continue
+                missing = [v for v in required if not (os.getenv(v) or "").strip()]
+                if missing:
+                    problems.append(
+                        f"Notification method '{method}' is enabled but missing: "
+                        f"{', '.join(missing)}"
+                    )
+
+        if problems:
+            raise ConfigError(
+                "Invalid configuration:\n"
+                + "\n".join(f"  - {p}" for p in problems)
+            )
 
     def get(self, key: str, default: Any = None) -> Any:
         """

@@ -7,7 +7,7 @@ Generates and distributes daily AI news digests using Anthropic's Claude API.
 import sys
 from pathlib import Path
 from datetime import datetime
-from src.config import Config
+from src.config import Config, ConfigError
 from src.logger import setup_logger
 from src.news import NewsGenerator
 from src.news.history import NewsHistory
@@ -56,6 +56,13 @@ def main():
             level=config.log_level,
             log_format=config.log_format
         )
+
+        # Fail fast on bad config before any feed fetching or LLM spend
+        try:
+            config.validate()
+        except ConfigError as e:
+            logger.error(str(e))
+            return 1
 
         # Get list of languages to process
         languages = config.ai_response_languages

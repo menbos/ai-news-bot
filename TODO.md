@@ -6,15 +6,19 @@
 
 ## Open
 
-### 1. Startup config validation
-Nothing validates configuration up front, so a missing notification credential
-is discovered only after fetching all feeds and spending LLM tokens. Add a
-`_validate_config()` in `src/config.py` that fails fast with a clear list of
-missing settings (LLM API key for the selected provider, credentials for each
-enabled notification method, at least one valid language). Check the actual
-env-var names the notifiers read — don't trust a stale list.
+(nothing)
 
 ## Done (kept here so it isn't re-proposed)
+
+- **Startup config validation** — `Config.validate()` fails fast before any
+  feed fetching or LLM spend, collecting every problem into one error:
+  unknown/keyless LLM provider (exact env-var name per provider), unknown
+  notification methods, missing credentials per enabled method, empty
+  NOTIFICATION_METHODS outside dry-run, and AI_RESPONSE_LANGUAGE with no
+  supported code. Dry-run skips notifier checks but still requires the LLM
+  key. Note: `load_dotenv(override=True)` resolves `.env` relative to
+  `src/config.py`, so on a dev machine the repo `.env` overrides shell env
+  vars — validation bites mainly in CI, where env comes from secrets.
 
 - **RSS retry** — `_get_with_retry` retries network errors, 5xx and 429 up
   to 3 attempts with 2s/4s backoff; other 4xx fail immediately. A feed that
