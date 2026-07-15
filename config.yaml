@@ -81,7 +81,6 @@ news:
       - ✅ Important policy changes or regulations
       - ✅ Large funding rounds or M&A activities
       - ✅ Balanced coverage across categories (LLM, Agents, Research, Products, etc.)
-      - ✅ Include both international and domestic news when available
       - ✅ Thematic investing intersections: AI in clean energy transition, healthcare/biotech innovation, tech disruption, ESG; and critical materials demand (rare earths, lithium, copper, cobalt) driven by AI infrastructure and energy transition
       - ✅ DEDUPLICATION: If multiple articles cover the same event, product, or company announcement, select ONLY the single best one. "Same story" means the same subject (e.g. multiple outlets covering the same product launch, the same funding round, or the same model release). Do not include the same topic more than once regardless of source or angle.
 
@@ -112,7 +111,7 @@ news:
       Return ONLY a JSON array of selected news IDs. No explanations, no markdown, just the JSON array.
 
       Example format:
-      ["INT-1", "INT-5", "DOM-2", "INT-12", ...]
+      ["INT-1", "INT-5", "INT-12", ...]
 
       CRITICAL: Select exactly 15-20 items. No more, no less.
 

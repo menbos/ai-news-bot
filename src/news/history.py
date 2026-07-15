@@ -58,8 +58,8 @@ class NewsHistory:
         self.prompt_days = prompt_days
         self._entries: List[Dict] = self._load()
         # Matching structures are a frozen snapshot of what was loaded from disk.
-        # They are NOT updated by record(), so stories published earlier in the
-        # same multi-language run don't suppress later languages.
+        # They are NOT updated by record(), so a story recorded during this run
+        # is never treated as "already covered" by the same run.
         self._match_urls = {e["url"] for e in self._entries if e.get("url")}
         # Match on both the published headline and the original RSS title (when
         # recorded) — incoming items carry RSS titles, so comparing against the

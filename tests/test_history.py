@@ -28,8 +28,8 @@ def test_is_covered_by_url_and_title(tmp_path):
                           "link": "https://example.com/x"}) is False
 
 
-def test_same_session_record_does_not_flag_later_languages(tmp_path):
-    """The match snapshot is frozen at load, so en's records don't suppress zh."""
+def test_same_session_record_does_not_flag_same_run(tmp_path):
+    """The match snapshot is frozen at load, so this run's records don't suppress this run."""
     p = tmp_path / "h.json"
     h = NewsHistory(path=str(p), retention_days=7)
     h.record([{"headline": "Brand new Mistral model release announced",

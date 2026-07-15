@@ -28,7 +28,7 @@
 
 |        [✨ Features](#features)         | [🚀 Quick Start](#quick-start-local-development) | [⚙️ Configuration](#configuration)  | [🤖 LLM Providers](#llm-provider-configuration) |
 | :-------------------------------------: | :----------------------------------------------: | :---------------------------------: | :---------------------------------------------: |
-| [🌍 Languages](#language-configuration) |       [📧 Email Setup](#email-setup-guide)       | [🔗 Webhooks](#webhook-integration) |     [🔧 Troubleshooting](#troubleshooting)      |
+|   [📧 Email Setup](#email-setup-guide)  |       [🔗 Webhooks](#webhook-integration)        | [🔧 Troubleshooting](#troubleshooting) |                                              |
 
 </div>
 
@@ -42,8 +42,6 @@
 - **Web Search Integration**: Optional DuckDuckGo web search for additional news sources
 - **Beautiful Email Formatting**: Automatically converts AI content to stunning HTML emails - no markdown, just clean professional design
 - **Two-Stage AI Pipeline**: Stage 1 selects the highest-quality items from all fetched news; Stage 2 writes structured, categorized analytical summaries — both fully customizable in `config.yaml`
-- **Multilingual Support**: Generate digests in English, Chinese (中文), and German (Deutsch)
-- **Localized News Sources**: Built-in Chinese sources (36Kr, JiQiZhiXin, Leiphone, etc.) and German sources (Heise, t3n, Golem, etc.) in addition to the international feeds
 - **Multiple Notification Channels**: Supports email (Gmail SMTP), webhook, Slack, Telegram, and Discord notifications
 - **Flexible Configuration**: Easy-to-customize topics and notification settings via YAML config
 - **Automated Scheduling**: GitHub Actions workflow for daily automated execution
@@ -55,10 +53,9 @@
 
 <div align="center">
 
-| Chinese Email | English Email |
-|:-------------:|:-------------:|
-| ![Chinese AI News Digest](image/screenshot1.png) | ![English AI News Digest](image/screenshot2.png) |
-| Chinese language digest example | English language digest example |
+| ![AI News Digest](image/screenshot2.png) |
+|:-------------:|
+| Daily digest example |
 
 </div>
 
@@ -117,12 +114,6 @@ Add the following secrets:
 | `EMAIL_TO`           | `recipient@example.com` | Recipient email address                                                        |
 
 See [Email Setup Guide](#email-setup-guide) for detailed Gmail configuration instructions.
-
-#### 🌍 Optional Secrets
-
-| Secret Name            | Example Value              | Description                                                                       |
-| ---------------------- | -------------------------- | --------------------------------------------------------------------------------- |
-| `AI_RESPONSE_LANGUAGE` | `zh` or `de` or `en,zh,de` | Language code(s): `en`, `zh`, `de` (defaults to `en`). Use commas for multiple    |
 
 For other notification channels (Webhook, Slack, Telegram, Discord), see the [full configuration table](#github-actions-setup).
 
@@ -207,13 +198,6 @@ WEBHOOK_URL=https://your-webhook-url.com/endpoint
 # Notification Methods (comma-separated)
 # Available: email, webhook, slack, telegram, discord
 NOTIFICATION_METHODS=email,webhook
-
-# Language Settings (optional, defaults to 'en')
-# Single language:
-AI_RESPONSE_LANGUAGE=zh
-# Multiple languages (comma-separated):
-# AI_RESPONSE_LANGUAGE=en,zh,ja
-
 ```
 
 > **Note**: The `.env` file is only for **local development**. For GitHub Actions automation, you'll configure these as **GitHub Secrets** (see [GitHub Actions Setup](#github-actions-setup) below).
@@ -226,23 +210,6 @@ The bot turns raw RSS items into a polished digest using a **two-stage prompt pi
 - **Stage 2 — Summarization** (`stage2_prompt_template`): for the selected items the LLM returns structured JSON (category, headline, date, 4–6 sentence analytical summary, source name, source URL). Python then enforces the category order and deduplication when rendering the final digest.
 
 Both templates are plain YAML strings you can edit freely. Stage 1 placeholders: `{total_items}`, `{formatted_news}`. Stage 2 placeholders: `{count}`, `{selected_news}`.
-
-**Multi-Language Support:**
-
-Prompts are written in English (best for the LLM), but the digest can be produced in **English, Chinese, or German**:
-
-```bash
-# In .env file - Single language
-AI_RESPONSE_LANGUAGE=zh  # Chinese output only
-AI_RESPONSE_LANGUAGE=de  # German output only
-
-# Multiple languages (comma-separated)
-AI_RESPONSE_LANGUAGE=en,zh,de  # English, Chinese, and German
-
-# Supported: en, zh, de
-```
-
-Chinese (`zh`) and German (`de`) each also pull from their own localized news feeds; English (`en`) uses the international feeds.
 
 ### 5. Run Locally
 
@@ -258,7 +225,7 @@ To test the digest without emailing your distribution list, set `DRY_RUN=true`:
 DRY_RUN=true python main.py
 ```
 
-This renders each language to `output/digest_<lang>.md` and `output/digest_<lang>.html`
+This renders the digest to `output/digest.md` and `output/digest.html`
 (open the HTML in a browser to see exactly what recipients would get) and sends
 **no** notifications. The cross-run history file is left untouched in dry-run mode.
 Alternatively, to send a real test only to yourself, set `EMAIL_TO` to your own
@@ -284,7 +251,6 @@ The bot requires the following configuration. How you set them depends on your d
 | `XAI_API_KEY`          | If using Grok     | Your xAI API key ([Get it here](https://x.ai/))                                                                                                  |
 | `OPENAI_API_KEY`       | If using OpenAI   | Your OpenAI API key ([Get it here](https://platform.openai.com/api-keys))                                                                        |
 | `NOTIFICATION_METHODS` | ✅ Required       | Comma-separated list: `email`, `webhook`, `slack`, `telegram`, `discord`, or any combination (e.g., `email,slack,telegram`)                      |
-| `AI_RESPONSE_LANGUAGE` | Optional          | Language code(s) for AI responses (default: `en`). Use commas for multiple (e.g., `en,zh,de`). Supports: `en`, `zh`, `de` |
 | `GMAIL_ADDRESS`        | If using Gmail    | Your Gmail address                                                                                                               |
 | `GMAIL_APP_PASSWORD`   | If using Gmail    | Gmail App Password (16 characters, NOT regular password)                                                                         |
 | `EMAIL_TO`             | If using email    | Recipient email address                                                                                                          |
@@ -441,52 +407,6 @@ llm:
 | **Grok**     | 4.1 Fast Reasoning - Real-time data  | Up-to-date info, quick reasoning      |
 | **OpenAI**   | GPT-5.1 - Latest flagship model      | Cutting-edge performance, general use |
 
-### Language Configuration
-
-**How It Works:**
-
-- Prompts are always in **English** (best for the LLM's understanding)
-- Output can be in **English, Chinese, or German**
-- `zh` and `de` additionally fetch from their own localized news feeds; `en` uses the international feeds
-- Set `AI_RESPONSE_LANGUAGE` in `.env` or GitHub Secrets
-
-**Supported Languages:**
-
-`en` (English) • `zh` (中文) • `de` (Deutsch)
-
-**Usage:**
-
-```bash
-# .env file - Single language
-AI_RESPONSE_LANGUAGE=zh  # Full Chinese output
-
-# .env file - Multiple languages (comma-separated)
-AI_RESPONSE_LANGUAGE=en,zh,de  # Generate digests in English, Chinese, and German
-
-# GitHub Secret
-# Add: AI_RESPONSE_LANGUAGE = zh
-# Or for multiple: AI_RESPONSE_LANGUAGE = en,zh,de
-```
-
-**Multi-Language Support:**
-
-When you specify multiple languages (e.g., `en,zh,de`), the bot will:
-1. Generate separate news digests for each language
-2. Send individual notifications for each language
-3. Include the language code in the notification title (e.g., "AI News Digest - 2024-12-03 [ZH]")
-
-**Example Output (Chinese):**
-
-```
-国际新闻：
-
-1. OpenAI发布GPT-5增强推理能力
-OpenAI发布了GPT-5...
-来源：OpenAI官方博客
-```
-
-The system automatically adds: "IMPORTANT: Please respond entirely in Chinese (中文)" to the prompt.
-
 ## GitHub Actions Setup
 
 The project includes a GitHub Actions workflow triggered via `workflow_dispatch` (manual run, or called by an external scheduler such as cron-job.org — see [Customize Schedule](#step-4-customize-schedule-optional)).
@@ -548,12 +468,6 @@ Add the following secrets one by one:
 | `DISCORD_WEBHOOK_URL` | `https://discord.com/api/webhooks/...` | Discord Webhook URL              |
 | `DISCORD_USERNAME`    | `AI News Bot`                          | (Optional) Override bot username |
 | `DISCORD_AVATAR_URL`  | `https://example.com/avatar.png`       | (Optional) Custom avatar URL     |
-
-#### 🌍 Optional Secrets
-
-| Secret Name            | Example Value        | Description                                      |
-| ---------------------- | -------------------- | ------------------------------------------------ |
-| `AI_RESPONSE_LANGUAGE` | `zh` or `de` or `en,zh,de` | Language code(s): `en`, `zh`, `de` (defaults to `en`) |
 
 ### Step 2: Enable GitHub Actions
 
@@ -626,8 +540,7 @@ ai-news-bot/
 ├── requirements.txt                 # Python dependencies
 ├── .env.example                     # Example environment variables
 ├── .gitignore
-├── README.md
-└── README.zh.md                     # Chinese documentation
+└── README.md
 ```
 
 ## Usage Examples
@@ -693,10 +606,9 @@ The bot generates **email-optimized content** that looks stunning across all ema
 
 <div align="center">
 
-| Chinese Email | English Email |
-|:-------------:|:-------------:|
-| ![Chinese AI News Digest](image/screenshot1.png) | ![English AI News Digest](image/screenshot2.png) |
-| Chinese language digest | English language digest |
+| ![AI News Digest](image/screenshot2.png) |
+|:-------------:|
+| Daily digest email |
 
 </div>
 

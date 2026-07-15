@@ -54,15 +54,12 @@ def test_deduplicate_items_keeps_longer_summary():
 
 def test_format_news_with_ids_marks_covered_and_tier():
     g = _bare_generator()
-    news = {
-        "international": [
-            {"title": "Primary scoop", "source": "OpenAI Blog", "tier": 1,
-             "description": "d", "link": "u1", "published": "", "already_covered": True},
-            {"title": "Media take", "source": "TechCrunch AI", "tier": 4,
-             "description": "d", "link": "u2", "published": ""},
-        ],
-        "domestic": [],
-    }
+    news = [
+        {"title": "Primary scoop", "source": "OpenAI Blog", "tier": 1,
+         "description": "d", "link": "u1", "published": "", "already_covered": True},
+        {"title": "Media take", "source": "TechCrunch AI", "tier": 4,
+         "description": "d", "link": "u2", "published": ""},
+    ]
     text, items = g._format_news_with_ids(news)
     assert set(items) == {"INT-1", "INT-2"}
     assert "[COVERED]" in text

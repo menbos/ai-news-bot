@@ -7,7 +7,7 @@ from src.config import Config, ConfigError, NOTIFIER_REQUIRED_VARS, PROVIDER_API
 # Every env var validate() reads; scrubbed so the developer's real .env
 # (loaded with override=True in Config.__init__) can't leak into tests.
 _ALL_VARS = (
-    ["LLM_PROVIDER", "LLM_MODEL", "NOTIFICATION_METHODS", "AI_RESPONSE_LANGUAGE", "DRY_RUN"]
+    ["LLM_PROVIDER", "LLM_MODEL", "NOTIFICATION_METHODS", "DRY_RUN"]
     + list(PROVIDER_API_KEY_VARS.values())
     + [v for group in NOTIFIER_REQUIRED_VARS.values() for v in group]
 )
@@ -83,19 +83,6 @@ def test_dry_run_still_requires_llm_key(cfg, monkeypatch):
     monkeypatch.delenv("GOOGLE_API_KEY")
     with pytest.raises(ConfigError, match="GOOGLE_API_KEY"):
         cfg.validate()
-
-
-def test_language_with_no_supported_code_fails(cfg, monkeypatch):
-    monkeypatch.setenv("AI_RESPONSE_LANGUAGE", "fr,es")
-    with pytest.raises(ConfigError, match="AI_RESPONSE_LANGUAGE"):
-        cfg.validate()
-
-
-def test_language_with_one_supported_code_passes(cfg, monkeypatch):
-    monkeypatch.setenv("AI_RESPONSE_LANGUAGE", "en,fr")
-    cfg.validate()
-    monkeypatch.setenv("AI_RESPONSE_LANGUAGE", "zh")
-    cfg.validate()
 
 
 def test_all_problems_reported_at_once(cfg, monkeypatch):

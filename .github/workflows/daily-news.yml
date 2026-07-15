@@ -71,12 +71,6 @@ jobs:
           # Optional: Webhook
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
 
-          # Optional: Language (defaults to 'en' if not set)
-          # Supported: en, zh, es, fr, ja, de, ko, pt, ru, ar, hi, it, nl
-          # For multiple languages, separate with commas (e.g., 'en,zh,ja')
-          # The bot will generate and send news for each language separately
-          AI_RESPONSE_LANGUAGE: ${{ secrets.AI_RESPONSE_LANGUAGE }}
-
         # bash + pipefail so the python exit code survives the `tee` pipe.
         shell: bash
         run: |

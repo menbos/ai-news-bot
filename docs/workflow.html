@@ -190,44 +190,56 @@
       <div class="arrow">↓</div>
 
       <div class="step">
-        <span class="n">2</span><h3>Fetch news</h3>
-        <p><code>NewsFetcher</code> pulls items from <strong>60+ RSS/Atom feeds, each tagged with a trust tier</strong> (1 primary/official → 6 community): official company blogs &amp; docs, status pages, government/regulator feeds, wire/business, tech media, research, dev community (Hacker News, GitHub Trending, Reddit), plus thematic-investing and critical-minerals sources. Sources without a usable first-party feed (Anthropic, xAI, Mistral, Reuters, FT, WSJ, policy bodies…) are covered by <strong>key-free Google&nbsp;News search feeds</strong>. Only items published within the last <strong>48 hours</strong> are kept (<code>lookback_hours</code>); items with no date are always kept.</p>
+        <span class="n">2</span><h3>Validate configuration</h3>
+        <p>Before anything is fetched or any tokens are spent, <code>Config.validate()</code> checks the whole setup and <strong>fails fast with one complete list of problems</strong>: unknown or key-less LLM provider (naming the exact env var, e.g. <code>GOOGLE_API_KEY</code> for Gemini), unknown notification methods, missing credentials for each enabled channel, and an empty <code>NOTIFICATION_METHODS</code> outside dry-run. A misconfigured run exits in under a second instead of after minutes of fetching and LLM calls.</p>
       </div>
       <div class="arrow">↓</div>
 
       <div class="step">
-        <span class="n">3</span><h3>Pre-filter, deduplicate &amp; flag continuations</h3>
-        <p>Near-duplicate articles (same story from different outlets) are removed using title word-overlap (Jaccard similarity) before anything reaches the LLM — and the collision is resolved in favor of the <strong>most primary source</strong> (lowest tier), so the digest links the original announcement rather than a rewrite. Then the cross-run history (see step&nbsp;8) is applied: items whose <strong>URL was already published</strong> in a recent digest are <strong>dropped outright</strong>, and items whose title fuzzily matches a recent story are marked <code>[COVERED]</code>. Each surviving item gets a unique ID (<code>INT-1</code>, <code>DOM-2</code>, …).</p>
+        <span class="n">3</span><h3>Fetch news</h3>
+        <p><code>NewsFetcher</code> pulls items from <strong>60+ RSS/Atom feeds, each tagged with a trust tier</strong> (1 primary/official → 6 community): official company blogs &amp; docs, status pages, government/regulator feeds, wire/business, tech media, research, dev community (Hacker News, GitHub Trending, Reddit), plus thematic-investing and critical-minerals sources. Sources without a usable first-party feed (Anthropic, xAI, Mistral, Reuters, FT, WSJ, policy bodies…) are covered by <strong>key-free Google&nbsp;News search feeds</strong>. Feeds are fetched <strong>concurrently (10 workers — the full sweep takes ~5s)</strong>, and transient failures (network blips, 5xx, 429 rate limits) are <strong>retried up to 3 times with 2s/4s backoff</strong>; a feed that still fails is skipped, never fatal. Only items published within the last <strong>48 hours</strong> are kept (<code>lookback_hours</code>); items with no date are always kept.</p>
       </div>
       <div class="arrow">↓</div>
 
       <div class="step">
-        <span class="n">4</span><h3>Stage 1 — Selection (LLM)</h3>
+        <span class="n">4</span><h3>Re-tier by publisher &amp; drop blocked sources</h3>
+        <p>A Google&nbsp;News search feed carries a per-feed tier, but the actual publisher can be anyone — including content farms that republish stale stories with fresh dates. So each Google&nbsp;News-proxied item is <strong>re-tiered by its real publisher</strong> (a curated domain→tier map; <code>*.gov</code> gets the regulator tier automatically), and unknown publishers land in a bottom <strong>tier 7 "Unverified"</strong> so Stage&nbsp;1 treats them with suspicion. Publishers on the <code>blocked_sources</code> blocklist (matched by domain or name) are <strong>dropped at fetch time</strong> — added after a fabricated story from one reached a digest.</p>
+      </div>
+      <div class="arrow">↓</div>
+
+      <div class="step">
+        <span class="n">5</span><h3>Pre-filter, deduplicate &amp; flag continuations</h3>
+        <p>Near-duplicate articles (same story from different outlets) are removed using title word-overlap (Jaccard similarity) before anything reaches the LLM — and the collision is resolved in favor of the <strong>most primary source</strong> (lowest tier), so the digest links the original announcement rather than a rewrite. Then the cross-run history (see step&nbsp;10) is applied: items whose <strong>URL was already published</strong> in a recent digest are <strong>dropped outright</strong>, and items whose title fuzzily matches a recent story are marked <code>[COVERED]</code>. Each surviving item gets a unique ID (<code>INT-1</code>, <code>DOM-2</code>, …).</p>
+      </div>
+      <div class="arrow">↓</div>
+
+      <div class="step">
+        <span class="n">6</span><h3>Stage 1 — Selection (LLM)</h3>
         <p>All items are sent to the LLM with the <code>stage1_prompt_template</code>. The prompt also embeds the <strong>headlines published in the last few digests</strong> (<code>prompt_days</code>, default 3 — roughly 1K extra input tokens), so the model can skip a story it already covered <em>even when it's reworded</em> — semantic, topic-level dedup that URL/title matching can't do. Acting as a "senior AI industry analyst," it returns a JSON array of the <strong>15–20 highest-quality</strong> item IDs, balancing categories, following the <strong>source-trust hierarchy</strong>, applying an explicit <strong>avoid-list</strong> (SEO farms, copy-paste newsletters, unverified rumors, benchmark screenshots), and skipping <code>[COVERED]</code> continuations unless there's a materially new development. Code validates the IDs and enforces the 15–20 count (with a fallback if parsing fails).</p>
       </div>
       <div class="arrow">↓</div>
 
       <div class="step">
-        <span class="n">5</span><h3>Stage 2 — Summarization (LLM)</h3>
+        <span class="n">7</span><h3>Stage 2 — Summarization (LLM)</h3>
         <p>The selected items are sent back with the <code>stage2_prompt_template</code>. The LLM returns <strong>structured JSON</strong> per item: category, headline, date, a 4–6 sentence analytical summary, source name, and source URL.</p>
       </div>
       <div class="arrow">↓</div>
 
       <div class="step">
-        <span class="n">6</span><h3>Render</h3>
+        <span class="n">8</span><h3>Render</h3>
         <p>Python parses the JSON and builds the digest, <strong>enforcing a fixed category order</strong> and running a second deduplication pass (so formatting/order never depends on the model behaving). Output is Markdown.</p>
       </div>
       <div class="arrow">↓</div>
 
       <div class="step">
-        <span class="n">7</span><h3>Notify</h3>
-        <p>The digest is converted to a styled HTML email and sent via Gmail SMTP to everyone on the distribution list (<code>EMAIL_TO</code>). Other channels — webhook, Slack, Telegram, Discord — can be enabled too. Each configured language is generated and sent separately.</p>
+        <span class="n">9</span><h3>Notify</h3>
+        <p>The digest is converted to a styled HTML email and sent via Gmail SMTP to everyone on the distribution list (<code>EMAIL_TO</code>). Other channels — webhook, Slack, Telegram, Discord — can be enabled too.</p>
       </div>
       <div class="arrow">↓</div>
 
       <div class="step">
-        <span class="n">8</span><h3>Persist history</h3>
-        <p>The published stories are recorded to <code>data/news_history.json</code> — the rewritten headline, the <strong>original RSS title</strong> (so future runs compare incoming RSS titles like-for-like), and the URL, kept for <code>retention_days</code> (default 7). Because the GitHub runner is ephemeral, the workflow <strong>commits that file back to the repo</strong> — giving the next day's run the cross-run memory used in steps&nbsp;3 and&nbsp;4 to tell a genuinely new story from a continuation.</p>
+        <span class="n">10</span><h3>Persist history</h3>
+        <p>The published stories are recorded to <code>data/news_history.json</code> — the rewritten headline, the <strong>original RSS title</strong> (so future runs compare incoming RSS titles like-for-like), and the URL, kept for <code>retention_days</code> (default 7). Because the GitHub runner is ephemeral, the workflow <strong>commits that file back to the repo</strong> — giving the next day's run the cross-run memory used in steps&nbsp;5 and&nbsp;6 to tell a genuinely new story from a continuation.</p>
       </div>
 
     </div>
@@ -248,9 +260,9 @@
           <li><strong>4 · Tech media &amp; verticals</strong> — TechCrunch, VentureBeat, MIT Tech Review, Ars Technica, Wired, The Verge, Engadget; plus healthcare, robotics, finance, clean energy/ESG, critical minerals</li>
           <li><strong>5 · Research</strong> — arXiv (cs.AI, cs.LG, cs.CV, cs.CL), Nature</li>
           <li><strong>6 · Community / dev</strong> — Hacker News, GitHub Trending, Reddit (r/LocalLLaMA, r/MachineLearning)</li>
-          <li><strong>Localized</strong> — Chinese feeds (36Kr, JiQiZhiXin, Leiphone…) for <code>zh</code>; German feeds (Heise, t3n, Golem…) for <code>de</code></li>
+          <li><strong>7 · Unverified</strong> — Google&nbsp;News-proxied items whose publisher isn't in the curated publisher→tier map land here, so Stage&nbsp;1 treats them with suspicion</li>
         </ul>
-        Vendors with no usable first-party feed (Anthropic, xAI, Mistral, Cohere, DeepSeek, Reuters, FT, WSJ…) are reached via <strong>key-free Google&nbsp;News search feeds</strong>. All defined in <code>src/news/fetcher.py</code>.
+        Vendors with no usable first-party feed (Anthropic, xAI, Mistral, Cohere, DeepSeek, Reuters, FT, WSJ…) are reached via <strong>key-free Google&nbsp;News search feeds</strong> — and because those can surface anyone, each item is <strong>re-tiered by its actual publisher</strong>, and known content farms on the <code>blocked_sources</code> blocklist are dropped at fetch time. All defined in <code>src/news/fetcher.py</code> and <code>config.yaml</code>.
       </div>
     </details>
 
@@ -288,6 +300,13 @@
     </details>
 
     <details>
+      <summary>What happens when a feed is down or rate-limits?</summary>
+      <div class="body">
+        Feeds are fetched through a <strong>10-worker thread pool</strong>, so the full 60-feed sweep takes about 5 seconds instead of minutes (results are collected in feed order, keeping dedup tie-breaking deterministic). Each fetch retries <strong>transient failures</strong> — network errors, 5xx responses, and HTTP 429 rate limits — up to <strong>3 attempts with 2s/4s backoff</strong>; other 4xx errors (a dead URL, say) fail immediately. A feed that still fails after retries is logged and <strong>skipped — one broken source never kills the run</strong>.
+      </div>
+    </details>
+
+    <details>
       <summary>What categories appear in the digest?</summary>
       <div class="body">
         In this fixed order:
@@ -315,20 +334,10 @@
       <summary>How is it configured (secrets vs. config)?</summary>
       <div class="body">
         <ul>
-          <li><strong>Secrets</strong> (GitHub → Settings → Secrets, or local <code>.env</code>): API keys, <code>NOTIFICATION_METHODS</code>, Gmail credentials, <code>EMAIL_TO</code> distribution list, <code>AI_RESPONSE_LANGUAGE</code>, optional <code>LLM_PROVIDER</code>/<code>LLM_MODEL</code>.</li>
+          <li><strong>Secrets</strong> (GitHub → Settings → Secrets, or local <code>.env</code>): API keys, <code>NOTIFICATION_METHODS</code>, Gmail credentials, <code>EMAIL_TO</code> distribution list, optional <code>LLM_PROVIDER</code>/<code>LLM_MODEL</code>.</li>
           <li><strong><code>config.yaml</code></strong>: provider/model defaults, <code>max_items_per_source</code>, <code>lookback_hours</code>, the <code>history</code> (cross-run memory) settings, and the Stage 1 / Stage 2 prompt templates.</li>
         </ul>
-        Scheduled runs read <strong>GitHub secrets</strong>; the local <code>.env</code> only affects runs on your own machine.
-      </div>
-    </details>
-
-    <details>
-      <summary>What languages are supported?</summary>
-      <div class="body">
-        <span class="badge">en — English</span>
-        <span class="badge">zh — 中文</span>
-        <span class="badge">de — Deutsch</span><br>
-        Prompts are always English; the digest output is produced in each requested language, and a separate notification is sent per language.
+        Scheduled runs read <strong>GitHub secrets</strong>; the local <code>.env</code> only affects runs on your own machine (and note it <em>overrides</em> shell variables when present). At startup, <code>Config.validate()</code> checks the whole setup and aborts with a complete list of missing settings before any feed or LLM work.
       </div>
     </details>
 
@@ -353,20 +362,21 @@
     <div class="card">
       <table>
         <tr><th>File</th><th>Responsibility</th></tr>
-        <tr><td><code>main.py</code></td><td>Entry point: loops over languages, generates the digest, dispatches notifications</td></tr>
-        <tr><td><code>src/news/fetcher.py</code></td><td>Tiered RSS/Atom + Google News feeds, 48h lookback filter, tier-aware pre-LLM deduplication</td></tr>
+        <tr><td><code>main.py</code></td><td>Entry point: validates config, generates the digest, dispatches notifications</td></tr>
+        <tr><td><code>src/config.py</code></td><td>Env/YAML config manager + fail-fast startup validation (<code>Config.validate()</code>)</td></tr>
+        <tr><td><code>src/news/fetcher.py</code></td><td>Tiered RSS/Atom + Google News feeds fetched concurrently with retry/backoff; publisher re-tiering &amp; blocklist; 48h lookback filter; tier-aware pre-LLM deduplication</td></tr>
         <tr><td><code>src/news/history.py</code></td><td>Cross-run "already covered" memory (load, match, record to JSON)</td></tr>
         <tr><td><code>src/news/generator.py</code></td><td>Two-stage LLM pipeline, JSON parsing, category ordering, digest rendering</td></tr>
         <tr><td><code>src/llm_providers/</code></td><td>One adapter per provider (Claude, DeepSeek, Gemini, Grok, OpenAI)</td></tr>
         <tr><td><code>src/notifiers/</code></td><td>Email, webhook, Slack, Telegram, Discord senders</td></tr>
-        <tr><td><code>config.yaml</code></td><td>Provider/model, fetch limits, lookback, history settings, Stage 1 &amp; 2 prompts</td></tr>
+        <tr><td><code>config.yaml</code></td><td>Provider/model, fetch limits, lookback, <code>blocked_sources</code>, history settings, Stage 1 &amp; 2 prompts</td></tr>
         <tr><td><code>.github/workflows/daily-news.yml</code></td><td>CI job (manual / externally triggered run); commits the history file back</td></tr>
       </table>
     </div>
   </section>
 
   <div class="footnote">
-    Generated from the repository state on 2026-07-06. Active model, schedule, and source list reflect <code>config.yaml</code>,
+    Generated from the repository state on 2026-07-15. Active model, schedule, and source list reflect <code>config.yaml</code>,
     <code>src/news/fetcher.py</code>, and <code>.github/workflows/daily-news.yml</code> at that time — re-check those files if the bot is reconfigured.
   </div>
 

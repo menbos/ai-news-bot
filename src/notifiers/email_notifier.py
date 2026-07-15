@@ -49,14 +49,13 @@ class EmailNotifier:
         else:
             logger.info(f"EmailNotifier initialized with Gmail SMTP (from: {self.gmail_address})")
 
-    def send(self, content: str, subject: Optional[str] = None, language: str = "en") -> bool:
+    def send(self, content: str, subject: Optional[str] = None) -> bool:
         """
         Send email notification with news digest.
 
         Args:
             content: Email body content (news digest)
             subject: Email subject. If None, uses default with current date
-            language: Language code to include in subject (e.g., 'en', 'zh', 'ja')
 
         Returns:
             True if email sent successfully, False otherwise
@@ -64,8 +63,7 @@ class EmailNotifier:
         # Create default subject if not provided
         if subject is None:
             today = datetime.now().strftime("%Y-%m-%d")
-            lang_suffix = f" [{language.upper()}]" if language != "en" else ""
-            subject = f"AI News Digest - {today}{lang_suffix}"
+            subject = f"AI News Digest - {today}"
 
         if not all([self.gmail_address, self.gmail_app_password, self.email_to]):
             logger.error("Gmail notifier is not fully configured. Skipping email send.")

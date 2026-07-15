@@ -12,12 +12,6 @@ from .logger import setup_logger
 logger = setup_logger(__name__)
 
 
-# Supported language codes and their display names
-LANGUAGE_NAMES = {
-    "zh": "Chinese (中文)",
-    "de": "German (Deutsch)",
-}
-
 # Env var holding the API key for each supported LLM provider
 PROVIDER_API_KEY_VARS = {
     "claude": "ANTHROPIC_API_KEY",
@@ -132,14 +126,13 @@ You are a senior AI industry analyst. Analyze the {total_items} news items above
 - ✅ Important policy changes or regulations
 - ✅ Large funding rounds or M&A activities
 - ✅ Balanced coverage across categories (LLM, Agents, Research, Products, etc.)
-- ✅ Include both international and domestic news when available
 - ✅ Prefer primary sources over secondary reporting
 
 ### OUTPUT FORMAT:
 Return ONLY a JSON array of selected news IDs. No explanations, no markdown, just the JSON array.
 
 Example format:
-["INT-1", "INT-5", "DOM-2", "INT-12", ...]
+["INT-1", "INT-5", "INT-12", ...]
 
 CRITICAL: Select exactly 15-20 items. No more, no less."""
 
@@ -215,27 +208,6 @@ For each news item:
     def dry_run(self) -> bool:
         """Dry-run mode: render the digest to files under output/ and send nothing."""
         return os.getenv("DRY_RUN", "false").strip().lower() in ("true", "1", "yes", "on")
-
-    @property
-    def ai_response_language(self) -> str:
-        """Get the language for AI-generated content (single language, deprecated)"""
-        return os.getenv("AI_RESPONSE_LANGUAGE", "en").strip().lower()
-    
-    @property
-    def ai_response_languages(self) -> List[str]:
-        """Get the list of languages for AI-generated content (supports comma-separated values)"""
-        languages_str = os.getenv("AI_RESPONSE_LANGUAGE", "en").strip().lower()
-        # Split by comma and clean up whitespace
-        languages = [lang.strip() for lang in languages_str.split(",") if lang.strip()]
-        # Validate languages
-        valid_languages = []
-        for lang in languages:
-            if lang == "en" or lang in LANGUAGE_NAMES:
-                valid_languages.append(lang)
-            else:
-                logger.warning(f"Unsupported language code '{lang}', skipping")
-        # Return at least 'en' if no valid languages
-        return valid_languages if valid_languages else ["en"]
 
     @property
     def max_items_per_source(self) -> int:
@@ -340,16 +312,6 @@ For each news item:
             problems.append(
                 f"{key_var} is not set (required by LLM provider '{provider}')"
             )
-
-        raw_languages = os.getenv("AI_RESPONSE_LANGUAGE", "").strip()
-        if raw_languages:
-            requested = [l.strip() for l in raw_languages.lower().split(",") if l.strip()]
-            supported = {"en", *LANGUAGE_NAMES}
-            if not any(lang in supported for lang in requested):
-                problems.append(
-                    f"AI_RESPONSE_LANGUAGE='{raw_languages}' contains no supported "
-                    f"language. Supported: {', '.join(sorted(supported))}"
-                )
 
         if not self.dry_run:
             methods = [m for m in self.notification_methods if m]

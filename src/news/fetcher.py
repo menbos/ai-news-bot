@@ -234,26 +234,6 @@ class NewsFetcher:
             "Reddit r/MachineLearning": {"url": "https://www.reddit.com/r/MachineLearning/.rss", "tier": 6, "type": "forum", "max": 5},
         }
 
-        # Chinese AI news sources (zh)
-        self.chinese_feeds: Dict[str, Dict] = {
-            "36Kr (36氪)": {"url": "https://36kr.com/feed", "tier": 4, "type": "media"},
-            "JiQiZhiXin (机器之心)": {"url": "https://www.jiqizhixin.com/rss", "tier": 4, "type": "media"},
-            "Leiphone (雷锋网)": {"url": "https://www.leiphone.com/feed", "tier": 4, "type": "media"},
-            "iFeng Tech (凤凰科技)": {"url": "https://tech.ifeng.com/rss/index.xml", "tier": 4, "type": "media"},
-            "Sina Tech (新浪科技)": {"url": "http://rss.sina.com.cn/tech/rollnews.xml", "tier": 4, "type": "media"},
-            "Google News AI (CN)": {"url": "https://news.google.com/rss/search?q=人工智能+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "tier": 4, "type": "search"},
-            "Google News LLM (CN)": {"url": "https://news.google.com/rss/search?q=大模型+GPT+Claude&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "tier": 4, "type": "search"},
-        }
-
-        # German AI news sources (de)
-        self.german_feeds: Dict[str, Dict] = {
-            "Heise Online": {"url": "https://www.heise.de/rss/heise-atom.xml", "tier": 4, "type": "media"},
-            "t3n Digital Pioneers": {"url": "https://t3n.de/tag/kuenstliche-intelligenz/feed/", "tier": 4, "type": "media"},
-            "Golem.de": {"url": "https://rss.golem.de/rss.php?feed=RSS2.0", "tier": 4, "type": "media"},
-            "Computerwoche": {"url": "https://www.computerwoche.de/rss/feed/computerwoche-alle", "tier": 4, "type": "media"},
-            "Google News AI (DE)": {"url": "https://news.google.com/rss/search?q=künstliche+intelligenz&hl=de&gl=DE&ceid=DE:de", "tier": 4, "type": "search"},
-        }
-
     _STOP_WORDS = {
         'a', 'an', 'the', 'is', 'in', 'on', 'at', 'to', 'for', 'of', 'and', 'or', 'but',
         'with', 'by', 'from', 'as', 'this', 'that', 'it', 'its', 'are', 'was', 'were',
@@ -568,91 +548,41 @@ class NewsFetcher:
 
     def fetch_recent_news(
         self,
-        language: str = "en",
         max_items_per_source: int = 10,
         max_total_items: Optional[int] = None
-    ) -> Dict[str, List[Dict[str, str]]]:
+    ) -> List[Dict[str, str]]:
         """
         Fetch recent AI news from all configured sources.
 
         Args:
-            language: Language code for the response
             max_items_per_source: Maximum items to fetch per source
-            max_total_items: Optional cap on international items kept after dedup.
+            max_total_items: Optional cap on items kept after dedup.
                 Feeds are tier-ordered (primary first), so trimming keeps the most
                 authoritative sources and bounds the Stage-1 prompt size.
 
         Returns:
-            Dictionary with 'international' and 'domestic' news lists
+            List of news items, tier-ordered (most authoritative first)
         """
         logger.info("Fetching recent AI news from all sources...")
 
-        all_news = {
-            'international': self._fetch_feed_group(self.rss_feeds, max_items_per_source),
-            'domestic': [],
-        }
+        news_items = self._fetch_feed_group(self.rss_feeds, max_items_per_source)
 
-        # Fetch domestic news based on language
-        language_feeds_map = {
-            "zh": self.chinese_feeds,
-            "de": self.german_feeds,
-        }
-
-        feeds = language_feeds_map.get(language)
-        if feeds:
-            all_news['domestic'] = self._fetch_feed_group(feeds, max_items_per_source)
-        else:
-            logger.warning(f"No domestic feeds configured for language: {language}, using international only")
-
-        # Deduplicate within each category (tier-aware: keeps the most primary source)
-        all_news['international'] = self.deduplicate_news(all_news['international'])
-        all_news['domestic'] = self.deduplicate_news(all_news['domestic'])
+        # Deduplicate (tier-aware: keeps the most primary source)
+        news_items = self.deduplicate_news(news_items)
 
         # Restore tier order: publisher re-tiering can demote items from
         # early (tier-1) Google News feeds, so feed order alone no longer
         # guarantees it. Stable sort keeps within-tier feed order.
-        all_news['international'].sort(key=lambda i: i.get('tier', 4))
+        news_items.sort(key=lambda i: i.get('tier', 4))
 
         # Bound the total to keep the Stage-1 prompt manageable. Items are
         # tier-ordered, so this trims the long tail of low-tier feeds first.
-        if max_total_items and len(all_news['international']) > max_total_items:
+        if max_total_items and len(news_items) > max_total_items:
             logger.info(
-                f"Trimming international items {len(all_news['international'])} -> {max_total_items} (max_total_items)"
+                f"Trimming items {len(news_items)} -> {max_total_items} (max_total_items)"
             )
-            all_news['international'] = all_news['international'][:max_total_items]
+            news_items = news_items[:max_total_items]
 
-        logger.info(
-            f"Fetched {len(all_news['international'])} international news items "
-            f"and {len(all_news['domestic'])} domestic ({language}) news items after deduplication"
-        )
+        logger.info(f"Fetched {len(news_items)} news items after deduplication")
 
-        return all_news
-
-    def format_news_for_summary(self, news_data: Dict[str, List[Dict[str, str]]]) -> str:
-        """
-        Format fetched news into a text suitable for AI summarization.
-
-        Args:
-            news_data: Dictionary with 'international' and 'domestic' news lists
-
-        Returns:
-            Formatted news text
-        """
-        formatted = "# Recent AI News Items to Summarize\n\n"
-
-        for section_title, key in (("International News", "international"), ("Domestic News", "domestic")):
-            if not news_data[key]:
-                continue
-            formatted += f"## {section_title}\n\n"
-            for i, item in enumerate(news_data[key], 1):
-                formatted += f"### {i}. {item['title']}\n"
-                tier_label = TIER_LABELS.get(item.get('tier', 4), "")
-                formatted += f"**Source:** {item['source']} ({tier_label})\n"
-                if item['description']:
-                    formatted += f"**Description:** {item['description'][:300]}...\n"
-                formatted += f"**Link:** {item['link']}\n"
-                if item['published']:
-                    formatted += f"**Published:** {item['published']}\n"
-                formatted += "\n"
-
-        return formatted
+        return news_items

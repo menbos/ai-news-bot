@@ -7,7 +7,6 @@ import re
 import email.utils
 from datetime import datetime, timezone
 from ..logger import setup_logger
-from ..config import LANGUAGE_NAMES
 from .fetcher import NewsFetcher, TIER_LABELS
 from .history import NewsHistory, _normalize_url as history_normalize_url
 from ..llm_providers import get_llm_provider
@@ -85,12 +84,12 @@ class NewsGenerator:
             pass
         return "No date"
 
-    def _format_news_with_ids(self, news_data: Dict) -> tuple:
+    def _format_news_with_ids(self, items: List[Dict]) -> tuple:
         """
         Format news with unique IDs for selection stage.
 
         Args:
-            news_data: Dictionary with 'international' and 'domestic' news lists
+            items: List of fetched news items
 
         Returns:
             Tuple of (formatted_text, news_items_dict)
@@ -98,26 +97,19 @@ class NewsGenerator:
         formatted = "# Recent AI News Items for Selection\n\n"
         news_items = {}  # id -> full news item
 
-        for section_title, key, prefix in (
-            ("International News", "international", "INT"),
-            ("Domestic News", "domestic", "DOM"),
-        ):
-            if not news_data[key]:
-                continue
-            formatted += f"## {section_title}\n\n"
-            for item_id, item in enumerate(news_data[key], 1):
-                news_id = f"{prefix}-{item_id}"
-                news_items[news_id] = item
+        for item_id, item in enumerate(items, 1):
+            news_id = f"INT-{item_id}"
+            news_items[news_id] = item
 
-                covered = " [COVERED]" if item.get('already_covered') else ""
-                formatted += f"### [{news_id}]{covered} {item['title']}\n"
-                tier_label = TIER_LABELS.get(item.get('tier', 4), "")
-                formatted += f"**Source:** {item['source']} ({tier_label})\n"
-                if item['description']:
-                    formatted += f"**Description:** {item['description'][:400]}...\n"
-                if item['published']:
-                    formatted += f"**Published:** {item['published']}\n"
-                formatted += "\n"
+            covered = " [COVERED]" if item.get('already_covered') else ""
+            formatted += f"### [{news_id}]{covered} {item['title']}\n"
+            tier_label = TIER_LABELS.get(item.get('tier', 4), "")
+            formatted += f"**Source:** {item['source']} ({tier_label})\n"
+            if item['description']:
+                formatted += f"**Description:** {item['description'][:400]}...\n"
+            if item['published']:
+                formatted += f"**Published:** {item['published']}\n"
+            formatted += "\n"
 
         return formatted, news_items
 
@@ -243,7 +235,6 @@ class NewsGenerator:
     def generate_news_digest_from_sources(
         self,
         max_tokens: int = 16000,
-        language: str = "en",
         max_items_per_source: int = 10,
         max_total_items: Optional[int] = None,
         stage1_template: Optional[str] = None,
@@ -256,7 +247,6 @@ class NewsGenerator:
 
         Args:
             max_tokens: Maximum tokens in response
-            language: Language code for the response
             max_items_per_source: Maximum items to fetch per source
             stage1_template: Optional Stage 1 prompt template (from config)
             stage2_template: Optional Stage 2 prompt template (from config)
@@ -270,13 +260,12 @@ class NewsGenerator:
         try:
             # Fetch real-time news
             logger.info("Fetching real-time AI news from sources...")
-            news_data = self.news_fetcher.fetch_recent_news(
-                language=language,
+            fetched_items = self.news_fetcher.fetch_recent_news(
                 max_items_per_source=max_items_per_source,
                 max_total_items=max_total_items
             )
 
-            if not news_data['international'] and not news_data['domestic']:
+            if not fetched_items:
                 error_msg = "No news items fetched from RSS sources. Please check your network connection or RSS feed availability."
                 logger.error(error_msg)
                 raise Exception(error_msg)
@@ -288,24 +277,23 @@ class NewsGenerator:
             # continuation of a covered story.
             if self.history:
                 covered_count = dropped_count = 0
-                for key in news_data:
-                    kept = []
-                    for item in news_data[key]:
-                        kind = self.history.match_kind(item)
-                        if kind in ('url', 'title_strong'):
-                            dropped_count += 1
-                            continue
-                        if kind == 'title':
-                            item['already_covered'] = True
-                            covered_count += 1
-                        kept.append(item)
-                    news_data[key] = kept
+                kept = []
+                for item in fetched_items:
+                    kind = self.history.match_kind(item)
+                    if kind in ('url', 'title_strong'):
+                        dropped_count += 1
+                        continue
+                    if kind == 'title':
+                        item['already_covered'] = True
+                        covered_count += 1
+                    kept.append(item)
+                fetched_items = kept
                 logger.info(f"History: dropped {dropped_count} already-published items "
                             f"(same URL or near-identical title), "
                             f"marked {covered_count} items as [COVERED]")
 
             # Format news with unique IDs for selection
-            formatted_news, news_items = self._format_news_with_ids(news_data)
+            formatted_news, news_items = self._format_news_with_ids(fetched_items)
             total_items = len(news_items)
 
             logger.info(f"Starting two-stage prompt chaining with {total_items} news items")
@@ -406,11 +394,6 @@ class NewsGenerator:
                 .replace("{count}", str(len(selected_ids)))
                 .replace("{selected_news}", formatted_selected)
             )
-
-            # Add language instruction if not English (summaries only — JSON structure stays in English)
-            if language and language.lower() != "en":
-                language_name = LANGUAGE_NAMES.get(language.lower(), language.upper())
-                summarization_prompt += f"\n\nIMPORTANT: Write all headline and summary values in {language_name}. Keep JSON keys and category names in English exactly as listed."
 
             # Execute Stage 2: Generate structured JSON
             messages = [{"role": "user", "content": summarization_prompt}]

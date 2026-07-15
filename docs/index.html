@@ -61,38 +61,6 @@
         padding: 0 20px;
       }
 
-      /* Language Switcher */
-      .language-switcher {
-        position: fixed;
-        top: 20px;
-        right: 20px;
-        z-index: 1000;
-        background: white;
-        padding: 10px 15px;
-        border-radius: 8px;
-        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-        max-height: 80vh;
-        overflow-y: auto;
-      }
-
-      .language-switcher a {
-        text-decoration: none;
-        color: #667eea;
-        font-weight: 600;
-        margin: 0 8px;
-        transition: color 0.3s ease;
-        white-space: nowrap;
-      }
-
-      .language-switcher a:hover {
-        color: #764ba2;
-      }
-
-      .language-switcher a.active {
-        color: #764ba2;
-        text-decoration: underline;
-      }
-
       /* Hero Section */
       header {
         padding: 80px 0 60px;
@@ -413,30 +381,6 @@
         line-height: 1.5;
       }
 
-      /* Languages */
-      .languages {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 15px;
-        justify-content: center;
-        margin: 40px 0;
-      }
-
-      .language-tag {
-        background: #e9ecef;
-        padding: 12px 24px;
-        border-radius: 25px;
-        font-weight: 600;
-        color: #667eea;
-        transition: all 0.3s ease;
-        font-size: 1rem;
-      }
-
-      .language-tag:hover {
-        background: #667eea;
-        color: white;
-        transform: scale(1.08);
-      }
 
       /* Code Block */
       .code-block {
@@ -574,13 +518,6 @@
     </style>
   </head>
   <body>
-    <!-- Language Switcher -->
-    <div class="language-switcher">
-      <a href="index.html" class="active">🇬🇧 English</a>
-      <a href="zh/index.html">🇨🇳 中文</a>
-      <a href="de/index.html">🇩🇪 Deutsch</a>
-    </div>
-
     <header>
       <div class="container">
         <h1>AI News Bot</h1>
@@ -643,8 +580,8 @@
               <span class="stat-label">Setup Time</span>
             </div>
             <div class="stat-item">
-              <span class="stat-number">3</span>
-              <span class="stat-label">Languages</span>
+              <span class="stat-number">60+</span>
+              <span class="stat-label">News Feeds</span>
             </div>
             <div class="stat-item">
               <span class="stat-number">100%</span>
@@ -687,14 +624,6 @@
               <p>
                 Gorgeous HTML emails that work perfectly in Gmail, Outlook,
                 Apple Mail. Professional design, zero markdown mess.
-              </p>
-            </div>
-            <div class="feature-card">
-              <span class="feature-icon">🌍</span>
-              <h3>3 Languages</h3>
-              <p>
-                Generate news in English, Chinese, and German.
-                Your language, your choice.
               </p>
             </div>
             <div class="feature-card">
@@ -799,20 +728,6 @@
                 enhanced capabilities.
               </p>
             </div>
-          </div>
-        </section>
-
-        <!-- Languages -->
-        <section class="section">
-          <h2 class="section-title">Speak Your Language</h2>
-          <p class="section-subtitle">
-            Generate news digests in 3 languages with a single configuration
-            change
-          </p>
-          <div class="languages">
-            <span class="language-tag">🇬🇧 English</span>
-            <span class="language-tag">🇨🇳 中文</span>
-            <span class="language-tag">🇩🇪 Deutsch</span>
           </div>
         </section>
 
