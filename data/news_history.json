@@ -1,126 +1,6 @@
 {
-  "updated": "2026-07-14T04:33:33.056940+00:00",
+  "updated": "2026-07-15T04:32:01.642227+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMiygFBVV95cUxQMWpwNHdOREtfNnBoRWNRX1hIZnpKVHpnSUhJRE9Db1p1a1EtbF9HY1J0T1Y3T2dtNXNhaDdwVExjbHQzOTVWYzhwc1Z6bUswVk4zZXdEdnBrSG1ISHAwNWJKN2lkdlZsbERielB1N1J6MHh5aGJwb2dRN2g4dzNETVpwUGVkdERrRDd0U3FXSk5TSnp3MGRqUWFEaVJ3aGpHZWllSGZ5T2NwemE4XzROczlLMmQ4VGViemdBb29KRk9VRS1JSjNva05n0gHPAUFVX3lxTE1Zd2JEcDB2T0xCLVpFWmVoamJWNnVBdzJ5QzBjVVBuYjA3NmxjcGQ5cHdNS2JPUXg3MGVmYVFJN2s4Ni1oWGRhOHIzQ2phbUlfcTZ2cEdDYlY1djRLZDVuNEthY0pxa1UwNkJ1cVVsQTVmaGs1V0dFbnR1RWNVdF9wODRrWFNXakZ1NU9lZ2ZGaER2eFk3blpoVnBiUUVzMG5uYWpYNmJuUnBkbEZ6RVJHUHRPY2RGdjBSM1lvWjh6YkJ0bDdLeWdORlNQSUJUaw",
-      "title": "Meta Nears $6.5 Billion Samsung AI Chip Deal Amidst Meta Compute Launch",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Meta (META) Nears $6.5 Billion Samsung AI Chip Deal And Launches Meta Compute - simplywall.st"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiY0FVX3lxTE05ZlgtWUsxUlZkUUJzN2N3ektNSERobFJ0QXREQnIwZmpqMVNVb3Q0ZG1KTW84TERMNlFwM1VQLURfaElfOEF1Z2VQX2VHTEFwZTh0R2NUMy1xelNVaDRWMEJRNA",
-      "title": "GPT-5.6, Claude Sonnet 5, and Meta's 'Watermelon' AI Headline Latest Developments",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "[AI DAILY NEWS RUNDOWN - TEASER] GPT-5.6 Arrives, Claude Sonnet 5 Launches, Meta Decodes... Live Football Streams (2PuabCOp7S) - Fathom Journal"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiakFVX3lxTFBLS3lYdEZadjhqcE8tZTk1RmtMSVBZRnZZNTE3S1UzdmFyQW95RFctbm0xc2tkTjVBR3U4cWRrNFNta295ZE9QaF96VjBZVEgweE55dTJLNHFBZXBJOWxWenQ3b3R0X2V5Y0E",
-      "title": "Meta's 'Watermelon' AI Poised for Release, Competing with GPT-5.5 Performance",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Meta's new AI, 'Watermelon,' will soon be released with performance comparable to OpenAI's GPT-5.5. - GIGAZINE"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/open-models-icml-2026",
-      "title": "Open Frontier Models and Infrastructure Drive AI Research Trends at ICML 2026",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "How Open Models Are Driving AI Research"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova",
-      "title": "Amazon Nova Introduces Selective Unlearning for Content Moderation",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Teaching models to forget: Selective unlearning with Amazon Nova"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova",
-      "title": "Amazon Nova Enhances PII Redaction in Images Using Multimodal AI",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Automatically redact PII in images with Amazon Nova"
-    },
-    {
-      "url": "huggingface.co/blog/lerobot-release-v060",
-      "title": "LeRobot v0.6.0 Release Focuses on Imagine, Evaluate, Improve Cycle for Robotics",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "LeRobot v0.6.0: Imagine, Evaluate, Improve"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMickFVX3lxTE1VMGNMbDZSS3ppUkRBeWZjU3JjWkpxRk9ZR19uWXJFN3F6aW42V0xkUUR1SnFwb0xXMmRyaXRsbm8yX0ZBbDgyYzFuU3pwQXJZS3UzVkhjbFl1bkZqOVRzNER5ejlidW9fY0laNWNwSjNQdw",
-      "title": "Anthropic CEO Discusses AI's Transformative Impact on the Biotech Sector",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "I spoke to Anthropic’s CEO about how AI may affect biotech. Here’s what I learned - STAT"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxQb3Z2Yno4ZzNWQXdyVnhjR3YtZUs2TXU3MFNpZUZFcl9xUFNfZ3owYjg3Rm9ubXNtRVc0NUdrZzRteFVMV0hJUmJSN1ZjQ2FndnFWNm94Z2tocWZzQ2phcDJLd1pJQjJ1Y3hJUDYzRF8xejlydks0NEk2dXBtUDk0TjA5cmRFb1NXSUJycWJjWTc0bDZIZmhIc3ZSZ3NrenhKaVVmZVRuUEFZc2dfUUNvX2N3",
-      "title": "Anthropic Explores Claude's Internal 'Workspace' in New Research Paper",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Anthropic Releases Paper About Claude’s Mental ‘Workspace.’ Don’t Read It Uncritically - Gizmodo"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiggJBVV95cUxQR0lDYWg1X2Q0WTZtbGlMdUNTNXR2dmVSTUlfM1BRemVsdFR4NW5MUE1TWmFMTUt5U3hrRGdOaG1KNEVLN2tZNkY0bXFpTUpvUTRxQVZpRFc1MGZLSjlDamprTURxVnBrY19ZNVEwQnBmeWtMV1o3N21yU0dUWFBIMEM1clIxaElPdXhCdnhYUXRMSDFWRjFIZmZPZUt5RUdlZHhSSVY4c0dRQjRsN0ZudFNhVXltd2l1dDk5T3VqRkpQMmpsNzdYcWFFc3drbmtxN3paeHRTYUdNT2ZyelEwOXpaanJDWHR5TDBMSUZiY1o1RHZpVjd2bEZSSFVDSDVwN3c",
-      "title": "CloudMasonry Launches Claude Consulting Practice for Enterprise AI Adoption",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "CloudMasonry Launches Claude Consulting Practice to Help Enterprises Put Anthropic's AI at the Core of Their Business - PR Newswire"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxPREF2XzFMNDN2V1dMRDZaOW9adkctT1pmbzJNWm9BUnBzblptQWFaT25OS0k5amtlWkRmUm4tdC1mYXN2UmlSR3RMVEdBMmdibDZKRXRzQTczLV9LVlp1b1lyUy1wMmpfcEJfT0MxWVBCbDk1WUVHWVhFWWUtQVJSTXkyd3BXWk0",
-      "title": "Anthropic Launches Claude Science to Expand Revenue Streams Ahead of IPO",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Anthropic launches Claude Science in bid to expand revenue streams ahead of IPO - AOL.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi6AFBVV95cUxPQjV4YmtqWVZhUFBLVXV2c1dSanUzRG52d2JibnFES05RZzRncWMtOGIwS2dnS0NqTUFQY2pqNnpwLVJVQ09MaXVyemJZN3BJSXowUVotWlpnZURwU0hfQ0pZNEF3a2gwbXloeDMyVXBJeGxjLUhKVlBiNFZ2em9pQTJJengzZ3ptMFJGU3JwMmZlWnBJRHdELTBLTVJocndKNmUtbU9mdWU2TWw2N01CNTlZeDVmc29mZ3BWMU11WmxSSHlhbmhpVUtYRC10VnB2c3JvUExueFRubGxJVjJ5OTUwbi1FaUU0",
-      "title": "Anthropic Unveils Claude Design for Rapid Prototyping and Presentation Generation",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Anthropic launches Claude Design: AI that creates prototypes and presentations at the click of a button - آي-فون إسلام"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxNTWQzbHphRTlHdnZoR3hLX2R4emkzeGhWT0RkanhDSk1uUVVuWHYyZ253Z25MZnkwRDktUDVFVGlkd3h1MGstenBmeGp4b3pna3lQay1MLUsxYkxCa0ozUmxocEFmNXVmdGZ4bEhPQjNoSW9tX01adU93UEY4YmxqTjZXbGMydk50VWExcS1TalBrWGNyOWhvTlZqcTJvWDY4SUh2bDh5SdIBpwFBVV95cUxNTWQzbHphRTlHdnZoR3hLX2R4emkzeGhWT0RkanhDSk1uUVVuWHYyZ253Z25MZnkwRDktUDVFVGlkd3h1MGstenBmeGp4b3pna3lQay1MLUsxYkxCa0ozUmxocEFmNXVmdGZ4bEhPQjNoSW9tX01adU93UEY4YmxqTjZXbGMydk50VWExcS1TalBrWGNyOWhvTlZqcTJvWDY4SUh2bDh5SQ",
-      "title": "Mistral AI Releases Leanstral 1.5 for Formal Proof Engineering",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Mistral AI Releases Leanstral 1.5 for Lean 4 Proof Engineering - TechGig"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiekFVX3lxTFBCX2hVb2g1bjNtbVN5MGFVNVpFWlVUUml2MmtyMzN1MFl2WjFwMDRoaktsRzVpUHhxYkl1MHp4ZTVNSjIwUmwwWGdpNUI3bHlkMUtuQ1hwanNMak14TVU3S2RweWVqR0Q1dlBBVzZxT1ZzaldxamNqemFn",
-      "title": "Airbus Partners with Mistral AI to Advance Aerospace AI Development",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Aerospace AI Development Strengthens as Airbus Partners With Mistral AI - safariindia.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMie0FVX3lxTE11TzloZm5PRDB0Vk4zYTBQekgtZ0RxTDZEUmtoSkRkcFNTa0FyQzhxcmM2bG1memNJd0pfaGlJT19jRThKODlPeFVoZTBuZlZFaGMxdWQtZGtMRGc3NFF0TUJfZTBmM3gxeC04UC1KaWJJMmtPVFBiS25IMA",
-      "title": "BCE Inc. Signs Major AI Infrastructure Deal with Cohere",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "BCE Inc. (BCE) Inks Major AI Infrastructure Deal - Yahoo! Finance Canada"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE9HTDcyNldOYTh3T2tvUFFlLVFvekhnOTk5aHpYQTdob1FHVzRJTzBwTkVyS3NMcUIxN3BGYlMyQ1oyeTUtSVVkX2dLZEN4QXFma0xSbG1pZkMtY211X2xzVHBldGRVdHViLWtWM3lDZVhmenB2YlI5YmxB",
-      "title": "Hermes MoA 2.0 Integrates Multiple LLMs to Surpass Single-Model Performance",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Hermes MoA 2.0 Combines GPT, Claude, And DeepSeek To Outscore Any Single Model - Yellow.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxQbXVHdmFyRGhQelRlcEo2WmpaSzc1VjhyTHhqdV9xMi14SmJPT1FFMk40V0swaWJqREY0ak9nS3oyV3JSSksyMmdSWHcxekdVY0RsbjVVT0xfd3Z0bmZsX2l6SGlrTmw0LXVEWXg0Q25PM0tIVU5ydG9IMmdlVzAwSjln",
-      "title": "Sakana AI Launches Sakana Translate for Enhanced Japanese-English-Chinese Translation",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes - MarkTechPost"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxOV3BhTkJiYlBzcVpPUkhjQWFjM3dDWDU0X3lEVktSSDZMUUVoRHRxQmxUZllQeE5Uc09WX1IzUzFBWnp1U05NOEp0SUFfS1ZRcTF5Zi1xVDVMQTgxQ2NHMEI2UE1ENEZrTkRMRUtTRnBhNXRDOXRKeWlEd3NId0JRSEkxMV90cjA",
-      "title": "Claude Integrates with Spotify, Uber, and Numerous Other Apps",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Claude can now connect with Spotify, Uber, and a lot more apps - Mashable"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiZ0FVX3lxTE5kbFZRX1NMcFdvZElDV1V5SWNjdU05NU1MdmxlVGVQZnNadFpKbDhKRUF4cVJidjZBZTIzMmdqNTZrUE80QmgtcmMtLTNKaHdfOGkwZS10S1dXM2phcVN0TGNwalR2WEU",
-      "title": "Claude Sonnet 5 Achieves 63.2% SWE-bench Score with Competitive Pricing",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "Claude Sonnet 5: 63.2% SWE-bench, $2/M Tokens [2026] - tech-insider.org"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxOUTgtNlBnektXY0p2T2VjSjBrX0xRTG1EZGZ2WlRCc0NBTGlQbnl0YXVReXVyTkZRWWFuYzFlZk9TN2kzQjlvVXZ3WUxLNFB5eVl4cE1iMG5ua1RHME0yWVRZTXVTYjRIOUI4Wko3cFpJM0dCYnV3dG5CRUI1VkR3SlpsQTlsVVd0V3dqLW90Z1BRWGNIRlJ4akk4NWlXX25yeHpxLTE0SFZyaFl1dEYwckNLdmtVcEZvaU1EUWhsbDlLdTJzZEptb3dLM0d2ZkE1",
-      "title": "GPT-5.6 Nears Release with 'Ultra Mode,' Subagents, and Cost Reductions",
-      "first_seen": "2026-07-07T04:32:05.745401+00:00",
-      "rss_title": "GPT-5.6 Release Nears: Ultra Mode Spawns Subagents, Terra Cuts Cost, METR Flags Risk - Tech Times"
-    },
     {
       "url": "blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
       "title": "Google Enhances Gemini API with Managed Agents for Production-Ready AI",
@@ -943,6 +823,126 @@
       "url": "news.google.com/rss/articles/CBMi_wFBVV95cUxOUzFseXVOVVdlSnNtcFhVbnNhOGtSVHFDDFNkb25iZEw1Z2FTTWFzY3JXTXNVVWZVNHJDSjJHcUc4Nk1BYnFzVzhOSjhJeGMtNmp6R2dkMlpwTFJ0Z3ZjY1MyX0hHQ2s1TnRoZjBHbml6LXpTTUZlU1RCc3RxOERtYTJDZmFsczJJOWotelZGSHhGVnF1UlctU09hSHFIVG1uaVRpNG1aT0FKSFlWX0pMM25YSlh1M1ZXY3hMbjY1VVNfbkluYmxtQ3hFWC1mV21aQmJEWVFteXg1MDJDSEdfT1NtLUkzUEdpMU10ZzFGbm9QYTJ2OEZhQS1BYTl0MUE",
       "title": "Anthropic Claude Sonnet 5 Benchmarked Against Older Versions on Pricing and Performance",
       "first_seen": "2026-07-14T04:33:33.056940+00:00"
+    },
+    {
+      "url": "openai.com/index/managing-ai-investments-in-agentic-era",
+      "title": "OpenAI Offers Guidance on Managing AI Investments in Agentic Era",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "How to manage AI investments in the agentic era"
+    },
+    {
+      "url": "blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
+      "title": "Google Celebrates 25 Years of Visual Search Innovation",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Celebrating 25 years of visual search innovation"
+    },
+    {
+      "url": "deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+      "title": "Google DeepMind Launches Gemini-Powered AI Tool for Indian Educators",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Empowering India’s next generation of innovators with ATL Saathi"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize",
+      "title": "NVIDIA Highlights Nemotron Labs for Trusted and Customizable Open AI Models",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency",
+      "title": "NVIDIA Identifies Performance per Watt as Key Metric for AI Infrastructure Efficiency",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock",
+      "title": "AWS and Thrad.ai Showcase Multi-Agent System for Sales Automation",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility",
+      "title": "AWS Highlights AI as an Accessibility Tool for Neurodivergent Professionals",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "When your brain works differently, AI isn’t a luxury—it’s accessibility"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai",
+      "title": "Amazon SageMaker AI Studio Introduces UI for Generative AI Inference Recommendations",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw",
+      "title": "Anthropic Introduces Claude for Teachers Initiative",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Introducing Claude for Teachers - Anthropic"
+    },
+    {
+      "url": "status.openai.com//incidents/01KXHH1BJ9BS0FVE2MGEJ9FZ5M",
+      "title": "OpenAI Reports Resolution of ChatGPT Elevated Errors",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Elevated errors affecting ChatGPT"
+    },
+    {
+      "url": "status.claude.com/incidents/89rcltb8qg63",
+      "title": "Anthropic Resolves Partial Outage Affecting claude.ai Features",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Partial outage of claude.ai: container creation"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxOQUFKbVhBLXhGV0ZHQ1NFZWNkTTh4WkVjYV9CSXAyZ3lVaGdic0VBQ3E0Y1U5emdzMWVPLVg2Y1hIajNpMy1DeXhDR3JWZDBWdlNsWTdiWGVIX3RGRE4yRDhXMjZJMDBRY3BzLW5rMVhoN3JhcnVxVEJBaWNzT1VNNkI2bnE4VDBja1BrNHZqaGkxUWE2ZzdvTExNTFNjdXJLMFdIYkZMNm5GLWFIUnc",
+      "title": "US to Establish AI and Cybersecurity Coordination Group",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "US to launch AI and cybersecurity coordination group, White House says - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxPRTVXVVBfQ1dkTTQ2OURMUGJJTlNWTkFhNmNHZUV1d1o3U0FodEo3Wk43UkFXM2dZNEFSWjlwbnVHQ0RMOUVHVkZjOWFOSXZKVEJJRXRIRmhLeU1EUGM5NGotQW54QS1iU2dldUtEVEw1ZDlQVlBZNTN5VV9BZ1BGa0RTc21aZVZ4Q292Vml0UktqRmJ4NFR0Y0JDNHU4alFvTUxSeHZjb2g4bGRpWU55Yw",
+      "title": "White House Unveils AI Clearinghouse for Cybersecurity Risks",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "White House Unveils AI Clearinghouse for Cybersecurity Risks - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOVmpsdXhxUFM3ZUNpVXBHSW1hdGdCQ0NYWjR5THdESnM1aEhWZERZRTdkQy1zVjZURERVWEk0NlZWaDh1UUNnbWttQXNneXQ5aGx6T1JhY0FhU1hwSE5iOUNFbTQ3cUZtbnRWLWhrOVVEbTg3cUFXa1lUX0FjcnlLRWgtaw",
+      "title": "Google DeepMind Chief Calls for U.S.-Led Global AI Watchdog",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxOUlhieFpkR0hOQWczb08yTWZwbXg0RlBVVFA1LTJrSURrUy1hNU9fbVlVLWYtOWZPQVRnVU8tcVM3LWVxSmxXdnY0T1pnUUJ0LUdhekZxSWhmSkoyWkFLeENsTzFDeW42QS1QM2hLSmw5M3gyWXRDbk5HN1FXWVR2MEdfUkZWcy1nYnAzdlQ2NXpweGFaSVlZ0gGcAUFVX3lxTFA3QmRHTU92cHlMUmt1bVlTZmFtOEczOWdXeXM2VG04TEdidmxEYTk3b2ZJSmRzc1VucFFTVnNhY1R3VjFWbi12TXBVcjlGSDhSbFVaVm1wR01FaWpWekwwQXJ1Y1IwS01PRTBOXzlTYXFYdVVfeGUzSXQ0WFRjc3h6amItTGVEUUlwM3REWVp0VnNrekR4RHVYX0dIWg",
+      "title": "Google DeepMind Chief Urges U.S. to Lead AI Standards Body",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Google DeepMind chief Demis Hassabis calls for U.S. to spearhead AI standards body - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxOUDFVak52YUlOX0NHMEw2R0xfZGwwdDd3NkpLMUt3TFRJSzZ2dmNILWtIOFRHdDYyNlVCM1ZRSkpyU1FRYXNjY1RoTm1wdENyMkRXaUxlVTIzbVhXZm5wOVB4VWlzcG1BU3I1WTY2RnVLLVdwemdUN05tQ0NYUGVLUTM4S3FCRmRhY056ZlpNV0JoT0JSa2E4UDg1bEVBcS1xOVN6VzFqbE1iek0",
+      "title": "Commerce Official Signals Upcoming Regulatory Action on Chips and AI",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Regulatory action on chips, AI is coming, Commerce official says - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxNcW1aZUZXd0FEcWtmN3dJNnM0WGtsYV9mbWUwYUkzN3FfaW0zN1Z0MVBVek5sUnRCZTNFZjhyUmVuV0NwQnlLNGdOOVpqQjRQMEZiSDRrYXlmbzV2N1BDYXNMRGhwaE5uYk1fM3o2aFpYV2FUMnNSdlNvTm9YOXUzR1h4TXRONGwzZ19teUtWdWJ1RktlZkh0dG1LbndKRWd4UDBfWXVrQQ",
+      "title": "Lawyer Faces Rebukal for Repeated AI Misuse in Roc Nation Lawsuit",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Lawyer rebuked for misusing AI again in Roc Nation lawsuit - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPNks2ZmFOR3l0VmZPeFUtRTRYd2xDcFIxdktBcThUNmlzbTU1Vlk0all5M0RXY3JxRWdla2ZkYld3OS1uTEdrdnJ4cHM4dzhfd0NJVWs1VkZsMl9mclZsNlU3WkRPLWJDSG1wQ1BQV2tIX3RNWHNfMTZKNV94R0Y4SFJuelBZc3F4Y2tka2g0S241dTFuaGhMOTFpM3JQamZCMWxsQUxQblU2WkNhc1g1bGZVVlprSEpT",
+      "title": "Australia to Establish Government AI Office for Regulation Coordination",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "Australia to establish government AI office to coordinate regulation - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilgFBVV95cUxQMHF4UTRzS3FRUUlkS1Bzci0yRTRpMnl1Q3RaYjZPZHI1elFkRkFvZ2EtR3UxQnVzQWJhTW9Bem05N3U2U29TcS1wNW1FYm8ySTZPVm9jOVlTR09ldGJ6NlE5NFRDeThMM1NZdUdEd3dyRDFLWndoSXVSRkp5Sm9KZGJlbG9lVFhLYk1rMFJ2a0xvV0c0TVE",
+      "title": "New York Considers Temporary Ban on Large New Data Centers",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "New York Set to Temporarily Ban Large New Data Centers - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxORWJnZnZDeWFpVmRkSmpBZkxodDVPT3BiaXV0SmM0NHNnSDJMSjh4cm42bVBETFhfMFFBWE1vZEQzVVJWbVBJNEhiY01qNm0taGY4MXRnQ1FIejk0a3hvbFFUN29wM09LYVd0QjN1RV9na19kT092bURjQzdCTU5oRnh1VW9GcmV1Um5uTDlrLTFRcHhoUno2TGtLRkR3NEg1UlRyTHFBYjRTOTM2TC1kYjZEemNaQ05rdWJTTVR3",
+      "title": "OpenAI Researcher in Talks to Launch $2B AI Drug Discovery Startup",
+      "first_seen": "2026-07-15T04:32:01.642227+00:00",
+      "rss_title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - TechCrunch"
     }
   ]
 }
