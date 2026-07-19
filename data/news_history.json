@@ -1,123 +1,6 @@
 {
-  "updated": "2026-07-18T04:32:12.196000+00:00",
+  "updated": "2026-07-19T04:34:00.722675+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/deutsche-telekom",
-      "title": "Deutsche Telekom Accelerates AI Transformation in Telecommunications",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "How Deutsche Telekom is rewiring telecommunications with AI"
-    },
-    {
-      "url": "openai.com/index/bio-bug-bounty",
-      "title": "OpenAI Launches Bio Bug Bounty Program for GPT-5.5",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "GPT-5.5 Bio Bug Bounty"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1Eya0hSNGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg",
-      "title": "Meta AI Introduces Muse Spark 1.1 for Enhanced Generative Capabilities",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxQcUNnaGdhTk9ERkVwejlQZ1k3SFJmVGtWMHB2c1YzNUVfOXpXYkFRTk5SVEFaeE82M192b0JlQ1lUZWNRcVVhRngxVzNzai1LcGoySjZTa01hZ05ZM3pYVWRFZE4wYXY2MnRFZTZUczVxelZVRTktdWNlTWdLNEJJSXByVWxscWJOdXYzSUJST080Zw",
-      "title": "Meta's Stock Surges Amidst AI Model and Chip Advancements",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi3wFBVV95cUxPc0dQXzNtd1FiZl9pZWJNUkJTeTlrVXdNMm40NER3enVQa0huWHlHYXJGQkVzQm4zUW5KZ2MxSkUxLXE3dnlQUnFLSGZhLWdPSXNZZkdFN0diN0FvYTJKVkIxMlEzMXJGNFJLbVVpaS1lNHNrd1p5czI5VnRqRFNZSXh5NWNDeE9mSnB3WmlTZ243cWJHVmZMOWFfX1NXQ2RienAzcUZjRDlVTFpxOXZoTDFORVJlU29iX0lsdVVZRmZWSHFCR20zdlplc0hQZVd2Y1Zmd29vYjVHNzdEUnMw",
-      "title": "Meta's Instagram AI Image Tool Faces Privacy Scrutiny Over Data Usage",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "Meta AI image tool can use public Instagram posts unless users opt out - Scripps News"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMifEFVX3lxTE5rTEw5UmZtUmgyNUZmM1diSkFoRzc5cHd5eXlnTlpRaWlMT2RkVjBsR0ZGeC04TWxoZFlEcFdpUGQyc2oybFkwNHp3UV9LTURNY1BheHJfSWNiQXduWjBRclpQWGMyRi1sWVVscGlCNXJZWXEyR2RHTHNOclU",
-      "title": "OpenAI, Meta, and SpaceXAI Announce Major AI Model Releases",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "OpenAI, Meta and SpaceXAI push new AI models in a week of major releases - AOL.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi4AFBVV95cUxOX2FIRXpJb2pEcUI5TXJxdWZOd3Jtd2w5bUNDQUtBaE5ubmt6ZUhadk1zVjNQUWNuYmVmVElxd1VCX19iWnc2bC1VQlBxLWlRVkMtSU83Wl9jRkdVRUU4T2x4OVRZYmszXy1ESjAwR05VbmkzYXQ3OFJibEtWbHd0bnlfbW9PcWhfSHAxQWlKMm12dTdVbmdKZ203RURwakd5czNiWVlrWHpHaW90ak5vbk5DN2NFdC13bTVLYy1fb281aHpiTkJUb3h5djVJOFFtNlJIaTNqTjI0blFhVXNLRg",
-      "title": "Meta AI Unveils Muse Spark Model, Faces Privacy Concerns Amidst Chip Production",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "Meta Ramps Up AI Chip Production, Launches Muse Spark Model, and Faces Privacy Scrutiny Over Muse Image Feature - AI Insider"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization",
-      "title": "NVIDIA Nemotron 3 Models Fine-tuned on AWS SageMaker Serverless",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one",
-      "title": "Henry Schein One Deploys Real-Time Dental Image Verification with Amazon SageMaker AI",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "Real-time dental image verification with Amazon SageMaker AI at Henry Schein One"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore",
-      "title": "Semantic Layer for Agentic AI Built on AWS with Stardog and Amazon Bedrock AgentCore",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate",
-      "title": "Amazon Quick Automate Enhances Agentic Workflows with Native Case Management",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "Scaling agentic workflows with native case management in Amazon Quick Automate"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth",
-      "title": "Deploying Quantized Models on Amazon SageMaker with Unsloth Supported",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "Deploying quantized models on Amazon SageMaker AI with Unsloth"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod",
-      "title": "Optimized LLM Inference on SageMaker HyperPod with Disaggregated Prefill and Decode",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "Disaggregated prefill and decode for LLM inference on SageMaker HyperPod"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
-      "title": "GitHub Copilot Code Review Improved by Shifting to Shared Unix Tools",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "Better tools made Copilot code review worse. Here’s how we actually improved it."
-    },
-    {
-      "url": "github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner",
-      "title": "GitHub Establishes Durable Ownership for Over 14,000 Repositories",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "How GitHub gave every repository a durable owner"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMibEFVX3lxTE1hVTNmV3ExUXk0eGtBV2FYaXhpVEtqQ0pjWEJOSVJQdmUwdzRFc0pza05KSDVaYmJPLU9jRUtmc2VOVXBodnoybjNiTkpDaHNwWVVnMV9LRU9sc001RG4ydW9JV0QzbW5zWW8zag",
-      "title": "Anthropic Officially Launches Claude Sonnet 5",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "Anthropic finally, officially launches Claude Sonnet 5 - Mashable"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi3gFBVV95cUxNbkRucUFsZG5XeXdETktKelhpTl92SHpyZ01ySkFIMjlQRjZLMi1qdVZMVWpXbm1fWFp1a0hWdHFmNkQtX1RhTnVzOHU1ZkIxSlJOemQ5N2thVFhGOFU3dWphYUF5a2pzODBRdnBzYnJuRFFGOXRlNGRyRExCTl9vLUJkMFBfeVZFa01ZdW56TW11X0FHdVZLMjZmWUEtVkxiRUdoVUNiZDBGeGdUT19xNlVnaE1mMnNHREE0RzdrdkRXYkdLaFJOUUNoUVNyLWd4Q2dZMDBiTTR0WGp1bXc",
-      "title": "Anthropic Launches Usage Dashboard Amidst SpaceX Partnership Deepening",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "Anthropic Launches “Reflect” Usage Dashboard as Musk Praises Anthropic and Deepens SpaceX Compute Partnership - AI Insider"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxOT1dDaDZvb3JFU056YVY5NXBROUFrV1JGTTNhQ0hLOEkxNzhBUFNPLVg0UUl5eUxaUzdMdWxOZnBFQnB1ZlJwcWlhbElVdHQ0XzFyaVBiWC1JOGdURmZLZElzSFFQaFNiVU0wSExXRm1wV21yV0Q5YUtWSS1QaWVJRlVvaEFNVHJ2bkFiYXVYM0VMOTdrX0Q4VVd5THBtV0lyZDF4RXRCQQ",
-      "title": "Anthropic Launches AI Platform for Scientists, Eyes Drug Development",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxOc2ZnMGFOLWQ4Zzl4WkdEX3FXVXVGQzdSWjJwVkc4MXg5MXNGdDZmNXdybGRQVGc4R1k2em50YXlqZ0lzcXlzRGIya0JmUF92Z0ZCMk03dnlpVFEzc21uMXkzQW16a0lQaVhRVDlhc1pBRW5fd21NOU9EbHYyYTdzWWlhWU9FM0o4SV9pQnZaVWlFY3BUNFVERDQ0MG1rMWhWRmcxY0owYjdVbEtxbW5uWE4tVmt4d1BxQnc",
-      "title": "SpaceXAI Launches Grok 4.5, Emphasizes Cost-Effectiveness for Coding Tasks",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "SpaceXAI launches Grok 4.5, touts lower coding-task costs than AI rivals - InfoWorld"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiSEFVX3lxTE03WmVCQllCMGxNNmlvaVNVb1JzQ0o3M2NaeWdoam1heFhoeFh4ZGU3eU8xRVBtNWN1VzJURmJ4MGNkbm5qZHp6cw",
-      "title": "Elon Musk Hails SpaceXAI's Grok 4.5 as 'Opus-Class' Model",
-      "first_seen": "2026-07-11T04:32:06.224439+00:00",
-      "rss_title": "xAI Launches Grok 4.5, Elon Musk Calls It Opus-Class - SQ Magazine"
-    },
     {
       "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNcXZpYmZ2bzZHd2pmUTVhcXdfUW1UWXBub3hVWXNpWUUxY19TUVNyYWxyM29GTm55R1NndlNmbk5UU1NUS1lxYm5GRllTSFlGQnM3RWlRNDZuTTFJZmRiMEZ2bmtyWHZ0ZHpxcnBSdzB0NnNPbkVyM3VoTE5jMnM1YktXTFhTOVRwYkt3dVI1UnVlYkt2Z2pYTFVsamZRd2o5d0RwaXJjY21nU0k",
       "title": "Meta Launches AI Imaging Tool",
@@ -942,6 +825,118 @@
       "title": "Wider AI Availability Benefits China, Poses Challenges for OpenAI and Anthropic",
       "first_seen": "2026-07-18T04:32:12.196000+00:00",
       "rss_title": "AI’s Wider Availability Is Good for China, Not Great for OpenAI and Anthropic - WSJ"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards",
+      "title": "Amazon QuickSight Introduces Mobile Layout for Enhanced Dashboard Accessibility",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "Introducing Mobile Layout for Amazon Quick dashboards"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2xrUVVHMnBIdjBMclpDazJ4dEJPWDl4QzFnaThSdG44aWZMVXpjS0JvenVha2FrR0MtdkhjUWZpdWxwYUhuLVJzNzRGUHNneC1qdWdhOGNacXp3N0hpUXJjaG5QRkdWV2pHdTN4ejl2dC03YXlFeGxad2FYc3dlcDdXZGVTTlJ5SEFv",
+      "title": "Google Cloud Unveils Skill Registry for AI Model Management",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "Skill Registry overview - Google Cloud Documentation"
+    },
+    {
+      "url": "status.openai.com//incidents/01KXT44TAQQ2R0AZDDVSJGAC4H",
+      "title": "OpenAI's Codex Service Experiencing Outage, Now Resolved",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "Some users are unable to access Codex"
+    },
+    {
+      "url": "status.claude.com/incidents/lj0khk5vd7v7",
+      "title": "Anthropic's Sonnet 5 Model Suffers Temporary Elevated Error Rates",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "Elevated error rates for Sonnet 5"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxQRUJ2SUo3VXVSWEVNVlY0b3R1ME51bnZlazI5dFRzT2pGMVJhNWNXT053TS14Vk5NUVRnaU9Fb05DOUtmSUxBcnVHUGRZbDlYd19zOXlNUG8xNkFRT0RwV3J1ME0zS1lyX2NTUmE2VVhNRndRWEhBVUlMSk5WVUctNTByWE1MWFlpS0lqdVdHSmlSVTlaQmhTRV85YmRkcHIyZW1LdQ",
+      "title": "China's New AI Models Intensify Competition with Silicon Valley and Washington",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "China's new AI model is putting fresh pressure on Silicon Valley and Washington - Business Insider"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigAFBVV95cUxNSXNCa1F5OWZBSmxzMzlSblhsY24zVzAzQ3poZm85a3ZzM1VORXcyaF9FbEYtazE3UUhZQ2lwODR4OEE3YmtDVlN3a0dBSV96QVR0SXFwS1VIWFJlRTQ4S0sxUWpEODZNMlp1SzQ3d0FmR08wNWQzSXBTekg3SGp3d9IBhgFBVV95cUxPamJuZ0NySktUZl9VbjUtUUVFWFUwd3ZJZ3pnX2REclpHZ055SmV6cjNMS3h4ZWdGTF9qTnRPekdJZmdWVlZQZ0tTSVJGVzl2R0ZfSXRDUmx6WjNrR1BVa25fejVKejlpSmRxTzAtZFh4cXVfN2p2YjM3NTRxNkw4emxKeURLQQ",
+      "title": "White House Dictating Access to Frontier AI Models, Shifting Power from Tech Giants",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMie0FVX3lxTFB2UVdFZUVhVdBWAlhGY0h0aWRfaUU3V2hDSHJac0lsNzZVQ3d1QjNjTzk0ZUdYclNhdzJXc3ZXN2x5UEphN3hBSEttVGVJYjRDSDU0Q244RmsxZnNaakJKbmFkWi1XVzdtNlc0ZmZfRndBY3NwOU5USg",
+      "title": "David Sacks Warns of US Losing AI Race to China Following Model Breakthroughs",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxPMUVfTXRUaE1zQ3EybU92RTZoQlBNWEJmNFYtZDlneDNyZTVFX2dWUmJRTjF2SmdQTTNYOU0xWmpRaVFSRmRJU2N1N3hXNE4wSFQtSy1YaTZkbmw4Mkd1XzI1MkVJcTQ4bDNSZkQyZWNsV1htZHpRVUI2M0R4cmQ2Y1daaUFLSkhfSU9wZlU3SHdrRnRtZkd6QkV0YVVHVEsyVmFWNGFnU09oWDZTeHlBWi1kWTEyMVFTQUlHdW5mdHZGVHRwTDhj",
+      "title": "EU AI Act Deadline Approaches: Employers Urged to Prepare for Workplace AI Compliance",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "Workplace AI — how employers should prepare for the new EU AI Act deadline - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi1AFBVV95cUxQTzdGTU82UkNVNG42WVFWMUlhLXg0enFBSnA1TWFxT3loLXIyRnFtVWk1bk9TX092Vm1mV3NsRUhQNkNMM0FQOGtOcjVhRXNOUTFzOERtYUhfN3MyNWZIRnlIbURxalNIODZkTTlRcC1rTlR6TGFMUkZieGNiOVlRZ0VzZG1TVlhZVlo5TngwY0QxQnFPY2RwdmdNQmRYQlVRU3hWMGpxMVNrOGFSVTBkdEFZS1JCNDNhYl92UlJyNm0wX2pNRHp4cjh5bTBUa2h3amlidg",
+      "title": "US Judge Rules Against Blocking Meta Layoffs Amidst AI Discrimination Lawsuit",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "US judge won't block Meta from laying off workers who filed AI discrimination lawsuit - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxQRkowc3QtZ1pWX1JNa3Y1Q25uMk1xRGRUemxObDBhQ1lQRm1XVVFDWHhvZDdqZmJrZU9ZSkdZYXhkMkNtUl9GLVlkRVZQZWlCWktpOHFCNUZqUDlWZDluSDN1dmhhVkhsMlMxNHNxci1vQXZ0Vk1vWGQ1aWN4a3hSR2lpYmdPRi0xemdDSHJNQ2NuNmNOVmc2M25sV3RvRlpNLVJkYVp4M1M4X3E4LUVxRW14dw",
+      "title": "Indonesia's Copyright Law Revision Puts Google and AI Platforms on Notice",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "EXCLUSIVE: Indonesia's copyright rewrite puts Google, AI platforms on notice - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-18/moonshot-s-kimi-upends-conventional-wisdom-on-us-lead-over-china",
+      "title": "Moonshot's Kimi AI Challenges Conventional Wisdom on US Lead Over China",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "Moonshot’s Kimi Upends Conventional Wisdom on US Lead Over China"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era",
+      "title": "China Rethinks Smartphone Design for the AI Era with Integrated AI Services",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "China Joins Rush to Rethink the Smartphone for the AI Era"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOYWpKaU03eUwzV3NNb1FzVnM2VlJsYjZnODdYMGhFVzBTZ1lqeEktRFZyZXpqbzljTWpiTHp6ZEt1NTd1M09OZkRJV2Izd0lTYmFCY3Z4U3U4TDFWTDZDWHRFWWFha2o0VDVIQnFzUmRxSU1ZWWtETU1hZ1N6VmQ4UG94S0g",
+      "title": "Xi Jinping Articulates China's Ambition to Become a Global AI Leader",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "Xi Jinping sets out China’s goal to be global AI leader - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQaHVfTTYtWDJJeUZrUkxVX2I5WmtILTZKOGJTbGtrdkhxdS15Z1JPVnExQng2U1ZvVHdiZWJWMGF0dHJBcEVQVVpLbkRuR3Vib1ZocXU2azlzSFNXQW5qSTd6d1l4YTFsRTNQU0R2dUg5czFRQmEtT0E2ZnpRUG45VTBYbnM",
+      "title": "Apple Sends Legal Letters to Dozens of OpenAI Employees Amid Talent Acquisition Scrutiny",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "Apple targets dozens of OpenAI employees with legal letters - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxORjd5MTJmSFZmLU5FUmR1dDM1SUdRNVkzeFlZYXhIUXZLZHdMWDA3NFFjWDBfcXIwZnVpNllpbzd3VjE3T1ZBRHI3cHItM2tId0FNcE9mN3BkNTBCT3ZCNFFuNVFNX2lXTS1rcko0VHZwbmk0N2VRODZEMFpVanBkUC1GNFBtOTh4SGNEdTVqMUlmSmc1YkRnVkEtTG9DOE9hUUNB",
+      "title": "SpaceX in Discussions to Provide Computing Power for Pentagon's AI Initiatives",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "Exclusive | SpaceX in Talks to Provide Computing Power for Pentagon’s AI Push - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMingFBVV95cUxNX0JEZ2x1UUF4UHEzUVJYS1loOFM2RzVjazlLdDd4OVdpV3pEdmxyV2ZrZGFKcWJnTU5XNnBJQ1Z4OW43dF96T0pGR3p1bHppdlhGaGd5dVM3RTA1MmllQ1BDMlEydlJBMW1aTG5Ja01EY0J3NzQ1Xy1HekkzZnNELWluVVpUcnZEM0RDWHhjS3paUWtJV0dDMl94TV9ydw",
+      "title": "Chinese AI Models Disrupt US Stock Market, Highlighting Competitive Advancements",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "What to Know About the Chinese AI Models Rattling U.S. Stocks - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxQeXE5NEZpZ3RrVVd3X3pkNVBrNnh5Tkw5LUhVZC1ReW9tSllHQ19MRDFFVmRlNVIxLU5nQU1Sb1JwM3RuY2VENHNyR2twOWlEN1AxamY2aTJaa1QzbHlsX2x0SXNRV2MwM1IzSjBZd29aWlYzcFFfS0FPOHNuNzhCYmRGNzd0LXRUdGtCcE5NQVlaX0ZGdnJfTjloOS14UVHULTYwMg",
+      "title": "China's Xi Jinping Promotes Open-Source AI and Criticizes US Dominance",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxOcVNJNC1WR1VUN20tQWdWVHhXNU9DSUR4U2N2ZndVMDlGSEl4SW9HQkIyaTgyRFZWZHlGeWVZaE1nY250SkpPTGw1YmxlWFhDeDZ4WWQ4VHpQcHdVQ2JmM1E3QzZuZmwtTWhHV3hDYXc3MnVHcEhYQkpxX3lIRF94ZGZDWTFTRmcyRnFqamkyMWI4WDFaRVV1YWJITW15RXJL",
+      "title": "China's Moonshot AI Releases New Model to Compete with Top US Systems",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "China’s Moonshot AI Releases Model to Challenge Top U.S. Systems - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxQbVg2TzUxNl9pbW91dTA4UThIMmNkVHYxclhhQ3BmaDRCYk5EZnNqSXhkRGlxNFVoekZTSHJ4YUJRNUJreHZDOHZhYWhuZ2V5VzFYUzJycmJ5QXJDd2tWV25HR01JcHhNZWVnUndxWko0a3ZFOGlCOVY5RHlITGpyT1RoMi1BRmF3aWdJRC1YTmJJSUhHWF9wTVVMaks",
+      "title": "AI Chip Startup Etched Nears $20 Billion Valuation Amidst High Demand",
+      "first_seen": "2026-07-19T04:34:00.722675+00:00",
+      "rss_title": "Exclusive | AI Chip Startup Etched Is in Talks for $20 Billion Valuation - WSJ"
     }
   ]
 }
