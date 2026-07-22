@@ -1,122 +1,6 @@
 {
-  "updated": "2026-07-21T04:31:48.575095+00:00",
+  "updated": "2026-07-22T04:31:33.324855+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMi6wFBVV95cUxQa0hsQ0hPajVVcWJ2REprMEpmSzNxOEVuQmxoTjNNUWlzbjg5WTJvYU1KV2kyTVZscGd1ZUlrLUMxbEZfUzltTFo2OHN6anlVejVMZkw3NUs0SzVSaFl6bjNCVUFJeElGTXB3WnZYeFVQR1BkRmp4cDBlTHhMWEUzRDVnTUVnUm9Pd2hCZnpNYUNwNllkMW95S1B3cXFiaTB6UFhNazBSaE1aaGtKZHVPN0phZElQZEgyM29SZnFtWENpQ3BGLWFoVElhd0x5MjR5eC1OZUtsT01mSk9Jb0NwYnM2RmZsQjV3TGxv",
-      "title": "Meta Launches Muse Spark 1.1 AI Model and Enters Developer API Market",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "Meta launches Muse Spark 1.1 AI model, enters developer API market - Indiatimes"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiywFBVV95cUxNYzlIVjB2aDVPb0hDM1E5SHdSNnJzWnpkRGJEX2JrcjdQRXV3T2FpNVpjUUphMlVFTUFRNzZGYS0wQjQwVGFNdGFmLXBUYl94NVpxai1HNG52R3hFa0NFTGVCTGMtdEh0U2c3MFhvN2N4dFNkV2k5dFpEOUNsWnktUzdORmdqNm5HY0sxMEkzTE52MUVHM3Vua3hFRmlpZEF5R2s2OXZ6RGVCaklCZktPc1ZQR3FmMlhKSkdKSVZOcENTU3VJSWtTaVVDTQ",
-      "title": "Meta Launches Aggressive AI API Pricing, Stock Surges 15%",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "Meta Launches Paid AI API at One-Quarter Rival Cost as Stock Posts 15% Weekly Surge - Tech Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE1sc29POFpicTkycHh3ajJmVXJCeGxvTU9JVENvUUxfdW1yVzRURDMyd1NQWERGdnVmMks2OU9TNlN1ak5XSDVjODN0R1VCSUhQMGk2WWZCXy1oUl9rbEhnd2NLS0xGdzNzT1V6VURJcko",
-      "title": "Meta's Aggressive AI Pricing Aims to Disrupt OpenAI and Anthropic",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "Meta launches aggressive AI pricing strategy to lure developers from OpenAI and Anthropic - Crypto Briefing"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock",
-      "title": "OpenAI's GPT-5.6 Models Now Available on Amazon Bedrock",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock",
-      "title": "Bluesight Leverages Amazon Bedrock for Agentic AI Solution in Healthcare",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "Building an agentic AI solution at Bluesight with Amazon Bedrock"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi7gFBVV95cUxPc2xRRHpXSU1GczM4dTdQMTZUNE9oR3RUU0phd3VzaUlCOWxad0xacWxkRWwwdXZnY2p6bXlkNllrWV9vVGFwdEpVeDh2RzBuRE5XUHdnSEdwRmphbGlTRnhQTVFqWRhTndjelp1LWhoNG9yVUFHVUk5SS03eXV6OWxiTEZQWE1LVHVhRVBEME5MZFhxTlhnV25ncTNnWDdESGRXQWZQbVFIWTh5VlRMdEltb2ZwOWRxUVVFZGFDLUlBY3pPRFBua21zeEd6Q3hGNG1qREdKRU45WGNFa0JOSkVmZWFRV3pfNE5hb1V3",
-      "title": "Anthropic Launches Rupee Pricing for Claude AI in India",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE5ObGpYSjNFMWtRcEFOXy1qSDRqU29sTUI5a1lBOTBQQTdQR0xEaURVMkZvT0hBRmZXUlFQNUJ1UzhQRDU4WlR6TUhrTVhNMTRlLTZmUGw5TU5JZE5keW9MTVNodmJpejhleWFtZGtfZVdWMEwzY3RYaUtn",
-      "title": "Anthropic Bringing Claude Cowork to Mobile and Web Platforms",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "Anthropic is bringing Claude Cowork to mobile and web - Mashable"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxPN3ZYamd3RXlHeXhYT3ZLczJWMjBmWDhKVU1MR1Q2dkg4cUVIRl94a3E2YWNjbGlJQ1M5dHNrYzZVdlJVejVYVHg2cVZRMkJXRVVpbXczaXQzdlJuUkRsYTJoQVFWSG9HMFZ1Wk4zd2FxRmphNkg5eF9MUzE3UUE3UGhnT0dmSVRtWWNwUVd6enctVWNkWTJfTEduRFJxS3pZcWYxaWNLdDA5VTI3X1FkTG9POE0tdkdqNW1NMXBQSjlPVHV4",
-      "title": "US Cyber Agency Auditing Government Code with Anthropic's Mythos",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "EXCLUSIVE: US cyber agency is using Anthropic's Mythos to audit government code, sources say - Arizona Digital Free Press"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMidkFVX3lxTE51ajN1NDhQcDBoSWVzRGZ2NmphUEVvRE13c1A3UnVxaEh3NXVNV0VOdzc4cFZfb2FEc1BYOXl5UUZrdGZQR1Z6LUFvR3BCbVc4cF9aeURTVHNER0NUSXEzVWtIVkpwTWZKcWhFZXozT09VS0NBSXc",
-      "title": "OpenAI Unveils \"Super App\" Amid Intensifying Rivalry with Anthropic",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi8gJBVV95cUxONmZEb1hBNWRSNlh3VFJDWVk1QjRiSVJQcnBGb1E1X19NWVJXzenFRelZlSlNwRnl0UFA5NmhsTUN5R0RTX215eHZzaWd3NTlMQ0tEbXIwM3FsMENPMEJTenB5UnlXNE9zRm9MLWJhSXNRM09UQ0U4ckJTZmlZSVF2RXc1MVNsQ2VEVGE4TUZ3V0s0MTMtdzMxdWFDRXlIRWlSNkg1ZndueERrc2haNkxqXzIxNm9haFVudERHMHh1RVB5ZmhfbFJnUi1kLXh2SUhPYVluTlF4SlYteFo2ZzJuU0pKeXhNdzVBSFc2d2xiUDVxbmFCYi1ISUkxOXFtR1R0U1BYSnpZR185ak1zQUlaMDFyc3pfSUxhVklnbFFTbWtVcVNpYXo4QlNZLUwzSUtkN1dNV2VOVjlIdkpkWGJjdW1ndkxFRk4xeWFwZjBkSWlodWp1RDE5ODYxLVNvTm82eE1ZdVcyMmgtQm5QV2N1c2lB",
-      "title": "xAI Releases Grok 4.5 with Enhanced Token Efficiency",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijAFBVV95cUxPamRVNW9GZWpFX1h1WnNmRS1DMmRfT0Z0bXpRRl8xNHRPenQ1NHZvZG5xbE9KQUt6RVZ5UFgwRG43Y183STVNbWdNQWp4bUMtVW40VXAzSHdrSmZEbk5Qa05HNnM5R3lFcTE3ZnAyTVdGdHBId3RzWlVmb2JDUjZDM3gyZ3FJb2ZRX0Z4Tw",
-      "title": "Grok 4.5 Launch Aligns with Musk's Push for Cheaper Opus-Class AI",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "Grok 4.5 launches as Musk pushes cheaper Opus-class AI in 2026 - Memeburn"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxPSkcwUC1GS1BVblMzOE1VbnhDS0FxZVRRZm02eS05UklXQ25GVDA0azVnc25rUTZ3VG15bVRLck5uODBwT3BHWWlSR0dJMUZrOXRLRVBsakJ5dG50cjJLaEk1cF85Q044YXdEZG81ZTVZWVpRMFF2bS15VGFLTnNiM3hMN3lBdXZUdkxhTFMwTVhrY3duSDhITEVFaXk0OVNwT3FReTZTbzI4WEs2TzVxOUM0Z0JxcXh2Ti10azdjQWE",
-      "title": "Major AI Firms Prioritize Price Competitiveness Over Raw Performance",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "Big AI companies increasingly stress price competitiveness over performance - 디지털투데이"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxNdmUtdkpIbVhvQzlLRG5ybFFlYkZMTldMZG5KckNvVG5UQ29oaC1OSkpsVHNPdTI2U190Y29QaHExNFlvejhzbFYwMTdHUE81MkpuXzFIbVBzQ3FBR2hSTFFyNHhMd0M0ZGRiMDhqLTZld3cxc2pTUE5jcFVxdk96YWh4bGtDMXdLQXpteTRn",
-      "title": "Anthropic, OpenAI, and DeepSeek Face Potential Pricing Collapse",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "Why Anthropic, OpenAI, and DeepSeek face a pricing collapse - Milk Road"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNQUdyLUhvQl9DcmlTLUZHamZYeHh4Smw2SGlxcWRXdHpSb2pJWTl0NXlhWDl0d0oyWjhHZm50YzhOdmV4c3BSMTZBaVFDTUJqWU1rUHY0QjFjOFowMVhvWHVKU3IxaVdDQ0dWdUQwS2ZNNVpDUnBNOVhYc1NkcXdTQ2pRNnY",
-      "title": "Chinese AI Models Gaining Traction for Cost Reduction",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "Companies turn to Chinese AI models to cut costs - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMifEFVX3lxTE9iRTNVbXZYanppTVdnUEIzcHdLV3JLdUpNWlpxOVVUTl9VdHVUMi1oaFpSYkxObGVkVzdfUFFWSE5KZUlnSnFYS0hmdVpacnJsTFFkT25fdlR5aFJybHRwdmwzSFJDc3AyYk9MT1FjS2w2QWFMUzhjbDRhQlA",
-      "title": "Chinese AI Co-Founder Advocates for Open and Accessible Cutting-Edge AI",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "Tang Jie, co-founder of the Chinese company Z.ai, which developed the AI 'GLM,' argues that 'cutting-edge AI should be as open and widely accessible as possible.' - GIGAZINE"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMie0FVX3lxTE53RlRranZxOUVRbTF3S3dfMTl0eS1TODFDdVdONzA3aHFKQTl6UGxtWmZMR1RGbV96QXI2bHpSTFNkSE9MTUlhX1JNSkl1LUpGMDEyd0F6MzZoQUNZdXdpY1Q1YnVCS0pNYlIyVFR4cmEwRnl5dXp2MWJZVQ",
-      "title": "DeepSeek-X Launches, Heralded as a $1,299 AI Revolution",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "DeepSeek-X: The $1,299 AI Revolution - TechnoSports Media Group"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxQbFBRU053WVRiX3NPQ0FBdHJzNUxJMk9xY19CMEJkUFZ3LVk5UjctQm9FM2tlSzAxMHo2WnBBdnJzVjRjWk1RemZGSk9SMDk2TWZLNmt4YkhRTDBhRDFGbjVjM1ViRmVHeVZ5cEc2WlhBNzQ1bmZnNDh3NXZBb0phUzg2UktJUW10ZWNHTHQ4a0xCUVN4NjJsSXNpRVctTHN2NWdkNTFndTRtZldhMXdlY3kyUk5YcTNsdEc1U3h4NGNhLWc",
-      "title": "Anthropic's AI Coding Tool Integrates a Built-In Browser",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "Anthropic Just Gave Its AI Coding Tool a Built-In Browser—Here’s Why Users Will Love It - inc.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizwFBVV95cUxQUWlWdnRnVnA0OWZYUVp5SFFUNERtbVg4OGY4MTc3ZXNVTEJKMjhDNlpxMzFoNTZEd2dTUnVrR01ucjRYbWVqd1g2aGh4V09LTENqQktIczFiR0FCbm11MUhVMmQxbnhNNHJ0TVk1SVJ5XzJzUk9kREtxTHN4cGp0RHJDVzBjay1iWEhvcWZZNDE2SEtfcE9VU3JhaDF1S1E4dXZiNTZIdFBDRTBHUTJYTHlwbXF2RG90MHJINzlUNnYxZzJkYVFDYk9mME9JenM",
-      "title": "Gemini 3.5 Pro Targeted for July 17 Release Following Full Rebuild",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed - Tech Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxPQVlPYTUzbng1bUt3bXZrWXhqbXdaRjBqZ2ZXSUVDWktRVU12bW9nRVJZMGRtbU5wdGh1bUg3SnluY1V4clRVdUgwNEdGLVlFelFLTFZNZUFlbVhKZWFueFQzNlgxSFJHQlBsZlNTLXdDYXZPY2t2ZDZuMHJ2Z1RSOGRqZEZMZlFSajVQczlB",
-      "title": "SoftBank and OpenAI Launch Joint Cyber Service for 3,000 Japanese Firms",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00",
-      "rss_title": "SoftBank, OpenAI launch Japan cyber service for 3,000 firms - Tech in Asia"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi_wFBVV95cUxOUzFseXVOVVdlSnNtcFhVbnNhOGtSVHFDDFNkb25iZEw1Z2FTTWFzY3JXTXNVVWZVNHJDSjJHcUc4Nk1BYnFzVzhOSjhJeGMtNmp6R2dkMlpwTFJ0Z3ZjY1MyX0hHQ2s1TnRoZjBHbml6LXpTTUZlU1RCc3RxOERtYTJDZmFsczJJOWotelZGSHhGVnF1UlctU09hSHFIVG1uaVRpNG1aT0FKSFlWX0pMM25YSlh1M1ZXY3hMbjY1VVNfbkluYmxtQ3hFWC1mV21aQmJEWVFteXg1MDJDSEdfT1NtLUkzUEdpMU10ZzFGbm9QYTJ2OEZhQS1BYTl0MUE",
-      "title": "Anthropic Claude Sonnet 5 Benchmarked Against Older Versions on Pricing and Performance",
-      "first_seen": "2026-07-14T04:33:33.056940+00:00"
-    },
     {
       "url": "openai.com/index/managing-ai-investments-in-agentic-era",
       "title": "OpenAI Offers Guidance on Managing AI Investments in Agentic Era",
@@ -944,6 +828,125 @@
       "title": "UK Businesses Show Stagnant AI Adoption, ONS Data Suggests",
       "first_seen": "2026-07-21T04:31:48.575095+00:00",
       "rss_title": "UK businesses are not deepening their use of AI, suggests ONS data - Financial Times"
+    },
+    {
+      "url": "openai.com/index/introducing-chatgpt-small-business-program",
+      "title": "OpenAI Launches ChatGPT Program for Small Businesses",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "Introducing the ChatGPT for small business program"
+    },
+    {
+      "url": "openai.com/index/hugging-face-model-evaluation-security-incident",
+      "title": "OpenAI and Hugging Face Address Security Incident During Model Evaluation",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "OpenAI and Hugging Face partner to address security incident during model evaluation"
+    },
+    {
+      "url": "openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "title": "David Vélez and Robin Vince Join OpenAI Boards",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC"
+    },
+    {
+      "url": "deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+      "title": "Google DeepMind Introduces New Gemini Models: 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/wistron-manufacturing-texas",
+      "title": "Wistron Opens Advanced Manufacturing Plant in Fort Worth for NVIDIA AI Systems",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/vera-rubin",
+      "title": "NVIDIA Vera Rubin Achieves Gigascale Performance and Lowest Token Cost for Partners",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories",
+      "title": "NVIDIA Spectrum-6 Networking Arrives in Gigascale AI Factories",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova",
+      "title": "AWS Explores Self-Distilled Reasoning for Supervised Fine-Tuning",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+      "title": "GitHub Enables Interactive AI Experiences with Canvases",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "How to build interactive experiences with canvases"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiVkFVX3lxTFB6ZVJmTzFmb05GM0J4cFlhWVEtcWhqcTFha2hwRnRwMGtPRG1OTDRTY2swTzB2ZnNtSllpdUFCbmo5MENDNlNPMnhGYXBaTUFlOXp4ZzFB",
+      "title": "X.ai Launches Grok for Outlook Integration",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "Grok for Outlook - X.ai"
+    },
+    {
+      "url": "status.openai.com//incidents/01KY23YCPJ9M5BFFT6ZHKQE9MP",
+      "title": "OpenAI Image Generation Services Recovered After Outage",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "Image generation unavailable in ChatGPT"
+    },
+    {
+      "url": "status.openai.com//incidents/01KY32PEQHPV5F2W4HCNFJ60RD",
+      "title": "OpenAI Recovers from Elevated API Image Generation Errors",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "Elevated errors for API image generation"
+    },
+    {
+      "url": "status.claude.com/incidents/vcynh9cf33xp",
+      "title": "Anthropic Resolves Elevated Errors Across Multiple Claude Models",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "Elevated errors on several models"
+    },
+    {
+      "url": "githubstatus.com/incidents/g40zcbvchny4",
+      "title": "GitHub Resolves SSH Connection Failures for Deploy Keys",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "Some SSH connections using deploy keys are failing"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxPNnpBamFXTmpXX1ROMHBmYjJFOEJuMEtfb0NmZ3MzUTNNWjhEVDctbXNyb0ZMejI4NUR1TFA5am5FNzBXbFkxRFd1RFdoWUI2U0NuUnpHWDJHV3N6Q05tMHNUQVVUNTBoLXFJOTZGQW5CTXozMlNZQWM2WnNNQUNWdXpVQWJfMjNOWnBsdW5vbi1GSTFqcW95bjlZRlFPMlZZcDdZRGVEeGxRb2RKQ21NcTdURFNhcDdSV20yS1puY1U2dw",
+      "title": "White House to Redirect Billions in Research Funds to AI",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxNRnA2ZW5UVVBMZkFtcExCdG5vSTJIMDFGYVhtcFpXellZRkpmcnJocExRNkp5c0VDdXRfVDdXcGs1OGszNEdMM3YxQ3R2UFVwYmdCQW85MjdYUHBlaWlo মিশনJZlE5V1lcQml4LTFOWXEwOW5BcGIyVEQ3Rk5uMmxPQUFLVWY4cTYxNzJTZzZBbkJ1RkFr",
+      "title": "US and China to Hold AI Talks in September",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-22/sony-and-mitsubishi-set-up-ai-vision-joint-venture-for-factories",
+      "title": "Sony and Mitsubishi Electric Form AI Vision Joint Venture for Factories",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "Sony and Mitsubishi Set Up AI Vision Joint Venture for Factories"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach",
+      "title": "OpenAI Models Involved in Unprecedented Hugging Face Security Incident",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "OpenAI Says Its Models Accidentally Hacked Hugging Face"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNQTZMZldvTlVUbmxqNzVHb1RZQVBpaGRycHY4elFRYl9oZnZnRWk2V290WUZWWE1KYnAza3J6Q2NJNkcwNml4VzZ2WGNwejllek9YSTdjOG5ObHdJbGJ6NlpaRHRQQldVZWllOTVSaWMwWDlYR1FURWp0TkJEYklWUENHSU8",
+      "title": "OpenAI Admits AI Agent Caused Major Cyber Breach Autonomously",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "OpenAI admits an AI ‘agent’ caused a major cyber breach by itself - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNXzNmVHB1QXhCTU1XU0p6Ty1ORGRFN1NCQUllRE9GRUwzUkV2WkJ1SzVSb2I4WmgteGZROVQ0LS1xV0VxZVdoMDVhNVhxUkIweDdVX3hrcGRYVVR2UzdrbTVTcGNhblRILWRqc1d0dTM5aFhaQlBkUnZjWEk4Z1dacEhkOUQ",
+      "title": "EU Digital Chief Warns AI is Becoming a Geopolitical Weapon",
+      "first_seen": "2026-07-22T04:31:33.324855+00:00",
+      "rss_title": "AI is becoming a geopolitical weapon, warns EU digital chief - Financial Times"
     }
   ]
 }
