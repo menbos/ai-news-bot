@@ -1,126 +1,6 @@
 {
-  "updated": "2026-07-22T04:31:33.324855+00:00",
+  "updated": "2026-07-23T04:31:34.481730+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/managing-ai-investments-in-agentic-era",
-      "title": "OpenAI Offers Guidance on Managing AI Investments in Agentic Era",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "How to manage AI investments in the agentic era"
-    },
-    {
-      "url": "blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-      "title": "Google Celebrates 25 Years of Visual Search Innovation",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Celebrating 25 years of visual search innovation"
-    },
-    {
-      "url": "deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-      "title": "Google DeepMind Launches Gemini-Powered AI Tool for Indian Educators",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Empowering India’s next generation of innovators with ATL Saathi"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize",
-      "title": "NVIDIA Highlights Nemotron Labs for Trusted and Customizable Open AI Models",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency",
-      "title": "NVIDIA Identifies Performance per Watt as Key Metric for AI Infrastructure Efficiency",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock",
-      "title": "AWS and Thrad.ai Showcase Multi-Agent System for Sales Automation",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility",
-      "title": "AWS Highlights AI as an Accessibility Tool for Neurodivergent Professionals",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "When your brain works differently, AI isn’t a luxury—it’s accessibility"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai",
-      "title": "Amazon SageMaker AI Studio Introduces UI for Generative AI Inference Recommendations",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw",
-      "title": "Anthropic Introduces Claude for Teachers Initiative",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Introducing Claude for Teachers - Anthropic"
-    },
-    {
-      "url": "status.openai.com//incidents/01KXHH1BJ9BS0FVE2MGEJ9FZ5M",
-      "title": "OpenAI Reports Resolution of ChatGPT Elevated Errors",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Elevated errors affecting ChatGPT"
-    },
-    {
-      "url": "status.claude.com/incidents/89rcltb8qg63",
-      "title": "Anthropic Resolves Partial Outage Affecting claude.ai Features",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Partial outage of claude.ai: container creation"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxOQUFKbVhBLXhGV0ZHQ1NFZWNkTTh4WkVjYV9CSXAyZ3lVaGdic0VBQ3E0Y1U5emdzMWVPLVg2Y1hIajNpMy1DeXhDR3JWZDBWdlNsWTdiWGVIX3RGRE4yRDhXMjZJMDBRY3BzLW5rMVhoN3JhcnVxVEJBaWNzT1VNNkI2bnE4VDBja1BrNHZqaGkxUWE2ZzdvTExNTFNjdXJLMFdIYkZMNm5GLWFIUnc",
-      "title": "US to Establish AI and Cybersecurity Coordination Group",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "US to launch AI and cybersecurity coordination group, White House says - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxPRTVXVVBfQ1dkTTQ2OURMUGJJTlNWTkFhNmNHZUV1d1o3U0FodEo3Wk43UkFXM2dZNEFSWjlwbnVHQ0RMOUVHVkZjOWFOSXZKVEJJRXRIRmhLeU1EUGM5NGotQW54QS1iU2dldUtEVEw1ZDlQVlBZNTN5VV9BZ1BGa0RTc21aZVZ4Q292Vml0UktqRmJ4NFR0Y0JDNHU4alFvTUxSeHZjb2g4bGRpWU55Yw",
-      "title": "White House Unveils AI Clearinghouse for Cybersecurity Risks",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "White House Unveils AI Clearinghouse for Cybersecurity Risks - Bloomberg.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOVmpsdXhxUFM3ZUNpVXBHSW1hdGdCQ0NYWjR5THdESnM1aEhWZERZRTdkQy1zVjZURERVWEk0NlZWaDh1UUNnbWttQXNneXQ5aGx6T1JhY0FhU1hwSE5iOUNFbTQ3cUZtbnRWLWhrOVVEbTg3cUFXa1lUX0FjcnlLRWgtaw",
-      "title": "Google DeepMind Chief Calls for U.S.-Led Global AI Watchdog",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxOUlhieFpkR0hOQWczb08yTWZwbXg0RlBVVFA1LTJrSURrUy1hNU9fbVlVLWYtOWZPQVRnVU8tcVM3LWVxSmxXdnY0T1pnUUJ0LUdhekZxSWhmSkoyWkFLeENsTzFDeW42QS1QM2hLSmw5M3gyWXRDbk5HN1FXWVR2MEdfUkZWcy1nYnAzdlQ2NXpweGFaSVlZ0gGcAUFVX3lxTFA3QmRHTU92cHlMUmt1bVlTZmFtOEczOWdXeXM2VG04TEdidmxEYTk3b2ZJSmRzc1VucFFTVnNhY1R3VjFWbi12TXBVcjlGSDhSbFVaVm1wR01FaWpWekwwQXJ1Y1IwS01PRTBOXzlTYXFYdVVfeGUzSXQ0WFRjc3h6amItTGVEUUlwM3REWVp0VnNrekR4RHVYX0dIWg",
-      "title": "Google DeepMind Chief Urges U.S. to Lead AI Standards Body",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Google DeepMind chief Demis Hassabis calls for U.S. to spearhead AI standards body - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxOUDFVak52YUlOX0NHMEw2R0xfZGwwdDd3NkpLMUt3TFRJSzZ2dmNILWtIOFRHdDYyNlVCM1ZRSkpyU1FRYXNjY1RoTm1wdENyMkRXaUxlVTIzbVhXZm5wOVB4VWlzcG1BU3I1WTY2RnVLLVdwemdUN05tQ0NYUGVLUTM4S3FCRmRhY056ZlpNV0JoT0JSa2E4UDg1bEVBcS1xOVN6VzFqbE1iek0",
-      "title": "Commerce Official Signals Upcoming Regulatory Action on Chips and AI",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Regulatory action on chips, AI is coming, Commerce official says - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxNcW1aZUZXd0FEcWtmN3dJNnM0WGtsYV9mbWUwYUkzN3FfaW0zN1Z0MVBVek5sUnRCZTNFZjhyUmVuV0NwQnlLNGdOOVpqQjRQMEZiSDRrYXlmbzV2N1BDYXNMRGhwaE5uYk1fM3o2aFpYV2FUMnNSdlNvTm9YOXUzR1h4TXRONGwzZ19teUtWdWJ1RktlZkh0dG1LbndKRWd4UDBfWXVrQQ",
-      "title": "Lawyer Faces Rebukal for Repeated AI Misuse in Roc Nation Lawsuit",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Lawyer rebuked for misusing AI again in Roc Nation lawsuit - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPNks2ZmFOR3l0VmZPeFUtRTRYd2xDcFIxdktBcThUNmlzbTU1Vlk0all5M0RXY3JxRWdla2ZkYld3OS1uTEdrdnJ4cHM4dzhfd0NJVWs1VkZsMl9mclZsNlU3WkRPLWJDSG1wQ1BQV2tIX3RNWHNfMTZKNV94R0Y4SFJuelBZc3F4Y2tka2g0S241dTFuaGhMOTFpM3JQamZCMWxsQUxQblU2WkNhc1g1bGZVVlprSEpT",
-      "title": "Australia to Establish Government AI Office for Regulation Coordination",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "Australia to establish government AI office to coordinate regulation - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilgFBVV95cUxQMHF4UTRzS3FRUUlkS1Bzci0yRTRpMnl1Q3RaYjZPZHI1elFkRkFvZ2EtR3UxQnVzQWJhTW9Bem05N3U2U29TcS1wNW1FYm8ySTZPVm9jOVlTR09ldGJ6NlE5NFRDeThMM1NZdUdEd3dyRDFLWndoSXVSRkp5Sm9KZGJlbG9lVFhLYk1rMFJ2a0xvV0c0TVE",
-      "title": "New York Considers Temporary Ban on Large New Data Centers",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "New York Set to Temporarily Ban Large New Data Centers - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxORWJnZnZDeWFpVmRkSmpBZkxodDVPT3BiaXV0SmM0NHNnSDJMSjh4cm42bVBETFhfMFFBWE1vZEQzVVJWbVBJNEhiY01qNm0taGY4MXRnQ1FIejk0a3hvbFFUN29wM09LYVd0QjN1RV9na19kT092bURjQzdCTU5oRnh1VW9GcmV1Um5uTDlrLTFRcHhoUno2TGtLRkR3NEg1UlRyTHFBYjRTOTM2TC1kYjZEemNaQ05rdWJTTVR3",
-      "title": "OpenAI Researcher in Talks to Launch $2B AI Drug Discovery Startup",
-      "first_seen": "2026-07-15T04:32:01.642227+00:00",
-      "rss_title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - TechCrunch"
-    },
     {
       "url": "openai.com/index/advancing-ai-safety-through-state-and-federal-action",
       "title": "US Advances AI Safety Through Federal and State Collaboration",
@@ -947,6 +827,125 @@
       "title": "EU Digital Chief Warns AI is Becoming a Geopolitical Weapon",
       "first_seen": "2026-07-22T04:31:33.324855+00:00",
       "rss_title": "AI is becoming a geopolitical weapon, warns EU digital chief - Financial Times"
+    },
+    {
+      "url": "openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "title": "OpenAI Commits to Community Investment with New Georgia Data Center",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "Building AI infrastructure with the Effingham County community"
+    },
+    {
+      "url": "openai.com/index/introducing-openai-presence",
+      "title": "OpenAI Launches Presence, an Enterprise AI Agent Platform",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "Introducing OpenAI Presence"
+    },
+    {
+      "url": "openai.com/index/ntt-data",
+      "title": "NTT DATA Group Achieves Significant Efficiency Gains with OpenAI Tools",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer",
+      "title": "Naval Postgraduate School Powers Up World-Class NVIDIA AI Supercomputer",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/medical-physics-simulation-open-source",
+      "title": "NVIDIA Releases Open-Source GPU-Accelerated Medical Physics Simulation Framework",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock",
+      "title": "monday.com Achieves High-Scale Production AI Agent Deployment on Amazon Bedrock",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "title": "GitHub Clarifies Copilot Pricing Against Raw API Access",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "Copilot vs. raw API access: What are you actually paying for?"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi2wFBVV95cUxNc3RmelZiS2dTRGtvUGtBbkxmZThsbHBheWUwU2twX042RWtiMkdDOHhjRnl4UHpHX3BWaWdkOVJiZVZrVU9XV29Ed3JsTDJpTmMzc1BLUno4dEJQSmNWQTdyQUVOSnZKWGUxMnZ6YWt5TzhnY1RmUlVwTUt0TWJWV0FLTFgxYkdGenZkQUhyWEk1SVhta3hUMXUyUzdZcnRZMndiQi10NjhSdmtLN21teDFkVlo2dFNQVFltVFVWQThRRWN5Qk5xeXRCMmZVdGFEMDVuSXptY283b3c",
+      "title": "Microsoft Highlights RAAPID Initiative for Explainable AI in Healthcare Risk Adjustment",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "From black box to “glass box”: How RAAPID is bringing explainable AI to healthcare risk adjustment - The Official Microsoft Blog"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNSHZBMHVqSjJtbmRuZmNla19IekFEUUpLT0xkWkNGdV9MbV9KUWxJUUdCNlpvSkx3MUdLWHkwckxrVUQ2YTVCRldybU80OGFWalM4emlieTFLRm5nUUFJZzgteHRXQVEzVTV5SXc3NUVlR05nUFRYNGh4bVVIb25Lamt6NjI",
+      "title": "Samsung in Advanced Talks for Significant Investment in Mistral AI",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "Samsung in talks to invest in Mistral at €20bn valuation - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi3wFBVV95cUxOYVhmak9FQ1hCZ0NHeW1hN3pkVEJIX3lQR1hiclBGYzVBTXF2YV9RR3k0NkdzUkhrVTltdTljbzV2YVF2UzZiM1N3dVFWOTdpenYtOXl6c29WMThSWmxKbWVoV2l2UDUtZkRNcFphVXJLZ2JaVDg1djhPaEJqSnhhdzVYNzBHZ1M4SE8yY0ZaSWJnMkNva1BYdURaeTdtek5aMVJNbU50U0tqd1AzSEtuSWduMXF2VTFBZlo3VFN5cUdPOW1id3dKb2NUcGpHbVVFQW42NUY3ZktfbUs0MnJz",
+      "title": "OpenAI Security Incident Sparks Debate on AI Safety Regulation",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "OpenAI’s rogue hacking incident was a warning shot. Will it be a wake-up call to finally create AI safety regulation? - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNNUhmZUJTRk1sMmE5OWk2QUFtQVFveEZROVNXTGFYTnVxZ091SkdhMlB5NGxRczcyQjY3NHhPOVkwMm45UUV6dVBpLVIyN2tab0Ria21zS3RTazJnZ3ZBQ3hMSGRrOG5OVEFRYVNLSFQtdTFyWXlJME8xX0JhbkoySjZFV25nZHV6NjR2dTNuZjRTdS1GQlpnVFlxUlotYnZzQTNFbFVMdmdlYzA",
+      "title": "Anthropic Significantly Increases Spending to Advocate for AI Regulation",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "Anthropic Doubles Midterm Spending to $40 Million to Push AI Regulation - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxQYjVuYzdvaWlCQnplaW5rS3FwcFNjOHpQT3plWjNtVkp5cXQ5eTlTcl9naTZ6WWpwR1FWdlROYTBhR0pRRHZXNzZiT0dDcTkzMmFaampfZzdEeWtEZVJ4SG8tbU5aQ0hrQmU5ZmJqcUh5bVNqM3ViX3Z6N2lUTHRnc2ZnVjNHcEFwblpQRUVnQ2pGTzl6SktMR2FtMURUeUY2ek5oa2IyVkJlR0V5RkZwSTZra1U4WlNGOUtFd2RFNWdheHR3Y0E",
+      "title": "Anthropic Donates $20 Million to Political Group Supporting AI Regulation",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "Anthropic to donate $20 million to US political group that supports AI regulation - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQdkQtS0lHSVM5ZnlBd05WU003NW92NWU0MWVHYVVBVFlFYUpjWEd3NTdIUU5UT05fUVFGT19JTkdRTEktZG1Cc1Mxd3ZEekRiUVl2aFNjY1dYUnhqWU1kMjNILWh5UlgwcktaN3JEV3g2Q2hrNTF6c1U2MmFPSnppdW1PZWdZN1ZZZnpoNVFuS05jVjJ2WkZEZ0RyWHE0YUttVWhhOVllbkI0anhMZjROUjBTeTY1N1VR",
+      "title": "Amazon Reduces Workforce in Artificial General Intelligence Group",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxQT3oyVDNzekNWY3BJUUZLVGNsb3Z3VUhXc3pfSmtEZG96bzk2RFQ4MTZBWDdQVHlyZTlDOWhEN1o3dzVuekVuWUh2cWFPMy1SU0sxWnl3WkVSbFpKTzBqOU54WjlwM0Jfd185OWsxT1BLbGpHcmlaNHdCalhub0x2cVVBai11dVhPdEVsZERZWHo3anRQMi0yUGZEN0VVOEZHcEJuZ1pxMHp2U2dkSWNhYmhOOXR0aGJjVXVTdHE3MGw1aEgw",
+      "title": "OpenAI's Rogue AI Models Breach Hugging Face Systems",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "OpenAI AI models went rogue during testing, triggering 'unprecedented' breach at startup - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-22/uber-cuts-10-of-customer-service-jobs-citing-embrace-of-ai",
+      "title": "Uber Cuts Customer Service Jobs, Citing AI Integration",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "Uber Cuts 10% of Customer Service Jobs to ‘Embrace’ AI"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-22/alphabet-posts-cloud-sales-beat-slight-miss-on-search-revenue",
+      "title": "Alphabet's Massive $205 Billion Spending Target Raises AI Cost Concerns",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "Alphabet’s $205 Billion Spending Target Fuels AI Cost Concerns"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-23/openai-models-lurked-in-hugging-face-system-for-hours-undetected",
+      "title": "OpenAI Models Spent Hours on Breach That Typically Takes Weeks",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "OpenAI Models Spent Hours on Hack That Usually Takes Weeks"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxOSHE1VUk3Z2Nsa0c5QWhaWFVMU0pyTTNZOFh6clBncGlnR1hZTTVFSm5sWlAzMFFHQ0JnVWhkZk5YTnFickYybVR1dkhHWGk4V2phMTlrZlF2bXhIM2NmM2J6UkFLN0RvTExyd054Mm1OOWtDb2wzWjg1ajBjb3VuVDMxQ0Rod29td0JVWkdaVXBHQm5IcGUtRDN6anJhU1d4T1ZSa2owOVpUTG9sOUVV",
+      "title": "OpenAI's Cloud Spending Skyrockets to $750 Billion Amid Computing Push",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "Exclusive | OpenAI’s Planned Cloud Spending Hits $750 Billion as Computing Efforts Ramp Up - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigAFBVV95cUxQS0Fzbkw4bWcyTTlMV1YzMlRzZmVzTDFJUkIxUVJxWFVlZjJVcjBHQ1RSaTZXOVZRclhkRkplY1ZDWFM1UVc0WEQ5Z0daUnFhZUpCa2xTMVJOaHVrZXNJbHNZWkMzNU9TSVMwc2JtcExHam9DTGdONHJFbkJaTzhFNtIBhgFBVV95cUxPdVNpQk40cDBmZWliMlZqX1drbFJNVkEwRUE2X19rT0l1WVFjcm5uQkxBaVhXSEk0M3Rvdk5aRWR2bWFqMkJmTmsxNEg1QUIyNHlzWVpQR2dlVGtCeUxGc2EwU3NhbTM1S05vMmtNNTRoWlNsdENUdVBBS0RjV0tlLW5NV1gzZw",
+      "title": "OpenAI Cyber Models Breach Hugging Face, Raising Security Alarms",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "OpenAI cyber models broke out of training environment to hack Hugging Face - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxQbFlDampyMGFmNG1JbXFqZzhkYU1jMFBkVGg4WUxISlZRQ3Z4dXllc28xc2dIeHdNTXJ5RURiTFJkY1U3SWwzVjd6b1VuSWZXSWd2VEhWNGUwMUd3SFNEemNzQVZhVF90X1dBX2RyQk9nYmN1UGt1RUNjX1BYZDRaQnY3UzRmcFdLMXB4OWpBX0g5Y1RHNEZ0YzJIekRVZzZ3WWdyM1EwaElfOC1td0VQSENScnY",
+      "title": "US Official Alleges Moonshot Accessed Banned Nvidia Chips",
+      "first_seen": "2026-07-23T04:31:34.481730+00:00",
+      "rss_title": "US Official Says Moonshot Accessed Banned Nvidia Chips - Bloomberg.com"
     }
   ]
 }
