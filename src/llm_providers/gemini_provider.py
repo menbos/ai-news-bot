@@ -85,6 +85,45 @@ class GeminiProvider(BaseLLMProvider):
         return types.GenerateContentConfig(**kwargs)
 
     @staticmethod
+    def _describe_empty_response(response: Any) -> str:
+        """Explain why ``response.text`` came back empty.
+
+        The SDK returns an empty/None ``.text`` both when the prompt was
+        blocked outright (``prompt_feedback.block_reason``) and when a
+        candidate was generated but its content was withheld (candidate
+        ``finish_reason`` of SAFETY/RECITATION/PROHIBITED_CONTENT/etc, with no
+        MAX_TOKENS handled separately in ``_raise_if_truncated``). Neither case
+        raises an APIError, so without this the failure just looks like "no
+        response" with no way to tell a safety block from an SDK/network hiccup.
+        """
+        parts = []
+        feedback = getattr(response, "prompt_feedback", None)
+        block_reason = getattr(feedback, "block_reason", None)
+        if block_reason:
+            parts.append(f"prompt blocked: {block_reason}")
+            block_message = getattr(feedback, "block_reason_message", None)
+            if block_message:
+                parts.append(f"({block_message})")
+
+        candidates = getattr(response, "candidates", None) or []
+        if not candidates:
+            parts.append("no candidates returned")
+        else:
+            finish_reason = getattr(candidates[0], "finish_reason", None)
+            if finish_reason:
+                parts.append(f"finish_reason={finish_reason}")
+            safety_ratings = getattr(candidates[0], "safety_ratings", None) or []
+            flagged = [
+                f"{getattr(r, 'category', '?')}={getattr(r, 'probability', '?')}"
+                for r in safety_ratings
+                if getattr(r, "probability", None) not in (None, "NEGLIGIBLE", "LOW")
+            ]
+            if flagged:
+                parts.append(f"safety_ratings=[{', '.join(flagged)}]")
+
+        return f" ({'; '.join(parts)})" if parts else ""
+
+    @staticmethod
     def _raise_if_truncated(response: Any) -> None:
         """Raise if Gemini stopped because it hit the output-token limit.
 
@@ -172,7 +211,10 @@ class GeminiProvider(BaseLLMProvider):
                 self._raise_if_truncated(response)
                 if response.text:
                     return response.text
-                raise Exception("No response received from Gemini")
+                raise Exception(
+                    "No response received from Gemini"
+                    + self._describe_empty_response(response)
+                )
 
             except genai_errors.APIError as e:
                 # Retry transient overload/rate-limit responses with backoff.

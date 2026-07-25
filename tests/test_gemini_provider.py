@@ -66,6 +66,29 @@ def test_raise_if_truncated_passes_on_normal_stop():
     GeminiProvider._raise_if_truncated(pytypes.SimpleNamespace(candidates=[]))
 
 
+def test_describe_empty_response_reports_safety_block():
+    feedback = pytypes.SimpleNamespace(
+        block_reason="SAFETY", block_reason_message="blocked terms"
+    )
+    response = pytypes.SimpleNamespace(prompt_feedback=feedback, candidates=[])
+    desc = GeminiProvider._describe_empty_response(response)
+    assert "prompt blocked: SAFETY" in desc
+    assert "blocked terms" in desc
+
+
+def test_describe_empty_response_reports_candidate_finish_reason():
+    candidate = pytypes.SimpleNamespace(finish_reason="RECITATION", safety_ratings=[])
+    response = pytypes.SimpleNamespace(prompt_feedback=None, candidates=[candidate])
+    desc = GeminiProvider._describe_empty_response(response)
+    assert "finish_reason=RECITATION" in desc
+
+
+def test_describe_empty_response_handles_no_candidates():
+    response = pytypes.SimpleNamespace(prompt_feedback=None, candidates=[])
+    desc = GeminiProvider._describe_empty_response(response)
+    assert "no candidates returned" in desc
+
+
 def test_generate_falls_back_to_flash_on_persistent_503(monkeypatch):
     # flash-lite exhausts retries on 503 -> generate() should retry on flash.
     p = _bare_provider("gemini-2.5-flash-lite")
