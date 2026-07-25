@@ -40,6 +40,14 @@ def test_build_config_disables_thinking_on_flash_lite():
     assert cfg.max_output_tokens == 16000
 
 
+def test_build_config_relaxes_safety_settings():
+    p = _bare_provider("gemini-2.5-flash-lite")
+    cfg = p._build_config(16000, 1.0, p.model)
+    assert cfg.safety_settings
+    assert len(cfg.safety_settings) == 4
+    assert all(s.threshold.name == "BLOCK_ONLY_HIGH" for s in cfg.safety_settings)
+
+
 def test_build_config_leaves_pro_thinking_untouched():
     p = _bare_provider("gemini-2.5-pro")
     cfg = p._build_config(16000, 1.0, p.model)

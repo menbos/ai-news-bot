@@ -18,6 +18,22 @@ logger = setup_logger(__name__)
 _RETRYABLE_STATUS = {429, 503}
 _MAX_ATTEMPTS = 5
 
+# Gemini's default safety thresholds are tuned for open-ended chat and can
+# false-positive on a large news digest (headlines about war, drugs, weapons
+# policy, etc. reported as legitimate news, not generated as harmful content).
+# Relax the four configurable categories to only block high-probability harm,
+# rather than relying on Google's default (and occasionally silently
+# stricter) thresholds. CIVIC_INTEGRITY is deprecated and left unset.
+_SAFETY_SETTINGS = [
+    types.SafetySetting(category=category, threshold=types.HarmBlockThreshold.BLOCK_ONLY_HIGH)
+    for category in (
+        types.HarmCategory.HARM_CATEGORY_HARASSMENT,
+        types.HarmCategory.HARM_CATEGORY_HATE_SPEECH,
+        types.HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT,
+        types.HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT,
+    )
+]
+
 # Sibling model to fall back to when the primary keeps returning a transient
 # (503/429) error after exhausting retries. flash-lite is the lowest-capacity
 # free tier and sheds heavy requests first during demand spikes; flash has a
@@ -78,6 +94,7 @@ class GeminiProvider(BaseLLMProvider):
         kwargs: Dict[str, Any] = dict(
             max_output_tokens=max_tokens,
             temperature=temperature,
+            safety_settings=_SAFETY_SETTINGS,
         )
         name = (model or "").lower()
         if name.startswith("gemini-2.5") and "pro" not in name:
