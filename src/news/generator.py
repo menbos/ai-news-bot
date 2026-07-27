@@ -18,6 +18,7 @@ CATEGORY_ORDER = [
     "Thematic Investing",
     "Product Launches & Updates",
     "Enterprise & Industry Applications",
+    "Financial Services & Banking AI",
     "Funding & Market Dynamics",
     "AI Infrastructure & Hardware",
     "Large Language Models & Foundation Models",

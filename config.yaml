@@ -82,6 +82,7 @@ news:
       - ✅ Large funding rounds or M&A activities
       - ✅ Balanced coverage across categories (LLM, Agents, Research, Products, etc.)
       - ✅ Thematic investing intersections: AI in clean energy transition, healthcare/biotech innovation, tech disruption, ESG; and critical materials demand (rare earths, lithium, copper, cobalt) driven by AI infrastructure and energy transition
+      - ✅ AI adoption by financial services and banking firms: trading and markets AI (execution, research copilots), risk/fraud/AML, underwriting and credit, wealth/asset management, payments and fintech infrastructure, and regulatory/compliance AI at banks, brokers, insurers, and exchanges
       - ✅ DEDUPLICATION: If multiple articles cover the same event, product, or company announcement, select ONLY the single best one. "Same story" means the same subject (e.g. multiple outlets covering the same product launch, the same funding round, or the same model release). Do not include the same topic more than once regardless of source or angle.
 
       ### SOURCE HIERARCHY (each item is tagged with its source tier in parentheses):
@@ -127,6 +128,7 @@ news:
       - Thematic Investing
       - Product Launches & Updates
       - Enterprise & Industry Applications
+      - Financial Services & Banking AI
       - Funding & Market Dynamics
       - AI Infrastructure & Hardware
       - Large Language Models & Foundation Models
@@ -137,6 +139,7 @@ news:
 
       ## CATEGORY GUIDANCE:
       - "Thematic Investing": use for stories tied to investment themes — healthcare/biomedical AI (drug discovery, diagnostics), clean energy transition, ESG, critical materials (rare earths, lithium, copper, cobalt), battery supply chains, commodity supply cycle dynamics, or fund-relevant market dynamics. If the story is primarily a tech announcement, use a tech category instead.
+      - "Financial Services & Banking AI": use when a bank, broker-dealer, exchange, insurer, asset/wealth manager, or fintech is adopting or building AI for its own operations — trading and markets, risk/fraud/AML, underwriting and credit, wealth/asset management, payments infrastructure, or compliance. Do not use "Enterprise & Industry Applications" for these; that category is for AI adoption in other industries (retail, manufacturing, logistics, etc.).
       - Each item must appear in exactly ONE category. Do not repeat any item.
 
       ## SUMMARY REQUIREMENTS (per item):
