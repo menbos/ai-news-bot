@@ -1,126 +1,6 @@
 {
-  "updated": "2026-07-27T04:31:42.901131+00:00",
+  "updated": "2026-07-28T04:32:35.089217+00:00",
   "entries": [
-    {
-      "url": "bloomberg.com/news/articles/2026-07-19/teleperformance-wants-entire-bpo-staff-to-be-ai-enabled-by-2027",
-      "title": "Teleperformance Aims for Full AI Integration Across its Global Workforce by 2027",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Teleperformance Wants Entire BPO Staff to Be AI-Enabled by 2027"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizAFBVV95cUxNeWtrc3R6QmdYREpuRHNxR3dFNkJkVjdSMTRYcFhmRHJYQ18yaGFfSHcwbmVKSjZvWVo2M0FqdF9VZkJmbG9CVTVObEZTQ2t1amx5MTlJZ201YWR3cE9IMFNxVTNXdlp6SVV5MnZDLXotWS1EQVFNbUFFV2hZUWJJeUVScVNRaUhjci1zUXJoUTBnMFBkSnFzeWgwWkNpd2FqZ2hZQW14cTNCRDcydkp4X2p2QlYyRWlTRWFISmFoSllBY01OWmNlVWNpamk",
-      "title": "TSMC Anticipates Sustained High Demand for AI Chips, Bolstering Arizona Investments",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment - Reuters"
-    },
-    {
-      "url": "thenextweb.com/news/google-ai-search-unsafe-schools-common-sense-media",
-      "title": "Common Sense Media Flags Google's AI Search as High Risk for Students",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Common Sense Media says Google’s AI Search poses an “unacceptable risk” to students. Google cannot turn it off."
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model",
-      "title": "Alibaba's Qwen3.8 Max Model Achieves Near Top-Tier Performance, Boosting Shares",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Alibaba Shares Rise After Unveiling Upgraded Flagship AI Model"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
-      "title": "China's Moonshot AI Plans IPO Amidst AI Breakthroughs and Market Volatility",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Moonshot Plans IPO in Six Months After China AI Breakthrough"
-    },
-    {
-      "url": "bloomberg.com/news/newsletters/2026-07-19/why-apple-s-openai-lawsuit-doesn-t-mention-jony-ive-ai-recording-at-genius-bar-mrrv4mix",
-      "title": "Apple Explores AI for Genius Bar Appointments and Other Customer Service Applications",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Why Apple’s OpenAI Lawsuit Doesn’t Mention Jony Ive; AI Recording at Genius Bar"
-    },
-    {
-      "url": "thenextweb.com/news/south-korea-kospi-ai-stocks-global-markets-sk-hynix",
-      "title": "Korea's AI Chip Market Becomes a Key Indicator for Global Stock Performance",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Korea’s AI chip market is now the opening bell for global stocks"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxORkJrNHZIMndwVTZXcmE0SW5CYlFNd3hsbkRnU05uRzFYY3REemJiQjMtN1NhSkVKRXdXbExHM2xIb3dwYzhMWE0tMkNXYVJoZ1ZXemlmRGRLaVBnbFVFNEotczVIME11Q0ZTaGx0Y2s2d09faXZzYms0UVVrRkVHdjhOYWt1dTFKRkhVckhTZkJLWjlISnR4UHBfb05uTUJKRFJwR1ZPMElhTHZ3SkJNNw",
-      "title": "Pastors Increasingly Use AI for Sermon Preparation, Raising Ethical Questions",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Pastors Using AI to Help Write Sermons Grapple With Where to Draw the Line - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQRXJPNlRnNlF1Q2Q2Z28zZ1JqXzlXYkhKdnB5SVVOT0VrR0gwcEt0cGVhNVdab0xCQ0YxemEyVlhsVFVpdXRwcHdXbzFXQW9nOEprMVR2M3h4clFCZEIxUExfcmRxWGNUUTlDbVdFaTR6TXF3THFjNUlEUlFHY2c4YmN6cC0",
-      "title": "CIA Operative's Role in UAE's AI Advancement Highlights Geopolitical Strategic Investments",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "The CIA Operative Who Spied on the U.A.E.—and Played a Role in Its AI Win - WSJ"
-    },
-    {
-      "url": "thenextweb.com/news/france-germany-palantir-rival-european-sovereign-military-ai",
-      "title": "France and Germany Collaborate on European Military AI Software Rival to Palantir",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "France and Germany pledge to build a European rival to Palantir’s military AI software"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE9jdWpIMDVoY1R0Y082M3JaR29KQXRSQWIwcXJhYVlud3R5cUVxQkN5dnROTTNMLW9rRnQ2QVlVODV4Y3BYWXVrMlMwTEV6aUlkYVpv",
-      "title": "AI Offered as Free Teaching Assistant for US Teachers Facing Workload Challenges",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Claude Launches in Classrooms Across the U.S.: Free AI Teaching Assistant for Teachers Working 49 Hours Weekly - 36Kr"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxOdUpfejVKdTlaVHBiS1ZSTWRGa1pJcWh3SmpnNXBVeTFwaXU5a1pYLUdUOFdoZHNLYWJaX1BhLXprc2N1OVI4djVaZFl3MnN2dzlXTVdtd0ptX3hzcWpicTZESTE5TWFhX2ZmSnlGNy1PcHMtYVNNbjJHTHFvVzFPMkVKWW85bTE3UXgxb1VHX0I1dHBkX2VWY1loeEQ4RUFIWW5TRDNDRlpHTDBpVEI4R05Tc0dmTU5IWXVSc20tWkk",
-      "title": "Shanghai Xingshu Launches First Constellation for Space-Based Computing Project",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Shanghai Xingshu launches first constellation of its space-based computing project - Reuters"
-    },
-    {
-      "url": "githubstatus.com/incidents/ph5nns5y4gxj",
-      "title": "GitHub Services Experience Widespread Disruption Due to Interconnected Incidents",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Disruption with some GitHub services"
-    },
-    {
-      "url": "githubstatus.com/incidents/8vfyvq16hzh9",
-      "title": "GitHub Actions Suffers Degraded Availability and Extended Downtime",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Incident with GitHub Actions"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-20/ai-pioneer-kai-fu-lee-s-startup-targets-hong-kong-ipo-next-year",
-      "title": "AI Pioneer Kai-Fu Lee's Startup, 01.ai, Eyes Hong Kong IPO in 2027",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "AI Pioneer Kai-Fu Lee’s Startup Targets Hong Kong IPO Next Year"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxON0tWR1RwMXZzZGFaOFVfSkVRT01nWl9ZRWFOX0hPNllIMnVqTTJUa2hLR0VWX0owamVtclRVRDNBTFZ5T0dYNEVEb0kxQVdPTW1BSFRBM2lvbzVOSjdDbW80MDIxZVhSUVVNNG1pQkJRS0dmUVl6OGdCcDJ2T0JCdjhhMkc",
-      "title": "AI Lawyers Urged to Prepare for Increased Legal Scrutiny and Litigation",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "AI should have senior lawyers sharpening their hunting spears - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxOemJ6VDhwSDRLWEhiMG1vOE5HaTJ1VnU4Ui1KZVdaMXhkSzh4Rkw0MmFOaDlxcmxMQ3lndHZpUTg2TzhVaEllSFg1cjV1aXJFbkdPX05QUHd4NGN0cXhMRmt1VktKdURLaW5zcUd0QV9jUzZJWm1GTk5PNFhzcEpsOFVWeUEtWFFm",
-      "title": "WSJ Opinion: AI Presents a Path to Enhanced Grid Reliability",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Opinion | AI Can Be the Fast Track to Grid Reliability - WSJ"
-    },
-    {
-      "url": "wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents",
-      "title": "Prompt Injection Attacks Successfully Neutralize Malicious AI Hacking Agents",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "title": "Dave Eggers Critiques ChatGPT for 'Silencing an Entire Generation' at OpenAI Talk",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’"
-    },
-    {
-      "url": "thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "title": "AI Advice Leads to Overconfidence and Reduced Accuracy, Study Finds",
-      "first_seen": "2026-07-20T04:31:37.654072+00:00",
-      "rss_title": "AI advice made people three times less accurate but twice as confident, researchers found"
-    },
     {
       "url": "openai.com/index/safety-alignment-long-horizon-models",
       "title": "OpenAI Details Safety Challenges and Solutions for Long-Horizon AI Models",
@@ -835,6 +715,125 @@
       "title": "Anthropic's Claude Cowork Exploits Sandbox Vulnerability on Mac",
       "first_seen": "2026-07-27T04:31:42.901131+00:00",
       "rss_title": "Anthropic’s Claude Cowork could escape its local VM and read credentials on a Mac"
+    },
+    {
+      "url": "openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "title": "OpenAI Research Highlights AI's Role in Expanding Job Scope and Reshaping Work Boundaries",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "How AI is expanding what people do at work"
+    },
+    {
+      "url": "blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai",
+      "title": "Microsoft Advocates for a New Cyber Stack to Address Evolving AI-Driven Security Threats",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "Rethinking security for the age of AI"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/open-secure-ai-alliance",
+      "title": "Industry Leaders Form Open Secure AI Alliance to Champion AI Safety and Security",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws",
+      "title": "AWS Introduces Task-Aware Knowledge Compression for Enhanced Enterprise AI Performance",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models",
+      "title": "Guardoc Health Leverages Amazon Nova Models for Streamlined Medical Document Processing",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "How Guardoc transforms medical document processing with Amazon Nova models"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "title": "GitHub Copilot Workflow Simplifies Software Development Lifecycle",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "The harness is all you need (mostly)"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "title": "GitHub Copilot App Offers Beginner-Friendly Introduction to AI-Powered Development",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "GitHub Copilot app for Beginners: Getting started"
+    },
+    {
+      "url": "status.openai.com//incidents/01KYJC3TDHZVSQFFPTC8X9RAHC",
+      "title": "OpenAI Reports Resolution of Latency and Timeout Issues Affecting GPT Models",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "We’re seeing elevated latency, timeouts, and interrupted streaming across gpt 5.1 mini model and gpt 4.1 mini"
+    },
+    {
+      "url": "status.claude.com/incidents/rkk5x44tndw9",
+      "title": "Anthropic Addresses Elevated Error Rates on Claude Opus 5 and Haiku 4.5 Models",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "Elevated errors on Claude Opus 5 and Haiku 4.5"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOR3VYRDgzbDNGN1hfYnpXRXhqY1dfU2h4M1VsR2FSVjE0SDJsb1V6cENtclZYdkxEaUxSa0JmTTNTa0Z0OExhR2Y2ck9LVnVpNTFBVXJYeXNRdW94cmEzbE1ueFVYTXExN0VqUmZ4V1dVSTdRUlNrN1lPVVZET1plSU1pMNIBiAFBVV95cUxQZnhoenA3SDZieTZNTy1SbEZndXZRMjFmN1ZJemI2SHFkdF90Zmt1T013cUM5bWZObzVYMVpNVXd3Zk9MS1Ywa2xrdUpOT1VTYUt4aW5qVHRfX0Q2UlM5ME1VX0RnOGY1RUxqZkJBODhjUW9hU0JzemZEWnNDWlk2OVNlN0FFQU5o",
+      "title": "Nvidia, SpaceX, Microsoft Launch AI Safety Initiative Amid OpenAI Cyberattack Fallout",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxQbjdnLVo5aWoteU1nZzE2d3dtZGtTNzV5TVFwX3hYQkJQYkZhSE5HNmZLSXdaQjdLSVhOVUNWMEdMbUptaFppdlN6ZGh4cXFlOTRpTmxVcW4tc3h6aldxT1dqcURLUzdsMXNkR25DdlB1SFBnc3VEaUlZQlFKTThaeU1mM2V4TFJsdjFIQXhVUGhlNmo1aS1LZEJxZTR6bjV2eXhkelFaWEF2anVGSFFjSmxKWWUxMUpVU1dnd25MSWRIZGc",
+      "title": "OpenAI's Debut Hardware Device Experiences Significant Price Appreciation on Secondary Market",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "OpenAI’s first hardware device debuted at $230. Now, it’s on eBay for $1,850 - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxPajJwVi0yQnhvbWlIdEswc2tQM2twOFZqZUZGNHNWS2d1enUwd1NWSEdkcUU5MGY0cEhWcHJhTGR3NGk3aXVsYmthdS1iT0gzVURQajRHT0R4RkRQelhIdElTVkxOZEgzdXhmdVFsOFU4UGd1YU5wV3MycVA3dk5aRmY3YzVwLTQwTW02SkhyaGpsMHFpUFZQU3U2NUlDWWFUWnE3Z3RkRXhac3RzQWRTSFFLQ0FuQlRuT2htTDlFNA",
+      "title": "Nvidia Champions Open-Source AI Through New Cybersecurity Initiative",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "Nvidia Leads Defense of Open-Source AI With New Cybersecurity Initiative - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxOVUZRNEMxbF9TWmwwQnFld3R0ZFpQQm85Q3puTlBhVjJNNmZQbno5bFhxODJwelhxdVUwa25kanJMbk96a3pVaWU3UHZMUlltMFNzeU5TNm9IcXFaTWJQT0JZQ0ZDdHltSGN1akZONDlVMnA2eGkybGRHLVB2NFZxMmVqZkluM0FuV0tZRlBkRVF4RDJkWU9CejdkRDhHRzdpZlk4cDBSUXZZaDRSc1ZvR0R3",
+      "title": "OpenAI Announces Expansion into Ireland to Address Growing Global AI Demand",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "OpenAI Announces Irish Expansion to Meet Growing AI Demand - Bloomberg"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE1iUFV0dFc4SG92VDZ2QXgyenpqWUV6blU5RFB5NWpZRnUyY0xDRmZFa05MdHg0d0pWU2VlSkVRNkhPVXk4dWx0anhHU3BYRFJOV1pYbUJLVEtuZFdmNFU2QXNKNDZ3eDV1SG05R2p0VGU0N2dpcUxKNTZ30gF_QVVfeXqMTjM4TFdCdHRJNGptTXoxYnpoRmQ5WjJFOGdpf0pFN005aHd4SnFoZUFSSUl0cmUwVGtlaUdKbzhkRUcwZExBdHNaTnJyeDRkOEluMjJJWjVZdjk3by1yZGlldUpKUnNRalgxQ3ZCMF9IbmNDWGFmVS1lQVgycDliQQ",
+      "title": "Sam Altman to Brief Trump Administration and Senators on AI Policy",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxPdFhxeTBTUzE2VDBCSFZubnVfYjRiakRwSEZZeFNZTFNTVmdYYndxXzJncFlvQ01CcGNuQnNib24tWGlLdFZSamZ2eDlzR18xNnQxeFhla21EeUR6UjI3VTFCTzdVcUhrNmVzSWxBSWFCNTVDSnl1RUVBSXpTbkRfRDFKc3FSQnViZ2VvdElnQ2ZVRjNuU1Zzd2tuUlREdUhJc3VMTEgwLXhVTmdMVEE",
+      "title": "Former Nasdaq CEO Advocates for AI Regulation",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "Former Nasdaq CEO Bob Greifeld: Need some form of regulation for AI - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxPN2l6SXZVb29hZ244bE5rbTdWWkNINUw0VTN5TlhHemFDWG5VSmd3d0M2OTBnWUNDMUFRekpWOWwtME9MTTIwTTVvVFpuNVRmYnJ1eDFLVUR1bnVZVWNSdHJZOXhEZXBWdWpaT05JbHlhRXBVdUZlSE14M29ReDhHYTVvQmplZXhJYVNfeHNDZ0JxUmhIelFmbmROeWZudGwxXzJwRHgwV2RMVjVBdjJHSDQ0NmlmZXZoOU9YYjZCZkl5X1FB",
+      "title": "China Accuses US of 'AI Hegemonism,' Threatens Countermeasures Over Potential Probes",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxNbzRuS0FZMm5DbGhkRlBXS244QndESTlDM0MtMjh5UldRWXg0S3lXOTdKME5ZVVRIczIweEFvMHpxQ1FCUDI2dW5lQnZjMFBIYjVuQjRQTnJ6bmZZN0tFbDZnVXhvVTVCbG9uc0s1MVNqSHIwRENYd25HQnJPbl9ySFNraHVyUU5lQjYwYkxEOG83Qm9jWXVMNTU0ekVkeEJ4Q1kxeUFIa3pxNmZ6eVFiWFZHTVVTRXR5OHFEa2x2OFhQZw",
+      "title": "HSBC to Expand Singapore Hub with 100 AI Specialists and 100 Wealth Managers",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "HSBC to hire 100 AI specialists, 100 wealth managers in boost to Singapore hub - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxOdi1jdEZHRU5KR1lvTlloMlMxQ3g4QUpjV2s2WnpqSjhzdWI5STJldTBPakY5ZWxrNHFkdjFFNXp5SXJ1UHNoWjJSWUEyMHJnUTJYZi1vWVVJQzB2VGVhY1RMQVZTZGt1OFJGMjFvUzRCb3hVdkZlZkUwU0s2WFRJZE5yRGJJaVpBYzNQeXlhb0xPU2o0Sm1lVjZmUTg",
+      "title": "US Capital Goods Orders Rise Amid AI Investment Boom, Shipments See Strong Gains",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "US core capital goods orders rise, shipments post largest gain in 4-1/2 years amid AI investment boom - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxOcWtDYjVuY2NJcTIzMDJaa0hYZy1vaGthWFp5Zm9FNXdwMUU0cmxRNk1HTWhGelZqVjRpY0RvbkoyRHMwaGg4cnM4RENaZE9ob0IwdEpXMEw5SWwyM2VOcE1LUGUwRjlWU2x3eEVkRVA1b3VwVEhiZjdRelBEYlEtanZjZmN5ckRFQWxQVFZHOVFSOEJ2WXJQbWhsSHBIdVgyX0VvcXRtUmcwUFJvVFNaSWQ5MzBxWU4tUmc",
+      "title": "Nvidia Reportedly Investing $5 Billion in Ilya Sutskever's New AI Startup",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-27/china-vows-response-to-us-sanctions-threat-against-ai-firms",
+      "title": "China Sets Tariffs Limits and Warns on AI Sanctions Ahead of Xi-Trump Summit",
+      "first_seen": "2026-07-28T04:32:35.089217+00:00",
+      "rss_title": "China Draws Lines on US Tariffs, AI Ahead of Xi-Trump Summit"
     }
   ]
 }
