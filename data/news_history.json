@@ -1,125 +1,6 @@
 {
-  "updated": "2026-07-28T04:32:35.089217+00:00",
+  "updated": "2026-07-29T04:31:45.696221+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/safety-alignment-long-horizon-models",
-      "title": "OpenAI Details Safety Challenges and Solutions for Long-Horizon AI Models",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "Safety and alignment in an era of long-horizon models"
-    },
-    {
-      "url": "blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd",
-      "title": "Microsoft Augments Azure AI and HPC with AMD's Latest Infrastructure",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "Microsoft expands Azure AI and HPC infrastructure with AMD"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/siggraph-news-2026",
-      "title": "NVIDIA Showcases Advances in Graphics, Simulation, and AI at SIGGRAPH",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin",
-      "title": "Bristol Myers Squibb Deploys Second NVIDIA DGX SuperPOD for Life Sciences AI",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit",
-      "title": "AWS and NVIDIA Partner to Enable Specialized Agent Workflows for Businesses",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit"
-    },
-    {
-      "url": "github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community",
-      "title": "GitHub Celebrates $100 Million in Community Contributions to Open Source",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "$100 million for open source: A milestone built by the community"
-    },
-    {
-      "url": "status.openai.com//incidents/01KXYF4BTCV9DTZ5NDSFN716FH",
-      "title": "OpenAI Services Experience Elevated Errors Affecting GitHub-Dependent Workflows",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "Elevated errors for GitHub-dependent ChatGPT and Codex workflows"
-    },
-    {
-      "url": "status.claude.com/incidents/hlt0yqp4lkww",
-      "title": "Anthropic Reports and Resolves Elevated Error Rates for Opus 4.5 Model",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "Elevated error rates for Opus 4.5"
-    },
-    {
-      "url": "githubstatus.com/incidents/fd7j2mw8xw94",
-      "title": "GitHub Status: Disruption Resolved for GPT 5.3 Codex",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "Disruption with GPT 5.3 Codex"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E",
-      "title": "AMD Launches Helios AI System to Compete with Nvidia, Secures Microsoft as a Key Customer",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxQakNEQlhTN0EyQ19FQnA4T2Nub05IWmNBUnAteVZTNXM3Skd5ZjB2QUJiWG1qdHJMVFJkejlJd3V5aUdoaVlOc1FxM2Fjb3FtUEMzb01iOWJHX0F3MXJLYW5lNGVtc2hrMjRpOFJEb3d5RWpnTVZ0T2Nfc0IwelFZSFRpU3NKbmZCMTFRczE3TUZXaGR4VGJKX0FnN2xwWjJxam9LWtIBqgFBVV95cUxOczQyenJJUXNSUWZ3bXRCRXJuR0ZzNnN1eVJYVDNmSzJyTC1FeVhCMkMzQ2N0TERWbnNPTzR3MGlIYl9nZGgwMzJXWF90QVZDQ0FnUU9DeTQ2RDcxQkZkRWl3TmhIRFQxQ1k3QzQ2a21OUi1MTmk2S3paT1drR2RraVFubjU5NG1iWVVlX0J5TWdNVW1KbGtWdmxwcXpLSEtHbF8yVmNQY2xZZw",
-      "title": "Head of US AI Safety Agency Resigns After Three Months",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln",
-      "title": "China Considers Stricter Export Controls on AI Models and Chips",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "China considers tighter export controls on AI models and chips, FT reports - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxPeTFQeDNfOHM5dUowNFFQQXA4TWdNRy1tV0lIMlhzQzVTNWdOUWpqdER1eWY5aGVRSVl6My1LeWlfOG1ySi1RVGZQSTYzSGE1ZmsyLVFkUk9pWUxPNUhhLTFMZW8xNXVxUjB5SzVaeTNlVFRQZlhrTVlxN0NlTWdxWk1zUm40N09rZGZRQllOLTlkMWNuM2J0ZlZwRU4xaE0ybjM5MEx1QUZzNkhUTDVfOXF5Tlpla1RCVUh1bGVxR3RLYVpLeGc",
-      "title": "Massachusetts Voters Express Concerns About AI Despite Daily Usage",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "Mass. voters worried about AI even as many use it daily, poll shows - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxNUGRmTWZOVGRTRWJYaTkzaWM1VzNVbl96dXFSQlpHc191TktCWTVZbC1fYUpmWFkwWkFJSXhRSmtLendkZXhBUGlMd0t3RUZvTFFwZjBma3l2N0UzSXlaa1FmUWZqSW81a1hMQmtCbkt4bjFZWlh1cVp5LUtPWmhKNFhtZUlCbnZyRzhjVGtaOUZ1Q3lwLXF3VmxZSHRjMVZxYmhSTkE5eVhMZ0J0VjFDVWljT2xaWlRKbkctTw",
-      "title": "Bristol Myers Acquires NVIDIA's Latest AI System for Drug Research",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "Bristol Myers buys Nvidia's latest AI computing system for drug research - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n",
-      "title": "US Judge Approves Anthropic's $1.5 Billion Copyright Lawsuit Settlement",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxPOU1rMGpSd0lvTDE3aFVId2tXRG04enY0ek9mcDFyR09IVm1TUE1tTEVrR0FuUWpPcnpJbmR5cGQzeFNBZFlBWjdwUE1PSGJFUkpEZ1NwalMxRGhmdjJtYTVaeTh4Mlotek5NOE9YNzRMbERhaVFHQndLSC01cnpVSjlzRHVYV3J2eWtfVkgwZzVuWVFETUNPbkZzeXBzamJ0UHpyNGlRaEItTmpqT05ubE1heGFVcmNIWS05UkR3",
-      "title": "Google Develops New Chip for Efficient Gemini Model Operation",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "Google plans new chip to run Gemini models more efficiently, the Information reports - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxPZld6bU00S1RyTUVGVGlUVVpxR2wwd25RWDNtQXdjQnV5Q0FZSm9fZEFkMnJzVUNCYnQ3aWoydC1IVndnbjdoTTl6cVZpZEl0R3BoZmNBenVOb0pER2VKTzdRMDlUUmRQSjFuNnJNMmVkbllmWm9yRXdHTUI0R3NaUE42cV91TjhGS05qT0x3emNWN2F6WTlINjVHWU4zVGRlZ0pnV2o4SVBLWC1YQjcxVXU0V3ZsVnRGdUtndDdmOA",
-      "title": "CuspAI Raises $450 Million with UK Government and Jeff Bezos Backing for Materials Discovery",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "UK government, Bezos back CuspAI's $450 million round as startup seeks to discover new materials - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-21/samsung-hires-ex-boston-dynamics-executive-in-robotics-push",
-      "title": "Samsung Hires Former Boston Dynamics Executive to Lead Robotics Division",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "Samsung Hires Ex-Boston Dynamics Exec in Robotics Push"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-20/burnham-names-narayan-as-uk-s-first-ai-minister-to-new-cabinet",
-      "title": "UK Government Appoints First AI Minister to Attend Cabinet",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "Burnham Picks Narayan as First UK AI Minister to Attend Cabinet"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPNnFjMUFjSkFnT2VPYTNoUkVfSnB4NDZrRFFSb192RVAxQi1CckVsNnMxUkxaaUM5LWRBTjZHU3dsV2FHWHNuV3dvZXZSRktoYndiQnBOR2lYVllMcnVnTGhvN3p6M1NJWWNHOUJhUWx6MG1Kdy0zS2VsSy0zd1BQSW9MZDc",
-      "title": "UK Businesses Show Stagnant AI Adoption, ONS Data Suggests",
-      "first_seen": "2026-07-21T04:31:48.575095+00:00",
-      "rss_title": "UK businesses are not deepening their use of AI, suggests ONS data - Financial Times"
-    },
     {
       "url": "openai.com/index/introducing-chatgpt-small-business-program",
       "title": "OpenAI Launches ChatGPT Program for Small Businesses",
@@ -834,6 +715,124 @@
       "title": "China Sets Tariffs Limits and Warns on AI Sanctions Ahead of Xi-Trump Summit",
       "first_seen": "2026-07-28T04:32:35.089217+00:00",
       "rss_title": "China Draws Lines on US Tariffs, AI Ahead of Xi-Trump Summit"
+    },
+    {
+      "url": "openai.com/index/scientific-computing-agentic-ai",
+      "title": "OpenAI Blog highlights agentic AI's impact on scientific computing acceleration",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Scientific computing in the age of agentic AI"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+      "title": "Google Gemini API expands Managed Agents with Flash, hooks, and enhanced reliability",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more"
+    },
+    {
+      "url": "blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation",
+      "title": "Microsoft FY26 review shows customer transition from AI experimentation to 'Frontier Transformation'",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec",
+      "title": "AWS AgentCore Gateway adopts MCP 2026-07-28 specification for stateless, secure agents",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "How AgentCore Gateway supports the MCP 2026-07-28 spec"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore",
+      "title": "AWS introduces market surveillance agent using LangGraph and Strands on AgentCore",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Market surveillance agent with LangGraph and Strands on AgentCore"
+    },
+    {
+      "url": "github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions",
+      "title": "GitHub enhances npm and GitHub Actions to combat AI supply chain attacks",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Disrupting supply chain attacks on npm and GitHub Actions"
+    },
+    {
+      "url": "status.openai.com//incidents/01KYNNX2TQ3PV0KPJ9PTRRPX6C",
+      "title": "OpenAI reports resolution of 'invalid_prompt' error impacting Chat Completions",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Elevated error rates with the invalid_prompt error code"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxNNFFtMDZZZnBXc0pUR2FnT0lDWURUazJFWUVTMHJwSHp4S0J4ZkdnY0pjbWttb2Y3TGpLYkRjWFRKR1hudHFKZUR5eXJGeDBKSVYwNEJiRXY5MHBqam1LN3QtSjlfOFlXSDY2b3F2Z2JnTFM3bS1Xd21iYTVqalpkQVZpTDZsM05XN2Q5N09MWUZYSUdCeEk2VzZLRjBmMU5ybkRDbFBnVU1LRzBzQk5GR1A3WWQzMHNuc1ItbzNR0gHDAUFVX3lxTFAzS0YwRGxlNjJoMW9vb01wUl9IY2JGeGd5QkRock53RFdQSURkQ0U4WnpzVXFOM3MxYWFXZW94S1JhLXoyVW9NYXRmQXc3Z1VqWHBkY0c3bWRzSVBlRXd4dkN3T09qaUZhd0h6RzAxc3BGYzdiQTN6YlhTOVBmcl9pc3RZR3FTdTczQlViOUdYMW5EeTFTc2dxMEVjaVlpaHBfOEVjNC1OMnoxQXNqWW1hc3A0NGpFLTIzRGlNZ215Nl9RYw",
+      "title": "Meta aligns with EU AI Act by signing Code of Practice on AI-generated content transparency",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Meta is Signing the EU AI Act Code of Practice on Transparency of AI-Generated Content - Meta Store"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizAFBVV95cUxNOG1XYUY2VUFpMFVHdWJoNGZ4U19JQXNybGlPYkRtd0xSWjFpSVZfNnBpZ1lyajY4VF9LdER6Ym5Kc2pxZXVEa0RQNDFXVEZBREFWSnBUMU9lZllpV0pTZGFKdE5zOUc1YzE1WC1UUzNlcUktVWZsaW1OX2VDRTE1cFd3bkRZRTRpRTJJSGpFVlFGSjJOeVRaeDhNTTZtVkZ4YTdYQ2Y1bEhBa0pIZU1UOUpkcXowcEU5R3dWQjRDRmxzS2NfelhNWkM0amQ",
+      "title": "Microsoft highlights AI's role in expanding health equity and access to care",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Health equity can’t wait: How AI can expand access to care - Microsoft"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxNZUdKZ0lPNURncWhtWjRjSDFGa2Q9U1V1NzdKcEVRcEJCZEo4Y1daZVF0RTd4OGdhekdaVkZBYW10YTlXaUtmZGNEZGNGUG9ZVTBwRTFhUXUzRjhnTjdZRFFHR0YtdjFheHFrMkVrLTF4THNZQUl4QkQ4cno2OExITkkya214MWlGRzh0VDlLNFBSNGw0bTVheFFKaWkyNlpsdk05bC1ILXJ6aUZnVDlQSzU1RFBkSUpYUzNVZWRn",
+      "title": "Tech employees urge US-led global effort to manage advanced AI risks",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxQaHBXRTBZX1RmZjlnU2owVWlZMW5TMGtzR3JyWVRrcWpUblNaTjg3ZXUyUmQ0Z1JTNVVHRERkN284N0o4SFZ0SGdvTnR0ZG5hTEo0b1pkOU0zTHFRZ01OV0tIRFNnQ1YwMThhYlBBTjgzOFN6bE90aTdIV0htb0xJNldUTUxTUm91TzlyWVFRaE5tSkFHWGhXWXdzQVpWTDRWc2dIOTU1X25lLXViRVRWcm5qMTc2TnM",
+      "title": "OpenAI 'rogue agent' reportedly compromised a second tech firm's customer",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53",
+      "title": "US administration bans new Chinese humanoid robots amid AI buildout concerns",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Trump administration bans new Chinese humanoid robots, to protect US AI buildout - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxNNDBBczc5Q21jMGFpRUdBbUJwWHBqem9mZDJFel9GMTlxVzFXWjEwMEhYSERVd2pPZ1Uzc2JXbGZQWG96aUdCaW9LRFlLaHRsYldNczltR2tmTmg1VmlYUkNyd3ZKRnB4NGxvaXkzeWlvWE1rSlNMdEFUTlVzSThFaGZrdjY3dF9wQXFyQ3dFR3NHdEdnekRSVDJfWDZLS1NtbEx1U3JSTF9VTHowU2c3UTV3OEVWQlozSm1zNFVtaw",
+      "title": "Coursera invests $100 million in Andrew Ng's new AI education firm",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Coursera backs co-founder Andrew Ng's new AI education firm with $100 million investment - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxQQTI2OW42aWhiUldLQU5Jb25yUUpEQmFVZ1hTbWFNTG80dzhadThtVG1ucW5zc2VMdHJTaDZvT1VZNkNGZEU5bzRXcUZSZHhZa2RHRkJfM2s0dGF2UW1VWG5YWExzb3gxMVpFSVlLOXowZU1fR3N4V2VObllUcDNqSVJDaVJFYV9WZnVjdFQ1dl9Xd0Vta09sMVZhRURvV1Rl",
+      "title": "Hedge funds poised for strong year driven by AI boom",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Hedge funds on track for another stellar year on AI boom - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-28/sk-hynix-s-record-profit-misses-investors-lofty-ai-expectations",
+      "title": "SK Hynix plans record $31 billion capital spending amid soaring profits and AI demand",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "SK Hynix Profit Disappoints, Spending Soars to $31 Billion"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs",
+      "title": "US broadens China tech clash with curbs on robots and inverters",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "US Risks Broadening China Tech Clash With Robot, Inverter Curbs"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPMUg3aEUwVzJGX3ZiQWNkUHFzQUZEcUxDeDBwZk9UNlA3VHhBMUdYN0VHc3JPNjd1VUNLbWJTNWZRRVVsMmRqVkhWN1FwQnhWZHl2VUlvQ3FLVThHTHJRc3RLWThBcjkxaDBubXIzdW1mZGROYXI1bzNWbXl2WURHeDJJUVY",
+      "title": "Financial Times advocates for US openness to open-weight AI models",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPTFNxUWI2cTE0MUU4Ql9fZnJYeHlfS1BvdXVoRU1PNnpHd3ZXTVJhdHl2c2VsajJaelNYMUNnamk2RlBTbWZuYUhYZE1ZMW1WOEZIUHhybE8yeVNrNVI0MFNhTUhVNi1fb29wUnVjcWNWYTZsbkNTOHJwNjh5RnRxbVFmN0U",
+      "title": "Nvidia invests $5 billion in Ilya Sutskever's AI breakthrough initiative",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPR1JfYVdzaHowRF92dnlwMkNDQ3FjbEZvUVczOFNfbnBOXzM4RS1JNUh0TGx5c3VSWFVRUHpTOVJDaVdUNXFiWk51dElPVTNVZUNhZjFXVTNCU2hVQmJVM3pGbGdLQkpUZzM3ZGJyTmpkRnRmbU1qa2pfLU5KdzNqc3pDX18",
+      "title": "Mark Zuckerberg advises against banning Chinese AI development",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Mark Zuckerberg says US should not ban Chinese AI - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOSEhPT18tMlBPQkZndDgzcktHQzFwRWNpTUJoUnoybUxXa194aktnYUUtc2NFRW96Y1ZyWG5uTVVfMm5XSTZzRUxhUUJRMHlzX3NKNEJ1aFY2U3BEamgtbnVrS29PblBPR3AxUGlmNEZEbmpCb1Y3bzQtd0dyLTFUTS1fcHI",
+      "title": "Nvidia confirmed as anchor tenant for $50 billion data center utilizing its chips",
+      "first_seen": "2026-07-29T04:31:45.696221+00:00",
+      "rss_title": "Nvidia revealed as tenant for $50bn data centre that will use its chips - Financial Times"
     }
   ]
 }
