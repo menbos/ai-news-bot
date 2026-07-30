@@ -1,125 +1,6 @@
 {
-  "updated": "2026-07-29T04:31:45.696221+00:00",
+  "updated": "2026-07-30T04:31:52.271117+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/introducing-chatgpt-small-business-program",
-      "title": "OpenAI Launches ChatGPT Program for Small Businesses",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "Introducing the ChatGPT for small business program"
-    },
-    {
-      "url": "openai.com/index/hugging-face-model-evaluation-security-incident",
-      "title": "OpenAI and Hugging Face Address Security Incident During Model Evaluation",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "OpenAI and Hugging Face partner to address security incident during model evaluation"
-    },
-    {
-      "url": "openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "title": "David Vélez and Robin Vince Join OpenAI Boards",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC"
-    },
-    {
-      "url": "deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
-      "title": "Google DeepMind Introduces New Gemini Models: 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/wistron-manufacturing-texas",
-      "title": "Wistron Opens Advanced Manufacturing Plant in Fort Worth for NVIDIA AI Systems",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/vera-rubin",
-      "title": "NVIDIA Vera Rubin Achieves Gigascale Performance and Lowest Token Cost for Partners",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories",
-      "title": "NVIDIA Spectrum-6 Networking Arrives in Gigascale AI Factories",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova",
-      "title": "AWS Explores Self-Distilled Reasoning for Supervised Fine-Tuning",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
-      "title": "GitHub Enables Interactive AI Experiences with Canvases",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "How to build interactive experiences with canvases"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiVkFVX3lxTFB6ZVJmTzFmb05GM0J4cFlhWVEtcWhqcTFha2hwRnRwMGtPRG1OTDRTY2swTzB2ZnNtSllpdUFCbmo5MENDNlNPMnhGYXBaTUFlOXp4ZzFB",
-      "title": "X.ai Launches Grok for Outlook Integration",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "Grok for Outlook - X.ai"
-    },
-    {
-      "url": "status.openai.com//incidents/01KY23YCPJ9M5BFFT6ZHKQE9MP",
-      "title": "OpenAI Image Generation Services Recovered After Outage",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "Image generation unavailable in ChatGPT"
-    },
-    {
-      "url": "status.openai.com//incidents/01KY32PEQHPV5F2W4HCNFJ60RD",
-      "title": "OpenAI Recovers from Elevated API Image Generation Errors",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "Elevated errors for API image generation"
-    },
-    {
-      "url": "status.claude.com/incidents/vcynh9cf33xp",
-      "title": "Anthropic Resolves Elevated Errors Across Multiple Claude Models",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "Elevated errors on several models"
-    },
-    {
-      "url": "githubstatus.com/incidents/g40zcbvchny4",
-      "title": "GitHub Resolves SSH Connection Failures for Deploy Keys",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "Some SSH connections using deploy keys are failing"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxPNnpBamFXTmpXX1ROMHBmYjJFOEJuMEtfb0NmZ3MzUTNNWjhEVDctbXNyb0ZMejI4NUR1TFA5am5FNzBXbFkxRFd1RFdoWUI2U0NuUnpHWDJHV3N6Q05tMHNUQVVUNTBoLXFJOTZGQW5CTXozMlNZQWM2WnNNQUNWdXpVQWJfMjNOWnBsdW5vbi1GSTFqcW95bjlZRlFPMlZZcDdZRGVEeGxRb2RKQ21NcTdURFNhcDdSV20yS1puY1U2dw",
-      "title": "White House to Redirect Billions in Research Funds to AI",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxNRnA2ZW5UVVBMZkFtcExCdG5vSTJIMDFGYVhtcFpXellZRkpmcnJocExRNkp5c0VDdXRfVDdXcGs1OGszNEdMM3YxQ3R2UFVwYmdCQW85MjdYUHBlaWlo মিশনJZlE5V1lcQml4LTFOWXEwOW5BcGIyVEQ3Rk5uMmxPQUFLVWY4cTYxNzJTZzZBbkJ1RkFr",
-      "title": "US and China to Hold AI Talks in September",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-22/sony-and-mitsubishi-set-up-ai-vision-joint-venture-for-factories",
-      "title": "Sony and Mitsubishi Electric Form AI Vision Joint Venture for Factories",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "Sony and Mitsubishi Set Up AI Vision Joint Venture for Factories"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach",
-      "title": "OpenAI Models Involved in Unprecedented Hugging Face Security Incident",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "OpenAI Says Its Models Accidentally Hacked Hugging Face"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNQTZMZldvTlVUbmxqNzVHb1RZQVBpaGRycHY4elFRYl9oZnZnRWk2V290WUZWWE1KYnAza3J6Q2NJNkcwNml4VzZ2WGNwejllek9YSTdjOG5ObHdJbGJ6NlpaRHRQQldVZWllOTVSaWMwWDlYR1FURWp0TkJEYklWUENHSU8",
-      "title": "OpenAI Admits AI Agent Caused Major Cyber Breach Autonomously",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "OpenAI admits an AI ‘agent’ caused a major cyber breach by itself - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNXzNmVHB1QXhCTU1XU0p6Ty1ORGRFN1NCQUllRE9GRUwzUkV2WkJ1SzVSb2I4WmgteGZROVQ0LS1xV0VxZVdoMDVhNVhxUkIweDdVX3hrcGRYVVR2UzdrbTVTcGNhblRILWRqc1d0dTM5aFhaQlBkUnZjWEk4Z1dacEhkOUQ",
-      "title": "EU Digital Chief Warns AI is Becoming a Geopolitical Weapon",
-      "first_seen": "2026-07-22T04:31:33.324855+00:00",
-      "rss_title": "AI is becoming a geopolitical weapon, warns EU digital chief - Financial Times"
-    },
     {
       "url": "openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "title": "OpenAI Commits to Community Investment with New Georgia Data Center",
@@ -833,6 +714,125 @@
       "title": "Nvidia confirmed as anchor tenant for $50 billion data center utilizing its chips",
       "first_seen": "2026-07-29T04:31:45.696221+00:00",
       "rss_title": "Nvidia revealed as tenant for $50bn data centre that will use its chips - Financial Times"
+    },
+    {
+      "url": "openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "title": "OpenAI Triples ARC-AGI-3 Benchmark Scores with New GPT Settings",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark"
+    },
+    {
+      "url": "openai.com/index/chatgpt-for-academic-researchers",
+      "title": "OpenAI Offers Free Advanced ChatGPT Access to 100,000 Academic Researchers",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Accelerating scientific discovery with ChatGPT for Academic Researchers"
+    },
+    {
+      "url": "openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "title": "GPT-5.6 Achieves Frontier Intelligence and Efficiency Milestones",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency"
+    },
+    {
+      "url": "deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+      "title": "Google DeepMind Launches Lyria 3.5 in Flow Music with Enhanced Musicality",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity",
+      "title": "AWS Bedrock AgentCore Adds Private Key JWT Authentication for Enhanced Security",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers",
+      "title": "Amazon Bedrock AgentCore Enables Autonomous Business Insights via MCP Servers",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Generate Autonomous Business Insights with AI Agent and MCP Servers"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick",
+      "title": "AWS Quick Automates Customer Retention with AI-Driven Workflows",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Automating customer retention workflows in Amazon Quick"
+    },
+    {
+      "url": "github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast",
+      "title": "GitHub Proposes Dependabot Enhancements to Manage Update Cadence and Security",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE1CM2FacVNnbXQ1MEdPM0tTYzdoSVY0cUR1RzhCcDBtbjYtVU5kWlZSZWo5dWY3ZVN1c0RIOE5kLVkwSmVwaVBVenBsMVY4Z21LVy1F",
+      "title": "X.ai Launches Grok Voice Think Fast 2.0 with Enhanced Capabilities",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Introducing Grok Voice Think Fast 2.0 - X.ai"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxQOW8wU2lGd2pKNFJZY1liRXZGX3RoRG9jcGdKS2FZTElHWDdDYzJ3dXhUdGU2VEVqRjhzOXNBVFFDckxEV2Zhdzh0SHR4QjMzUFBBSEM0Yzk1NDRlOUg3eXk2VndyN1lreU5LemF3LXBKY1ppX0lNOUU3dkR5Ml9kcjIzREplRHp3UkJmd1FtZl9Mc3hqOVN3",
+      "title": "Gemini for macOS Integrates New Natural Language Capabilities",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Gemini for macOS adds new natural language capabilities - blog.google"
+    },
+    {
+      "url": "status.claude.com/incidents/q2kg8n613kr3",
+      "title": "Anthropic Reports Elevated Error Rates Across Claude Models, Subsequently Resolved",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Elevated errors across all models"
+    },
+    {
+      "url": "githubstatus.com/incidents/dsrfymph7my0",
+      "title": "GitHub Copilot Experiences Outage Due to External AI Model Provider Issues",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Incident with Copilot AI Model Providers"
+    },
+    {
+      "url": "githubstatus.com/incidents/75g5xmzptjqb",
+      "title": "GitHub Actions Suffers Brief Outage Due to Under-Provisioned Service",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Incident with Actions"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxOdjc4cldNX0dkZFhjMXhRTWpYekd0N1hjbkF2NXVaQzFsWnBTYzF6MXFHOW1nVm15OGQ0VjJjeGp1SG94ZDRKRC1xY08wRjlLRlZzdV9MR2FabHZBSkNkc05FbWNiWXhEVEtzMTNHYzlwNWdZdGV2R1VsZ1lpdXhiUXcyeWpHejF6UU9PR2FYdUVpSEJDaE95VmxWNDBPOEY2bURFRU9TTEdiNENCR2Q5Z2dVTEFxZTVFMjJjWnhCSHRKd1NtWUE",
+      "title": "xAI Sues Minnesota Over Law Banning 'Nudification' Technology",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Elon Musk's xAI sues Minnesota over its first-in-the-nation law banning 'nudification' technology - AP News"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMif0FVX3lxTE5oWmxweXhuN1NrX2tmLU1rVERaNWhISk9UcWlIZnVyenlFUS1ERW1TRFBDbEdtS21JQkVzYnFXTTNHcDE1c1JYRWIzQ1lNSlhneTdtUUV2emdWVUJRck1iRUhiOUs3ejhzZUZlMDB0aV9vSndiV2xPSGJaS0FCSVHSAYQBQVVfeXFMT3JEeVppTzRxU25DbXhyR3g4SlMyTzhMUnlzMUVqSEc5MXhwc1ppTExZdjB5XzRDVjdmeW5Gd1p3LWkzRC03bzJaMk1ISzNRSjJ5Z1ZvSFdyQUxEaTZ1eFpmNVVDQXJpX2s5UEFLdVhXT0pNX3JIZ290bmRhYTBEdi1DM3NZ",
+      "title": "Sam Altman to Meet White House Officials on AI Framework Ahead of Deadline",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMif0FVX3lxTE11QTk5bGhoM1d1VGFnMGQxWWZvTWozMFF4cjNwOC1vYnM1bjRRWFlkbkpiWHJ2WWxpTGM0VXd4RjgzSUNXVnNzRnkyWTI2WVRvX2Y1S01FOWVUMnZOLVZsWXNUTk1zdjlseklWMjI0UmhCNEwzYzNjTTBRU0ljY2c",
+      "title": "Trump Administration Plans to Repurpose Federal Land for AI Data Centers",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Trump Administration Is Repurposing Federal Land for A.I. Data Centers - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxNQ1FRWDYxejU1Z3BFTVd4b1lKc0UzaEprOHpyU2pJTS1jamVvRVBLV1BIUW1sTGVfUktiZmNVenlqY0ljQlpKSUR4Z1FOeE5Hd2FlZmZlcUlDaUVxYlB6NGI1YXp6aUowa0o4TXJKeFNTMllEV25weHFRRE5pY29pMXE1WHRfUEc3M09BbHJCbGpjajJfbm9KdXVSM2N4Wm5oQ1dOT3k3SUpuNGEzQ3pCTA",
+      "title": "OpenAI and Anthropic Urge U.S. Government to Consider Slowing AI Development",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "OpenAI, Anthropic ask U.S. government to consider slowing down AI - The Washington Post"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxPRkRHaGJwMjZBLUt2QTBKcTQ2TXJIclVZdjNDSUF6U1d3aFFTa0FtMHIzYXBxNmxRanlKNjA3eG1KYU1uY255d3JhS2dQb0l3dHJUd0ptSk5rSDhGT2xMdlZCVThNMENpMHJYaVZXZjVMMWZRMVlma2MzRER1WlZZMlNSMjRsNWpDYjRZb0hYaENfVks0cVlBMDVBRnJIakdMYUVRTWVmVlk2UDRzT05tZ2RmMVYtb0ttaVFj",
+      "title": "Nvidia Partner ChipAgents Raises $60 Million to Accelerate Chip Design with AI Agents",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxNOW0tVXFBZ2FXNkREcFU0S3dXaExacjNVemJWU3RsbnhiTTJWdkZram9nb0s2ZFdRVHJLZmM0VHdRTEMzRFpMcV9Ea0hZNEpoeDhlb0Nyc2RzUzBJSHBXckJ3aTIwQ1F6b2lqeEFkbUFNdXIwbEpLV191OTdoS2ZocUFsdXlIaGl1dFNaMDN2STN4ZXRyLThUemlSeVdoUXJMQ3hmUjdQaTR4cURDQ0JRqUpBNA",
+      "title": "US Awards GlobalFoundries $300 Million for Faster AI Chip Links",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-30/samsung-s-chip-profit-soars-over-250-fold-on-ai-memory-shortages",
+      "title": "Samsung Chip Profits Surge 250-Fold Amid Relentless AI Buildout",
+      "first_seen": "2026-07-30T04:31:52.271117+00:00",
+      "rss_title": "Samsung Chip Profit Soars 250-Fold During Relentless AI Buildout"
     }
   ]
 }
