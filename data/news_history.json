@@ -1,126 +1,6 @@
 {
-  "updated": "2026-07-31T04:31:48.085987+00:00",
+  "updated": "2026-08-01T04:32:43.716406+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/health-in-chatgpt",
-      "title": "OpenAI Launches Health Features for ChatGPT in U.S. with Medical Record Integration",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Launching Health in ChatGPT"
-    },
-    {
-      "url": "openai.com/index/how-news-organizations-are-using-ai",
-      "title": "News Organizations Leverage OpenAI Tools to Enhance Reporting and Operations",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "How news organizations are using AI to advance their vital missions"
-    },
-    {
-      "url": "openai.com/index/advancing-the-next-era-of-national-science",
-      "title": "OpenAI Pledges Support for U.S. National Science Advancement Through Frontier AI",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Advancing the next era of national science"
-    },
-    {
-      "url": "blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-      "title": "Google Announces AI-Powered Productivity Enhancements for Samsung's Latest Devices",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "3 Google updates from Galaxy Unpacked 2026"
-    },
-    {
-      "url": "deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-      "title": "Google DeepMind Commits $40 Million to AI-Driven Genesis Mission for Scientific Discovery",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows",
-      "title": "AWS Bedrock Guardrails Enhance Safety and Efficiency in AI Code Generation Workflows",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore",
-      "title": "AWS and Motorway Develop AI Agent Evaluation Pipeline Reducing Errors Significantly",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai",
-      "title": "Jefferies Optimizes Trading Operations with AI-Powered Trade Assistant Built on AWS Bedrock",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Building trade assistant: How Jefferies optimized front office trading operations with AI"
-    },
-    {
-      "url": "github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates",
-      "title": "GitHub Implements Three-Day Cooldown for Dependabot Updates to Enhance Supply Chain Security",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "The case for a cooldown: Why Dependabot now waits before issuing version updates"
-    },
-    {
-      "url": "github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program",
-      "title": "GitHub Restructures Bug Bounty Program for Improved Researcher Experience and Security Focus",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Next chapter: Restructuring GitHub’s bug bounty program"
-    },
-    {
-      "url": "apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform",
-      "title": "Apple Maps to Power Navigation for Ford's Electric Vehicle Platform",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Apple Maps to power navigation experience for Ford UEV Platform"
-    },
-    {
-      "url": "status.openai.com//incidents/01KY8PGR54KXGBSFXHEJ3FM83F",
-      "title": "OpenAI Reports Resolution of Elevated API Error Rates for Image Generation Model",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Elevated API error rates and latency on gpt-image-2 model"
-    },
-    {
-      "url": "status.openai.com//incidents/01KY81XMFAV8KXNJGVNEMKAK15",
-      "title": "OpenAI Resolves Widespread Service Disruptions Affecting Multiple ChatGPT Features",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Some users may experience elevated error rates in ChatGPT"
-    },
-    {
-      "url": "status.openai.com//incidents/01KY54SWGRK806N6TJ495MYPDD",
-      "title": "OpenAI Addresses and Resolves Elevated Errors Affecting Workspace Agent Functionality",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Elevated errors for Workspace Agent"
-    },
-    {
-      "url": "status.openai.com//incidents/01KY4BT971GFN59WBT0CKSGCPJ",
-      "title": "OpenAI Restores Services Impacted by File Upload and Image Generation Errors",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Elevated Errors Affecting File Uploads and Image Generation"
-    },
-    {
-      "url": "status.claude.com/incidents/yc7mr2gvl914",
-      "title": "Anthropic Addresses Microsoft Office Add-in Availability Issues for Claude Users",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Microsoft Office add-in availability"
-    },
-    {
-      "url": "status.claude.com/incidents/ng5shnqxj1r7",
-      "title": "Anthropic Resolves Service Disruption Affecting Multiple Claude.ai and Related Features",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Service disruption on Claude Services"
-    },
-    {
-      "url": "status.claude.com/incidents/f7w8qkd8z57f",
-      "title": "Anthropic Resolves Elevated Errors Affecting Opus 4.8 and Haiku 4.5 Models",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Elevated errors on Opus 4.8 and Haiku 4.5"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxOQ05SOVRBZDh0SEdBUG9yVkFZTFI1aW5rUGtyZURUWG5IdlZ6eUxMS2JidUQxM0k2WE4zWm4yWDBMNktFNGhUREtQYXVCTTQzSFFBNTN2WEpaR18yWXB5d3l0MHFYVVl4X1BJRWVGRlFnazBtdkt5VklTSTFPNUV3MGMtdGx5N2lma1pUb05XLTN5ekV6X3RqTU9taVFFYUloRTd4cnpOMTN5S0VXTmZwbHFTMTRveWtNcVE",
-      "title": "Samsung Reportedly in Talks to Invest in Mistral AI at €20 Billion Valuation",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Samsung in talks to invest in Mistral at 20 billion euro valuation, FT reports - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxNN0tXOXpfRFVEU3RYV29odERGREg0dXNxdjZaS2lPY0R4THN2LUpnOW5YdFlRa2dsaGhpZkhYWHBLZFhoYnM1ZnZmXzh5aEh2TVZ0MkJieENRWEVITVBJdEE4aDNvZG9rTUZYbTh0dEpBSFU3blg4SXFSZDZoTDJpd2NRWdIBiAFBVV95cUxOTTF3R3BBVS1mTWNxUnZRVHlzTmVqbUJQVTNoemdldnNXVmFxQXQxeDlCU0U5Uld6bDZPQ2JxTFdQdkZ5STk2TVlZQ0lTaml6QmxhYzlPZUt5WEMtdXA4M0dlRExuVkhXak1SU3pWWHlicXdPWUxUazZDQUVpdExXR2pHX3ZoMUwt",
-      "title": "White House Official Alleges Moonshot AI Accessed Nvidia Chips Despite Export Ban",
-      "first_seen": "2026-07-24T04:31:36.230659+00:00",
-      "rss_title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says - CNBC"
-    },
     {
       "url": "blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia",
       "title": "South Korea Charts AI Future with NVIDIA and Partners at AI Summit",
@@ -827,6 +707,126 @@
       "title": "Apple May Offer Higher AI Usage Limits Via iCloud Plus Upgrade",
       "first_seen": "2026-07-31T04:31:48.085987+00:00",
       "rss_title": "Tim Cook hints at iCloud Plus tier for AI power users"
+    },
+    {
+      "url": "openai.com/index/advancing-responsible-ai-across-europe",
+      "title": "OpenAI Advances Responsible AI Practices in Europe Amid EU AI Act Progress",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Advancing responsible AI across Europe"
+    },
+    {
+      "url": "openai.com/index/building-abundant-intelligence",
+      "title": "OpenAI Pursues Abundant Intelligence Through Full-Stack AI Advancement",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Building abundant intelligence"
+    },
+    {
+      "url": "openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "title": "OpenAI Disrupts Cambodian Criminal Scam Operation Leveraging ChatGPT",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Disrupting a Criminal Scam Operation"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick",
+      "title": "Amazon Quick Introduces AI-Powered Agentic Catalog Experience for Data Curation",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Announcing the Agentic Catalog Experience in Amazon Quick"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability",
+      "title": "Amazon Bedrock AgentCore Observability Enhances Production AI Agent Performance",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Optimizing production agents with Amazon Bedrock AgentCore Observability"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock",
+      "title": "Amazon Bedrock Advanced Prompt Optimization Accelerates Model Migration and Performance Tuning",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Migrate your prompts to new models and optimize them on Amazon Bedrock"
+    },
+    {
+      "url": "github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed",
+      "title": "GitHub Achieves High-Speed Source Code Case-Folding Through Architectural Optimization",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Don’t stop early: Case-folding source code at memory speed"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMibEFVX3lxTE5ZU3ctWnUwejFnWUpCM1lsd05RalNBOTJ0MEp0LVVORHpQMG9RYms2aEVyejRsMFdfbFBRT1VlWnZFVzdfTTIyUWNSd0I0bHZWbmR4NWhUWDdtc196R0dFeHYzcjI5Y0ZJNE0tNtIBckFVX3lxTFBXb0RUUTA4bDc5U181b0kxRXdnbk5Gb0o5UnlSU0FWNmpIclVyUVU5b1ZQODJNRGMyeDdKYkJ0dzM2SHBrSWxKSlJNOXVjdHBRRTRvSU5EV3IzcWRmVllCcHJ3bUVubjRtaWd2REJybENWQQ",
+      "title": "General Motors to Launch Proprietary In-Vehicle AI System This Year",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "GM to launch proprietary in-vehicle AI system later this year - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxQMWs4NW56UFpjTEs0UVhiSC0wUXFGcWlqaFNFdHd1ZmlYRzJLUE1pVEI3UFE4a2MzM1JQVkFGbDhSNGw2U2pqVTg3aHB4UGRMaDRnMU5SQWJSRXhVamFwYzRpWl9SSlpTa2xLZXpPTTIzUVo1Zk9zRG5ZNlZQclpmZlkwcGJVRHpzOVhPektPZmdEWnVDSWtacTBhMS1zLW1iSjFWeVZlWktwVknSAbABQVVfeXFMTmJITzFGaUNPYzRYOGQ1NHc1bkFQMElYSFVub2piTFZxMUtXMUdHQjB3Yk04aF9jRThtUVUzaE1GdDRhWk1pbFFwbnBiZ2t1MGhzeFQ1eHNIalB6d1lVaDhSUzdBUFIxMW44SU5rRU5qdXMydy11Xy1VdlZ2Rm5yVHB5U1d2VlIzWmxjQ24xTTF6U3djQm1ETlpzS1dJcEt1WktfaWxWR3gtOFNnSGN5SlE",
+      "title": "Trump's AI Executive Order Nears Deadline Amid Intensifying Regulation Debate",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Trump's AI executive order nears key deadline as regulation debate intensifies - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxQRlZKM1E4OTlVQnVjUUs0ZEVFY2hxZHNvd2VHb0dabWZnbFZKTjJzemRrUkJsNS14blJPcDlmREZMbzdXekNqcWdSVnpQSG82YndnMUJ5TElaNlRBYkRWMlVfU2dWTWdDY1kxa2ZjNnhtQko1Nnd3QkZ1eUhIMVI1MU1wVjFTZ1N4WHE2UnBzVHp0QzBjMzI4RWlnVkVWMmVvTkxWeExNZUlFeE52WHhsdFZJSXlfNld4RFdjMVNNQQ",
+      "title": "Chinese Military Researchers Allegedly Use US AI Models for Defense Systems",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxQN3E5WURUSGY0XzgwWkpzN1BZcElmbnQ0anhTSTRETHU5bHJRQ0Q2VTJpLUlBcXljWGlSX0U0QUhaVVJMTXZGN1hfbVFBU3RZckxBQW40bG52b0NKYkM5SEpobExSRDVIaENMYUpJZzUtaDFwNWZndk1jY2h1TE9Pc2VDZzdCaUJGcUJ3M2Jjcml4Nm54MDFnaVg3c2tlQ3lQX1dQSXhTeHFWR1l4Y3o2c3h1UjJONnc",
+      "title": "AI Model Distillation Emerges as a US-China Flashpoint",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "What is AI model distillation and why is it becoming a US-China flashpoint? - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxNNDQ3NVlFdGNsSGlVcmUxZzV3YnVWX1V4bHhYc0xjYk0weFRhQWNCRG9JTjB0TmszWkRLSkxYamx2bHFWUWZnUS1QN05obnBMWTlWUnJfUHRiTllNNTlsWGVfaTBQRml4R0Y3N01USlFBZmo0bFgyRHRZV2htU0tRakxJSjdJSU41UWNPbmljdw",
+      "title": "China's MiniMax Unveils H3 Video Model, Advancing Generative AI Capabilities",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "China's MiniMax releases H3 video model - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxQaFU0cGsyYkR2Q3o5TnhiOW1td0YxUFhHbzFYaHd4WlNsUkFXYTJvTkR0a3hxR252aGZUelV5eENtdXhFZlpfNlNCSjBxbTRXaHpTSGZHWWdjSllxRTdxb0dsMTVLaFJabWpRbjhYQmRMeTY0Z3JmYm1wYjk4Z3N2WkF0OUpjLTRfbW9qOWpBcnFKdThPZzd4T3B6a1pkdkdZdW5BWnI1TFc5QjZnRTZ4aWFDTzdITE9JVm9iMnpUOA",
+      "title": "EU Engages OpenAI and Anthropic Post-Rogue AI Agent Incident",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "EU in talks with OpenAI, Anthropic after rogue AI agent hacks - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-07-31/google-rolls-back-earth-ai-tool-over-concern-about-fake-images",
+      "title": "Google Rolls Back Earth AI Tool Over Concerns of Fake Imagery",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Google Rolls Back Earth AI Tool Over Concern About Fake Images"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-07-31/illumina-ceo-on-genomic-sequencing-opportunities-and-ai-video",
+      "title": "Illumina CEO Discusses Genomic Sequencing Opportunities and AI Integration",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Illumina CEO on Genomic Sequencing Opportunities and AI"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQbGFiQWd2SU1kRkZON1JiSmp0eWhKTTlEdGwyWEpRYW9DQWQxUTlTWnJtdk5ZZFl0amF2YTJpTmM3V3RFdXlJSUJHNENBeVZTbk1kRFNxd0U1emVhcHhBRlNnNkVuUHhMMmhjbl9YSzNieGQ2TmFtYXQ5Q0dTNFJRVTljU3k",
+      "title": "ByteDance Makes Significant Investment in Artificial Intelligence",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "ByteDance’s big bet on AI - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOM3pRTk83WVNWN29PVmFHMzNwcTFEOXJOVi1TeDdSaWx0eGY5NEtaRXlkUEViX1ZNQjFWcWlJU3pVbkpWUzVxdkJiTm5EMUI0QWhVR2NCd1lqc21NZ0lzenJ2a25YUGI4MkF5SEQ3aFFnMElSMHRRYTRGNklJZnhLeXp6REc",
+      "title": "Amazon AI Initiatives Contribute to Unexpected Spending Surges on Tech Projects",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Amazon finds cases of AI causing runaway spending on tech projects - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQUkVnZWVUZXc1QjNEWTJGcmxmVldoVExTN1lVZjJ1Rkl1NjZkUVk1SEdwTFo3NFV5R29NQ3ZVOXlNYlNVSzJJSXBrS3c5Z0tvZGxvaWRRX1Z2U1VKbnRUSFYtTXYwTHgzakF0aUNPNXZJU1dBeXJlWEdlZW1iQVpQdVZrWXc",
+      "title": "Google Earth AI Tool Suspended Following Proliferation of Fabricated Satellite Images",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Google Earth AI tool pulled after spate of fake satellite images - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPVnh4X1BCWTB5dFFVWWJWRzZKWmhLZl9BbmloMEFDQ2RobExYTHMxSUdyeTljSnFvdWZJSFVZXzZoU2lta1lHS0lkVnc5Sl9XY0VGcUp4VW9jNEdZMVZ2VHdkd0UzX2tUTHRUZjJrSVd3ZXNjX2c3X0dVQWZ1YVRsd1hEX2I",
+      "title": "Big Tech Companies Invest Over $1 Trillion in Artificial Intelligence",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "Big Tech AI spending spree tops $1tn - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxPblVvckVvMUNsTHo5empfbjJWTWNEc2pNVVhfV1lhLUJnZW1EUjFDVFpuUmN4Mmt5bW5mdDdaWHJ3SlNZNDRuWDNiX0llaDRsckZiRUdDTTdVNFE5T0NnNTFCNkFhU3YwYVVQdS1WaWlqMTZsbVNSRVJtZXlxbGplTXhWb1JnbTBTYi1fd0J4TVZXZGsyMFpRQVZR",
+      "title": "EU Issues Call for Local AI 'Gigafactories' to Boost Domestic Capabilities",
+      "first_seen": "2026-08-01T04:32:43.716406+00:00",
+      "rss_title": "EU Opens Call for Creation of Local AI Gigafactories - WSJ"
     }
   ]
 }
