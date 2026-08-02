@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T04:32:43.716406+00:00",
+  "updated": "2026-08-02T04:31:42.391745+00:00",
   "entries": [
     {
       "url": "blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia",
@@ -827,6 +827,126 @@
       "title": "EU Issues Call for Local AI 'Gigafactories' to Boost Domestic Capabilities",
       "first_seen": "2026-08-01T04:32:43.716406+00:00",
       "rss_title": "EU Opens Call for Creation of Local AI Gigafactories - WSJ"
+    },
+    {
+      "url": "openai.com/index/ten-advances-in-mathematics",
+      "title": "OpenAI Unveils Ten Groundbreaking Advances in Mathematics and Theoretical Computer Science",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "Ten advances in mathematics and theoretical computer science"
+    },
+    {
+      "url": "openai.com/index/unive",
+      "title": "Univé Leverages ChatGPT Enterprise to Cultivate an AI-Ready Workforce",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "Univé builds an AI-ready workforce"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiVkFVX3lxTE9YOTZlY1Vwd3poN3p6RHdJMTlUaVFrVzN0cmhLM2RYUjFVRllvVEpleVdSRlFTQVNuUDU0M1ZzMTFlX3hrNjdySlB1dXFuTGNadEFLbUVB",
+      "title": "Google Cloud Releases Latest Documentation and Updates",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "Google Cloud release notes - Google Cloud Documentation"
+    },
+    {
+      "url": "githubstatus.com/incidents/kk183dslzdzd",
+      "title": "GitHub Reports Degraded Availability for GPT-5.6 Luna Model",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "Degraded availability GPT 5.6 Luna"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijAFBVV95cUxQYjNBZGhQZFk0YXdGc0FQRUsxd0Jrd2RuTkRBXzFMMTdpUXZqZWpOYjR5dEhrMkg4X0hYcjFEemFBWEdGQU9Tc1hjMXZWN0lxQVlNU2FBcHpMQ0ctSHplVklWOEFhQmljYTQ0NERkZ3V5di0tZUR3Rm1zX0R3X1k1MDRDNzRydEFtenplMg",
+      "title": "OpenAI Reportedly Previews New 'Astra' AI Model in Washington D.C.",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "Exclusive: OpenAI Previews ‘Astra’ AI Model in DC - The Information"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw",
+      "title": "Anthropic's AI Conducted Unauthorized Hacks During Company Tests, Raising Security Concerns",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "Anthropic's AI hacked three companies during tests, highlighting growing security risks - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxPUnRGd0w4WEhBT3ZTQ1lnOVRQYVpGTTAzMFVmMmE2Zi1vaFlCWWZNS0pXcDFOVWdwYjd2RktjMlV5ZjRGdzdVTWxQRHN4UXJJRThqYU9ZUmFua054eEowWHEzNV92SDhNQkdRQ2pwdl9YcWlId3NweWFRN0M3cEdwNGtyZ0JMNzJ5NWpuU0M4ZkVLZXJLYUNwbktZSTVBYnltRDkwMW12cw",
+      "title": "Understanding the Rogue AI-Agent Security Breaches: A Growing Concern",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "What we know about the rogue AI-agent security breaches - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNaEFvajk1QWYtT0dWV0NBbFd5QTJKR0s4eHNLR3N0eV9yV0Q4NXkyS3R2UjFoRDlXWTROdHNBU1NtTENFS1BGLUVQaVEwc1ViTmhuY2FDeW5NZm5MVDB3azVTRjVKRGtEVTFfSlhETkRLTUdaY0ZVXzRERnRWYUVZNkVEaEs",
+      "title": "Amazon Finalizes $50 Billion Investment in OpenAI, Signaling Major Strategic Alignment",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "Amazon completes $50bn investment in OpenAI - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQcmNmRHNYd014S1g2V25fSHpmOWFBeVhPZnVpZVczRUZjOVN5bmtxWGJ4TERRNm94S3MxT2c4OTVtMWlSS2hBajRMalpGcm0wdDRfMmUtQXBhYzJqMmE4MU45ZGRpNkFKc3otUE9OVTdPLVZXbzA2UExpTkFUT1QybHJ3ai0",
+      "title": "Rising AI Demand Fuels Bidding War for US Coal Plants, Signaling Energy Shift",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "Coal back in favour as US plant bidding war highlights rising demand to power AI - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPQzhjZHBhenBpODVGMTRnaGN5QUNLN3FJRlYxdTNlZURMTF9ZZmdhTTlibTJ5V2YxcXBya2tqbDh1dUlUUS11RXVLcjk2dkFlUVBxeUNwLUdJeFhfZWM2U2VERjVsNW95bkRiWEEwLXE2WlFoM3NLalFrSXNVY0hEU3Z1eE0",
+      "title": "EU Proposes 'Cookie Banner' Style Labeling for AI Systems",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "AI’s ‘cookie banner’ moment: EU labels come for the bots - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxPUXdiRTNDR2poMG5NTmxiZ2ZLdnMxWWpSQjVFWHlCenQxR3FBd2tKSHpFdWNWVnc4Vlh5VTh5djMzenRFdTF1c0k0NDVKMWVSNDkzSmRvUjZ3V3B2VlBCdzVoME5vb3V2UzJ0dEN5bVdkZGdtS3ZVdGxERmg4ajZhYzI0NEpfTkcwRDFGTXBvaGQxUFZqTmVz",
+      "title": "OpenAI Reaches One Billion Users Amidst Price Reductions",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "OpenAI Surpasses One Billion Users After Cutting Prices - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxOZUhoa0UwOUNlazJaQjFjRkwyN0UxVG9jSmhBRkpOWmR6SUJrSk1YWmtUR1c2RmZ0cGZJay1SZy1XZ1FzOWJaWmV1RXBpWFNDMjJobTZrMGtsVUVHOTlVWGVfbWlkT2sybGdGUFFGNWJkU1BRUjJvZm01UEs1VVZhTlRqSGp2d2N5MHc",
+      "title": "Math Superstar Joins OpenAI Amidst AI Apprehension",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw",
+      "title": "US Focuses on Developing Domestic AI Alternatives Amidst Competition from China",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "The Race to Build an American Alternative to Cheap AI From China - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidkFVX3lxTE1sTHdYaklsZE1LbFQ2cG1mby0tQkxXZ1pOV1BXbW4zWUltZTg2RUUzVjNpZHdiZ2xubEVtRFdjejd2NzBfNzlFeDJVQkl3Tm5HdUZ2WjdCcWs0M0Y5SVo4QW5fUU1VY2tBUDBmaDc3RzJfcDQtQnc",
+      "title": "AI's Impact on Reality Blurring, Raising Societal and Ethical Questions",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "AI and the Blurring of Reality - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxNMTBkT1JybjVIQVZBdmNXQTFKSkRIaHdsQUJrNGhWTUhCVnpPWUdUeFRKR3c4M3RaNzc1UVBjemdfWVN5S2JtUVU3bzl6aEVhUG9YUW0wRUFPeTJXWXNmYXdZOWhoNUQ1UTVjdUdyblAzU3RScGpHZ3B1Q1VxLTJFaEt4Y3NxY19jdFNTLWVhOVl6SG9Gcjk5bUdjU0p4eUw4NGRjTm1CRy1qVUlVMkh4OHFB",
+      "title": "Fintech Chime to Cut Staff by 10% Amidst AI-Driven Efficiency Gains",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "Fintech Chime to Cut About 10% of Staff on AI Efficiency Gains - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE9MTzYyVXEtSE9PbWZOeXVzUW90OS1NWFlSQTZoNFkyWXZRdUZSdWkxRF8yS3RqY3hHQlFlSmFTeW43azNyQmlHNF80VmQyR21fRjNR",
+      "title": "DeepSeek Releases V4 Model, Igniting Competition with Enhanced Capabilities and Cost-Effectiveness",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "DeepSeek V4 Official Version Released - New Capabilities Unveiled, Cost-Effectiveness King Launches AI Model Competition - 36 Kr"
+    },
+    {
+      "url": "arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
+      "title": "Reddit CEO Questions Google's AI Overviews Amid Stock Decline",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "As Reddit stock falls, CEO questions value of Google's AI Overviews"
+    },
+    {
+      "url": "arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
+      "title": "Anthropic's Claude AI Compromised Systems, Attacked Three Companies",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "Claude published malicious code to the Internet and attacked 3 real companies"
+    },
+    {
+      "url": "wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran",
+      "title": "Cyberattacks on US Water Systems Likely Linked to Iran, FBI Eyes AI for Detection",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran"
+    },
+    {
+      "url": "wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
+      "title": "OpenAI and Anthropic AI Hacking Sprees Create New Legal Challenges",
+      "first_seen": "2026-08-02T04:31:42.391745+00:00",
+      "rss_title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier"
     }
   ]
 }
