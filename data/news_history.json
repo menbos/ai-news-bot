@@ -1,125 +1,6 @@
 {
-  "updated": "2026-08-02T04:31:42.391745+00:00",
+  "updated": "2026-08-03T04:31:38.714640+00:00",
   "entries": [
-    {
-      "url": "blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia",
-      "title": "South Korea Charts AI Future with NVIDIA and Partners at AI Summit",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model",
-      "title": "Anthropic's Claude Opus 5 Now Available on AWS Bedrock",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws",
-      "title": "AWS Enables Explainable AI Recommendations for Banking",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Build an explainable next-best-product recommendation system for banking on AWS"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock",
-      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna Now Live on Amazon Bedrock",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxOcC1KclhhSTJLLVVhUG83cGJIaWZzbmc3UnFueERxWFp2MmJzV2pwNm9ab2J5bklGbk53bTJaQ3hmZ3kxV3FjMFJNdkpuNGZDWVY4dkdiblI3NGE3V0tvUEVXMEU3eDh4eF82clZzQVBFN0J3Q1AyT1FxRVZjNWxmeFZocGU0SmczbHRCMGt2eklmckIz",
-      "title": "Claude Opus 5 Integrated into GitHub Copilot",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00"
-    },
-    {
-      "url": "status.claude.com/incidents/j6gv862066n7",
-      "title": "Anthropic Reports Elevated Errors for Multiple Claude Models",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Elevated errors for Claude Fable 5, Claude Sonnet 5, Claude Haiku 4.5, and other models"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxNYXpMVFZkNE1ZcGY0ckgwZGJ5YnNGRzVtMUJaN0tFWW9la2gzYm9oWFBXdUdPV0N5LTJRQXJ0RlFsMFF6RFJmaXZ3VVE4eHowaWd2UUprUnI4cGo2UldKZmJCMWpzd1Zma0lKRmYySU0zbGNndGpJd1dnU05ZT2pIQkc0ZmFZam9CY2hNbE5zVFNha2EwNlo3VEdHZ0RmamZqckFuOHBYcHh6eGRaMDRpS3Zn",
-      "title": "Google Adopts EU AI Act Code of Practice on Transparency",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content. - blog.google"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi5AFBVV95cUxOTUxqUjE2Q2t1YURxajB0LU5oUVpIaWtfeXUyUkNkUXJtVV9ncGhHdzQyaEJaR3ItT0VLeVk0eEN5cnE0SUdtZVBjYUY1VHZxeVJ6UThSRVRaVG04YmhIRERmYUstRElaVWkwcUJva2N0SUktaENFUzZrcHFVTDZacDZQR0pzNDBsOTRKZzVINk5tS0JtVDQxYzV6NlpLM2U5TWhIUnBJdk1tN0NKekNtRWlwbHQ4YktPelFtaHByNndGdDFoRTZXXzZKcDkxa0RQSmdIa0JqTFRoVDJrYkpSREdkOEE",
-      "title": "UTHealth Houston Achieves HIPAA Compliance with Generative AI on Amazon Bedrock",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "How UTHealth Houston built HIPAA-compliant generative AI at scale: iDFax’s 2-year journey with Amazon Bedrock - Amazon Web Services (AWS)"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilgFBVV95cUxQdm5uUXhNOEcyUXB6LWVpNDJ3UkJZclpja1ctcFdYclhjenJISmRRZGZTT2hoTDFXa2NuQlVzdGRRYmJWTWRCelg1M3hzWnR4WjBRZThDNjRmckw5c2paZU9pZ282ZVJXeTR6SWxhSG9qdkFUdlkyWUdZRDNPVUVBZGthbExxWThEdW5DWEk1NmJCQUJzT0E",
-      "title": "Chinese AI Models Gain Traction in the US Market",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US - AP News"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU",
-      "title": "Tech Giants Back Open-Source AI Models, Including Nvidia and Microsoft",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Nvidia, Microsoft and other tech giants back open-source AI models - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY",
-      "title": "OpenAI AI Agent Hacked Company Without Detection for a Week",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiywFBVV95cUxQUU9hRHpSZjhTckdMMkZMcWVfX1pTWDFJNV9FWTllbi13MlJhZjZYUWVZOGpmblVpWE9ua3BjUHRaZ2Z5V2IxOGlGN1hrU0xQUFozc21rLXJiZ3p5NkpldnBoOUZ0aHhOOVJBOGxhRGVPYnVYVTBIMElLejJMWFN6cnB2LXpBMXhZQ2hGZVY2ZmhCNEJuaVI4REthQ2h5VkdWQlhSWWp0Smt3dWdxSC1GN3MxSGg1X0hzbU5POTNrVmowU21sNnduVEFnWQ",
-      "title": "Samsung and SK Hynix Announce Major Chip Deals with US Tech Companies",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Samsung, SK Hynix to announce major chip deals with US tech companies, Seoul says - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-25/samsung-inks-200-billion-chip-supply-with-broadcom",
-      "title": "Samsung Secures $200 Billion Chip Supply Deal with Broadcom",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Samsung Inks $200 Billion Chip Supply with Broadcom"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOU2FyWGg1ZUJWeDUxVHUwQThYaWdrRng5M2poTEU0a2tfSGdJd0NwTnROQWFuTTNtTk5qcmNkbFB4NjJMYzhRR1NKWkd3aHh0blRIVFhibk1yN1VBenAxMVI0WjcxZDNEVDMzSDFuUmt2c2JqY0RQbjBZM3AxZDVMeEwxRG0",
-      "title": "Nvidia and Palantir Advocate Against Banning 'Open' AI Models Amidst China Concerns",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQbW1EcEx5TlRUMnc0QUtNWDJET0lqVUQtMTFCV2l4S0xCZ2hxcXdBMkR2dVJzQVhPVXhJTTdIa05BTE1OQ0dDOW1kMzYxWERRMWpNcUxTdDdPTlIwQWl0bzRKOWtNcTNONzNuQlBQNk8yMzBOSmZNNGliZXdEMEg5ZElNMXQ",
-      "title": "Chilean Storm Disrupts Copper Mines, Raising AI Supply Concerns",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Deadly storm in Chile disrupts copper mines and raises AI supply concerns - Financial Times"
-    },
-    {
-      "url": "arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer",
-      "title": "AlphaFold AI Aids in Designing Safer Gene-Editing Proteins",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer"
-    },
-    {
-      "url": "arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say",
-      "title": "US EPA Rule May Limit Public Input on AI Data Center Expansion",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "AI firms want more data centers; Trump's EPA may give neighbors less say"
-    },
-    {
-      "url": "wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days",
-      "title": "OpenAI AI Models Breached Hugging Face Systems for Days",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days"
-    },
-    {
-      "url": "thenextweb.com/news/samsung-broadcom-200-billion-chip-deal-ai-memory-foundry",
-      "title": "Samsung and Broadcom Sign $200 Billion Advanced Chip Supply Deal",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Samsung signs a $200 billion chip deal with Broadcom covering memory, foundry and advanced packaging through 2030"
-    },
-    {
-      "url": "github.com/slvDev/esp32-ai",
-      "title": "28.9M Parameter LLM Successfully Runs on an $8 Microcontroller",
-      "first_seen": "2026-07-26T04:31:33.790987+00:00",
-      "rss_title": "Running a 28.9M parameter LLM on an $8 microcontroller"
-    },
     {
       "url": "blogs.nvidia.com/blog/vera-cpu-eda",
       "title": "NVIDIA Accelerates Chip Design with Vera CPU Optimization",
@@ -947,6 +828,126 @@
       "title": "OpenAI and Anthropic AI Hacking Sprees Create New Legal Challenges",
       "first_seen": "2026-08-02T04:31:42.391745+00:00",
       "rss_title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQWjlHM1ZsVFZ2VWZiRG4xcTd3aWdrU2U2SEwySXh3RWxPYWhBSlM0MTU2M2M3dlVDTnN5TDVUUkJvUGw5WXczVlB0ZzBPMk5NTjhOWkwwcGRHYWk4MGVUdjhRNUc5NXFkN1BFSHdrVnJtM0ZXSDNwM3phcnA5WE1LWjMwbUVhRHV2YUl2SmFBUVZUbXNTQ0EtZVBXRHhoSjlobzJuOWk4SnJvalVfZTdaWkVtRHdjN21v",
+      "title": "Alibaba's Qwen3.8-Max AI Model Challenges Global Leaders",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "Alibaba Releases AI Model With Performance Rivaling Anthropic - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidEFVX3lxTE04emlXWXpVQXhNcjJsU1d5ZmhnU1J2TFRyeFlxM2hqUUNUNVR2UmxFQUNBanYwWnd5ZUpTRnptVEh2TXU2NU5aa0FRbFV6ejVPd2wxWFNXa3RoaTZPQ0dQSHc0Tkk4WE93Q1JwV0tIWGNBaGNG",
+      "title": "DeepSeek's New Model Accelerates AI Cost Reductions",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "DeepSeek's new bargain model accelerates AI's race to zero - Axios"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+      "title": "Alibaba's Qwen3.8-Max AI Model Matches Anthropic Performance",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-02/ai-is-turning-retail-traders-into-diy-hedge-funds",
+      "title": "AI Empowers Retail Traders to Act as DIY Hedge Funds",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "AI Is Turning Retail Traders Into DIY Hedge Funds"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-02/who-governs-the-ai-boom-video",
+      "title": "Debate Intensifies on AI Governance and Societal Adaptation",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "Who Governs the AI Boom?"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOSUZlb21va0dHaEhfWFM0YUJzZ3FOLW1FUmN4d0pOaWx1cnM2VTlTNENubGZTNmlSTFZmS1p0SjBvampPTGFOU3U4YVhLX0lhbmNQTk9sYks3dXQyN1JFdDVGNGRZbmw5S3NpQ2NNaHNvN1UtS2UwV1ZxZFhFRlV4NmJlZ0Y",
+      "title": "Apple Faces Challenges in Managing AI Bug Bounty Programs",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "Apple struggles to keep pace with AI ‘bug’ hunters - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxPTjVvZkVKbDRZaTBMYlBBRlNzb1FZdkhDRTRKQ25nTUU1ODVJMEx4Z3AwZnFCS1ZKc2Yyd0t3U3RCV3VNZUZJTzRzYzFkNFlzQ1NsellQT2EzMmR4X252dmk1U2QybEVja0F5WGo3VC1IM0JMdzJBZmdBRGhCbHNkQlBjR2xLU3gzb1RNMmcxMzl2aFcyLUJOakZlUnRRQXdiWDFoemF4aEE",
+      "title": "German Robotics Startup Agile Robots Projects Doubled Revenue",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "German Robotics Startup Agile Robots Set to Double Revenue This Year - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMieEFVX3lxTE4tQmdLaE9EYUNjNFdXdElFRS1Lckt2Q3U3RzBCTV9aNGkxNzdMNHdackdGUjVuVG5OUkxXNGRnNWxLdUFwWW5wR0VuNEF2aFl5VFlxVWEwMGJCLWlmcUF4Rmw1RERfQkVpM2xfc0xjeVRfOW5nblN5RQ",
+      "title": "The Cognitive Impact of Pervasive AI-Generated Images",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "AI Images Are Everywhere. Here’s What They Do to Our Brains, and What We Can Do. - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMingFBVV95cUxOZzdxMHNMWnZqYktyTy1jVEhaRGh5ZjBwdjR5ZWcySjNMS0I5SVU0QU15WUdiNEhXMmxveV9WSWg0endtTjVKRE1JQkF6R3h6RWZ1LVJXWFdpT0pDRGNjVWlPdW9qYlVLNldkM2hJWUFtRjJiQnpNeXM4MU52YzlMRWk1VGFsamNkRnZFUUhZQlBKRlF2b3BKZVBRZXM0Zw",
+      "title": "Wall Street Anticipates Profitability Models for Tech Giants' AI Ventures",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "Wall Street Thinks It Knows How Tech Giants Will Make AI Pay - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTFBhanRmM1VyUjhoWVBuYUQzaGRiSHB4c3ZlRVlBZWE3ZmxuMUxEVGJ3OGJzc2ZyREJ4OU9VV011QjBhWDhDMERSYWVaa2xHMkJlc3Fz",
+      "title": "Meta Launches Vocational School to Address Skilled Worker Shortage",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "Meta Poaches Electricians with Seven-Figure Annual Salaries: Desperate for Skilled Workers, Tech Giant Launches Its Own Vocational School - 36 Kr"
+    },
+    {
+      "url": "therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control",
+      "title": "Google DeepMind's Gemini Robotics 2 Enhances Full-Body Robot Control",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "Google DeepMind says Gemini Robotics 2 enables full body control"
+    },
+    {
+      "url": "wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives",
+      "title": "EU AI Disclosure Rules Prompt 'Disclosure Fatigue' Concerns",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives"
+    },
+    {
+      "url": "cleantechnica.com/2026/08/02/is-china-winning-on-ai-because-it-just-has-a-better-approach-to-business",
+      "title": "China's AI Business Approach Questioned Amid Global Competition",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "Is China Winning On AI Because It Just Has A Better Approach To Business?"
+    },
+    {
+      "url": "arxiv.org/abs/2607.28629",
+      "title": "OpenClaw and Ollama Advance Agentic AI Towards Autonomous Systems",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems"
+    },
+    {
+      "url": "arxiv.org/abs/2607.28631",
+      "title": "AI Scientists Benchmarked: FARS Leads Autonomous Research Generation",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review"
+    },
+    {
+      "url": "mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "title": "AI Financial Advice Shows Promise, Particularly with Effective Querying",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "AI financial advice is surprisingly good, especially if you ask right questions"
+    },
+    {
+      "url": "reddit.com/r/LocalLLaMA/comments/1vduej3/chinas_dfsx_offers_2x_the_memory_bandwidth_of",
+      "title": "China's DFSX Hardware Offers Superior Memory Bandwidth to NVIDIA's GB200",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "China’s DFSX Offers 2x The Memory Bandwidth Of NVIDIA’s GB200"
+    },
+    {
+      "url": "reddit.com/r/LocalLLaMA/comments/1ve1mvh/minimaxh3_now_on_huggingface",
+      "title": "MiniMax-H3 Model Now Available on Hugging Face",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "MiniMax-H3 now on huggingface"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxPanp1NWdVLUd3U0RWQWx4cVdubFJwM09YRkdUTjZadGZXRlJ2U0l6OFpoenVwU1JsQVU1Qkk3dzd1aFhGNDFfVWtTOWFNZV9fNTJyclpZaXRvSkRZRUVHdkgtdmZNUklvYm1LWVA5dXdtemJBTDMzSEJhMzdzOEJ3dUJwdUlFem0xY1U5UFhCcWpXTWVQeEM2NU5zbHdDSlh5Z1M0",
+      "title": "Meta AI Uses Memory Coach Agent for Long Task Execution",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track - the-decoder.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNSk1acTc1NUo5RVlKdDVpUng0cHIzMW9kem1CbmFrWGY1a2NXUXBMV0g1TG5Fc2p0S09aR1h5YU53MDkyZHBIc1htZG5wRExZaFRQZkxSQkxkdE4zbTlQcVNwdzBldlg4a1BCSS1rUjRxSmxtVGV5Yk1mVUotam1ZbEFiZnNzcW5TdlYyT0dKYWJaSmpJRGdiYVBGUi10UHNnOUFQSjczc0hyZ2tXVVhBMjU2TlVSZzlZMEU0",
+      "title": "OpenAI Unveils 'Astra' Model, Demonstrating Advanced Mathematical Capabilities",
+      "first_seen": "2026-08-03T04:31:38.714640+00:00",
+      "rss_title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions - the-decoder.com"
     }
   ]
 }
