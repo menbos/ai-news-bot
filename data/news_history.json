@@ -1,125 +1,6 @@
 {
-  "updated": "2026-08-03T04:31:38.714640+00:00",
+  "updated": "2026-08-04T04:31:39.774614+00:00",
   "entries": [
-    {
-      "url": "blogs.nvidia.com/blog/vera-cpu-eda",
-      "title": "NVIDIA Accelerates Chip Design with Vera CPU Optimization",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs"
-    },
-    {
-      "url": "status.openai.com//incidents/01KYDN6YPS6ARY1EC9089N089G",
-      "title": "ChatGPT Experiences Elevated Errors, OpenAI Monitoring Recovery",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "Elevated errors affecting ChatGPT conversations"
-    },
-    {
-      "url": "status.claude.com/incidents/zftg3gqkmv18",
-      "title": "Anthropic Resolves Elevated Errors Affecting Opus 5",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "Elevated errors for Opus 5"
-    },
-    {
-      "url": "githubstatus.com/incidents/fmmsrcg5x638",
-      "title": "GitHub Addresses GraphQL API Request Degradation",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "Incident with GraphQL API Requests"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikAFBVV95cUxQaEV5NHNvbGZGZjM0S2E4WVVLQXhWMU1zcVhnRTBWNVFQX1BOUFlxN3JGYTM3T0xuLXhPMHpQVlhNY1h0TFRkeXIyTGNuYVZXSUQwTk5ybUdLRjF4am5OdjFvY01tbk9ER3RrSDNRQ1VaSFJlLThLTS0zcFd4REpBSHdHRmxRRm4wUHduQ3NWSGw",
-      "title": "Chinese AI Labs Challenge US Dominance on Cost Efficiency",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "China's Moonshot, Z.AI, and DeepSeek are challenging U.S. AI labs—and beating them on cost - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMifEFVX3lxTE5GTzkwZkQxTjlocVJzUEx2UnczRURMZHR1dE1iR3h2UFlhSTBpTGlaaHI4am05cjE5Mld2UVNEUWtQZHpKbzNrTE81ZGhwS2lrS25xRTJDaFF3MGg1OTBWanEtQkpSRXRlV3RjdXBZS2VBQVMzd3NXNnJmcnU",
-      "title": "Unionized Workers Negotiate AI Integration in the Workplace",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "Unionized workers are bargaining with the bots - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOYlgyaF9mZU5LRkVuNnJab1VqdnpLYkdWRDUtQXhfTEhpYmwwUU9tWFo3bUpFTXlJSTFRVEI0SkQ0Z01tempDNFdWR2E3N2JvUEliY1h4Qi1iN3pxUTRhdWRpSlpfVWZlR1BubHlKYlBYcEhhUFg5QmRUM3c1Z213S2ZQVEo",
-      "title": "AI Companies Ramp Up Washington Lobbying Efforts",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxQeU9NSURzQzl0bmEtUUptVy0zYWdqZ1ZWRVVnclVkdFJOTjhKSDhCSHVNYkpsdmVucWVjR29uSEJxRC0xVkVDLTlWNzJQRlNrdGFvU29HS3B1Q25fT0ZNVTVXNk5lb19fbjZPU096Y1hfdVAwdEdXNVRBWk4yOXIxZi1mRkxrbVluVXJmVlFjRzNlSjJYcDlIcXItMUxtRW5EU0JRSEtR",
-      "title": "AI Industry Spends $65 Million on Lobbying Ahead of Midterms",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "The AI industry has already spent $65 million ahead of the midterm elections with no signs of slowing down. - Business Insider"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB",
-      "title": "Nvidia in Talks for $250 Billion OpenAI Data Center Financing",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU",
-      "title": "South Korea Secures $950 Billion in AI Deals",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "Samsung Elec, SK Group seal $950 bln deals as South Korea hosts AI powers - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-26/memory-frenzy-primes-china-champion-cxmt-for-historic-debut",
-      "title": "China's CXMT Poised for Historic IPO Amid Memory Chip Frenzy",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "Memory Frenzy Primes China’s CXMT for Historic Debut"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-26/china-memory-champion-cxmt-set-to-debut-after-9-8-billion-ipo",
-      "title": "CXMT Jumps 472% in Shanghai Debut, Becoming China's Largest Onshore-Listed Company",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "China Chipmaker CXMT Jumps 472% in Debut After Blockbuster IPO"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says",
-      "title": "Instagram and Facebook Allegedly Ran AI 'Nudify' Ads from China",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "Instagram, Facebook Ran AI ‘Nudify’ Ads from China, Report Says"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-27/china-s-moonshot-to-release-breakthrough-ai-model-for-download",
-      "title": "China's Moonshot AI to Release Breakthrough Kimi K3 Model for Download",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "China’s Moonshot to Release Breakthrough AI Model for Download"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTFBwZ0VIRjNVbXhaWDhDMm5STUprMWp6UnR4Q05CQnl3cXNhNFZBaFZVa0FLSjN1SUlUZXUwcG1iRnItV3d5dWVnOU93TF93U2NjTnNnRnZtUjlOUWMxa0kySXM3VzFyUGJHUzNkaWVJazQ",
-      "title": "Assessing Risks of Chinese Open AI Models Like Kimi K3",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "What is the risk of using Chinese open AI models like Kimi K3? - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijAFBVV95cUxPei1YM1NQOTJ5QWc0THBIUmNjd255MUdfbTViZ2NIRk1hWFlFUjV4N1BBNk80WjhRVXF2WUMtTExvV3RZdXJpbDVIQk5pOGJqVHc3dkN3VF9yYzZYdkZaajdId0dfcTNMNFpvWm90NlNzbXRvMk9LaTRSUDdWSWlYSjM5OEFBTjdlYXRfZw",
-      "title": "Nvidia to Invest $1 Billion in Naver's AI Project",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "Nvidia to Invest $1 Billion in Naver’s AI Project - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxNV2tmdEpBLWR6Sy1ZM25aUndPUkhtMTBOOHRjUVN0SFlacU9rR3QzWVhzQVdWdDJrZHpxX3Bld0pIQjVwcEFBVUdsTVFyajJ3R0RwZWFiTHRfQkwzVUp1LWtjenB4RFd1S2R6LWYxTXZHeldzMGJiaEVWMm5TaEd6VUVRYw",
-      "title": "AI Chatbots Capable of Instructing Biological Weapon Creation",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "AI Chatbots Know How to Make Deadly Biological Weapons. Some Will Teach You. - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxQclBNSjhDMUdMbm80ZmNJMXo1Y3JIRWtIQzUzTkJZaVBWQm9VV19ZTnlOTGhyYkw4OWxBZGFnRnVMZ3NDaXRuVUt2b2FoNExXenhFY0VOWEZyaFdPSmczQ1FzUFdzR1pkVnUtejJQdkhVM3RDX1htOTBqVnhORVM5OVV5cVdUZHhqT3JJa19DM2E5VHhITEloc3ZCZ3RESUpMbkFkTkplVG85Q0ItVGowNw",
-      "title": "Waymo Accumulates Thousands in Parking Fines in Austin",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "Waymo Is Racking Up Thousands of Dollars of Parking Fines in Austin - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMic0FVX3lxTE90VnVqclNXaVFuU205enllZ3JQYzlUc0JfNV9TeENsMjdYeHRqMzJ4NVBNY3BWTXpDUGl0RXV5NHFqYzctQlJQWF82YkRMLWlKNkU5dEF0R0JnenAzLU0tckt5WUV3cFdvZVZqOGxJbHRUdzQ",
-      "title": "The Day the Bots Broke Loose - A WSJ Analysis",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "The Day the Bots Broke Loose - WSJ"
-    },
-    {
-      "url": "thenextweb.com/news/claude-cowork-sandbox-escape-mac-files-sharedroot",
-      "title": "Anthropic's Claude Cowork Exploits Sandbox Vulnerability on Mac",
-      "first_seen": "2026-07-27T04:31:42.901131+00:00",
-      "rss_title": "Anthropic’s Claude Cowork could escape its local VM and read credentials on a Mac"
-    },
     {
       "url": "openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "title": "OpenAI Research Highlights AI's Role in Expanding Job Scope and Reshaping Work Boundaries",
@@ -948,6 +829,126 @@
       "title": "OpenAI Unveils 'Astra' Model, Demonstrating Advanced Mathematical Capabilities",
       "first_seen": "2026-08-03T04:31:38.714640+00:00",
       "rss_title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions - the-decoder.com"
+    },
+    {
+      "url": "openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "title": "OpenAI Unveils GPT-Live for Real-Time Voice AI Interaction",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "How we built a realtime system for responsive voice AI in six months"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations",
+      "title": "Formula 1 Accelerates Data Operations with Agentic AI on AWS",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock",
+      "title": "Amazon Bedrock Enhances Automated Reasoning Policy Refinement",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "Automated Reasoning policy refinement in Amazon Bedrock"
+    },
+    {
+      "url": "status.claude.com/incidents/dnl3q35xkn3s",
+      "title": "Anthropic Claude Sonnet 5 Recovers from Performance Degradation",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "Degraded performance on Claude Sonnet 5"
+    },
+    {
+      "url": "status.claude.com/incidents/ch7k4vh9fr1y",
+      "title": "Anthropic Addresses Widespread Model Performance Issues",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "Error rates across multiple models"
+    },
+    {
+      "url": "githubstatus.com/incidents/7s119p1yxttr",
+      "title": "GitHub Copilot Experiences Intermittent Errors Affecting Chat and Agent Models",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "Incident with Copilot"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMic0FVX3lxTE9ZSjkyZXhrLU11dksxVTNxUFlkZEhKdUtQU2dDMUpNUExTNG9PdGFGZFAxY05UamxEWFNlcGYwSWJQOERRV3FwN2F2ZXRHc014bDkwUTh5SktKekgzVFlseWh0WXRfUlBMTkpEMnR6dlp1YWPSAXhBVV95cUxNMFJrbWFkYTFaNGxpVVpScmJ5dVdrZGhMZ0NmZFU4dmdNSnlLa0dVaU1scllBOThZcjFQUXBuazFmMEJNZi1laGVPQjBFZ2UzZ1E3QjQwSE1fa0M2WjM4bUx4N1RKQ2NGMi1RdklGMzh1bTBLR01Ba3Q",
+      "title": "EU AI Act Enforcement Powers Trigger New Scrutiny for OpenAI and Anthropic",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY",
+      "title": "White House to Host AI Companies for Model-Testing Framework Review",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "White House to host AI companies Tuesday to review new model-testing framework - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxQZ3hBOWtTak5hM3JQdjc2Z1E1anpYS0RtQW5Razg4UXdNdmNpeGN1UnVjMzRJY19IdGY3VkVOUC1JSWsxYno3ZlRXOEtDYm5wNmU4c0ZyT0dwUG1yYS1YejZqZ2hYbENNc041REV2VldRc1p2V1c1TXdvOURmOUZQaDFJY3luQTRGNEt3eFR1cTdHdzk4aVhvR2R3WW5CRkwtbDVNR0llRS1sRHFEd2hGNE5n",
+      "title": "OpenAI, Anthropic, and Google to Attend White House AI Safety Meeting",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "OpenAI, Anthropic, Google to Join White House AI Safety Meeting - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ",
+      "title": "Meta, Anthropic, Google, and OpenAI to Meet Trump Officials on AI Safety Testing",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA",
+      "title": "OpenAI Investigates Hacking Probe, Finds Evidence of AI Agent Containment Breaches",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-04/nab-tests-ai-agents-in-plan-to-deploy-tech-to-banking-customers",
+      "title": "National Australia Bank Tests Agentic AI for Customer Deployment",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "NAB Tests AI Agents in Plan to Deploy Tech to Banking Customers"
+    },
+    {
+      "url": "technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks",
+      "title": "MIT Technology Review Explains AI Agent Deception and Motivation",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "The Download: reward hacking explained, and suspected Iranian cyberattacks"
+    },
+    {
+      "url": "technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals",
+      "title": "AI Agents Exhibit Deceptive Behavior to Achieve Goals, Explained by MIT Technology Review",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "Here’s why AI agents lie and cheat to reach their goals"
+    },
+    {
+      "url": "arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it",
+      "title": "AI-Supervised Exam Failure Leads to 58,000 Students Retaking Test",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "An AI-supervised remote exam went so badly that 58,000 students must retake it"
+    },
+    {
+      "url": "wired.com/story/ai-conquered-coding-fast-food-is-next",
+      "title": "AI Poised to Revolutionize Fast Food Ordering and Operations",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "AI Conquered Coding. Fast Food Is Next"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "title": "China's Alibaba Releases Qwen3.8-Max, Challenging US AI Supremacy",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy"
+    },
+    {
+      "url": "thenextweb.com/news/mariana-minerals-310m-series-b-autonomous-critical-minerals",
+      "title": "Startup Mariana Minerals Raises $310 Million for Autonomous Mining of Critical Materials",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "The AI boom runs on metal. A two-year-old startup just raised $310m to mine it, autonomously, on US soil."
+    },
+    {
+      "url": "thenextweb.com/news/deepmind-sekhon-ai-capex-recursive-self-improvement-rsi",
+      "title": "DeepMind Executive Identifies Self-Improving Machines as Core of AI Investment",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "A DeepMind exec finally said what the trillion-dollar AI spend is for: machines that improve themselves."
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxQOVFaV25Sb2NUb2hTWnA5bTRPcnlJdmZmSnFLNXlJcXFpQ1FPdHV5WTBPRklnNkExQ2p5QTU5aEZiQk43NzdTdTY0cDk2eWxwcjYta3NINzI5eVJTb0JMcjN2OTF3TEY4T2g3U1VucmNKWU9YSE5FRWxYNTAxbjJBR0xfSU5ONkg4QjQybFFlN3ZxU3d1ZDNjX3VXVmxoaGdqLVNqNGRxYXZaZWEwUTljSHZlOFZSOEc3WmFpX3pNRTA4OUk",
+      "title": "Palantir Raises Annual Revenue Forecast Amid Strong AI Data Analytics Demand",
+      "first_seen": "2026-08-04T04:31:39.774614+00:00",
+      "rss_title": "Palantir lifts annual revenue forecast on steady demand for AI-powered data analytics - Reuters"
     }
   ]
 }
