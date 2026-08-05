@@ -1,125 +1,6 @@
 {
-  "updated": "2026-08-04T04:31:39.774614+00:00",
+  "updated": "2026-08-05T04:31:43.058253+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "title": "OpenAI Research Highlights AI's Role in Expanding Job Scope and Reshaping Work Boundaries",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "How AI is expanding what people do at work"
-    },
-    {
-      "url": "blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai",
-      "title": "Microsoft Advocates for a New Cyber Stack to Address Evolving AI-Driven Security Threats",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "Rethinking security for the age of AI"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/open-secure-ai-alliance",
-      "title": "Industry Leaders Form Open Secure AI Alliance to Champion AI Safety and Security",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws",
-      "title": "AWS Introduces Task-Aware Knowledge Compression for Enhanced Enterprise AI Performance",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models",
-      "title": "Guardoc Health Leverages Amazon Nova Models for Streamlined Medical Document Processing",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "How Guardoc transforms medical document processing with Amazon Nova models"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
-      "title": "GitHub Copilot Workflow Simplifies Software Development Lifecycle",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "The harness is all you need (mostly)"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-      "title": "GitHub Copilot App Offers Beginner-Friendly Introduction to AI-Powered Development",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "GitHub Copilot app for Beginners: Getting started"
-    },
-    {
-      "url": "status.openai.com//incidents/01KYJC3TDHZVSQFFPTC8X9RAHC",
-      "title": "OpenAI Reports Resolution of Latency and Timeout Issues Affecting GPT Models",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "We’re seeing elevated latency, timeouts, and interrupted streaming across gpt 5.1 mini model and gpt 4.1 mini"
-    },
-    {
-      "url": "status.claude.com/incidents/rkk5x44tndw9",
-      "title": "Anthropic Addresses Elevated Error Rates on Claude Opus 5 and Haiku 4.5 Models",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "Elevated errors on Claude Opus 5 and Haiku 4.5"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOR3VYRDgzbDNGN1hfYnpXRXhqY1dfU2h4M1VsR2FSVjE0SDJsb1V6cENtclZYdkxEaUxSa0JmTTNTa0Z0OExhR2Y2ck9LVnVpNTFBVXJYeXNRdW94cmEzbE1ueFVYTXExN0VqUmZ4V1dVSTdRUlNrN1lPVVZET1plSU1pMNIBiAFBVV95cUxQZnhoenA3SDZieTZNTy1SbEZndXZRMjFmN1ZJemI2SHFkdF90Zmt1T013cUM5bWZObzVYMVpNVXd3Zk9MS1Ywa2xrdUpOT1VTYUt4aW5qVHRfX0Q2UlM5ME1VX0RnOGY1RUxqZkJBODhjUW9hU0JzemZEWnNDWlk2OVNlN0FFQU5o",
-      "title": "Nvidia, SpaceX, Microsoft Launch AI Safety Initiative Amid OpenAI Cyberattack Fallout",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxQbjdnLVo5aWoteU1nZzE2d3dtZGtTNzV5TVFwX3hYQkJQYkZhSE5HNmZLSXdaQjdLSVhOVUNWMEdMbUptaFppdlN6ZGh4cXFlOTRpTmxVcW4tc3h6aldxT1dqcURLUzdsMXNkR25DdlB1SFBnc3VEaUlZQlFKTThaeU1mM2V4TFJsdjFIQXhVUGhlNmo1aS1LZEJxZTR6bjV2eXhkelFaWEF2anVGSFFjSmxKWWUxMUpVU1dnd25MSWRIZGc",
-      "title": "OpenAI's Debut Hardware Device Experiences Significant Price Appreciation on Secondary Market",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "OpenAI’s first hardware device debuted at $230. Now, it’s on eBay for $1,850 - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxPajJwVi0yQnhvbWlIdEswc2tQM2twOFZqZUZGNHNWS2d1enUwd1NWSEdkcUU5MGY0cEhWcHJhTGR3NGk3aXVsYmthdS1iT0gzVURQajRHT0R4RkRQelhIdElTVkxOZEgzdXhmdVFsOFU4UGd1YU5wV3MycVA3dk5aRmY3YzVwLTQwTW02SkhyaGpsMHFpUFZQU3U2NUlDWWFUWnE3Z3RkRXhac3RzQWRTSFFLQ0FuQlRuT2htTDlFNA",
-      "title": "Nvidia Champions Open-Source AI Through New Cybersecurity Initiative",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "Nvidia Leads Defense of Open-Source AI With New Cybersecurity Initiative - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxOVUZRNEMxbF9TWmwwQnFld3R0ZFpQQm85Q3puTlBhVjJNNmZQbno5bFhxODJwelhxdVUwa25kanJMbk96a3pVaWU3UHZMUlltMFNzeU5TNm9IcXFaTWJQT0JZQ0ZDdHltSGN1akZONDlVMnA2eGkybGRHLVB2NFZxMmVqZkluM0FuV0tZRlBkRVF4RDJkWU9CejdkRDhHRzdpZlk4cDBSUXZZaDRSc1ZvR0R3",
-      "title": "OpenAI Announces Expansion into Ireland to Address Growing Global AI Demand",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "OpenAI Announces Irish Expansion to Meet Growing AI Demand - Bloomberg"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE1iUFV0dFc4SG92VDZ2QXgyenpqWUV6blU5RFB5NWpZRnUyY0xDRmZFa05MdHg0d0pWU2VlSkVRNkhPVXk4dWx0anhHU3BYRFJOV1pYbUJLVEtuZFdmNFU2QXNKNDZ3eDV1SG05R2p0VGU0N2dpcUxKNTZ30gF_QVVfeXqMTjM4TFdCdHRJNGptTXoxYnpoRmQ5WjJFOGdpf0pFN005aHd4SnFoZUFSSUl0cmUwVGtlaUdKbzhkRUcwZExBdHNaTnJyeDRkOEluMjJJWjVZdjk3by1yZGlldUpKUnNRalgxQ3ZCMF9IbmNDWGFmVS1lQVgycDliQQ",
-      "title": "Sam Altman to Brief Trump Administration and Senators on AI Policy",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxPdFhxeTBTUzE2VDBCSFZubnVfYjRiakRwSEZZeFNZTFNTVmdYYndxXzJncFlvQ01CcGNuQnNib24tWGlLdFZSamZ2eDlzR18xNnQxeFhla21EeUR6UjI3VTFCTzdVcUhrNmVzSWxBSWFCNTVDSnl1RUVBSXpTbkRfRDFKc3FSQnViZ2VvdElnQ2ZVRjNuU1Zzd2tuUlREdUhJc3VMTEgwLXhVTmdMVEE",
-      "title": "Former Nasdaq CEO Advocates for AI Regulation",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "Former Nasdaq CEO Bob Greifeld: Need some form of regulation for AI - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxPN2l6SXZVb29hZ244bE5rbTdWWkNINUw0VTN5TlhHemFDWG5VSmd3d0M2OTBnWUNDMUFRekpWOWwtME9MTTIwTTVvVFpuNVRmYnJ1eDFLVUR1bnVZVWNSdHJZOXhEZXBWdWpaT05JbHlhRXBVdUZlSE14M29ReDhHYTVvQmplZXhJYVNfeHNDZ0JxUmhIelFmbmROeWZudGwxXzJwRHgwV2RMVjVBdjJHSDQ0NmlmZXZoOU9YYjZCZkl5X1FB",
-      "title": "China Accuses US of 'AI Hegemonism,' Threatens Countermeasures Over Potential Probes",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxNbzRuS0FZMm5DbGhkRlBXS244QndESTlDM0MtMjh5UldRWXg0S3lXOTdKME5ZVVRIczIweEFvMHpxQ1FCUDI2dW5lQnZjMFBIYjVuQjRQTnJ6bmZZN0tFbDZnVXhvVTVCbG9uc0s1MVNqSHIwRENYd25HQnJPbl9ySFNraHVyUU5lQjYwYkxEOG83Qm9jWXVMNTU0ekVkeEJ4Q1kxeUFIa3pxNmZ6eVFiWFZHTVVTRXR5OHFEa2x2OFhQZw",
-      "title": "HSBC to Expand Singapore Hub with 100 AI Specialists and 100 Wealth Managers",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "HSBC to hire 100 AI specialists, 100 wealth managers in boost to Singapore hub - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxOdi1jdEZHRU5KR1lvTlloMlMxQ3g4QUpjV2s2WnpqSjhzdWI5STJldTBPakY5ZWxrNHFkdjFFNXp5SXJ1UHNoWjJSWUEyMHJnUTJYZi1vWVVJQzB2VGVhY1RMQVZTZGt1OFJGMjFvUzRCb3hVdkZlZkUwU0s2WFRJZE5yRGJJaVpBYzNQeXlhb0xPU2o0Sm1lVjZmUTg",
-      "title": "US Capital Goods Orders Rise Amid AI Investment Boom, Shipments See Strong Gains",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "US core capital goods orders rise, shipments post largest gain in 4-1/2 years amid AI investment boom - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxOcWtDYjVuY2NJcTIzMDJaa0hYZy1vaGthWFp5Zm9FNXdwMUU0cmxRNk1HTWhGelZqVjRpY0RvbkoyRHMwaGg4cnM4RENaZE9ob0IwdEpXMEw5SWwyM2VOcE1LUGUwRjlWU2x3eEVkRVA1b3VwVEhiZjdRelBEYlEtanZjZmN5ckRFQWxQVFZHOVFSOEJ2WXJQbWhsSHBIdVgyX0VvcXRtUmcwUFJvVFNaSWQ5MzBxWU4tUmc",
-      "title": "Nvidia Reportedly Investing $5 Billion in Ilya Sutskever's New AI Startup",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-27/china-vows-response-to-us-sanctions-threat-against-ai-firms",
-      "title": "China Sets Tariffs Limits and Warns on AI Sanctions Ahead of Xi-Trump Summit",
-      "first_seen": "2026-07-28T04:32:35.089217+00:00",
-      "rss_title": "China Draws Lines on US Tariffs, AI Ahead of Xi-Trump Summit"
-    },
     {
       "url": "openai.com/index/scientific-computing-agentic-ai",
       "title": "OpenAI Blog highlights agentic AI's impact on scientific computing acceleration",
@@ -949,6 +830,126 @@
       "title": "Palantir Raises Annual Revenue Forecast Amid Strong AI Data Analytics Demand",
       "first_seen": "2026-08-04T04:31:39.774614+00:00",
       "rss_title": "Palantir lifts annual revenue forecast on steady demand for AI-powered data analytics - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi-AFBVV95cUxPWlcyMlRoSEdoMWV5QjZBeXRGenZEeHVSeV9NMzFRajlpX2xITkNiLS14TjJIcVhtYWExY2VaNzltV3F5TmgyRnFjdFBuTmozWWdsVm5mX3BIUG51eWNxQnBMenJCOUtYeUE3RlRhQV9DLVo4RU53U0lGNTdjTGw5NWVNeG11SDRQT2oxeWFMTmJIZ2I3RzBOSzRsWEctMFRKWFY5R21aS1YzcktXSjRubzVqM2NlTHVRcjBRYWV6WmlTbHBwblVfa0RIQUlLX0o3WE9Sa0NqV08yRGRDX2ZKdU1aV1JSeDNCRGVKd0NrV25TMDhNNGRPNQ",
+      "title": "White House AI Framework Review sparks debate over public release",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "‘Baffling’: White House won’t publicly release AI model evaluation framework it reviewed today with OpenAI, Anthropic, Microsoft and others - fortune.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigAFBVV95cUxOMlB1UDdKalpjUzY3Q2JFVXZtRDZLcld6aF9hOWRpZHRzcVp3QlpVVjdneFlNR3FGY2xyWVBocFluTk9KMmVsZjBLSGFPWC00aFh6WndYcmhJMGtUMk5Vdm0xRldhZzFJWUxiQlJMc1YtV0VmaGhQUkhtc2prRGNaRA",
+      "title": "Trump White House drafts AI framework focused on security risks",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "Trump White House Readies AI Framework to Review Security Risks - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxQZGlqeXItS3prNUZ6V3BSRlQ0MzJ0NkdFNHF1SkVvY1RQUmlIb2wta2s3elpvUVNqMU4xS01WVEpRWVh1cGFJQlRlWHM1dzZsX0M3MS1fN0xfaVVESjJCWGJLc1NrcmxjWFpadDh4SldFeTg0RXNlSjNhdG5mVWNoY19BcWl0WTVUTXJHTmRHQVIyMENZZHRvZEo5dmV2aWNxVE1WY2lqLVpiSkFyNmc",
+      "title": "US Open Models Exempted from Government Review under new White House AI Guidelines",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "White House AI Guidelines Exempt U.S. Open Models From Government Review - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxOU1dRTlJ3dWthcTVkQnd1NFVJTFZSeHV4TXNiZlZOaVlNa1lSNFVnQWZxZkxEQkV2NGZ3YV8wZ21mbjhRYUg3Z05nci1Ua3o1M0FyTGxIT0VLXzhYUlFpajhQVEEwYmFuZnhZNjZPdjdPcFh2elVnNlFvdVZjYlVTNWU5M21VempmYUVMSzNNMURjeEtwcFFUa2NvY2MwYVE1M0k2RDVpTFR1V0VGUVBBNHNaRkQ3UzlhX2FMUDJFNXpOX1RVU2ZZRQ",
+      "title": "China AI hardware stocks decline amid US import ban reports",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Reuters"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+      "title": "NVIDIA Aligns with Autonomous Vehicle Advancement with New Open Model",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+      "title": "GitHub Legal Team Streamlines Workflows with Copilot CLI",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "How the GitHub legal team used Copilot CLI to streamline their workflows"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore",
+      "title": "Automated Web Insight Extraction with Amazon Bedrock AgentCore",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "Automated web insight extraction with Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxORVNKc2JqcmZfVzBfczJuMDFnREpKUl9xME1jNlMyckt5TUJJdmstdmZtZ2VmZThsbl9RWDJZNE9qV0Vtang2bzFObk8xTUl1b2taUnBTd0hBc3BvdXNONlNlbkNIZUVpblhrR2FYSXMwWmt6MHphbUhLRUxmZGZGZHRlVmhxc3hKZERHWFpYbTYxd1JzVmxXdlkxNXZIYWxSNjNYdlNBNWNJdWNzNi1QY1NJR1ZhMExRTWFUQzRR",
+      "title": "AI Cloud Startup Volta Secures $2.4 Billion Valuation and $10 Billion Partnership",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership - Reuters"
+    },
+    {
+      "url": "openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "title": "OpenAI Enhances Model Security with Third-Party Cyber Evaluations",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "Third-party cyber evaluations involving OpenAI models"
+    },
+    {
+      "url": "openai.com/index/apple-is-getting-this-wrong",
+      "title": "OpenAI Rebuts Apple's Lawsuit, Clarifies Employee Claims",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "Apple is getting this wrong"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding",
+      "title": "AWS Introduces Web Search for Amazon Bedrock to Ground Foundation Models",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "Introducing Web Search on Amazon Bedrock for foundation model grounding"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiTEFVX3lxTFBzdl9BMnZNN3pna2RmTVVvSlBxVmRHR0tSRWZBQnNtS1VNUjNaUVBscEgxWlpiZndVRHdtVGNlSE0taXRwYjQya192d2U",
+      "title": "Mistral AI Introduces Shieldstral, Expanding Security Focus",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "Introducing Shieldstral. - mistral.ai"
+    },
+    {
+      "url": "status.openai.com//incidents/01KZ6CT9K9Q52S3707W75MNBGB",
+      "title": "OpenAI Experiences Elevated ChatGPT Errors, Affecting Paid Users",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "Elevated ChatGPT conversation errors affecting Plus, Pro, Business, and Edu users"
+    },
+    {
+      "url": "status.claude.com/incidents/bdr3fq2rkchr",
+      "title": "Anthropic Addresses Widespread Model Errors Affecting Claude Services",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "Elevated errors across many models"
+    },
+    {
+      "url": "status.claude.com/incidents/nlg5hjdfphmb",
+      "title": "Anthropic Resolves Errors on Claude Sonnet 5 Model",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "Elevated errors on Claude Sonnet 5"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi1AFBVV95cUxOTnd6ckhOVUhwcGJjRmxRdlhObS1ncXRhZm9OeVUwaEgwOTg5YmNBTGVWcHZsdXd4dXVrWWdlZGtsYkw0eDIyY1A3NjdSM0o0bFBGUEZRNDF2NjYwZEtCamNpeTFqN3ZaQVlTclNuQWYxNXh4ZVlqaWF3WkNNVk1fbmJXcTdISlBmUVVWS01STmFYZldLSGk5akJQZVB5X09OSzVoVWF4Wko4TEF4cGozQUlWM202dFJWMGxSRTdpcTNaaUp6bmNyZXpWbVRFb2JoSzdCVQ",
+      "title": "DeepSeek Model Offers Ultra-Low Cost Performance, Research Firm Reports",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw",
+      "title": "Alibaba Launches Largest AI Model; DeepSeek Model Noted for Low Cost",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost - Reuters"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program",
+      "title": "NVIDIA Joins NSF Program to Expand AI Research and Education Infrastructure",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
+    },
+    {
+      "url": "github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+      "title": "GitHub Engineering Enhances Pull Request Review with Stacked PRs",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "Turn one giant AI-generated pull request to a reviewable stack"
+    },
+    {
+      "url": "nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation",
+      "title": "NIST Joins National Genesis Mission to Drive AI Innovation",
+      "first_seen": "2026-08-05T04:31:43.058253+00:00",
+      "rss_title": "NIST Joins National Genesis Mission to Accelerate AI Innovation"
     }
   ]
 }
