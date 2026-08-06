@@ -1,124 +1,6 @@
 {
-  "updated": "2026-08-05T04:31:43.058253+00:00",
+  "updated": "2026-08-06T04:31:38.494532+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/scientific-computing-agentic-ai",
-      "title": "OpenAI Blog highlights agentic AI's impact on scientific computing acceleration",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Scientific computing in the age of agentic AI"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "title": "Google Gemini API expands Managed Agents with Flash, hooks, and enhanced reliability",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more"
-    },
-    {
-      "url": "blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation",
-      "title": "Microsoft FY26 review shows customer transition from AI experimentation to 'Frontier Transformation'",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec",
-      "title": "AWS AgentCore Gateway adopts MCP 2026-07-28 specification for stateless, secure agents",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "How AgentCore Gateway supports the MCP 2026-07-28 spec"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore",
-      "title": "AWS introduces market surveillance agent using LangGraph and Strands on AgentCore",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Market surveillance agent with LangGraph and Strands on AgentCore"
-    },
-    {
-      "url": "github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions",
-      "title": "GitHub enhances npm and GitHub Actions to combat AI supply chain attacks",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Disrupting supply chain attacks on npm and GitHub Actions"
-    },
-    {
-      "url": "status.openai.com//incidents/01KYNNX2TQ3PV0KPJ9PTRRPX6C",
-      "title": "OpenAI reports resolution of 'invalid_prompt' error impacting Chat Completions",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Elevated error rates with the invalid_prompt error code"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxNNFFtMDZZZnBXc0pUR2FnT0lDWURUazJFWUVTMHJwSHp4S0J4ZkdnY0pjbWttb2Y3TGpLYkRjWFRKR1hudHFKZUR5eXJGeDBKSVYwNEJiRXY5MHBqam1LN3QtSjlfOFlXSDY2b3F2Z2JnTFM3bS1Xd21iYTVqalpkQVZpTDZsM05XN2Q5N09MWUZYSUdCeEk2VzZLRjBmMU5ybkRDbFBnVU1LRzBzQk5GR1A3WWQzMHNuc1ItbzNR0gHDAUFVX3lxTFAzS0YwRGxlNjJoMW9vb01wUl9IY2JGeGd5QkRock53RFdQSURkQ0U4WnpzVXFOM3MxYWFXZW94S1JhLXoyVW9NYXRmQXc3Z1VqWHBkY0c3bWRzSVBlRXd4dkN3T09qaUZhd0h6RzAxc3BGYzdiQTN6YlhTOVBmcl9pc3RZR3FTdTczQlViOUdYMW5EeTFTc2dxMEVjaVlpaHBfOEVjNC1OMnoxQXNqWW1hc3A0NGpFLTIzRGlNZ215Nl9RYw",
-      "title": "Meta aligns with EU AI Act by signing Code of Practice on AI-generated content transparency",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Meta is Signing the EU AI Act Code of Practice on Transparency of AI-Generated Content - Meta Store"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizAFBVV95cUxNOG1XYUY2VUFpMFVHdWJoNGZ4U19JQXNybGlPYkRtd0xSWjFpSVZfNnBpZ1lyajY4VF9LdER6Ym5Kc2pxZXVEa0RQNDFXVEZBREFWSnBUMU9lZllpV0pTZGFKdE5zOUc1YzE1WC1UUzNlcUktVWZsaW1OX2VDRTE1cFd3bkRZRTRpRTJJSGpFVlFGSjJOeVRaeDhNTTZtVkZ4YTdYQ2Y1bEhBa0pIZU1UOUpkcXowcEU5R3dWQjRDRmxzS2NfelhNWkM0amQ",
-      "title": "Microsoft highlights AI's role in expanding health equity and access to care",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Health equity can’t wait: How AI can expand access to care - Microsoft"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxNZUdKZ0lPNURncWhtWjRjSDFGa2Q9U1V1NzdKcEVRcEJCZEo4Y1daZVF0RTd4OGdhekdaVkZBYW10YTlXaUtmZGNEZGNGUG9ZVTBwRTFhUXUzRjhnTjdZRFFHR0YtdjFheHFrMkVrLTF4THNZQUl4QkQ4cno2OExITkkya214MWlGRzh0VDlLNFBSNGw0bTVheFFKaWkyNlpsdk05bC1ILXJ6aUZnVDlQSzU1RFBkSUpYUzNVZWRn",
-      "title": "Tech employees urge US-led global effort to manage advanced AI risks",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxQaHBXRTBZX1RmZjlnU2owVWlZMW5TMGtzR3JyWVRrcWpUblNaTjg3ZXUyUmQ0Z1JTNVVHRERkN284N0o4SFZ0SGdvTnR0ZG5hTEo0b1pkOU0zTHFRZ01OV0tIRFNnQ1YwMThhYlBBTjgzOFN6bE90aTdIV0htb0xJNldUTUxTUm91TzlyWVFRaE5tSkFHWGhXWXdzQVpWTDRWc2dIOTU1X25lLXViRVRWcm5qMTc2TnM",
-      "title": "OpenAI 'rogue agent' reportedly compromised a second tech firm's customer",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53",
-      "title": "US administration bans new Chinese humanoid robots amid AI buildout concerns",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Trump administration bans new Chinese humanoid robots, to protect US AI buildout - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxNNDBBczc5Q21jMGFpRUdBbUJwWHBqem9mZDJFel9GMTlxVzFXWjEwMEhYSERVd2pPZ1Uzc2JXbGZQWG96aUdCaW9LRFlLaHRsYldNczltR2tmTmg1VmlYUkNyd3ZKRnB4NGxvaXkzeWlvWE1rSlNMdEFUTlVzSThFaGZrdjY3dF9wQXFyQ3dFR3NHdEdnekRSVDJfWDZLS1NtbEx1U3JSTF9VTHowU2c3UTV3OEVWQlozSm1zNFVtaw",
-      "title": "Coursera invests $100 million in Andrew Ng's new AI education firm",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Coursera backs co-founder Andrew Ng's new AI education firm with $100 million investment - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxQQTI2OW42aWhiUldLQU5Jb25yUUpEQmFVZ1hTbWFNTG80dzhadThtVG1ucW5zc2VMdHJTaDZvT1VZNkNGZEU5bzRXcUZSZHhZa2RHRkJfM2s0dGF2UW1VWG5YWExzb3gxMVpFSVlLOXowZU1fR3N4V2VObllUcDNqSVJDaVJFYV9WZnVjdFQ1dl9Xd0Vta09sMVZhRURvV1Rl",
-      "title": "Hedge funds poised for strong year driven by AI boom",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Hedge funds on track for another stellar year on AI boom - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-28/sk-hynix-s-record-profit-misses-investors-lofty-ai-expectations",
-      "title": "SK Hynix plans record $31 billion capital spending amid soaring profits and AI demand",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "SK Hynix Profit Disappoints, Spending Soars to $31 Billion"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs",
-      "title": "US broadens China tech clash with curbs on robots and inverters",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "US Risks Broadening China Tech Clash With Robot, Inverter Curbs"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPMUg3aEUwVzJGX3ZiQWNkUHFzQUZEcUxDeDBwZk9UNlA3VHhBMUdYN0VHc3JPNjd1VUNLbWJTNWZRRVVsMmRqVkhWN1FwQnhWZHl2VUlvQ3FLVThHTHJRc3RLWThBcjkxaDBubXIzdW1mZGROYXI1bzNWbXl2WURHeDJJUVY",
-      "title": "Financial Times advocates for US openness to open-weight AI models",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPTFNxUWI2cTE0MUU4Ql9fZnJYeHlfS1BvdXVoRU1PNnpHd3ZXTVJhdHl2c2VsajJaelNYMUNnamk2RlBTbWZuYUhYZE1ZMW1WOEZIUHhybE8yeVNrNVI0MFNhTUhVNi1fb29wUnVjcWNWYTZsbkNTOHJwNjh5RnRxbVFmN0U",
-      "title": "Nvidia invests $5 billion in Ilya Sutskever's AI breakthrough initiative",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPR1JfYVdzaHowRF92dnlwMkNDQ3FjbEZvUVczOFNfbnBOXzM4RS1JNUh0TGx5c3VSWFVRUHpTOVJDaVdUNXFiWk51dElPVTNVZUNhZjFXVTNCU2hVQmJVM3pGbGdLQkpUZzM3ZGJyTmpkRnRmbU1qa2pfLU5KdzNqc3pDX18",
-      "title": "Mark Zuckerberg advises against banning Chinese AI development",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Mark Zuckerberg says US should not ban Chinese AI - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOSEhPT18tMlBPQkZndDgzcktHQzFwRWNpTUJoUnoybUxXa194aktnYUUtc2NFRW96Y1ZyWG5uTVVfMm5XSTZzRUxhUUJRMHlzX3NKNEJ1aFY2U3BEamgtbnVrS29PblBPR3AxUGlmNEZEbmpCb1Y3bzQtd0dyLTFUTS1fcHI",
-      "title": "Nvidia confirmed as anchor tenant for $50 billion data center utilizing its chips",
-      "first_seen": "2026-07-29T04:31:45.696221+00:00",
-      "rss_title": "Nvidia revealed as tenant for $50bn data centre that will use its chips - Financial Times"
-    },
     {
       "url": "openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "title": "OpenAI Triples ARC-AGI-3 Benchmark Scores with New GPT Settings",
@@ -950,6 +832,120 @@
       "title": "NIST Joins National Genesis Mission to Drive AI Innovation",
       "first_seen": "2026-08-05T04:31:43.058253+00:00",
       "rss_title": "NIST Joins National Genesis Mission to Accelerate AI Innovation"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+      "title": "Google Details Latest AI Innovations in July 2026 Update",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "The latest AI news we announced in July 2026"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america",
+      "title": "NVIDIA and Partners Invest in US Manufacturing for AI Infrastructure",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "NVIDIA and Partners Build in America, for America"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/ai-storage-fms",
+      "title": "AI Surges Demand for Advanced Memory and Storage Solutions",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "As AI Increases Demands on Memory, Storage Steps Up"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/open-secure-ai-alliance-contributions",
+      "title": "Open Secure AI Alliance Proposes Cybersecurity Transparency Guidelines",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock",
+      "title": "LendingTree Deploys Multi-Agent Mortgage Assistant on Amazon Bedrock",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore",
+      "title": "Mobileye Enhances Support Operations with Amazon Bedrock AgentCore",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "title": "Hugging Face Releases LFM2.5-2.6B for Local Agent Deployment",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "Deploy local agents everywhere with LFM2.5-2.6B"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiXEFVX3lxTE92Z3VUQWo3Z3dSbUN2VXM3aVFNUGhqYjI0LWFpTnEtY05UTVdjMDRKaUR5M2hsUXRCTUdYQ0J6bEcxSDFSUjEyYm1uOV9DRlpTYnZrRjJPc3pwVTFr",
+      "title": "Google Cloud Showcases Fragpunk and Dunk City Dynasty Case Study",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "Fragpunk and Dunk City Dynasty case study - Google Cloud"
+    },
+    {
+      "url": "status.openai.com//incidents/01KZ96S5HEWX0CX26W2WFYFKE6",
+      "title": "OpenAI Resolves Image Generation Errors and Restores Services",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "Elevated errors with image generation"
+    },
+    {
+      "url": "status.openai.com//incidents/01KZ9DMQD2GJ8JJWDN7572RH78",
+      "title": "OpenAI Addresses Issues with Custom GPT Actions, Services Restored",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "Issues with Custom GPT actions"
+    },
+    {
+      "url": "status.openai.com//incidents/01KZ9E7QD8WFJD5DMF73QGVYH8",
+      "title": "OpenAI Resolves Elevated Errors in ChatGPT Conversations with Files",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "Elevated errors in ChatGPT conversations with files"
+    },
+    {
+      "url": "status.claude.com/incidents/mgp99sn4ynd4",
+      "title": "Anthropic Resolves Degraded Performance for Claude Opus 5",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "Degraded performance for Claude Opus 5"
+    },
+    {
+      "url": "status.claude.com/incidents/f6gkkq6txl7z",
+      "title": "Anthropic Addresses Performance Issues Across Multiple Claude Models",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "Degraded performance of multiple models"
+    },
+    {
+      "url": "githubstatus.com/incidents/9wzhl5jr80jt",
+      "title": "GitHub Mitigates Issues with Copilot Cloud Agent Job Failures",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "Some Copilot Cloud Agent jobs not starting"
+    },
+    {
+      "url": "nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
+      "title": "NIST Achieves Quantum Entanglement Milestone for Future Networks",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxPMmlYd09FV3dTUTFSdzlrWWhEWHhLcVo3SjVYeXdJbmhqUG5oRTB4SUN1OGIxYUZ0MWNzVGZMOGlHVjhUYUNXVDRBaHhRVFZsbjNWcGtrNjhRQ0pEeHdrZlFPeGJEVlF6Tk9mNEk5andRZlhaQk5GWWdQblVrVkRsbzhKQUFXalAtX0ZDb2tEaHpPd3dPNzN5cmhENnkzaHVhUXc",
+      "title": "Meta Releases New Coding Agent to Vie with OpenAI and Anthropic",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic - wsj.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxOMnJqb2s0a2s3WWxWTC1vNWdRNXc5eDBQRnNlUDBnekl4cXR6RG1hcUZ3cWlOMzFtTTNacUQ1cE01dWFpQ0NuMlpvOXJJalFmcFUyWEtaRjJlbVp1djJQWnhNdnJra2RId1B5WHhicUF6a2pVdUZ1M2tubElIbHhsVnFvX1owXzAtYzRaalpKZVkyNFRYU2ZyX3N4ai0xUHE1SkNWLTRzQQ",
+      "title": "Meta Launches AI Coding Tool Powered by Muse Spark 1.2",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "Meta launches new AI coding tool powered by Muse Spark 1.2 - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ",
+      "title": "Trump Advisers Indicate Opposition to Safety-Testing Open-Weight Models",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "Trump advisers tell AI firms they will not safety-test open-weight models - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxNX1NwcnBhX3JkLWQ4NWJtbE9kUUctUWZnR1RhQ3FXQnZGX25fck5vZFo0YW5aV080SlVDdU0tYnFpeTViVV9QTEZXTFhlc2gtdENsczA2ejdjYUlPLVdVYTZ5cUk3R29WUEM3c0VMbGNlbndfMHcyWmowS0lCeTVkZEVVWF9ERGNFQ2tfQzVJenpfY2tjbGRzS1FySXNNU3FBcWk3RmxuamFtRW44",
+      "title": "JPMorgan CEO Jamie Dimon Leads Cross-Industry Effort on AI Risks",
+      "first_seen": "2026-08-06T04:31:38.494532+00:00",
+      "rss_title": "EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks - Reuters"
     }
   ]
 }
