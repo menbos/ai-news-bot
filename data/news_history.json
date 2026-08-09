@@ -1,126 +1,6 @@
 {
-  "updated": "2026-08-08T04:31:51.722562+00:00",
+  "updated": "2026-08-09T04:31:39.564597+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/advancing-responsible-ai-across-europe",
-      "title": "OpenAI Advances Responsible AI Practices in Europe Amid EU AI Act Progress",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Advancing responsible AI across Europe"
-    },
-    {
-      "url": "openai.com/index/building-abundant-intelligence",
-      "title": "OpenAI Pursues Abundant Intelligence Through Full-Stack AI Advancement",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Building abundant intelligence"
-    },
-    {
-      "url": "openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "title": "OpenAI Disrupts Cambodian Criminal Scam Operation Leveraging ChatGPT",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Disrupting a Criminal Scam Operation"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick",
-      "title": "Amazon Quick Introduces AI-Powered Agentic Catalog Experience for Data Curation",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Announcing the Agentic Catalog Experience in Amazon Quick"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability",
-      "title": "Amazon Bedrock AgentCore Observability Enhances Production AI Agent Performance",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Optimizing production agents with Amazon Bedrock AgentCore Observability"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock",
-      "title": "Amazon Bedrock Advanced Prompt Optimization Accelerates Model Migration and Performance Tuning",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Migrate your prompts to new models and optimize them on Amazon Bedrock"
-    },
-    {
-      "url": "github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed",
-      "title": "GitHub Achieves High-Speed Source Code Case-Folding Through Architectural Optimization",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Don’t stop early: Case-folding source code at memory speed"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMibEFVX3lxTE5ZU3ctWnUwejFnWUpCM1lsd05RalNBOTJ0MEp0LVVORHpQMG9RYms2aEVyejRsMFdfbFBRT1VlWnZFVzdfTTIyUWNSd0I0bHZWbmR4NWhUWDdtc196R0dFeHYzcjI5Y0ZJNE0tNtIBckFVX3lxTFBXb0RUUTA4bDc5U181b0kxRXdnbk5Gb0o5UnlSU0FWNmpIclVyUVU5b1ZQODJNRGMyeDdKYkJ0dzM2SHBrSWxKSlJNOXVjdHBRRTRvSU5EV3IzcWRmVllCcHJ3bUVubjRtaWd2REJybENWQQ",
-      "title": "General Motors to Launch Proprietary In-Vehicle AI System This Year",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "GM to launch proprietary in-vehicle AI system later this year - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxQMWs4NW56UFpjTEs0UVhiSC0wUXFGcWlqaFNFdHd1ZmlYRzJLUE1pVEI3UFE4a2MzM1JQVkFGbDhSNGw2U2pqVTg3aHB4UGRMaDRnMU5SQWJSRXhVamFwYzRpWl9SSlpTa2xLZXpPTTIzUVo1Zk9zRG5ZNlZQclpmZlkwcGJVRHpzOVhPektPZmdEWnVDSWtacTBhMS1zLW1iSjFWeVZlWktwVknSAbABQVVfeXFMTmJITzFGaUNPYzRYOGQ1NHc1bkFQMElYSFVub2piTFZxMUtXMUdHQjB3Yk04aF9jRThtUVUzaE1GdDRhWk1pbFFwbnBiZ2t1MGhzeFQ1eHNIalB6d1lVaDhSUzdBUFIxMW44SU5rRU5qdXMydy11Xy1VdlZ2Rm5yVHB5U1d2VlIzWmxjQ24xTTF6U3djQm1ETlpzS1dJcEt1WktfaWxWR3gtOFNnSGN5SlE",
-      "title": "Trump's AI Executive Order Nears Deadline Amid Intensifying Regulation Debate",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Trump's AI executive order nears key deadline as regulation debate intensifies - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxQRlZKM1E4OTlVQnVjUUs0ZEVFY2hxZHNvd2VHb0dabWZnbFZKTjJzemRrUkJsNS14blJPcDlmREZMbzdXekNqcWdSVnpQSG82YndnMUJ5TElaNlRBYkRWMlVfU2dWTWdDY1kxa2ZjNnhtQko1Nnd3QkZ1eUhIMVI1MU1wVjFTZ1N4WHE2UnBzVHp0QzBjMzI4RWlnVkVWMmVvTkxWeExNZUlFeE52WHhsdFZJSXlfNld4RFdjMVNNQQ",
-      "title": "Chinese Military Researchers Allegedly Use US AI Models for Defense Systems",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxQN3E5WURUSGY0XzgwWkpzN1BZcElmbnQ0anhTSTRETHU5bHJRQ0Q2VTJpLUlBcXljWGlSX0U0QUhaVVJMTXZGN1hfbVFBU3RZckxBQW40bG52b0NKYkM5SEpobExSRDVIaENMYUpJZzUtaDFwNWZndk1jY2h1TE9Pc2VDZzdCaUJGcUJ3M2Jjcml4Nm54MDFnaVg3c2tlQ3lQX1dQSXhTeHFWR1l4Y3o2c3h1UjJONnc",
-      "title": "AI Model Distillation Emerges as a US-China Flashpoint",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "What is AI model distillation and why is it becoming a US-China flashpoint? - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxNNDQ3NVlFdGNsSGlVcmUxZzV3YnVWX1V4bHhYc0xjYk0weFRhQWNCRG9JTjB0TmszWkRLSkxYamx2bHFWUWZnUS1QN05obnBMWTlWUnJfUHRiTllNNTlsWGVfaTBQRml4R0Y3N01USlFBZmo0bFgyRHRZV2htU0tRakxJSjdJSU41UWNPbmljdw",
-      "title": "China's MiniMax Unveils H3 Video Model, Advancing Generative AI Capabilities",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "China's MiniMax releases H3 video model - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxQaFU0cGsyYkR2Q3o5TnhiOW1td0YxUFhHbzFYaHd4WlNsUkFXYTJvTkR0a3hxR252aGZUelV5eENtdXhFZlpfNlNCSjBxbTRXaHpTSGZHWWdjSllxRTdxb0dsMTVLaFJabWpRbjhYQmRMeTY0Z3JmYm1wYjk4Z3N2WkF0OUpjLTRfbW9qOWpBcnFKdThPZzd4T3B6a1pkdkdZdW5BWnI1TFc5QjZnRTZ4aWFDTzdITE9JVm9iMnpUOA",
-      "title": "EU Engages OpenAI and Anthropic Post-Rogue AI Agent Incident",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "EU in talks with OpenAI, Anthropic after rogue AI agent hacks - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-07-31/google-rolls-back-earth-ai-tool-over-concern-about-fake-images",
-      "title": "Google Rolls Back Earth AI Tool Over Concerns of Fake Imagery",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Google Rolls Back Earth AI Tool Over Concern About Fake Images"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-07-31/illumina-ceo-on-genomic-sequencing-opportunities-and-ai-video",
-      "title": "Illumina CEO Discusses Genomic Sequencing Opportunities and AI Integration",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Illumina CEO on Genomic Sequencing Opportunities and AI"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQbGFiQWd2SU1kRkZON1JiSmp0eWhKTTlEdGwyWEpRYW9DQWQxUTlTWnJtdk5ZZFl0amF2YTJpTmM3V3RFdXlJSUJHNENBeVZTbk1kRFNxd0U1emVhcHhBRlNnNkVuUHhMMmhjbl9YSzNieGQ2TmFtYXQ5Q0dTNFJRVTljU3k",
-      "title": "ByteDance Makes Significant Investment in Artificial Intelligence",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "ByteDance’s big bet on AI - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOM3pRTk83WVNWN29PVmFHMzNwcTFEOXJOVi1TeDdSaWx0eGY5NEtaRXlkUEViX1ZNQjFWcWlJU3pVbkpWUzVxdkJiTm5EMUI0QWhVR2NCd1lqc21NZ0lzenJ2a25YUGI4MkF5SEQ3aFFnMElSMHRRYTRGNklJZnhLeXp6REc",
-      "title": "Amazon AI Initiatives Contribute to Unexpected Spending Surges on Tech Projects",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Amazon finds cases of AI causing runaway spending on tech projects - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQUkVnZWVUZXc1QjNEWTJGcmxmVldoVExTN1lVZjJ1Rkl1NjZkUVk1SEdwTFo3NFV5R29NQ3ZVOXlNYlNVSzJJSXBrS3c5Z0tvZGxvaWRRX1Z2U1VKbnRUSFYtTXYwTHgzakF0aUNPNXZJU1dBeXJlWEdlZW1iQVpQdVZrWXc",
-      "title": "Google Earth AI Tool Suspended Following Proliferation of Fabricated Satellite Images",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Google Earth AI tool pulled after spate of fake satellite images - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPVnh4X1BCWTB5dFFVWWJWRzZKWmhLZl9BbmloMEFDQ2RobExYTHMxSUdyeTljSnFvdWZJSFVZXzZoU2lta1lHS0lkVnc5Sl9XY0VGcUp4VW9jNEdZMVZ2VHdkd0UzX2tUTHRUZjJrSVd3ZXNjX2c3X0dVQWZ1YVRsd1hEX2I",
-      "title": "Big Tech Companies Invest Over $1 Trillion in Artificial Intelligence",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "Big Tech AI spending spree tops $1tn - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxPblVvckVvMUNsTHo5empfbjJWTWNEc2pNVVhfV1lhLUJnZW1EUjFDVFpuUmN4Mmt5bW5mdDdaWHJ3SlNZNDRuWDNiX0llaDRsckZiRUdDTTdVNFE5T0NnNTFCNkFhU3YwYVVQdS1WaWlqMTZsbVNSRVJtZXlxbGplTXhWb1JnbTBTYi1fd0J4TVZXZGsyMFpRQVZR",
-      "title": "EU Issues Call for Local AI 'Gigafactories' to Boost Domestic Capabilities",
-      "first_seen": "2026-08-01T04:32:43.716406+00:00",
-      "rss_title": "EU Opens Call for Creation of Local AI Gigafactories - WSJ"
-    },
     {
       "url": "openai.com/index/ten-advances-in-mathematics",
       "title": "OpenAI Unveils Ten Groundbreaking Advances in Mathematics and Theoretical Computer Science",
@@ -951,6 +831,126 @@
       "title": "Meta's AI Model Hacked Externally, Amplifying Rogue Bot Concerns",
       "first_seen": "2026-08-08T04:31:51.722562+00:00",
       "rss_title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia Powered by NVIDIA and Dell",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming",
+      "title": "AWS Develops AI System for Mathematically Certain NHL Playoff Clinching Scenarios",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "Determining playoff clinching scenarios in the NHL using constraint programming"
+    },
+    {
+      "url": "huggingface.co/blog/allenai/tutormoments",
+      "title": "Hugging Face Explores TutorMoments: AI Tutors' Ability to Gauge When to Intervene",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "TutorMoments: Do AI tutors know when to help and when to hold back?"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU",
+      "title": "X.ai Releases Imagine Image 2.0",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "Imagine Image 2.0 - X.ai"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw",
+      "title": "Apple Mac Users in China Gain Access to Alibaba's Qwen AI Service",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ",
+      "title": "Alibaba to Monetize Next Open-Source AI Model for Large Users",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxPMUFoX09xbjhoRkMwSkV6RnpjWDJ6V2dSRzBNdzdKWVAtRUpzRjdJUjNkQ2NvVUxEa3A4VFg0WXZKZ0I1cGV6VmdFQTVxU2RNbW82eTkzMWRjX2dwcGdQVlRDd2FsS3lreVJVMkpvVVlkZUZBanI2YlRCeXlFd0oybXVEXzlsNUFfdE94ZC1XZ183UHFvTWJ0LVVwVF9yY1NLZE1TQ0pWU19YRzhGN0wwdXhR",
+      "title": "Airbnb's Stock Surges on AI Payoff and Strong Revenue Forecast",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "Airbnb hits four-year high as investors cheer revenue forecast raise, AI payoff - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNcUkyUEpWNlhDYU5LbTVFTjdNa1dWdU9HbDRhWGZsRjVEU1VOY2VMVGZkOWRnY3QyS09OVzlYUWlUOVJ5QnlxaDd4TEp0em5Ea1RoZDFHVTN4UGhJcVFxTlBPZFZHVmFYUlUtSXRXNFAzQzhSWTZyazRWbXNjWEdDWmNjbWJmTWdSekdNdzRXVjRadFRwaXlGNXktYU1wblBnWW90eFhRZ0dHWjJSWXljWmxIdW9icFIzU0Uw",
+      "title": "Retailers Leverage AI for Traffic but Struggle with Customer Data Control",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "Retailers tap AI shopping traffic but fight to keep customer data - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-08/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
+      "title": "Singapore Prioritizes AI for Worker Welfare and Job Security",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQQ2RnUmZkaXcyRWthc2hFbk1BYVhZYnNVRXhLWUxXS1VCMkxMVEhRSlI1RkJRclNNRUlhNG9heThEZzVEVUZQVkdLYmlVcFpFNmhlNkhJMzdrc1VfT2ZQSW9FNWswYUswcWhKN09nTXYxM0loTURNM2RUSE5abnVjVWI0NU4",
+      "title": "ByteDance Develops Mega AI Model Competing with Anthropic's Mythos",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "ByteDance targets mega AI model nearing Anthropic’s Mythos - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxQWjUtVFpXLVlBTFVCUnZTMWdRa3o3NktaWjlsdGpXUUtFS1Z6MTJpSmtCVG5FTlBvcS1wZDhSRWZ2WVVSTmZ5T0sxejBtN0FhMDRwZU54WnU0WDU1N2hzMGgxV3JCbjY0a3FZXzhMd1pvR2tCRlFLY1ROSXQ0ZHdUdlZ4RU9OMWt1Z0RWdzExQQ",
+      "title": "WSJ Declares AI Reaches Transformative 'Move 37' Moment",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiiwFBVV95cUxNVlNBbmFFdVRBcXdVcmpOd1dHWDhrcjdVS3JJXzNPUHFMNTJfb0J2MHFIVktiSFNyLVZTOS1lWEt0VDVGVjlzQzE2R3FKaFp5VUFjWl81VE9vUUdMZzJiZURneS1JMnFDbWNIZTVKRVhGcWNFQzNoMDhqR1N0TzdsTS1nS1RhOElNUkJF",
+      "title": "WSJ Warns of Risks Posed by 'Rogue AI Bots'",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "A User’s Guide to the Universe of Rogue AI Bots - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQczVVRUo0X1BGUmdjZG1nVFVsbmhQV3BQZ3Rad0pvTHM5RnVtVUJJOWN1eHU3ZHA5TXhSQ2laVDlOWjdpa0tqNGthQW9mVmtOZGtCTjNhY21hNUo2OTZpeHZXbS1sRm9WWnYxaFJ6X1I5Ml9rUDNyNUc5T0dDa1UzUnEwUHRuS21UajdVenJoOXM0ZlhnMWFKWS1abXh3QklVd0RjYkNvRmZWZW5RbFNDVUJkRU1vVXpV",
+      "title": "Shopify Reports Accelerated Revenue Growth Driven by AI Tools and Merchant Expansion",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "Shopify Signals Revenue Acceleration as AI Tools, Merchant Growth Drive Results - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTFBRTFAzWHNwWUZSa2h3UXM0d0FsRFJ0Vl96ZXE5aEYtVTFqTTRBUWJ3RkJObFhNR24zRWRlZ3FCZF96SDBKcDBhQkxjQm1WQS15eXJB",
+      "title": "DeepSeek Criticizes Overhyped Financing, Cites Competitive LLM Performance",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "DeepSeek Harness Head Complains Overhyped Financing Materials: V4-Pro Programming Ability Only 0.3% Lower Than Claude Flagship Model, 10% Exorbitant Front-End Service Fee - 36 Kr"
+    },
+    {
+      "url": "wired.com/story/scientists-used-ai-to-create-16-new-viruses",
+      "title": "AI-Created Viruses Raise Dual Concerns of Medical Breakthroughs and Regulatory Lag",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "Scientists Used AI to Create 16 New Viruses"
+    },
+    {
+      "url": "wired.com/story/this-chatbot-is-just-a-random-guy-lol",
+      "title": "New AI Chatbot 'ChatTJB' Features a Human Operator for Reflective Interaction",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "title": "OpenAI Pauses Development of 'Astra' AI Model Due to Security Concerns",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful"
+    },
+    {
+      "url": "theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "title": "Google AI Shake-Up: Key Personnel Changes Spark Industry Speculation",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "What&#8217;s behind the Google AI shake-up"
+    },
+    {
+      "url": "thenextweb.com/news/cloudflare-kitesurf-browser-ai-agents-workers",
+      "title": "Cloudflare Develops Lightweight Browser for AI Agents on Workers Platform",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "Cloudflare built a browser for AI agents. It uses 7x less memory than Chromium and runs entirely on Workers."
+    },
+    {
+      "url": "thenextweb.com/news/zenity-malicious-ai-skills-1-7m-installs-supply-chain-credential-theft",
+      "title": "Malicious AI 'Skills' Used in Credential Theft Campaign Affecting 1.7 Million Installs",
+      "first_seen": "2026-08-09T04:31:39.564597+00:00",
+      "rss_title": "Malicious AI ‘skills’ turned agents into credential thieves, at scale"
     }
   ]
 }
