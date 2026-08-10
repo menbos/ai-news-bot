@@ -1,126 +1,6 @@
 {
-  "updated": "2026-08-09T04:31:39.564597+00:00",
+  "updated": "2026-08-10T04:31:53.325422+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/ten-advances-in-mathematics",
-      "title": "OpenAI Unveils Ten Groundbreaking Advances in Mathematics and Theoretical Computer Science",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "Ten advances in mathematics and theoretical computer science"
-    },
-    {
-      "url": "openai.com/index/unive",
-      "title": "Univé Leverages ChatGPT Enterprise to Cultivate an AI-Ready Workforce",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "Univé builds an AI-ready workforce"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiVkFVX3lxTE9YOTZlY1Vwd3poN3p6RHdJMTlUaVFrVzN0cmhLM2RYUjFVRllvVEpleVdSRlFTQVNuUDU0M1ZzMTFlX3hrNjdySlB1dXFuTGNadEFLbUVB",
-      "title": "Google Cloud Releases Latest Documentation and Updates",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "Google Cloud release notes - Google Cloud Documentation"
-    },
-    {
-      "url": "githubstatus.com/incidents/kk183dslzdzd",
-      "title": "GitHub Reports Degraded Availability for GPT-5.6 Luna Model",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "Degraded availability GPT 5.6 Luna"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijAFBVV95cUxQYjNBZGhQZFk0YXdGc0FQRUsxd0Jrd2RuTkRBXzFMMTdpUXZqZWpOYjR5dEhrMkg4X0hYcjFEemFBWEdGQU9Tc1hjMXZWN0lxQVlNU2FBcHpMQ0ctSHplVklWOEFhQmljYTQ0NERkZ3V5di0tZUR3Rm1zX0R3X1k1MDRDNzRydEFtenplMg",
-      "title": "OpenAI Reportedly Previews New 'Astra' AI Model in Washington D.C.",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "Exclusive: OpenAI Previews ‘Astra’ AI Model in DC - The Information"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw",
-      "title": "Anthropic's AI Conducted Unauthorized Hacks During Company Tests, Raising Security Concerns",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "Anthropic's AI hacked three companies during tests, highlighting growing security risks - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxPUnRGd0w4WEhBT3ZTQ1lnOVRQYVpGTTAzMFVmMmE2Zi1vaFlCWWZNS0pXcDFOVWdwYjd2RktjMlV5ZjRGdzdVTWxQRHN4UXJJRThqYU9ZUmFua054eEowWHEzNV92SDhNQkdRQ2pwdl9YcWlId3NweWFRN0M3cEdwNGtyZ0JMNzJ5NWpuU0M4ZkVLZXJLYUNwbktZSTVBYnltRDkwMW12cw",
-      "title": "Understanding the Rogue AI-Agent Security Breaches: A Growing Concern",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "What we know about the rogue AI-agent security breaches - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNaEFvajk1QWYtT0dWV0NBbFd5QTJKR0s4eHNLR3N0eV9yV0Q4NXkyS3R2UjFoRDlXWTROdHNBU1NtTENFS1BGLUVQaVEwc1ViTmhuY2FDeW5NZm5MVDB3azVTRjVKRGtEVTFfSlhETkRLTUdaY0ZVXzRERnRWYUVZNkVEaEs",
-      "title": "Amazon Finalizes $50 Billion Investment in OpenAI, Signaling Major Strategic Alignment",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "Amazon completes $50bn investment in OpenAI - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQcmNmRHNYd014S1g2V25fSHpmOWFBeVhPZnVpZVczRUZjOVN5bmtxWGJ4TERRNm94S3MxT2c4OTVtMWlSS2hBajRMalpGcm0wdDRfMmUtQXBhYzJqMmE4MU45ZGRpNkFKc3otUE9OVTdPLVZXbzA2UExpTkFUT1QybHJ3ai0",
-      "title": "Rising AI Demand Fuels Bidding War for US Coal Plants, Signaling Energy Shift",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "Coal back in favour as US plant bidding war highlights rising demand to power AI - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPQzhjZHBhenBpODVGMTRnaGN5QUNLN3FJRlYxdTNlZURMTF9ZZmdhTTlibTJ5V2YxcXBya2tqbDh1dUlUUS11RXVLcjk2dkFlUVBxeUNwLUdJeFhfZWM2U2VERjVsNW95bkRiWEEwLXE2WlFoM3NLalFrSXNVY0hEU3Z1eE0",
-      "title": "EU Proposes 'Cookie Banner' Style Labeling for AI Systems",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "AI’s ‘cookie banner’ moment: EU labels come for the bots - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxPUXdiRTNDR2poMG5NTmxiZ2ZLdnMxWWpSQjVFWHlCenQxR3FBd2tKSHpFdWNWVnc4Vlh5VTh5djMzenRFdTF1c0k0NDVKMWVSNDkzSmRvUjZ3V3B2VlBCdzVoME5vb3V2UzJ0dEN5bVdkZGdtS3ZVdGxERmg4ajZhYzI0NEpfTkcwRDFGTXBvaGQxUFZqTmVz",
-      "title": "OpenAI Reaches One Billion Users Amidst Price Reductions",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "OpenAI Surpasses One Billion Users After Cutting Prices - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxOZUhoa0UwOUNlazJaQjFjRkwyN0UxVG9jSmhBRkpOWmR6SUJrSk1YWmtUR1c2RmZ0cGZJay1SZy1XZ1FzOWJaWmV1RXBpWFNDMjJobTZrMGtsVUVHOTlVWGVfbWlkT2sybGdGUFFGNWJkU1BRUjJvZm01UEs1VVZhTlRqSGp2d2N5MHc",
-      "title": "Math Superstar Joins OpenAI Amidst AI Apprehension",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw",
-      "title": "US Focuses on Developing Domestic AI Alternatives Amidst Competition from China",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "The Race to Build an American Alternative to Cheap AI From China - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMidkFVX3lxTE1sTHdYaklsZE1LbFQ2cG1mby0tQkxXZ1pOV1BXbW4zWUltZTg2RUUzVjNpZHdiZ2xubEVtRFdjejd2NzBfNzlFeDJVQkl3Tm5HdUZ2WjdCcWs0M0Y5SVo4QW5fUU1VY2tBUDBmaDc3RzJfcDQtQnc",
-      "title": "AI's Impact on Reality Blurring, Raising Societal and Ethical Questions",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "AI and the Blurring of Reality - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxNMTBkT1JybjVIQVZBdmNXQTFKSkRIaHdsQUJrNGhWTUhCVnpPWUdUeFRKR3c4M3RaNzc1UVBjemdfWVN5S2JtUVU3bzl6aEVhUG9YUW0wRUFPeTJXWXNmYXdZOWhoNUQ1UTVjdUdyblAzU3RScGpHZ3B1Q1VxLTJFaEt4Y3NxY19jdFNTLWVhOVl6SG9Gcjk5bUdjU0p4eUw4NGRjTm1CRy1qVUlVMkh4OHFB",
-      "title": "Fintech Chime to Cut Staff by 10% Amidst AI-Driven Efficiency Gains",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "Fintech Chime to Cut About 10% of Staff on AI Efficiency Gains - Bloomberg.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE9MTzYyVXEtSE9PbWZOeXVzUW90OS1NWFlSQTZoNFkyWXZRdUZSdWkxRF8yS3RqY3hHQlFlSmFTeW43azNyQmlHNF80VmQyR21fRjNR",
-      "title": "DeepSeek Releases V4 Model, Igniting Competition with Enhanced Capabilities and Cost-Effectiveness",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "DeepSeek V4 Official Version Released - New Capabilities Unveiled, Cost-Effectiveness King Launches AI Model Competition - 36 Kr"
-    },
-    {
-      "url": "arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
-      "title": "Reddit CEO Questions Google's AI Overviews Amid Stock Decline",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "As Reddit stock falls, CEO questions value of Google's AI Overviews"
-    },
-    {
-      "url": "arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-      "title": "Anthropic's Claude AI Compromised Systems, Attacked Three Companies",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "Claude published malicious code to the Internet and attacked 3 real companies"
-    },
-    {
-      "url": "wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran",
-      "title": "Cyberattacks on US Water Systems Likely Linked to Iran, FBI Eyes AI for Detection",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran"
-    },
-    {
-      "url": "wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
-      "title": "OpenAI and Anthropic AI Hacking Sprees Create New Legal Challenges",
-      "first_seen": "2026-08-02T04:31:42.391745+00:00",
-      "rss_title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier"
-    },
     {
       "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQWjlHM1ZsVFZ2VWZiRG4xcTd3aWdrU2U2SEwySXh3RWxPYWhBSlM0MTU2M2M3dlVDTnN5TDVUUkJvUGw5WXczVlB0ZzBPMk5NTjhOWkwwcGRHYWk4MGVUdjhRNUc5NXFkN1BFSHdrVnJtM0ZXSDNwM3phcnA5WE1LWjMwbUVhRHV2YUl2SmFBUVZUbXNTQ0EtZVBXRHhoSjlobzJuOWk4SnJvalVfZTdaWkVtRHdjN21v",
       "title": "Alibaba's Qwen3.8-Max AI Model Challenges Global Leaders",
@@ -951,6 +831,124 @@
       "title": "Malicious AI 'Skills' Used in Credential Theft Campaign Affecting 1.7 Million Installs",
       "first_seen": "2026-08-09T04:31:39.564597+00:00",
       "rss_title": "Malicious AI ‘skills’ turned agents into credential thieves, at scale"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ",
+      "title": "North Korean State-Sponsored Group Leverages AI for Advanced Cyberattacks",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "North Korean hacking group builds AI tools for cyberattacks, report says - reuters.com"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-10/sony-tsmc-to-invest-6-4-billion-in-joint-chip-plant-in-japan",
+      "title": "Sony and TSMC to Invest $6.4 Billion in Joint Japanese Image Sensor Plant",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "Sony, TSMC to Invest $6.4 Billion in Japanese Sensor Plant"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-10/deepx-ceo-on-business-strategy-new-funding-video",
+      "title": "AI Chip Designer DeepX Discusses Business Strategy and Secures New Funding",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "DeepX CEO on Business Strategy, New Funding"
+    },
+    {
+      "url": "bloomberg.com/news/newsletters/2026-08-09/apple-explores-apple-watch-shake-up-company-prepares-for-september-iphone-event",
+      "title": "Apple Explores Major Apple Watch Overhaul Ahead of September iPhone Event",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "Apple Explores Apple Watch Shake-Up; Company Prepares for September iPhone Event"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
+      "title": "China's Moore Threads Plans Hong Kong Listing Amidst Significant Share Surge",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "China AI Chip Designer Moore Threads Plans Hong Kong Listing"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNanFJZkN4eXNOakNBBOUNDc1ZoRFZtZ2d0YmVWbmpQTGVkZGlNU2FBOEF4Tl9kdmFiOWlYeFhoMDd2Nzh2eEM5QW1pc2hzUWlGQVR4TUxSZlFJbEtpZk1STE9ZR0RoQXM3YURZTUdIYXNpMnlGZlREN0x6WThNZnVTcENVMWI",
+      "title": "Concerns Rise Over AI's Potential to Create a 'Permanent Underclass'",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMif0FVX3lxTE5oUWlRZDIyTHJkVldYMlFVb3NIZ3VON3VDOFV1MVkwSXNCcVd5aFZsbGNvWW52RnBHcWFoQkR6LU1yRFNsWUdqS3F1VHVrSlE5aURSSU92a3ZxV1BOamRtbjdta1hMY3hkRHlLcVgxc0E4X3JFSjRINC1UelZRdHM",
+      "title": "WSJ Launches Podcast Series Exploring AI Therapists",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "The AI Therapist: A WSJ Podcast Series - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMib0FVX3lxTFBEbGFld2RJa09JMjk0NkxUS1JrMll2VGhMQXlqLTRCVWVrX1JxN1M3Ry1CaU1lVWtLUDQzdDJoR0N2WUxtdFN4UmlQWjl2S05TaU5SMThianZINlJURDQ3YlRHcWNqUDlPN7w3dG9n",
+      "title": "Opinion: Navigating the Integration of AI into Daily Life",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQRUptd2trQlVzRjA4WUZCc2RsZFNYTDZQMFV2dEZveVR5Rm91NVZkVzRTTmhoOWN2MUs4MUNtU0lSMmxUaHpmNWtvdHJXc19HeEMydjNKNlM5NmE5dkRHZGVpSFd3RmhTOFB4Szd5M0RqVlY0WmtoVjBFZjZ1dDJjeXh3ZFp1aVhKZFVTeWRQbWJvZmZ3NjhjUGJzN2tDYV9yN09JLW05eU1IZ205OXVwQjQ1Yk84bTFT",
+      "title": "Data Center Expansion Drives Land Rush in Texas Oil Patch Amidst Power Concerns",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "Data-Center Backlash Leads to a New Land Rush in the Texas Oil Patch - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxPZVhHTkxYZzVmd2hFdG1EaThzeU81US1kTkY0SzhtNkI2N2pyTDZncC1yN0RBSEgzXy0teDVxRXp2NWUtS0tiUktONkVlQVRNc0JKZ2IwSmR0Mkk1Y2hzLVBSUkxiMGhDZWoxSjdyOEZpUkJHSkR1c0JLQm54ckpKZnI4amRXZHdWZHc",
+      "title": "AI Use Becomes a Stigmatized Mark in the Entertainment Industry",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "Suspected AI use is the entertainment industry's scarlet letter - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMib0FVX3lxTFBVa0E2cmg1cThnMDZ1UUpWTG9KT1NiY01xQnhoYTBBeTU3eWJuVTFhSUk4SktOUXlXRllCZUZEUm01bGltQ1k3Y0dsRjdQSFRDSXF6VnhsUGV2MVRIMURJLXJjR3E5dGlVRC1aaVFPdw",
+      "title": "Engadget Explains How to Utilize Claude's Voice Mode Functionality",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "How To Use Claude's Voice Mode - Engadget"
+    },
+    {
+      "url": "wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how",
+      "title": "Meetily Offers Free, Open-Source Solution for Meeting Transcription and Summarization",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How"
+    },
+    {
+      "url": "wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad",
+      "title": "AI Billionaires Pledge to Donate Fortunes, Sparking Philanthropic Debate",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "These AI Barons Are Ready to Give Away Their Fortunes"
+    },
+    {
+      "url": "wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
+      "title": "Guide on Disabling Gemini AI Features in Gmail and Google Docs Released",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "How to Disable Gemini in Gmail and Google Docs"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "title": "Amazon Data Center's Power Source May Become Nation's Worst Polluter",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "An Amazon data center could have the worst polluting power plant in the country"
+    },
+    {
+      "url": "engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ",
+      "title": "Claude Outperforms ChatGPT in Key Areas, According to Engadget Analysis",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "Claude Vs ChatGPT: How These AI Assistants Differ"
+    },
+    {
+      "url": "thenextweb.com/news/firebird-armenia-ai-factory-export-licence-compute-diplomacy",
+      "title": "Armenia Inaugurates Largest AI Factory in CIS Region with U.S. License",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "Armenia just opened the region’s biggest AI factory. It exists because Washington signed a licence."
+    },
+    {
+      "url": "thenextweb.com/news/ai-avatars-job-interviews-candidates-recruiters",
+      "title": "AI Avatars Emerge in Job Interviews, Leading Candidates to Deploy Their Own",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "Recruiters are using AI avatars to run interviews. Now candidates are sending avatars to attend them."
+    },
+    {
+      "url": "thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off",
+      "title": "Meta CTO Urges Employees to Leverage AI for Product Development, Not More Time Off",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "Meta’s CTO told employees to stop asking for more time off and use AI gains to build “cooler stuff” instead"
+    },
+    {
+      "url": "cleantechnica.com/2026/08/08/worlds-largest-12-8-gwh-battery-storage-cluster-activated-in-china",
+      "title": "World's Largest 12.8 GWh Battery Storage Cluster in China Integrates AI Management",
+      "first_seen": "2026-08-10T04:31:53.325422+00:00",
+      "rss_title": "World’s Largest 12.8 GWh Battery Storage Cluster Activated in China"
     }
   ]
 }
