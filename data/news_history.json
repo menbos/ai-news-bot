@@ -1,126 +1,6 @@
 {
-  "updated": "2026-08-11T04:31:48.265128+00:00",
+  "updated": "2026-08-12T04:31:50.564630+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "title": "OpenAI Unveils GPT-Live for Real-Time Voice AI Interaction",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "How we built a realtime system for responsive voice AI in six months"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations",
-      "title": "Formula 1 Accelerates Data Operations with Agentic AI on AWS",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock",
-      "title": "Amazon Bedrock Enhances Automated Reasoning Policy Refinement",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "Automated Reasoning policy refinement in Amazon Bedrock"
-    },
-    {
-      "url": "status.claude.com/incidents/dnl3q35xkn3s",
-      "title": "Anthropic Claude Sonnet 5 Recovers from Performance Degradation",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "Degraded performance on Claude Sonnet 5"
-    },
-    {
-      "url": "status.claude.com/incidents/ch7k4vh9fr1y",
-      "title": "Anthropic Addresses Widespread Model Performance Issues",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "Error rates across multiple models"
-    },
-    {
-      "url": "githubstatus.com/incidents/7s119p1yxttr",
-      "title": "GitHub Copilot Experiences Intermittent Errors Affecting Chat and Agent Models",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "Incident with Copilot"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMic0FVX3lxTE9ZSjkyZXhrLU11dksxVTNxUFlkZEhKdUtQU2dDMUpNUExTNG9PdGFGZFAxY05UamxEWFNlcGYwSWJQOERRV3FwN2F2ZXRHc014bDkwUTh5SktKekgzVFlseWh0WXRfUlBMTkpEMnR6dlp1YWPSAXhBVV95cUxNMFJrbWFkYTFaNGxpVVpScmJ5dVdrZGhMZ0NmZFU4dmdNSnlLa0dVaU1scllBOThZcjFQUXBuazFmMEJNZi1laGVPQjBFZ2UzZ1E3QjQwSE1fa0M2WjM4bUx4N1RKQ2NGMi1RdklGMzh1bTBLR01Ba3Q",
-      "title": "EU AI Act Enforcement Powers Trigger New Scrutiny for OpenAI and Anthropic",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY",
-      "title": "White House to Host AI Companies for Model-Testing Framework Review",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "White House to host AI companies Tuesday to review new model-testing framework - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxQZ3hBOWtTak5hM3JQdjc2Z1E1anpYS0RtQW5Razg4UXdNdmNpeGN1UnVjMzRJY19IdGY3VkVOUC1JSWsxYno3ZlRXOEtDYm5wNmU4c0ZyT0dwUG1yYS1YejZqZ2hYbENNc041REV2VldRc1p2V1c1TXdvOURmOUZQaDFJY3luQTRGNEt3eFR1cTdHdzk4aVhvR2R3WW5CRkwtbDVNR0llRS1sRHFEd2hGNE5n",
-      "title": "OpenAI, Anthropic, and Google to Attend White House AI Safety Meeting",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "OpenAI, Anthropic, Google to Join White House AI Safety Meeting - Bloomberg.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ",
-      "title": "Meta, Anthropic, Google, and OpenAI to Meet Trump Officials on AI Safety Testing",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA",
-      "title": "OpenAI Investigates Hacking Probe, Finds Evidence of AI Agent Containment Breaches",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-04/nab-tests-ai-agents-in-plan-to-deploy-tech-to-banking-customers",
-      "title": "National Australia Bank Tests Agentic AI for Customer Deployment",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "NAB Tests AI Agents in Plan to Deploy Tech to Banking Customers"
-    },
-    {
-      "url": "technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks",
-      "title": "MIT Technology Review Explains AI Agent Deception and Motivation",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "The Download: reward hacking explained, and suspected Iranian cyberattacks"
-    },
-    {
-      "url": "technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals",
-      "title": "AI Agents Exhibit Deceptive Behavior to Achieve Goals, Explained by MIT Technology Review",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "Here’s why AI agents lie and cheat to reach their goals"
-    },
-    {
-      "url": "arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it",
-      "title": "AI-Supervised Exam Failure Leads to 58,000 Students Retaking Test",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "An AI-supervised remote exam went so badly that 58,000 students must retake it"
-    },
-    {
-      "url": "wired.com/story/ai-conquered-coding-fast-food-is-next",
-      "title": "AI Poised to Revolutionize Fast Food Ordering and Operations",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "AI Conquered Coding. Fast Food Is Next"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "title": "China's Alibaba Releases Qwen3.8-Max, Challenging US AI Supremacy",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy"
-    },
-    {
-      "url": "thenextweb.com/news/mariana-minerals-310m-series-b-autonomous-critical-minerals",
-      "title": "Startup Mariana Minerals Raises $310 Million for Autonomous Mining of Critical Materials",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "The AI boom runs on metal. A two-year-old startup just raised $310m to mine it, autonomously, on US soil."
-    },
-    {
-      "url": "thenextweb.com/news/deepmind-sekhon-ai-capex-recursive-self-improvement-rsi",
-      "title": "DeepMind Executive Identifies Self-Improving Machines as Core of AI Investment",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "A DeepMind exec finally said what the trillion-dollar AI spend is for: machines that improve themselves."
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxQOVFaV25Sb2NUb2hTWnA5bTRPcnlJdmZmSnFLNXlJcXFpQ1FPdHV5WTBPRklnNkExQ2p5QTU5aEZiQk43NzdTdTY0cDk2eWxwcjYta3NINzI5eVJTb0JMcjN2OTF3TEY4T2g3U1VucmNKWU9YSE5FRWxYNTAxbjJBR0xfSU5ONkg4QjQybFFlN3ZxU3d1ZDNjX3VXVmxoaGdqLVNqNGRxYXZaZWEwUTljSHZlOFZSOEc3WmFpX3pNRTA4OUk",
-      "title": "Palantir Raises Annual Revenue Forecast Amid Strong AI Data Analytics Demand",
-      "first_seen": "2026-08-04T04:31:39.774614+00:00",
-      "rss_title": "Palantir lifts annual revenue forecast on steady demand for AI-powered data analytics - Reuters"
-    },
     {
       "url": "news.google.com/rss/articles/CBMi-AFBVV95cUxPWlcyMlRoSEdoMWV5QjZBeXRGenZEeHVSeV9NMzFRajlpX2xITkNiLS14TjJIcVhtYWExY2VaNzltV3F5TmgyRnFjdFBuTmozWWdsVm5mX3BIUG51eWNxQnBMenJCOUtYeUE3RlRhQV9DLVo4RU53U0lGNTdjTGw5NWVNeG11SDRQT2oxeWFMTmJIZ2I3RzBOSzRsWEctMFRKWFY5R21aS1YzcktXSjRubzVqM2NlTHVRcjBRYWV6WmlTbHBwblVfa0RIQUlLX0o3WE9Sa0NqV08yRGRDX2ZKdU1aV1JSeDNCRGVKd0NrV25TMDhNNGRPNQ",
       "title": "White House AI Framework Review sparks debate over public release",
@@ -949,6 +829,126 @@
       "title": "Nvidia Secures $500 Billion AI Infrastructure Funding Commitment from Wall Street",
       "first_seen": "2026-08-11T04:31:48.265128+00:00",
       "rss_title": "Nvidia Taps Wall Street for $500 Billion Funding Commitment"
+    },
+    {
+      "url": "openai.com/index/testing-ads-in-chatgpt",
+      "title": "OpenAI to Test Ads in ChatGPT to Support Free Tier",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "Testing ads in ChatGPT"
+    },
+    {
+      "url": "openai.com/index/daybreak-models-are-now-available-on-aws",
+      "title": "OpenAI's Daybreak Cybersecurity Models Now Available on AWS Bedrock",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "Daybreak models are now available on AWS"
+    },
+    {
+      "url": "openai.com/index/building-an-ai-native-finance-function",
+      "title": "OpenAI CFO Shares Insights on Building an AI-Native Finance Function",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "What building an AI-native finance function taught me"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "title": "Google's AMIE System Demonstrates Real-Time Clinical Video Consultation Capabilities",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study."
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nvidia-ai-factory-compute",
+      "title": "NVIDIA Forms Partnerships to Mobilize $500 Billion for AI Infrastructure Financing",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory",
+      "title": "New Power Architecture Required for Scaling AI Compute Performance",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "Why Scaling AI Compute Performance Requires a New Power Architecture"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx",
+      "title": "NVIDIA Enhances Agentic AI with Nemotron 3.5 Lightning and NeMo Switchyard",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock",
+      "title": "OpenAI's Daybreak Red & Blue Models Enhance Cyber Defense on AWS Bedrock",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-onestruction-built-the-ishigaki-ids-foundation-model-with-aws-genaiic",
+      "title": "ONESTRUCTION Builds Construction Foundation Model with AWS GenAIIC",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "How ONESTRUCTION built the Ishigaki-IDS foundation model with AWS GenAIIC"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads",
+      "title": "Anthropic Claude Apps Gateway Deployed for Enterprise Workloads on AWS",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "Deploying Anthropic Claude apps gateway for AWS for enterprise workloads"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE05SWpuNEpobjJKLVlscEY3SkRCLV95X3hSUDRydzFoejg0NjlITkg2N2szcFUxcnI0V202S1dNOWRXeTdGSjEyYldVV3FMSmZjRmhyWmRmUUpjWEZrZ1R3ZzFxNHAwU1lEUzVxaXJyQkNRN19tTWdjSHF3",
+      "title": "Meta Releases Open Version of Its Most Powerful AI Model",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxNVTJrVHZiUWxmZm5rQW9UY0hDWEdWc2hFZHRTMTMtZmpmVTJsMV9FODlVNHFvVGJpUUJsclZqbks4M0FvcS1VTlRRVTBYZWEzRmNlUWcxaGRSeEdJcUJHZHMtZFRKcTNyU2h4ZVdZZU9lcnYzemZtY2xKekJFdUJjeVFmdkZDRHVyRndLQmpvUXgtUmdWT21aNmlWelUtVjNhbEE",
+      "title": "Meta Launches Muse Glimmer, an Open-Weight Model Capable of Running on Laptops",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "Meta launches Muse Glimmer, an open-weight model that can run on a laptop - Business Insider"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxOeGVjNVRkSGR4T3Q4dTFIdW5HTURnMFhhTFV5X0MybkFJd25KUDc4Qkw4OF9LZ2FDRHFRUHIxUWlxVFgwTE9QX1VSaVVjZ0hPYktVam9JWFNEeDBjODFDZDgxbFdOQVpIbzRhOFZkWm9vb3Ryemk5NzVON2FiYi1va1gtNS1tRC1UMkhIS0x0eTd4S1ppRldfQk56cnBDUXZpanNLczFaZnFoRlpuZUdXcTB5X1FQdw",
+      "title": "NVIDIA Reportedly Developing 1-Trillion Parameter Nemotron 4 to Compete with Open AI Models",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports - Reuters"
+    },
+    {
+      "url": "github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer",
+      "title": "GitHub Blog Discusses the Shifting Role of Developers with AI Agents",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "From coder to orchestrator: How agents shift the role of a developer"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiT0FVX3lxTE9CZnlxMXRUUXNoeEMwOGZIcjVOLW9JODJFTTRSV21XV2FvU3Q5ZUJpS2FOcTNoay1ud056cG5tcEJGV05uVE5lWlFFeVpDUXc",
+      "title": "X.ai Introduces Grok Bot",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "Introducing Grok Bot - X.ai"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxOOWFnbnhiRmVUZjctVmd3ZjBELWlqWGRJRHo1SHdndlFkLVdLU2NfUGhFNXZ4ZVUyeGdwaE0zQ2J0SGhMNVVfampkTE9SSHZyZms5aHRZS3kzOF9jbXQ5RFZhZWNWdThNNW5TbE1fcDA0Q2JRUDliMWRYcUItTm5hVk9yOVFHeXUwVVdKaFdRMG9BX19VbHRNQVRZZzdCWVlQWjZsYWVKUGRBZi1xblZKSlZqWVR4WEZOSGREUkNaVHB1RjRjZHBz",
+      "title": "Microsoft Focuses on Building Foundation for Agentic AI in Healthcare",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "Building the foundation for agentic AI in healthcare - Microsoft"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxOaUFyUHZWcmxyZWFEYTBZM3FpWlZGN0ZMYXpfckE1U1RrTVJEVDFkTTN3YnkzaUw1VktNM0JWSFdvYzdSX01lRThXWE1CUVFkYXVPdFBZeU85SUs4WXN5MmUzLUU5ZC1JTkxMUnhjbDZlbkN1QlNmMG43NTlLVWtlcEpUSTIzeGFkbW5CMmpCdjZMaVJ1ekhmVVB0a0dKX1l5SWN2d0VVcmxlMTBLaVE",
+      "title": "House Committee Demands Information from Anthropic on Security Incidents",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "Casar Leads Demand for Information from Anthropic About Security Incidents - House.gov"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "title": "ChatGPT and Gemini Both Surpass 1 Billion Users",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "ChatGPT and Gemini both just passed 1 billion users"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg",
+      "title": "XAI Co-Founder's Startup River AI Raises $1.1 Billion for Custom AI Tools",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxQSDFDV3hxdDluWW51QTdVX3daS0JEcVNtV0x2b2hMMDhQQUtrMEktMkNQcmVMTi12OWt4Zm1mNnlkZDlwYzNZcDZIU29TZGVORFZVaEZxbmF3TS01Y3ktbUo2TzRlcURoaWQ2cC1oazhRdmhGYVg3eF9lQ2RwU0ROVFY1UHJteFVNS1hqaUhmZVpQc1lDcU0zeS1tMl9ZSTRtUDF4LXo1UVdEMmdHUUR2ZTc2Z2NqajJLVEY2aEU0WTNHOTg4MzFQQw",
+      "title": "Alpha Compute Plans $55 Million Data Center Campus in Pennsylvania",
+      "first_seen": "2026-08-12T04:31:50.564630+00:00",
+      "rss_title": "EXCLUSIVE: Alpha Compute to buy Pennsylvania land, gas rights for $55 million data center campus, company says - Reuters"
     }
   ]
 }
