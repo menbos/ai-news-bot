@@ -1,126 +1,6 @@
 {
-  "updated": "2026-08-12T04:31:50.564630+00:00",
+  "updated": "2026-08-13T04:31:23.972218+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMi-AFBVV95cUxPWlcyMlRoSEdoMWV5QjZBeXRGenZEeHVSeV9NMzFRajlpX2xITkNiLS14TjJIcVhtYWExY2VaNzltV3F5TmgyRnFjdFBuTmozWWdsVm5mX3BIUG51eWNxQnBMenJCOUtYeUE3RlRhQV9DLVo4RU53U0lGNTdjTGw5NWVNeG11SDRQT2oxeWFMTmJIZ2I3RzBOSzRsWEctMFRKWFY5R21aS1YzcktXSjRubzVqM2NlTHVRcjBRYWV6WmlTbHBwblVfa0RIQUlLX0o3WE9Sa0NqV08yRGRDX2ZKdU1aV1JSeDNCRGVKd0NrV25TMDhNNGRPNQ",
-      "title": "White House AI Framework Review sparks debate over public release",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "‘Baffling’: White House won’t publicly release AI model evaluation framework it reviewed today with OpenAI, Anthropic, Microsoft and others - fortune.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigAFBVV95cUxOMlB1UDdKalpjUzY3Q2JFVXZtRDZLcld6aF9hOWRpZHRzcVp3QlpVVjdneFlNR3FGY2xyWVBocFluTk9KMmVsZjBLSGFPWC00aFh6WndYcmhJMGtUMk5Vdm0xRldhZzFJWUxiQlJMc1YtV0VmaGhQUkhtc2prRGNaRA",
-      "title": "Trump White House drafts AI framework focused on security risks",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "Trump White House Readies AI Framework to Review Security Risks - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxQZGlqeXItS3prNUZ6V3BSRlQ0MzJ0NkdFNHF1SkVvY1RQUmlIb2wta2s3elpvUVNqMU4xS01WVEpRWVh1cGFJQlRlWHM1dzZsX0M3MS1fN0xfaVVESjJCWGJLc1NrcmxjWFpadDh4SldFeTg0RXNlSjNhdG5mVWNoY19BcWl0WTVUTXJHTmRHQVIyMENZZHRvZEo5dmV2aWNxVE1WY2lqLVpiSkFyNmc",
-      "title": "US Open Models Exempted from Government Review under new White House AI Guidelines",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "White House AI Guidelines Exempt U.S. Open Models From Government Review - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxOU1dRTlJ3dWthcTVkQnd1NFVJTFZSeHV4TXNiZlZOaVlNa1lSNFVnQWZxZkxEQkV2NGZ3YV8wZ21mbjhRYUg3Z05nci1Ua3o1M0FyTGxIT0VLXzhYUlFpajhQVEEwYmFuZnhZNjZPdjdPcFh2elVnNlFvdVZjYlVTNWU5M21VempmYUVMSzNNMURjeEtwcFFUa2NvY2MwYVE1M0k2RDVpTFR1V0VGUVBBNHNaRkQ3UzlhX2FMUDJFNXpOX1RVU2ZZRQ",
-      "title": "China AI hardware stocks decline amid US import ban reports",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components - Reuters"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-      "title": "NVIDIA Aligns with Autonomous Vehicle Advancement with New Open Model",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
-      "title": "GitHub Legal Team Streamlines Workflows with Copilot CLI",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "How the GitHub legal team used Copilot CLI to streamline their workflows"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore",
-      "title": "Automated Web Insight Extraction with Amazon Bedrock AgentCore",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "Automated web insight extraction with Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxORVNKc2JqcmZfVzBfczJuMDFnREpKUl9xME1jNlMyckt5TUJJdmstdmZtZ2VmZThsbl9RWDJZNE9qV0Vtang2bzFObk8xTUl1b2taUnBTd0hBc3BvdXNONlNlbkNIZUVpblhrR2FYSXMwWmt6MHphbUhLRUxmZGZGZHRlVmhxc3hKZERHWFpYbTYxd1JzVmxXdlkxNXZIYWxSNjNYdlNBNWNJdWNzNi1QY1NJR1ZhMExRTWFUQzRR",
-      "title": "AI Cloud Startup Volta Secures $2.4 Billion Valuation and $10 Billion Partnership",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership - Reuters"
-    },
-    {
-      "url": "openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "title": "OpenAI Enhances Model Security with Third-Party Cyber Evaluations",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "Third-party cyber evaluations involving OpenAI models"
-    },
-    {
-      "url": "openai.com/index/apple-is-getting-this-wrong",
-      "title": "OpenAI Rebuts Apple's Lawsuit, Clarifies Employee Claims",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "Apple is getting this wrong"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding",
-      "title": "AWS Introduces Web Search for Amazon Bedrock to Ground Foundation Models",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "Introducing Web Search on Amazon Bedrock for foundation model grounding"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiTEFVX3lxTFBzdl9BMnZNN3pna2RmTVVvSlBxVmRHR0tSRWZBQnNtS1VNUjNaUVBscEgxWlpiZndVRHdtVGNlSE0taXRwYjQya192d2U",
-      "title": "Mistral AI Introduces Shieldstral, Expanding Security Focus",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "Introducing Shieldstral. - mistral.ai"
-    },
-    {
-      "url": "status.openai.com//incidents/01KZ6CT9K9Q52S3707W75MNBGB",
-      "title": "OpenAI Experiences Elevated ChatGPT Errors, Affecting Paid Users",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "Elevated ChatGPT conversation errors affecting Plus, Pro, Business, and Edu users"
-    },
-    {
-      "url": "status.claude.com/incidents/bdr3fq2rkchr",
-      "title": "Anthropic Addresses Widespread Model Errors Affecting Claude Services",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "Elevated errors across many models"
-    },
-    {
-      "url": "status.claude.com/incidents/nlg5hjdfphmb",
-      "title": "Anthropic Resolves Errors on Claude Sonnet 5 Model",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "Elevated errors on Claude Sonnet 5"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi1AFBVV95cUxOTnd6ckhOVUhwcGJjRmxRdlhObS1ncXRhZm9OeVUwaEgwOTg5YmNBTGVWcHZsdXd4dXVrWWdlZGtsYkw0eDIyY1A3NjdSM0o0bFBGUEZRNDF2NjYwZEtCamNpeTFqN3ZaQVlTclNuQWYxNXh4ZVlqaWF3WkNNVk1fbmJXcTdISlBmUVVWS01STmFYZldLSGk5akJQZVB5X09OSzVoVWF4Wko4TEF4cGozQUlWM202dFJWMGxSRTdpcTNaaUp6bmNyZXpWbVRFb2JoSzdCVQ",
-      "title": "DeepSeek Model Offers Ultra-Low Cost Performance, Research Firm Reports",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw",
-      "title": "Alibaba Launches Largest AI Model; DeepSeek Model Noted for Low Cost",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost - Reuters"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program",
-      "title": "NVIDIA Joins NSF Program to Expand AI Research and Education Infrastructure",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
-    },
-    {
-      "url": "github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
-      "title": "GitHub Engineering Enhances Pull Request Review with Stacked PRs",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "Turn one giant AI-generated pull request to a reviewable stack"
-    },
-    {
-      "url": "nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation",
-      "title": "NIST Joins National Genesis Mission to Drive AI Innovation",
-      "first_seen": "2026-08-05T04:31:43.058253+00:00",
-      "rss_title": "NIST Joins National Genesis Mission to Accelerate AI Innovation"
-    },
     {
       "url": "blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
       "title": "Google Details Latest AI Innovations in July 2026 Update",
@@ -949,6 +829,126 @@
       "title": "Alpha Compute Plans $55 Million Data Center Campus in Pennsylvania",
       "first_seen": "2026-08-12T04:31:50.564630+00:00",
       "rss_title": "EXCLUSIVE: Alpha Compute to buy Pennsylvania land, gas rights for $55 million data center campus, company says - Reuters"
+    },
+    {
+      "url": "openai.com/index/how-enterprises-put-ai-to-work",
+      "title": "Enterprises Accelerate AI Adoption with Agentic Capabilities, OpenAI Reports",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "From assistance to execution: How enterprises put AI to work"
+    },
+    {
+      "url": "deepmind.google/blog/putting-sign-language-ai-into-users-hands",
+      "title": "Google DeepMind Unveils Sign Language to Text Model for Enhanced Accessibility",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "Putting sign language AI into users’ hands"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026",
+      "title": "NVIDIA CEO Jensen Huang Named Best CEO by Glassdoor Employees",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "title": "NVIDIA Champions Local AI Development and Open Source Models",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos",
+      "title": "AWS Provides Tools for Amazon Bedrock Cost Attribution and Analysis",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws",
+      "title": "UK Firm OneAdvanced Deploys Over 50 AI Agents on Sovereign AWS Infrastructure",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments",
+      "title": "Solv Labs Builds Verifiable Agent Payments on Amazon Bedrock AgentCore",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-pixieset-achieved-35-ai-feature-adoption-by-solving-the-right-problem-with-amazon-bedrock",
+      "title": "Pixieset Achieves High AI Feature Adoption by Addressing Photographer Needs via Amazon Bedrock",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "How Pixieset achieved 35% AI feature adoption by solving the right problem with Amazon Bedrock"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+      "title": "GitHub Copilot App Empowers Developers with Prompting Guidance",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "Write your first prompt with the GitHub Copilot app"
+    },
+    {
+      "url": "github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "title": "GitHub Urges Project Maintainers to Adapt to AI-First Contributors",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "Your contributors are AI-first now. Is your project?"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw",
+      "title": "Google Unveils Pixel 11 with Key AI-Powered Enhancements",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "7 can’t-miss updates from our Pixel 11 launch - blog.google"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxOR254U3otV3R4aU1KTnNtTDR6RzlnQ05zWUI5OWRNX2l0Vmt2TUtqam9UNjMyd0lNSnJzZWZKV2hEVzIxWVZ4Z21zT0hIUFBKemMtVkY3b0ZYU1hWaWxHU3hoQ3FMZDdmTm1vdDBrUVNDODBDYlVoZ0c1R0ZFbzI0cGZ5T2xMLVo0OGprZmdmTVN0Tkl5UjFwbm9qQ0g5Z28",
+      "title": "DeepSeek Challenges Kimi K3 with Launch of Flagship V4-Pro Model",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "DeepSeek Releases Flagship V4-Pro Model in Challenge to Kimi K3 - The Information"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi3AFBVV95cUxQb25WS2hTb1FUeWNDSzE0OGRYMWc1OXh3TkxmSjZfWmdXaHNTbXNZd2d2bGJfeXY0a2pKTC1QQ05fSHRTQmVINngzelhMVmh3Z2dDYlU2aks3aW1ZaDZIa19uckVJOVdqZEZYVG9pQXpGWmxCTlBKdTI5djZZd2tXaDB4UDR2QmVyTlIybEdhZ0FtUElic2o0U3RMaXpSUnhwcDMtOGFyZzFlQnpQSGtvZFVBbUdJRUhhejVYV2xLMXd2MmY0VkVuMDBQeGM3aVdsRXdWWW5zZ2FGSXJQ",
+      "title": "Federal Government Challenges State AI Regulation, Clarifying Governance Landscape",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "Who governs AI? The federal government's challenge to state regulation — What organizations need to know - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPaHpmV1NwTWxHeTRKVUtlY3lwWmlUVWtzX0NUYkhGR2VFRzZDQ0JXRXp1LVZ4alp5SXplU2RHTmRFNG5EaG9GWVpRbkVPZE4tS2NxUlc2UXhBVTMteFRHVWo0a0xZZGdNWFNWNmVnOTdZcHBvcGx6bnEycGlqaHNqRDI4Vkw4YTVkcnhPZEI3cGVRa0psa2xFWWE2b2g1SkJ0T0RhWlRiODVSLVBxdUxIWkl4Zl9uN1Ew",
+      "title": "IBM and Together AI Partner on $240 Million Nvidia-Powered Inference Cluster",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+      "title": "Anthropic in Talks to Acquire AI Startup Decart for $6 Billion",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-12/cisco-beats-on-sales-outlook-citing-broad-based-record-demand",
+      "title": "Cisco's AI Outlook Disappoints Investors Amidst Amassed AI Orders",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "Cisco’s AI Outlook Disappoints Investors Seeking Bigger Payoff"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPRlhNU3NZdFNQZ19HWWJKTnRkWUY5eUl3bXRRZjlZT1JGc2tvbzFlZEs2OGVnQWdIazNheUVDNWwxOUx1UF9Cc0MyM3NFcFZEbTluS2xxLTRDSC01ejVCdkJ3Q0Q2NTJLeE1kSnhqUXQ5VVFRWFFzQmR5QU5uQXYtMnU1eXM",
+      "title": "Taiwan Targeted in Unprecedented Autonomous AI Cyber Attack Linked to China",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxONGlJdkpCUzYtbmMtY3lmaG0xbFZKWURFaTI5ZHp1ZDcwc0x0YWlZWmdHdnRnTDAxU3FHNHNqQmpKOEVtNE9RM3lBMHV0OGQ3MlBpMzdwMFRHcW9xVzlvV2VURDJxTl9XLTc4MjJ6U0JFSG1RTlhBVTRPSkFDME4wZElxd3I",
+      "title": "AI Poses Significant Threat to India's IT Services Sector",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "The AI threat to India’s IT jobs machine - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE5uLVBUUU9BNTJobGl3MzJRckVNZlZfdXJDOEdTbWM0YTVwTk5JM3E4b1FadDVwQzAxVkNaSlFjZGg5QWE1SHlmUzc2YmFWb2s2LWZWVGZBUTR6Wl9tQVhUMTdCVzhVTkx4VllXZ1ZDaXY",
+      "title": "Poor Numeracy Skills Identified as a Critical Blind Spot in the Age of AI",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "Poor numeracy is a blind spot in the age of AI - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxON0VtNWU4bEVEQk5mUHY1WjFjaDBkanQzYjFnaGQ5SVNYU1FiWXpOaUVySTlxMmhYREtYZEpjcklNWnhFWjJ5Zm1FUTBhM0EzQ0w0bEVDd2lCUFI1NWktcW1DSWNXM0xwczZPdzZBZW44dVhubWFZalVRWWc1MDhSNm1ReTk",
+      "title": "Wall Street Bets on Nvidia's AI Chips Defying Financial Norms",
+      "first_seen": "2026-08-13T04:31:23.972218+00:00",
+      "rss_title": "Wall Street giants bet Nvidia’s AI chips will defy the laws of finance - Financial Times"
     }
   ]
 }
