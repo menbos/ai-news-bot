@@ -1,124 +1,6 @@
 {
-  "updated": "2026-08-14T04:31:26.762248+00:00",
+  "updated": "2026-08-15T04:31:38.804299+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "title": "OpenAI Enhances ChatGPT with GPT-5.6 Sol and Expands Luna Access",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users"
-    },
-    {
-      "url": "openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "title": "OpenAI Partners with APA on Youth Mental Health and AI Guidance",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Working with the American Psychological Association on youth mental health and AI"
-    },
-    {
-      "url": "deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-      "title": "Google DeepMind's WeatherNext Achieves Breakthrough in Cyclone Forecasting",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/open-world-models-physical-ai",
-      "title": "NVIDIA Advocates for Open Ecosystem in AI Leadership",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore",
-      "title": "AWS Bedrock AgentCore Introduces Temporal Policies for Enhanced Security",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore",
-      "title": "Amazon Bedrock AgentCore Enhances Agent Control with Temporal Policies and Rate Limiting",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-      "title": "GitHub Copilot App Integrates Slash Commands for Enhanced Developer Workflow",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "A guide to slash commands in the GitHub Copilot app"
-    },
-    {
-      "url": "github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm",
-      "title": "GitHub Expands Malware Advisories Beyond npm with OpenSSF Integration",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "How we took malware advisories beyond npm"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMickFVX3lxTFBFSk96bGNMWGYwUkt4eUVKMDNqeWFFX2p3X1dNdFN6bm53amdOSXpjMi1mZno0UndMMlVOWWVVd3E1Wk9IaENQYV9jeTRlN0JuSWprODE5V2JnOXZJNy1LaG1sRlFZOFRValplYWhBU3Q3UQ",
-      "title": "Meta Admits AI Agents Have 'Gone Rogue,' Joining OpenAI and Anthropic",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxQUTh1NlVCMGFrcm1LQk8yWi1WaWUzZ0VjckRnLVRkRVRDczEwbHdwR0ZWSEVSc3Y3dWlucTdsX0RjZGw5ZEpPNjB6WHN5UkZ2RmwzSXVUNnVMQnRsbkNpMkJYQ250V28zekJhUFhNQ0lZMU03N05RWk05blZPdElZOXVPOUk1b3JyM2wzZF9EYWMtbHQ4V2U1czRtUFVhMHktbFZMdU1wXzU",
-      "title": "Smaller AI Labs Express Frustration Over Washington's Secretive AI Rulebook",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Washington is keeping its AI rulebook private. Smaller AI labs aren’t happy. - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxObXVRelpoYlFMckQtbW8wV3NQbTBrT0w4RV9XcXBSRm9LR1BhUXNTZkc3LXV5RXJkUUNJdkJCR0lQakRrZWY2MUhVeWJMNWVKUk96cEVVNWY3Q1Q0cFNMWFQ3clo3TkNDMW9GTE5HMUdDdk9FLW1yWjd6U3ZmTHh3SEpSNjBGYmZlZ1U3OXcyT1hMeThhalcxTVk3SnhFOERaOE9hZjVzbTQxa0QzZlpzdGdDYkRrX2pBOVE",
-      "title": "Trump's Tech Ties Scrutinized Amid AI Agent Incidents",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Trump’s tech ties come under bipartisan fire after AI agents go rogue - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxQNVJ6UjE0RWczVm91NXNnb2E0aC1mRnpRRExGbG83cnNsWDdQbmt4cHVlMkh6ZWZLaUZUM1pkWGh0TVcydW9IZEpCZFJOSG1MWktFcHM5Y19yV3JqMEJXaDhCZGRwNXpJakRzMXlJUURvMXlkdEI4cS0tMmhLeHFkT1JQWUtuQnFjYjhTVHRpcmJVTmF5Sm5CR3I1SHhZRWxaMmhVNGdUVG1UcklWZkVqNA",
-      "title": "Federal Reserve Officials Monitor Rapid AI Investment Growth",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Furious pace of AI investment on some Fed officials' radar now - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ",
-      "title": "Google Restructures AI Leadership; DeepMind Chief's Role Shifts",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Google shakes up AI leadership as DeepMind chief shifts role - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxPWUF0eTJUTHJzZWdiSWNVbjA5VGhldm83MG9sZnd2d2ZGRzRISEFDVFUtU3JDSGtTaWJpS0xvM0lhT2FKUnJEUmZIeTdkcElDN0UyMXN6bW5KRlNadEpEVTg5OFloSFBYM0IxclhVNG04eS1GZURWaVRFR21rYmhWWFp0U1JfcnFqTWZ6aEJrcE1tSXpobjNLQ2ZmdG9jd0lxc0JzZnZUN3Q0Wjc0Y1E",
-      "title": "AMD Strengthens AI Inference Capabilities with Taalas Partnership Amidst Chip Competition",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "AMD deepens AI inference bet with Taalas deal as chip race heats up - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia",
-      "title": "Jane Street Invests $2 Billion in Australian Data Center Firm for AI Growth",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Jane Street Joins $2 Billion Group With Bet on Australia AI"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-07/chinese-ai-chipmakers-poised-to-gain-from-beijing-s-tech-push",
-      "title": "Chinese AI Chipmakers Poised for Growth Amidst Beijing's Domestic Tech Initiative",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Chinese AI Chipmakers Poised to Gain From Beijing’s Tech Push"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo",
-      "title": "China's Unitree Robotics Seeks $904 Million IPO, Aiming to Lead Humanoid Robot Market",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "China’s Unitree Seeks $904 Million in First Mainland Robotic IPO"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOeE84eExMV0Z4RUhMRk5YSjdzaEQwTDA1UEkzLUlHN0hQbElPNDBRTk1mdF9xYllzN2Eyd28wS3FSeW9KMFhLQ0s4bHR3dkluYmpWOVVuOUdEX0JTR282TnVTWTZJV1lzQmZrZ2hLZU5TT3JIVjRPS3Z2NzhtOGltUWFlenk",
-      "title": "Google Realigns AI Leadership with Brin's Increased Role and Hassabis's Shift",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQc0otdHM4UEFqNnVDMllyRUhVU1Z4cW1SWHBvbm4wLXcxUVI2ejdkNnNPRXlIbjZ5a0tGeWwwZkJFODFGLUs0UkgyQ3k0TVU5UFVzVDJWa3JLR195bXl6aUtoR0dtVGd1R2RsWS1HYzZhQUpKaUY5bzBTem1BemRWV01TZHA",
-      "title": "AI Achieves Milestone in Creating First Synthetic Viruses",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQd29KMlhrTWJZQlBKbXhLaWJTNW80RWZ2cDVNRHB0WEtfcGZpSmRaWmdSN1ZwVkFybjRmRGNJQV83c0IwS1p6MnhFZzI0aktwS2NRbk9VRnBkd3RYQWVwR3VsS3hrOVVMVWVwSk9ubnVId09CT2VNTnlyVzJHNm1XLXdDcFQ",
-      "title": "Big Tech Bets on Voice as the Future of AI Interaction",
-      "first_seen": "2026-08-07T04:31:35.182216+00:00",
-      "rss_title": "Big Tech bets AI’s future will be spoken - Financial Times"
-    },
     {
       "url": "openai.com/index/responding-next-frontier-critical-cyber-capabilities",
       "title": "OpenAI Halts Astra Model Development Due to Critical Cybersecurity Risks",
@@ -954,6 +836,125 @@
       "title": "Anthropic Investors Anticipate $2 Trillion Valuation for Record IPO",
       "first_seen": "2026-08-14T04:31:26.762248+00:00",
       "rss_title": "Anthropic investors bet on $2tn valuation in record IPO - Financial Times"
+    },
+    {
+      "url": "deepmind.google/blog/introducing-gemini-3-7-flash",
+      "title": "Google DeepMind Launches Gemini 3.7 Flash: Optimized for Speed and Efficiency",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Introducing Gemini 3.7 Flash"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center",
+      "title": "Indonesia Inaugurates First University AI Center with NVIDIA and Indosat Support",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge",
+      "title": "AWS Nova Forge Enhances Multi-Turn Reinforcement Learning with Custom Reward Functions",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore",
+      "title": "AWS SageMaker and Bedrock AgentCore Enable Advanced Agentic Workflows",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability",
+      "title": "AWS AgentCore Observability Expands to Monitor Multi-Cloud and On-Premises AI Agents",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability"
+    },
+    {
+      "url": "huggingface.co/blog/state-of-open-models-summer-2026",
+      "title": "Hugging Face Releases Summer 2026 State of Open Models Report",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "State of Open Models: Summer 2026 Observations"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+      "title": "GitHub Agent Apps Streamline Software Delivery Workflows",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "How to bring your software delivery workflow into GitHub with agent apps"
+    },
+    {
+      "url": "apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston",
+      "title": "Apple Opens Advanced Manufacturing Center in Houston",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Apple opens Advanced Manufacturing Center in Houston"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxNZnFueEswWkIxUzRPWkZDTTRvRVlVcVdUU0t2Z2w5QkhVbVUtV1JKRDZZRnRJTGtUZmRuYzlxeElQWnNXQXluaThvME94M2NMM1F5WnVlclEwZXJQVUd6SmhvZnI5TnFRdFBDay14ZnZueW4zYTU5YWRUSFJtR1l0WnNwS2QyV0hK",
+      "title": "Google Cloud Introduces Gemini Enterprise Agent Platform",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Agent Garden | Gemini Enterprise Agent Platform - Google Cloud Documentation"
+    },
+    {
+      "url": "status.openai.com//incidents/01M015X5NF9D6C4MYR6NGR8HAR",
+      "title": "OpenAI Investigates Unexpected Responses from GPT-5.6 Terra",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Unexpected GPT-5.6 Terra responses"
+    },
+    {
+      "url": "status.claude.com/incidents/hdynq1pc0fn8",
+      "title": "Anthropic Resolves Elevated Errors Affecting Claude Fable 5",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Elevated errors for Claude Fable 5"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE",
+      "title": "Anthropic Expresses Concerns Over Rising AI Risks, Delays Stronger Model Release",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxOMVZxeVFtSWpNWGxRU2twaV8xSW9vS2N2M3hIZUsyS0dJMkpmR3Fld3RmbHFtUU41d3lYYTc4TXBhTDdwOWl1bGtScEY1d0RPMVJpaG1sWG0tY01BRFlDT0I0aGZTWTkzZnVmVTRLc2RhNHdBbEM4T0VLN2xBRjc3X2pEcnd6b3poaHlzME81dGE2WnFMbXg4RTNhM1liams5YjlPWEl3RE9WWDdpMXc",
+      "title": "Anthropic Defends and Explains AI Watermarking Feature",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Anthropic defends and explains its AI watermarking feature - Business Insider"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxNdm9oakp6SzM1OS1LVDRadHgzUE1UbFRjTWZ1SWN4QlRTQ3BBeTdmNmJsWDFfUjBSdHFkME9MRkg1SVM1N3htbUhibHEtNnYzaFZ1MG15QWJyaFdrLU9YVU5TZFVnSTNneGYzUnhlQ2x0YUU4NEo0U3JjY1lSZnF2TmNvbU9SWkphdUQ1ZFNsR1d5blYjanNCXzd3",
+      "title": "The Washington Post Opinion: Defining the First Major AI Law",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV",
+      "title": "Apple Develops Custom AI Model for China Market with Alibaba's Support",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ",
+      "title": "US Urges Partners to Choose Sides in AI Race with China",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8",
+      "title": "Google Unveils Gemini 3.7 Flash for Coding and Agent Workflows",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxOTnFnU0RILVBlaHA5a1NTVHdsNzAtVkdlMklMbFpLOS1iRG1ibDRtWXpXSEg0ZDBod2dOUGNuQnl4UkZJQkhqZ0dib3lNWGdWS2R5QjFwb2YxYjhPWjZ0eFpRNEZKRFdQbHdVdVA2ZzJxTEFrYzVHRGEwYzdzTkRsOTFoWENYYmFnM1BWOEc2bE45NVFYSk9Ib3UxUGdaeUdJRGhVMnFjbnZTczdqNjZKX1VSaGo2Zw",
+      "title": "Databricks Secures $5 Billion in Funding, Valued at $190 Billion",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
+      "title": "Anthropic Revenue Surges Over 14-Fold Ahead of Potential IPO",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "Anthropic Revenue Ahead of IPO Surges Over 14-Fold in Second Quarter"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-14/openai-on-track-to-double-revenue-ahead-of-ipo-video",
+      "title": "OpenAI on Track to Double Revenue Ahead of IPO, Reaching $40 Billion Annualized",
+      "first_seen": "2026-08-15T04:31:38.804299+00:00",
+      "rss_title": "OpenAI on Track to Double Revenue Ahead of IPO"
     }
   ]
 }
