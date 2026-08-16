@@ -1,125 +1,6 @@
 {
-  "updated": "2026-08-15T04:31:38.804299+00:00",
+  "updated": "2026-08-16T04:32:28.021146+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "title": "OpenAI Halts Astra Model Development Due to Critical Cybersecurity Risks",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "Responding to the next frontier of critical cyber capabilities"
-    },
-    {
-      "url": "openai.com/index/hsp-gruppe",
-      "title": "HSP GRUPPE Leverages ChatGPT Enterprise for Enhanced Tax Advisory Services",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "How HSP GRUPPE builds AI capabilities for tax advisory"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore",
-      "title": "Cohere Health Scales Clinical Policy Digitization with Amazon Bedrock AgentCore",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock",
-      "title": "TReNDS Accelerates Root-Cause Analysis with Amazon Bedrock Agents",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "How TReNDS automates root-cause analysis with Amazon Bedrock"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway",
-      "title": "AWS Bedrock AgentCore Enhances Traffic Control with Rate Limiting",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "Configure rate limits for AI traffic on AgentCore gateway"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch",
-      "title": "Visibility for Codex on Amazon Bedrock Enhanced with OpenTelemetry",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock",
-      "title": "Amazon Bedrock Agent Skills Automate Reasoning Policy Lifecycle",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda",
-      "title": "PDI Technologies Creates Agentic App Deployer with Amazon Bedrock and Lambda",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk",
-      "title": "Amazon SageMaker Python SDK Integrates LLM Optimization Insights",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "LLM optimization integration for Amazon SageMaker Python SDK"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA",
-      "title": "Anthropic Enhances Biology Safeguards in Fable 5 Model",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "Improving Fable 5's biology safeguards - Anthropic"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw",
-      "title": "OpenAI Delays Astra Model Release Due to Cybersecurity Risks, Axios Reports",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk",
-      "title": "OpenAI Flags Critical Cybersecurity Risk, Tightening Controls on Upcoming Model",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw",
-      "title": "Legal Ramifications of AI Malfunctions: Lawyers Foresee New Liability Risks",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "Who is liable when AI goes rogue? Lawyers see new risks - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTnibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ",
-      "title": "Alibaba to Monetize Next Open-Source AI Model for Enterprise Users",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns",
-      "title": "OpenAI Pauses Astra Model Work Amid Cybersecurity Concerns",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-07/jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands",
-      "title": "JPMorgan Chase Predicts Surge in Tech Bond Sales Driven by AI Investment",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "JPMorgan Boosts Tech Bond Sales Outlook as AI Debt Binge Expands"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQc0otdHM4UEFqNnVDMllyRUhVU1Z4cW1SWHBvbm4wLXcxUVI2ejdkNnNPRXlIbjZ5a0tGeWwwZkJFODFGLUs0UkgyQ3k0TVU5UFVzVDJWa3JLR195bXl6aUtoRkdtVGd1R2RsWS1HYzZhQUpKaUY5bzBTem1BemRWV01TZHA",
-      "title": "AI Generates First Synthetic Viruses, Raising Biosafety Concerns",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "AI creates first synthetic viruses - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQWVMwNU9BaF9nNkltREs2UzRMNlB2ckR2X01vMDZpVVhBNmRZMGU3RjE5aU5LaktXb0ZMQlpDcF83cjFWNFRKaDdZQUZGanJCbTJNd0FIVzFIQndGQ0s4b2JmaE1hNF9QYU9Hc1QwWFlpM3lDV2RhOU9lUVBLV0lNVXBGVUs",
-      "title": "Navigating the Uncharted Territories of AI",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "Taming AI’s wild frontier - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQS25nVTFfZkFYb2U3ZHNOMlFoczdFMWZkM1NfaW9OWV95Y3hYMkx5MkpUcHpJaklqVmp2OE03S2xuV0hpVHNOV0tuTG14OUxMdFFTYmdTZGJfcGhQUklTZXZYZWdlLWZ6S3hVbW85aUJhTHFxNDF1d0J4V2RPdnJRWXNWd2k",
-      "title": "Google Realigns AI Focus Following Demis Hassabis's Transition",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "Google seeks a sharper focus in AI after Hassabis move - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5",
-      "title": "Meta's AI Model Hacked Externally, Amplifying Rogue Bot Concerns",
-      "first_seen": "2026-08-08T04:31:51.722562+00:00",
-      "rss_title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ"
-    },
     {
       "url": "blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
       "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia Powered by NVIDIA and Dell",
@@ -955,6 +836,125 @@
       "title": "OpenAI on Track to Double Revenue Ahead of IPO, Reaching $40 Billion Annualized",
       "first_seen": "2026-08-15T04:31:38.804299+00:00",
       "rss_title": "OpenAI on Track to Double Revenue Ahead of IPO"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxNSzhBX2lCOUVad0VqX2ExTk1tQVp2MFpwYkw3LVZLMlVROE4ySy1VMUItVXpxT2d5WG8xM3NoOGhQcTEzUjlaYnhfcjBKdzByQ3QzYXZYSFdHVnRhNEpFSkhaeU04c2JFQUFXYnlidjlfZEd5MXZ2eEtpS0VwcTNhcjNmNGtuUnMybGcyVDBB",
+      "title": "Grok 4.6 Integrated into GitHub Copilot, Enhancing Developer Productivity",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Grok 4.6 is now available in GitHub Copilot - The GitHub Blog"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikAFBVV95cUxOckp6Y0UxOXJraUFncm1rZWs1TTAxNXo3X3BEamlUVkZocUhfV29IOHlTSGhVQjdpbnhWdFNrZ2hJNG9QXzZCMnVyWE9IbGdiLUhzalRLSXZYVTdKYlVQY0I0ZXQ1RVJaTlBOTEdjSjBudGJKY3M3blh0WXBTbG56M3ZwOENKUGM1R2wzQUhiWHE",
+      "title": "Google Cloud Introduces Gemini Deep Research Agent for Advanced Data Exploration",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Use the Gemini Deep Research Agent - Google Cloud Documentation"
+    },
+    {
+      "url": "status.claude.com/incidents/005ym4vzrq2w",
+      "title": "Anthropic Reports Resolution of Service Disruptions Affecting Claude API and Related Services",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Service disruption on Claude services"
+    },
+    {
+      "url": "status.aws.amazon.com",
+      "title": "AWS Addresses Increased Packet Loss Due to Co-location Partner Work at Frankfurt Data Center",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Service impact: Increased Packet loss"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxQUFVxWFRMRDRsU3laSGNvbkV5RjVoblJyU3BoX3F3R241ZHdMTWZheUU4SGhQeFVEZlJZekhObVFlcGNtOHgwMDlPaDNVRFZNalFfNlByVDd6MmpkZkpGTV9nTDNCV01zSGpKNDRSR21kU19qV2lGSmhqQVJnVVpWR0dra2I5ZTBfSFlPRnpRc045SFRrUWRyck1B",
+      "title": "SpaceX Completes $60 Billion Acquisition of Cursor, Integrating AI Capabilities",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "SpaceX's $60 billion acquisition of Cursor just closed — here's 3 ways they're already working together - Business Insider"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ",
+      "title": "Amazon and Alphabet's Profits Reflect the Circular Dynamics of the AI Boom",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxNS1MtSVJMY0p5blN0MUdSV0xMMmE1NzdWdVJYUjh0cTdCNVJyOXRLVmtId004V0xIc2FyVS1IRk5laFR1MHBKemVhcWV0SGxWZkVJUGM0V2t6d214Zlg1QUFQam1aS1RoanhfOXR3dzNmWmN3enhDWWpDZ1poT1JJek92Q0tIU2ZvdVR1VTlWcEdtZVZSVmVEa1BKV29XaHIwdHVoTHFJudGRcTjhkc0pveVpidEtOcE5walIyM1E",
+      "title": "China's Z.ai Claims New Model Rivals Anthropic's Mythos 5 in Cybersecurity Tests",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk",
+      "title": "Nvidia Reportedly Eyes $3 Billion Investment in SB Energy for OpenAI Data Center Deal",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU",
+      "title": "Anthropic's IPO Valuation Tied to Ambitious $190-200 Billion 2028 Revenue Forecast",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+      "title": "Alibaba AI Models Surpass 3 Billion Downloads, Outpacing Meta and Google",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM",
+      "title": "OpenAI and Anthropic Engage in Price War Amidst Rising Competition from Chinese AI Rivals",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M",
+      "title": "Sam Altman Prepares for OpenAI IPO Amidst Internal Upheaval",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOS3ZISllPenZtOEJ5Uy13WUlZUno1dkh3T1NBMkl4Y2lHY3YyVlVRemlFUS11UkhhX25OTHRwNHlLdWoyRUZxR29jMG5wYTdSb19XWWhaUUdrT01LVzJGQVBaeWZNMEJhYTB3anBBbFJDd0F5d0dRQTBQQWdhbkxFbkhlYW0",
+      "title": "Nvidia Discloses a Significant $21 Billion Stake in SpaceX",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Nvidia discloses $21bn stake in SpaceX - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxQd0hZUGVrZmdGTmVpTkVseXpHNzFmZ1cxaUdrT0I0Q1ZVYjFlVnZPdDFUZkV4RWdjMEpoUGxyQ0xEeHJ2VWVKZ0ZLZHc4bURlcEJyVWpUaWZXT0xqR3ljTmZXLXJjZ3FDaHFmRkVkanF1MHhRTlU3dTRtLWxJbDBFVTVB",
+      "title": "DeepSeek quadruples AI model prices amidst rising demand and competitive pressures",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "DeepSeek Lifts AI Model Prices Fourfold - wsj.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1VObHJoWnFPYy16TFAtNDF6ZkxoMW12dy1kbVNjRXY5TkVlMFY3ZDJfTGhuaXM1cUpnV2ZwUVA4X0trTEVsLVQyWlNiSEhhem9CTVZ4bS1RYUZCNTB3ZHBFQk9sM1NWVVBDYnVEaDhwaEE4a2tUSTlKUklBTGg5cHRRWkZQaHhIS2RUVUFXM203cUVjWGZtSQ",
+      "title": "Nvidia Scales Back $250 Billion OpenAI Data Center Guarantee, Citing Evolving Plans",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - wsj.com"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "title": "Apple Collaborates with Alibaba to Train Custom AI Model for China Market",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Apple trained its own AI model for China with help from Alibaba"
+    },
+    {
+      "url": "wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out",
+      "title": "Amazon to Use Twitch Content for AI Training, Offering Opt-Out Option",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out"
+    },
+    {
+      "url": "theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "title": "Google Gemini Now Allows Users to Disable Visible AI Watermarks",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "You can now turn off Google Gemini&#8217;s visible watermarks"
+    },
+    {
+      "url": "engadget.com/2237691/anthropic-watermarking-text-generated-by-claude",
+      "title": "Anthropic Implements Text Watermarking for Claude to Align with EU Regulations",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Anthropic is watermarking text generated by Claude to comply with EU law"
+    },
+    {
+      "url": "thenextweb.com/news/anthropic-q2-2026-revenue-11-5-billion-operating-income",
+      "title": "Anthropic Reports Explosive Q2 Revenue Exceeding $11.5 Billion, Up Over 14-Fold",
+      "first_seen": "2026-08-16T04:32:28.021146+00:00",
+      "rss_title": "Anthropic’s quarterly revenue passed $11.5bn, up more than 14-fold"
     }
   ]
 }
