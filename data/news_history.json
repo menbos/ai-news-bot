@@ -1,126 +1,6 @@
 {
-  "updated": "2026-08-16T04:32:28.021146+00:00",
+  "updated": "2026-08-17T04:31:47.768266+00:00",
   "entries": [
-    {
-      "url": "blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
-      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia Powered by NVIDIA and Dell",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming",
-      "title": "AWS Develops AI System for Mathematically Certain NHL Playoff Clinching Scenarios",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "Determining playoff clinching scenarios in the NHL using constraint programming"
-    },
-    {
-      "url": "huggingface.co/blog/allenai/tutormoments",
-      "title": "Hugging Face Explores TutorMoments: AI Tutors' Ability to Gauge When to Intervene",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "TutorMoments: Do AI tutors know when to help and when to hold back?"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU",
-      "title": "X.ai Releases Imagine Image 2.0",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "Imagine Image 2.0 - X.ai"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw",
-      "title": "Apple Mac Users in China Gain Access to Alibaba's Qwen AI Service",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ",
-      "title": "Alibaba to Monetize Next Open-Source AI Model for Large Users",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxPMUFoX09xbjhoRkMwSkV6RnpjWDJ6V2dSRzBNdzdKWVAtRUpzRjdJUjNkQ2NvVUxEa3A4VFg0WXZKZ0I1cGV6VmdFQTVxU2RNbW82eTkzMWRjX2dwcGdQVlRDd2FsS3lreVJVMkpvVVlkZUZBanI2YlRCeXlFd0oybXVEXzlsNUFfdE94ZC1XZ183UHFvTWJ0LVVwVF9yY1NLZE1TQ0pWU19YRzhGN0wwdXhR",
-      "title": "Airbnb's Stock Surges on AI Payoff and Strong Revenue Forecast",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "Airbnb hits four-year high as investors cheer revenue forecast raise, AI payoff - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNcUkyUEpWNlhDYU5LbTVFTjdNa1dWdU9HbDRhWGZsRjVEU1VOY2VMVGZkOWRnY3QyS09OVzlYUWlUOVJ5QnlxaDd4TEp0em5Ea1RoZDFHVTN4UGhJcVFxTlBPZFZHVmFYUlUtSXRXNFAzQzhSWTZyazRWbXNjWEdDWmNjbWJmTWdSekdNdzRXVjRadFRwaXlGNXktYU1wblBnWW90eFhRZ0dHWjJSWXljWmxIdW9icFIzU0Uw",
-      "title": "Retailers Leverage AI for Traffic but Struggle with Customer Data Control",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "Retailers tap AI shopping traffic but fight to keep customer data - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-08/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
-      "title": "Singapore Prioritizes AI for Worker Welfare and Job Security",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQQ2RnUmZkaXcyRWthc2hFbk1BYVhZYnNVRXhLWUxXS1VCMkxMVEhRSlI1RkJRclNNRUlhNG9heThEZzVEVUZQVkdLYmlVcFpFNmhlNkhJMzdrc1VfT2ZQSW9FNWswYUswcWhKN09nTXYxM0loTURNM2RUSE5abnVjVWI0NU4",
-      "title": "ByteDance Develops Mega AI Model Competing with Anthropic's Mythos",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "ByteDance targets mega AI model nearing Anthropic’s Mythos - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxQWjUtVFpXLVlBTFVCUnZTMWdRa3o3NktaWjlsdGpXUUtFS1Z6MTJpSmtCVG5FTlBvcS1wZDhSRWZ2WVVSTmZ5T0sxejBtN0FhMDRwZU54WnU0WDU1N2hzMGgxV3JCbjY0a3FZXzhMd1pvR2tCRlFLY1ROSXQ0ZHdUdlZ4RU9OMWt1Z0RWdzExQQ",
-      "title": "WSJ Declares AI Reaches Transformative 'Move 37' Moment",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiwFBVV95cUxNVlNBbmFFdVRBcXdVcmpOd1dHWDhrcjdVS3JJXzNPUHFMNTJfb0J2MHFIVktiSFNyLVZTOS1lWEt0VDVGVjlzQzE2R3FKaFp5VUFjWl81VE9vUUdMZzJiZURneS1JMnFDbWNIZTVKRVhGcWNFQzNoMDhqR1N0TzdsTS1nS1RhOElNUkJF",
-      "title": "WSJ Warns of Risks Posed by 'Rogue AI Bots'",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "A User’s Guide to the Universe of Rogue AI Bots - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQczVVRUo0X1BGUmdjZG1nVFVsbmhQV3BQZ3Rad0pvTHM5RnVtVUJJOWN1eHU3ZHA5TXhSQ2laVDlOWjdpa0tqNGthQW9mVmtOZGtCTjNhY21hNUo2OTZpeHZXbS1sRm9WWnYxaFJ6X1I5Ml9rUDNyNUc5T0dDa1UzUnEwUHRuS21UajdVenJoOXM0ZlhnMWFKWS1abXh3QklVd0RjYkNvRmZWZW5RbFNDVUJkRU1vVXpV",
-      "title": "Shopify Reports Accelerated Revenue Growth Driven by AI Tools and Merchant Expansion",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "Shopify Signals Revenue Acceleration as AI Tools, Merchant Growth Drive Results - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTFBRTFAzWHNwWUZSa2h3UXM0d0FsRFJ0Vl96ZXE5aEYtVTFqTTRBUWJ3RkJObFhNR24zRWRlZ3FCZF96SDBKcDBhQkxjQm1WQS15eXJB",
-      "title": "DeepSeek Criticizes Overhyped Financing, Cites Competitive LLM Performance",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "DeepSeek Harness Head Complains Overhyped Financing Materials: V4-Pro Programming Ability Only 0.3% Lower Than Claude Flagship Model, 10% Exorbitant Front-End Service Fee - 36 Kr"
-    },
-    {
-      "url": "wired.com/story/scientists-used-ai-to-create-16-new-viruses",
-      "title": "AI-Created Viruses Raise Dual Concerns of Medical Breakthroughs and Regulatory Lag",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "Scientists Used AI to Create 16 New Viruses"
-    },
-    {
-      "url": "wired.com/story/this-chatbot-is-just-a-random-guy-lol",
-      "title": "New AI Chatbot 'ChatTJB' Features a Human Operator for Reflective Interaction",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "title": "OpenAI Pauses Development of 'Astra' AI Model Due to Security Concerns",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful"
-    },
-    {
-      "url": "theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "title": "Google AI Shake-Up: Key Personnel Changes Spark Industry Speculation",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "What&#8217;s behind the Google AI shake-up"
-    },
-    {
-      "url": "thenextweb.com/news/cloudflare-kitesurf-browser-ai-agents-workers",
-      "title": "Cloudflare Develops Lightweight Browser for AI Agents on Workers Platform",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "Cloudflare built a browser for AI agents. It uses 7x less memory than Chromium and runs entirely on Workers."
-    },
-    {
-      "url": "thenextweb.com/news/zenity-malicious-ai-skills-1-7m-installs-supply-chain-credential-theft",
-      "title": "Malicious AI 'Skills' Used in Credential Theft Campaign Affecting 1.7 Million Installs",
-      "first_seen": "2026-08-09T04:31:39.564597+00:00",
-      "rss_title": "Malicious AI ‘skills’ turned agents into credential thieves, at scale"
-    },
     {
       "url": "news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ",
       "title": "North Korean State-Sponsored Group Leverages AI for Advanced Cyberattacks",
@@ -955,6 +835,125 @@
       "title": "Anthropic Reports Explosive Q2 Revenue Exceeding $11.5 Billion, Up Over 14-Fold",
       "first_seen": "2026-08-16T04:32:28.021146+00:00",
       "rss_title": "Anthropic’s quarterly revenue passed $11.5bn, up more than 14-fold"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxNUGE5UFBHX1dYLUlrTnFoOXUzZTE2elBTd0Y4UWpHUlJFTy0taEZSUndyTy1PanZvam9QR3R6VjVhZklEdEUxU0lJOUtIVEVmY1VpU0tnV1JqSmZ5VFVsTF9VTlVKUzlpZ202dmJfaWJ6X0lqOWhkR2VfbkQ3WEpvSDBsZkxISzBLLVJNMkV5dS10Y2E5RUYw",
+      "title": "FTC Investigates Health Records Giant Epic Systems",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "EXCLUSIVE: FTC probes health records giant Epic Systems, sources say - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-17/alphabet-hires-banks-for-inaugural-aussie-dollar-bond-sale",
+      "title": "Alphabet Pursues Inaugural Australian Dollar Bond Sale",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "Alphabet Hires Banks for Inaugural Aussie Dollar Bond Sale"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-17/alibaba-to-sell-gaming-arm-for-1-5-billion-in-boost-to-ai-pivot",
+      "title": "Alibaba Sells Gaming Arm for $1.5 Billion to Accelerate AI Pivot",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "Alibaba to Sell Gaming Arm for $1.5 Billion in Boost to AI Pivot"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "title": "Stripe Acquires AI Model Switching Startup OpenRouter for Over $7 Billion",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMicEFVX3lxTFBWQ05ZZ1N3RENEQXc4eFAzWlF6R0tTSjB1V0RfWjNrbnNTcVdKM25VdlFQdmVsSUt1S1RyV243WWFpYXpHWTBZcE12R2dOdU1Cd0o0eU9DWGloN2pWbVJSNVNubGhUMHlUX1M5UmpzT1c",
+      "title": "Open-Source AI Poised to Drive Next Global Economic Shift, Suggests FT",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "The next China shock will come from open-source AI - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOZTEtejN6dC1rM3lHNDNjMjdKRjRqR3A0OXRaWXAzc1hKQWtIVnAyalpNZ0pxandNaFpyZ29JblFCZEpTWlpaMlZxaFo2M0lKZHg1Qzc4SnBRQzhmbUhYdk5vRzJMZ2NrUGF4a0xlTkY1VFV1NWFkcjVORnhkVjlYOXdVMnU",
+      "title": "Big Tech Data Center Expansion Risks Increased Carbon Emissions",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "Big Tech’s data centre boom poised to drive up carbon emissions - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQTDRWNU1YQ2g5SDhZVUgwWjdnYmNEb2RMbjRMZFBxVXdQcmpxdEN3UXNfWUJYOFYyRHEydzgwTXB0b1NQdWJmVm9QUVZwaTVSMEpVeWI1cV9Qb0xiQlNMVUpLMzBST013LTJiMXA0N1J4NndMWE1BWVlLMHk1X0tuS1JiakU",
+      "title": "Singapore Aims to Retain Finance Talent with AI Access, Challenging Hong Kong",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxPMzhlbTNQV0YwRFpUM0k4eUZZV0o5Y3hpUENqUm9EbVhtWWtqU1hTOXBlczR0czZvYkVQRzFVQ0tndnRjbE1zU3ljdndHVm9ENjV1d3lIdE5FdHhxWnZzTHRyd0xXTEt3MGYwQnBOazdvWG8wM3lYdmRxeVR1R1NPaFRMeUY2QWl1UWFfUmZVLW9GNFBxbU90LXBhQ0NyblJ5RTI5VXlGaTIwaWRU",
+      "title": "AI Coding Startup Lovable Achieves $13 Billion Valuation",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "Exclusive | Vibe-Coding Startup Lovable Hits $13 Billion Valuation - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
+      "title": "WSJ Reports on Rogue AI Models from OpenAI and Anthropic",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxOY2VIVTZYdlF1N1E2b0tmNVVpU0p0MGpQUS1NMGpFN19ld1F2ZElWdV80SE5GOFhpa20yWXZJNVFibVNxWFFkMmFvM211STVjdWZYalRHTDJRTWR0NDhiOXZKR0JabjU5Y3BnVUtZNlE5Rl9VZjB0Q1ktLTlad0ZkR1lOWi1qeVVoZFE",
+      "title": "AI Assists Patients in Solving Complex Medical Mysteries",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAJBVV95cUxNM29jVzhpZ3Z6eHRGZHNWYnVWRE9sdDZYLXg5VThlaDRfZ3MtNmNKWF84bGdBdlBUNUxYbWpYSDl6ZmlGT0JrZGRUa2FoNkMyaXZWSDNCb3FfSTlpR1V1alpLWTc0dHFEUEZFWnlhRnVIMFRqNHdoM2VRdy1Jckg4R01HcHVvcXY4WWI4clk0NGlDRVY3Yk15dy1PeENFUGJ6ZUFVRUVMelZQdFpTWUh3dDFmMDlGN1pORW5jUDZRTGhPamR5X01aY3FwcGMzNUI1U1V0Sm1teFFLU1J3b1hSLTlLSkJIRTdRczVTa0NHX0RQUWpEM0x3RVY3eWk2VlFiTDdTbg",
+      "title": "Gen Z Prefers 'AI-Proof' Healthcare Careers Amidst Worker Dissatisfaction",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "Gen Z eye up AI-proof healthcare—chiropractors, doctors and paramedics are the unhappiest workers - Fortune"
+    },
+    {
+      "url": "thenextweb.com/news/openai-chatgpt-computer-history-mac-keystrokes",
+      "title": "OpenAI's ChatGPT Computer History Feature Stores Keystrokes in Plain Text",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "OpenAI’s new ChatGPT feature logs your keystrokes and stores them in plain text"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc",
+      "title": "Anthropic CEO Attributes AI Backlash to 'Crisis of Trust'",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - TechCrunch"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "title": "OpenAI Reportedly Disbands AI Preparedness Team",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "OpenAI reportedly disbanded its preparedness team"
+    },
+    {
+      "url": "thenextweb.com/news/sam-altman-college-too-long-interns-entry-level",
+      "title": "Sam Altman Suggests Four Years of College May Be Unnecessary",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "Altman says four years of college may be more than the world now needs"
+    },
+    {
+      "url": "thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot",
+      "title": "LG's Humanoid Robot to Debut in 2027, Powered by Nvidia's Isaac GR00T",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "LG’s humanoid robot arrives in 2027, running Nvidia’s Isaac GR00T"
+    },
+    {
+      "url": "thenextweb.com/news/amd-4-75-billion-bond-sale-anthropic-ai-debt",
+      "title": "AMD Raises $4.75 Billion in Largest Bond Sale to Fund AI Investments",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "AMD raises $4.75bn in its biggest ever bond sale"
+    },
+    {
+      "url": "thenextweb.com/news/pax-silica-us-letter-35-countries-china-ai-coalition",
+      "title": "US to Urge 35 Countries to Choose Between It and China on AI",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "The US is about to tell 35 countries to choose between it and China on AI"
+    },
+    {
+      "url": "arxiv.org/abs/2608.13564",
+      "title": "New Research Proposes Reward-Free Judging Rubrics for Agent Evaluation",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation"
+    },
+    {
+      "url": "arxiv.org/abs/2608.13567",
+      "title": "LLMs Exhibit Modular Cognitive Architecture Similar to Human Brain",
+      "first_seen": "2026-08-17T04:31:47.768266+00:00",
+      "rss_title": "Modular Cognitive Architecture Emerges in Large Language Models"
     }
   ]
 }
