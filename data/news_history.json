@@ -1,124 +1,6 @@
 {
-  "updated": "2026-08-17T04:31:47.768266+00:00",
+  "updated": "2026-08-18T04:32:15.519520+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ",
-      "title": "North Korean State-Sponsored Group Leverages AI for Advanced Cyberattacks",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "North Korean hacking group builds AI tools for cyberattacks, report says - reuters.com"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-10/sony-tsmc-to-invest-6-4-billion-in-joint-chip-plant-in-japan",
-      "title": "Sony and TSMC to Invest $6.4 Billion in Joint Japanese Image Sensor Plant",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "Sony, TSMC to Invest $6.4 Billion in Japanese Sensor Plant"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-08-10/deepx-ceo-on-business-strategy-new-funding-video",
-      "title": "AI Chip Designer DeepX Discusses Business Strategy and Secures New Funding",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "DeepX CEO on Business Strategy, New Funding"
-    },
-    {
-      "url": "bloomberg.com/news/newsletters/2026-08-09/apple-explores-apple-watch-shake-up-company-prepares-for-september-iphone-event",
-      "title": "Apple Explores Major Apple Watch Overhaul Ahead of September iPhone Event",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "Apple Explores Apple Watch Shake-Up; Company Prepares for September iPhone Event"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
-      "title": "China's Moore Threads Plans Hong Kong Listing Amidst Significant Share Surge",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "China AI Chip Designer Moore Threads Plans Hong Kong Listing"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNanFJZkN4eXNOakNBBOUNDc1ZoRFZtZ2d0YmVWbmpQTGVkZGlNU2FBOEF4Tl9kdmFiOWlYeFhoMDd2Nzh2eEM5QW1pc2hzUWlGQVR4TUxSZlFJbEtpZk1STE9ZR0RoQXM3YURZTUdIYXNpMnlGZlREN0x6WThNZnVTcENVMWI",
-      "title": "Concerns Rise Over AI's Potential to Create a 'Permanent Underclass'",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMif0FVX3lxTE5oUWlRZDIyTHJkVldYMlFVb3NIZ3VON3VDOFV1MVkwSXNCcVd5aFZsbGNvWW52RnBHcWFoQkR6LU1yRFNsWUdqS3F1VHVrSlE5aURSSU92a3ZxV1BOamRtbjdta1hMY3hkRHlLcVgxc0E4X3JFSjRINC1UelZRdHM",
-      "title": "WSJ Launches Podcast Series Exploring AI Therapists",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "The AI Therapist: A WSJ Podcast Series - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMib0FVX3lxTFBEbGFld2RJa09JMjk0NkxUS1JrMll2VGhMQXlqLTRCVWVrX1JxN1M3Ry1CaU1lVWtLUDQzdDJoR0N2WUxtdFN4UmlQWjl2S05TaU5SMThianZINlJURDQ3YlRHcWNqUDlPN7w3dG9n",
-      "title": "Opinion: Navigating the Integration of AI into Daily Life",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQRUptd2trQlVzRjA4WUZCc2RsZFNYTDZQMFV2dEZveVR5Rm91NVZkVzRTTmhoOWN2MUs4MUNtU0lSMmxUaHpmNWtvdHJXc19HeEMydjNKNlM5NmE5dkRHZGVpSFd3RmhTOFB4Szd5M0RqVlY0WmtoVjBFZjZ1dDJjeXh3ZFp1aVhKZFVTeWRQbWJvZmZ3NjhjUGJzN2tDYV9yN09JLW05eU1IZ205OXVwQjQ1Yk84bTFT",
-      "title": "Data Center Expansion Drives Land Rush in Texas Oil Patch Amidst Power Concerns",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "Data-Center Backlash Leads to a New Land Rush in the Texas Oil Patch - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxPZVhHTkxYZzVmd2hFdG1EaThzeU81US1kTkY0SzhtNkI2N2pyTDZncC1yN0RBSEgzXy0teDVxRXp2NWUtS0tiUktONkVlQVRNc0JKZ2IwSmR0Mkk1Y2hzLVBSUkxiMGhDZWoxSjdyOEZpUkJHSkR1c0JLQm54ckpKZnI4amRXZHdWZHc",
-      "title": "AI Use Becomes a Stigmatized Mark in the Entertainment Industry",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "Suspected AI use is the entertainment industry's scarlet letter - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMib0FVX3lxTFBVa0E2cmg1cThnMDZ1UUpWTG9KT1NiY01xQnhoYTBBeTU3eWJuVTFhSUk4SktOUXlXRllCZUZEUm01bGltQ1k3Y0dsRjdQSFRDSXF6VnhsUGV2MVRIMURJLXJjR3E5dGlVRC1aaVFPdw",
-      "title": "Engadget Explains How to Utilize Claude's Voice Mode Functionality",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "How To Use Claude's Voice Mode - Engadget"
-    },
-    {
-      "url": "wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how",
-      "title": "Meetily Offers Free, Open-Source Solution for Meeting Transcription and Summarization",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How"
-    },
-    {
-      "url": "wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad",
-      "title": "AI Billionaires Pledge to Donate Fortunes, Sparking Philanthropic Debate",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "These AI Barons Are Ready to Give Away Their Fortunes"
-    },
-    {
-      "url": "wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
-      "title": "Guide on Disabling Gemini AI Features in Gmail and Google Docs Released",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "How to Disable Gemini in Gmail and Google Docs"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "title": "Amazon Data Center's Power Source May Become Nation's Worst Polluter",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "An Amazon data center could have the worst polluting power plant in the country"
-    },
-    {
-      "url": "engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ",
-      "title": "Claude Outperforms ChatGPT in Key Areas, According to Engadget Analysis",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "Claude Vs ChatGPT: How These AI Assistants Differ"
-    },
-    {
-      "url": "thenextweb.com/news/firebird-armenia-ai-factory-export-licence-compute-diplomacy",
-      "title": "Armenia Inaugurates Largest AI Factory in CIS Region with U.S. License",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "Armenia just opened the region’s biggest AI factory. It exists because Washington signed a licence."
-    },
-    {
-      "url": "thenextweb.com/news/ai-avatars-job-interviews-candidates-recruiters",
-      "title": "AI Avatars Emerge in Job Interviews, Leading Candidates to Deploy Their Own",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "Recruiters are using AI avatars to run interviews. Now candidates are sending avatars to attend them."
-    },
-    {
-      "url": "thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off",
-      "title": "Meta CTO Urges Employees to Leverage AI for Product Development, Not More Time Off",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "Meta’s CTO told employees to stop asking for more time off and use AI gains to build “cooler stuff” instead"
-    },
-    {
-      "url": "cleantechnica.com/2026/08/08/worlds-largest-12-8-gwh-battery-storage-cluster-activated-in-china",
-      "title": "World's Largest 12.8 GWh Battery Storage Cluster in China Integrates AI Management",
-      "first_seen": "2026-08-10T04:31:53.325422+00:00",
-      "rss_title": "World’s Largest 12.8 GWh Battery Storage Cluster Activated in China"
-    },
     {
       "url": "openai.com/index/responsible-ai-infrastructure-texas",
       "title": "OpenAI Engages Texas Governor on Responsible AI Infrastructure Development",
@@ -954,6 +836,124 @@
       "title": "LLMs Exhibit Modular Cognitive Architecture Similar to Human Brain",
       "first_seen": "2026-08-17T04:31:47.768266+00:00",
       "rss_title": "Modular Cognitive Architecture Emerges in Large Language Models"
+    },
+    {
+      "url": "openai.com/index/openai-joins-ports-pike-project",
+      "title": "OpenAI and NVIDIA Partner on Southern Ohio AI Data Center Project",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "OpenAI joins PORTS-Pike project"
+    },
+    {
+      "url": "openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "title": "OpenAI Funds Independent Research on AI Policy for the Intelligence Age",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "New policy ideas for the Intelligence Age"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+      "title": "NVIDIA Emphasizes Critical Role of 'AI Factories' in Economic Infrastructure",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "Securing the Infrastructure of Intelligence"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments",
+      "title": "AWS Enables Autonomous Agents to Transact Using Bedrock AgentCore Payments",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "title": "GitHub Introduces 'Canvases' for Enhanced Agentic Workflow Management",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "How canvases make agentic workflows visible, steerable, and cost-efficient"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi1gFBVV95cUxNYXdyMXl0ZUs3UDVBSFo1a3BCcDg4UlZUazQxSEp1allrY1B3SEVxYnQ2RjFQVFY5T3Q1YUFYM19Jc1ZQNXVobGtZNVJBc1BPQXpFWFFsTlBvWEJqV3VRM1lCU0ZzSVlHcS14UGxUZldBaEVsdUJveHN0TXJOLURfWDBxRlJYaFdXMHREU3VSNlVrcFZncENub1czY2lGV1F6eGpGSWZiU2loYlJYVVRFZTdQSU80Q0lNZmdvX3FZQ0hTU1pjZF8weHhCRWEzeURkcDk3N1Z3",
+      "title": "NVIDIA to Exclusively Power SB Energy's PORTS-Pike Technology Campus with AI Compute",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute - NVIDIA Newsroom"
+    },
+    {
+      "url": "status.claude.com/incidents/zhk4v3yv1lsf",
+      "title": "Degraded Performance Reported for Anthropic's Claude Opus 5 and Sonnet 5 Models",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "Degraded performance for Claude Opus 5, Claude Sonnet 5"
+    },
+    {
+      "url": "githubstatus.com/incidents/zkxwbgr0cnmx",
+      "title": "GitHub Experiences Widespread Service Degradation Affecting Copilot and Core Operations",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "Incident with GitHub.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMifkFVX3lxTE1WTVZYTGFrandXeVZjWnV6TllsTjRzOEF3b0JLdy1QN2wzbFFFdC1TNXdWOU9LQ1lMbFFoQkUzY3RwU1dYbllrS2xSaE1hN1ZjOEd2ZVpuS2xvSDV2Q0pXRXFtMG43S0ZRWkZFdDRUZXJhRk54M2ZqQmFfMzl1QQ",
+      "title": "OpenAI Announces Major Data Center in Ohio with NVIDIA Partnership",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "OpenAI announces massive data center in Ohio with Nvidia guarantee - axios.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxOUi05NkI4cXl6M3ZhcWx2QlFuYjNJa2xTN3pIUER6YWZ6bGc3TTBUb0VIV3ppTXBXdG5pbEo2b19kRFQ3MW1SR3p3eFQ2RGNlQUdwUFRJRXJtS0ZCemxjZmRRRWl3Y3M0VXp0dU5nZE0tTXVsZ2xGVXZXa1czZWo3alFiTm9GTWtXVHVoOW1FOVY4ZDJWZzN6MHN0SWtPQXRRQlE",
+      "title": "Anthropic Reports Annualized Revenue Run Rate Exceeding $65 Billion",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ",
+      "title": "Trump Crypto Firm Backs Venture Offering AI from Chinese Companies",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxOTWxtMGJPV2R4Q05lWVQtX09wM2ltMjRzdVBITG4xQlFYcFgtU1FXUkdLRVJFYXNWM0VvVWNpYWZtd0ZKTnlGT29KVkFBTjVoQ2FSc2FPWVprMGdQX3h2eDNudHE5UGppM3FDT3lMOTNoREdfSXdUeGZZSzdqVDNTWHF4bTdpczBYODVhVWRtcHBPT0ZETjc3WmtBaDN3NGp5ZjBiWXM4d3NYVEFVTjV1UHgwRjFBd0JaaFJjSENGcklWZw",
+      "title": "Dan Ives Advocates for Government Role in AI Regulation",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxQN3JiYWhkcERDWi1MTllqMVduaUtTMjdkRU1GWkRKQldPbnlGR2lSenNfTmM1dmMxX1djUmQ1RFpLcHZnbFVvc3hjelp1SVROaWxReFFSREIxd0UxTGx3dDF3MUpZeGN3bWFydFZxXzNFdldtUWo5MnhEN0phclg5U0JUbk1uVlYyZDhQYzJHMEdmb0cyODBwY1BycHdGMm9WdmN0bg",
+      "title": "Investors Actively Seek AI Leaders as Capital Expenditure Concerns Recede",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "Big investors hunt for tomorrow's AI winners as capex angst fades - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxQM0dxM0lyTkVyZENsWWJSOXdyODFIeS1aRktWN0JBZW1NenFqOHVSMVY2S2dDUGYwcU5YY0xyeWVQb0lpTEdvYVFxQ2NKM3pZSDdQVWhjU1NYT1BKSHlVaURiWUw3bmJPVmkxQk0xemRaWmdIQXZsMzZSaUN4V1Z4WEcxOS1EeVQ4VnJoN1hibGt0bnhBaXFYLTF2cw",
+      "title": "Wispr Flow Valued at $2 Billion Amid Strong Investor Interest in AI Voice Startups",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxQU2JUdkZ2ZjZ4enNhT1VXa1pXU1NtbjhPbncyUDNZZTZWOC1zb3E4akhtN1pkenY3LVZpYzdCY2xna2NIMFRkRG8yQklDTW5KejV2TjZJT1dsaXk3NlFDcE1YWks3aVRPbklKVWJxWTAxUmNKOWx1b2t3WWxmMXA5VEIzdTNlMWdVVTZKMFNkWTZDQWVVNFNXdGFlc0l1QTFoQkRBNGlvT3l5dC0xSTh6QWYwSV96TWRLUm9hdGtUclpfejZfQWdpUzRFczBpbjVK",
+      "title": "Higgsfield Valuation Surges to $5.4 Billion Driven by AI Content Demand",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "Higgsfield's valuation soars fourfold to $5.4 billion in six months on AI content demand - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxOejNkZVFTSjVNZEVpMms5aWtNbzdCcWMyZFQwT2xHRnQzanhqbHoxZzZKSGdTblptSHhUT0Jjamk3ZWI1VnJHOFZPWnk0VERidlZsNFItMzE2T2UyOEhfYWVGOUt1MkRLLVlNTWlNYnViUGhnalAtS3RDSS0tX3ZSckR1MjM4UmF4YzNDZ3hyN1AxYVhEaE1fMWpOQlFhVlZBbXdJVF9sVTNhNjJGMEQ0THlBVHc",
+      "title": "European Central Bank Predicts Impending AI Market Correction",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "AI market correction is coming, ECB blog predicts - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-18/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals",
+      "title": "China's DeepSeek, Qwen, and Moonshot Pose Competitive Threat to US AI Leaders",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "Why China's DeepSeek, Qwen and Moonshot Are a Worry for US AI Rivals"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-17/alphabet-kicks-off-aussie-dollar-bond-sale-as-ai-spending-soars",
+      "title": "Alphabet Raises Funds via Australian Bonds Amid Soaring AI Spending",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "Alphabet’s Australian Bond Offers Pickup Over Dollar Debt"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
+      "title": "Anthropic's Revenue Run Rate Surpasses $65 Billion Ahead of Potential IPO",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMingFBVV95cUxQbER2YldlRmpEQWd0clg3cTNaZzlBZHc0M3VTZk9yYm14Zm9ZaTQyaGVfMkI1TWdQRTBPT0k4NTRhcXFXUG52Vll1NEVhbTRSMDRIUU15aHU3M3MwTU9ldFJwNS1rV09WQW1hUzdtMVBGM2E2RDVwdDZGM21Sc3g3cFNsTkc2QnRlcExMVkVVZXdhbDhkX0JoQ1ozRldQZw",
+      "title": "Big Tech's AI Spending Significantly Underestimated, WSJ Reports",
+      "first_seen": "2026-08-18T04:32:15.519520+00:00",
+      "rss_title": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems - WSJ"
     }
   ]
 }
