@@ -1,126 +1,6 @@
 {
-  "updated": "2026-08-19T04:31:46.807086+00:00",
+  "updated": "2026-08-20T04:31:52.003363+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/testing-ads-in-chatgpt",
-      "title": "OpenAI to Test Ads in ChatGPT to Support Free Tier",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "Testing ads in ChatGPT"
-    },
-    {
-      "url": "openai.com/index/daybreak-models-are-now-available-on-aws",
-      "title": "OpenAI's Daybreak Cybersecurity Models Now Available on AWS Bedrock",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "Daybreak models are now available on AWS"
-    },
-    {
-      "url": "openai.com/index/building-an-ai-native-finance-function",
-      "title": "OpenAI CFO Shares Insights on Building an AI-Native Finance Function",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "What building an AI-native finance function taught me"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "title": "Google's AMIE System Demonstrates Real-Time Clinical Video Consultation Capabilities",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study."
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nvidia-ai-factory-compute",
-      "title": "NVIDIA Forms Partnerships to Mobilize $500 Billion for AI Infrastructure Financing",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory",
-      "title": "New Power Architecture Required for Scaling AI Compute Performance",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "Why Scaling AI Compute Performance Requires a New Power Architecture"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx",
-      "title": "NVIDIA Enhances Agentic AI with Nemotron 3.5 Lightning and NeMo Switchyard",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock",
-      "title": "OpenAI's Daybreak Red & Blue Models Enhance Cyber Defense on AWS Bedrock",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-onestruction-built-the-ishigaki-ids-foundation-model-with-aws-genaiic",
-      "title": "ONESTRUCTION Builds Construction Foundation Model with AWS GenAIIC",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "How ONESTRUCTION built the Ishigaki-IDS foundation model with AWS GenAIIC"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads",
-      "title": "Anthropic Claude Apps Gateway Deployed for Enterprise Workloads on AWS",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "Deploying Anthropic Claude apps gateway for AWS for enterprise workloads"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE05SWpuNEpobjJKLVlscEY3SkRCLV95X3hSUDRydzFoejg0NjlITkg2N2szcFUxcnI0V202S1dNOWRXeTdGSjEyYldVV3FMSmZjRmhyWmRmUUpjWEZrZ1R3ZzFxNHAwU1lEUzVxaXJyQkNRN19tTWdjSHF3",
-      "title": "Meta Releases Open Version of Its Most Powerful AI Model",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxNVTJrVHZiUWxmZm5rQW9UY0hDWEdWc2hFZHRTMTMtZmpmVTJsMV9FODlVNHFvVGJpUUJsclZqbks4M0FvcS1VTlRRVTBYZWEzRmNlUWcxaGRSeEdJcUJHZHMtZFRKcTNyU2h4ZVdZZU9lcnYzemZtY2xKekJFdUJjeVFmdkZDRHVyRndLQmpvUXgtUmdWT21aNmlWelUtVjNhbEE",
-      "title": "Meta Launches Muse Glimmer, an Open-Weight Model Capable of Running on Laptops",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "Meta launches Muse Glimmer, an open-weight model that can run on a laptop - Business Insider"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxOeGVjNVRkSGR4T3Q4dTFIdW5HTURnMFhhTFV5X0MybkFJd25KUDc4Qkw4OF9LZ2FDRHFRUHIxUWlxVFgwTE9QX1VSaVVjZ0hPYktVam9JWFNEeDBjODFDZDgxbFdOQVpIbzRhOFZkWm9vb3Ryemk5NzVON2FiYi1va1gtNS1tRC1UMkhIS0x0eTd4S1ppRldfQk56cnBDUXZpanNLczFaZnFoRlpuZUdXcTB5X1FQdw",
-      "title": "NVIDIA Reportedly Developing 1-Trillion Parameter Nemotron 4 to Compete with Open AI Models",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports - Reuters"
-    },
-    {
-      "url": "github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer",
-      "title": "GitHub Blog Discusses the Shifting Role of Developers with AI Agents",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "From coder to orchestrator: How agents shift the role of a developer"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiT0FVX3lxTE9CZnlxMXRUUXNoeEMwOGZIcjVOLW9JODJFTTRSV21XV2FvU3Q5ZUJpS2FOcTNoay1ud056cG5tcEJGV05uVE5lWlFFeVpDUXc",
-      "title": "X.ai Introduces Grok Bot",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "Introducing Grok Bot - X.ai"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxOOWFnbnhiRmVUZjctVmd3ZjBELWlqWGRJRHo1SHdndlFkLVdLU2NfUGhFNXZ4ZVUyeGdwaE0zQ2J0SGhMNVVfampkTE9SSHZyZms5aHRZS3kzOF9jbXQ5RFZhZWNWdThNNW5TbE1fcDA0Q2JRUDliMWRYcUItTm5hVk9yOVFHeXUwVVdKaFdRMG9BX19VbHRNQVRZZzdCWVlQWjZsYWVKUGRBZi1xblZKSlZqWVR4WEZOSGREUkNaVHB1RjRjZHBz",
-      "title": "Microsoft Focuses on Building Foundation for Agentic AI in Healthcare",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "Building the foundation for agentic AI in healthcare - Microsoft"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxOaUFyUHZWcmxyZWFEYTBZM3FpWlZGN0ZMYXpfckE1U1RrTVJEVDFkTTN3YnkzaUw1VktNM0JWSFdvYzdSX01lRThXWE1CUVFkYXVPdFBZeU85SUs4WXN5MmUzLUU5ZC1JTkxMUnhjbDZlbkN1QlNmMG43NTlLVWtlcEpUSTIzeGFkbW5CMmpCdjZMaVJ1ekhmVVB0a0dKX1l5SWN2d0VVcmxlMTBLaVE",
-      "title": "House Committee Demands Information from Anthropic on Security Incidents",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "Casar Leads Demand for Information from Anthropic About Security Incidents - House.gov"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "title": "ChatGPT and Gemini Both Surpass 1 Billion Users",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "ChatGPT and Gemini both just passed 1 billion users"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg",
-      "title": "XAI Co-Founder's Startup River AI Raises $1.1 Billion for Custom AI Tools",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxQSDFDV3hxdDluWW51QTdVX3daS0JEcVNtV0x2b2hMMDhQQUtrMEktMkNQcmVMTi12OWt4Zm1mNnlkZDlwYzNZcDZIU29TZGVORFZVaEZxbmF3TS01Y3ktbUo2TzRlcURoaWQ2cC1oazhRdmhGYVg3eF9lQ2RwU0ROVFY1UHJteFVNS1hqaUhmZVpQc1lDcU0zeS1tMl9ZSTRtUDF4LXo1UVdEMmdHUUR2ZTc2Z2NqajJLVEY2aEU0WTNHOTg4MzFQQw",
-      "title": "Alpha Compute Plans $55 Million Data Center Campus in Pennsylvania",
-      "first_seen": "2026-08-12T04:31:50.564630+00:00",
-      "rss_title": "EXCLUSIVE: Alpha Compute to buy Pennsylvania land, gas rights for $55 million data center campus, company says - Reuters"
-    },
     {
       "url": "openai.com/index/how-enterprises-put-ai-to-work",
       "title": "Enterprises Accelerate AI Adoption with Agentic Capabilities, OpenAI Reports",
@@ -953,6 +833,125 @@
       "title": "FDA Considering Doctor-Like Assessment for AI-Enabled Medical Devices",
       "first_seen": "2026-08-19T04:31:46.807086+00:00",
       "rss_title": "FDA considering doctor-like assessment for AI-enabled devices - Axios"
+    },
+    {
+      "url": "openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "title": "OpenAI Enhances Data Privacy with Zero Data Retention and Private Safety Processing",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "Offering Zero Data Retention for frontier models"
+    },
+    {
+      "url": "openai.com/index/replit",
+      "title": "Replit Democratizes Software Creation with Free Access Powered by GPT-5.6 Luna",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "Replit expands access to software creation with GPT-5.6 Luna"
+    },
+    {
+      "url": "openai.com/index/chatgpt-ads-expands-across-europe",
+      "title": "ChatGPT Ads Expands to 31 European Markets, Targeting Consumer Decision Journeys",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "ChatGPT Ads expands across Europe"
+    },
+    {
+      "url": "openai.com/index/asana",
+      "title": "Asana Achieves Remarkable Efficiency Gains with OpenAI Codex, Completing Five Years of Work in Two Weeks",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "Asana cleared 5 years of engineering work in 2 weeks with Codex"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore",
+      "title": "AWS Bedrock AgentCore Enhances Web Search with Granular Filtering and Expanded Regional Availability",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "Domain and publish date filters for Web Search on AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator",
+      "title": "AWS GAIIC IDP Accelerator and Quick Automate Streamline Mortgage Document Processing",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "Automate Document Processing with Quick Automate and the IDP Accelerator"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines",
+      "title": "AWS Step Functions Enables Asynchronous AgentCore Calls for Serverless Pipelines",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system",
+      "title": "Fanatics Betting and Gaming Deploys Multi-Agent System for Complex Customer Support",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "How Fanatics Betting and Gaming built a multi-agent customer support system"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard",
+      "title": "KnowledgeForge Leverages Amazon Bedrock to Enhance ITSM Knowledge Base Management",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "KnowledgeForge: mining gold from the ITSM ticket graveyard"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock",
+      "title": "Amazon Bedrock's Auto-Generated Filters Boost Contract Search Accuracy with AIDA",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "Improve contract search accuracy with auto-generated filters in Amazon Bedrock"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "title": "GitHub Copilot App Introduces 'My Work' Pane for Beginner-Friendly Task Management",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "GitHub Copilot app for Beginners: Managing your work"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMieEFVX3lxTE81Z09XYkpQZUoxejVlZWZFR3JJZGJLTi0weVdoWERmVW5kSVVzNmQyQjZYa1JFQ2pId0QwNV9CU2M2d3BTeWJ2ZXNjb2dYT2ZHYmstTklEaFNHdlYzbHdMNFpuQmZaWUpTcHB2VmFXWUM4eUNmOW9lVg",
+      "title": "Stripe Acquires AI Startup OpenRouter for $7.5 Billion",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxPeWJpVjNJOUI4aGhPa05XTERJZkExbFpwNnA4LW91MVA1TnQ1RVhhZm44czFRSmJIZ2tZX29zOC14Y1RLNmlxeWxzZ2l6UUwyNVE3WDVjM3RuczFsMTB4dXEtMFBKT2NiNGxMaG92SF9RVEhmVXp6UmNqYlRGZTFsSnZtZ9IBiAFBVV95cUxPUGhwUXl6NlowWGJNTVNaTUF0WlB5c0RjRUlXYjUybGpzYVNwQmVlQ3BvZlFkaWZndVNyZ2ZjZnQ5ZkJtWURNVnRIRUZncEQ1ZHVHUklwcEdkQ1EwX2F5bVl6ZDJpNnltbWExRkN0SVVpUGg3V3JMZkZOSF8yVkI4X0dYNHNWbUdS",
+      "title": "US Seeks to Close Loopholes in Export Ban of Advanced Nvidia Chips to China",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2Z উৎসাহিতlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg",
+      "title": "Major Banks Adopt Ant International's Forex AI Tool for Enhanced Trading",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw",
+      "title": "OpenAI Pauses Model Training to Strengthen Security Post-Hugging Face Breach",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-20/china-s-xynova-on-developing-human-like-robot-hands-video",
+      "title": "China's Xynova Focuses on Developing Human-like Robot Hands, Addressing Industry Bottlenecks",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "China's Xynova on Developing Human-like Robot Hands"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-20/leadshine-s-zheng-on-china-s-robotics-supply-chain-video",
+      "title": "LeadShine Technology Reports Accelerated Development Cycle for China's Humanoid Robots",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "LeadShine's Zheng on China's Robotics Supply Chain"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-20/unitree-founder-sees-robots-reaching-mass-market-within-decade",
+      "title": "Unitree Robotics Founder Predicts Mass Market Adoption of Humanoid Robots Within a Decade",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "Unitree Founder Sees Robots Reaching ‘Mass Market’ Within Decade"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak",
+      "title": "Apple's Camera-Equipped AI AirPods Targeted for 2027 Launch Despite Video Leak",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQNW9nd0NMT0lOYkVnSy1xV2lXQVZoS2phTUF0V3BrVzI0UFBNNFNuS2o4THJWUi1KWEVROW8zNllQVVl3Z3kxWXZ6TGcxcTczbHpQWUlqMTJ1RjRqUjlJQTFlNE9JZ1p6UUtBU2luN2dGcWgyOUtxUlVqSks0UjhyUkFEbnU",
+      "title": "Google Secures $12 Billion AI Chip Deal with Marvell",
+      "first_seen": "2026-08-20T04:31:52.003363+00:00",
+      "rss_title": "Google strikes $12bn AI chip deal with Marvell - Financial Times"
     }
   ]
 }
