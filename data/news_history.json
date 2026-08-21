@@ -1,126 +1,6 @@
 {
-  "updated": "2026-08-20T04:31:52.003363+00:00",
+  "updated": "2026-08-21T04:31:34.990350+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/how-enterprises-put-ai-to-work",
-      "title": "Enterprises Accelerate AI Adoption with Agentic Capabilities, OpenAI Reports",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "From assistance to execution: How enterprises put AI to work"
-    },
-    {
-      "url": "deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-      "title": "Google DeepMind Unveils Sign Language to Text Model for Enhanced Accessibility",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "Putting sign language AI into users’ hands"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026",
-      "title": "NVIDIA CEO Jensen Huang Named Best CEO by Glassdoor Employees",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-      "title": "NVIDIA Champions Local AI Development and Open Source Models",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos",
-      "title": "AWS Provides Tools for Amazon Bedrock Cost Attribution and Analysis",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws",
-      "title": "UK Firm OneAdvanced Deploys Over 50 AI Agents on Sovereign AWS Infrastructure",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments",
-      "title": "Solv Labs Builds Verifiable Agent Payments on Amazon Bedrock AgentCore",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-pixieset-achieved-35-ai-feature-adoption-by-solving-the-right-problem-with-amazon-bedrock",
-      "title": "Pixieset Achieves High AI Feature Adoption by Addressing Photographer Needs via Amazon Bedrock",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "How Pixieset achieved 35% AI feature adoption by solving the right problem with Amazon Bedrock"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-      "title": "GitHub Copilot App Empowers Developers with Prompting Guidance",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "Write your first prompt with the GitHub Copilot app"
-    },
-    {
-      "url": "github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
-      "title": "GitHub Urges Project Maintainers to Adapt to AI-First Contributors",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "Your contributors are AI-first now. Is your project?"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw",
-      "title": "Google Unveils Pixel 11 with Key AI-Powered Enhancements",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "7 can’t-miss updates from our Pixel 11 launch - blog.google"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxOR254U3otV3R4aU1KTnNtTDR6RzlnQ05zWUI5OWRNX2l0Vmt2TUtqam9UNjMyd0lNSnJzZWZKV2hEVzIxWVZ4Z21zT0hIUFBKemMtVkY3b0ZYU1hWaWxHU3hoQ3FMZDdmTm1vdDBrUVNDODBDYlVoZ0c1R0ZFbzI0cGZ5T2xMLVo0OGprZmdmTVN0Tkl5UjFwbm9qQ0g5Z28",
-      "title": "DeepSeek Challenges Kimi K3 with Launch of Flagship V4-Pro Model",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "DeepSeek Releases Flagship V4-Pro Model in Challenge to Kimi K3 - The Information"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi3AFBVV95cUxQb25WS2hTb1FUeWNDSzE0OGRYMWc1OXh3TkxmSjZfWmdXaHNTbXNZd2d2bGJfeXY0a2pKTC1QQ05fSHRTQmVINngzelhMVmh3Z2dDYlU2aks3aW1ZaDZIa19uckVJOVdqZEZYVG9pQXpGWmxCTlBKdTI5djZZd2tXaDB4UDR2QmVyTlIybEdhZ0FtUElic2o0U3RMaXpSUnhwcDMtOGFyZzFlQnpQSGtvZFVBbUdJRUhhejVYV2xLMXd2MmY0VkVuMDBQeGM3aVdsRXdWWW5zZ2FGSXJQ",
-      "title": "Federal Government Challenges State AI Regulation, Clarifying Governance Landscape",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "Who governs AI? The federal government's challenge to state regulation — What organizations need to know - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPaHpmV1NwTWxHeTRKVUtlY3lwWmlUVWtzX0NUYkhGR2VFRzZDQ0JXRXp1LVZ4alp5SXplU2RHTmRFNG5EaG9GWVpRbkVPZE4tS2NxUlc2UXhBVTMteFRHVWo0a0xZZGdNWFNWNmVnOTdZcHBvcGx6bnEycGlqaHNqRDI4Vkw4YTVkcnhPZEI3cGVRa0psa2xFWWE2b2g1SkJ0T0RhWlRiODVSLVBxdUxIWkl4Zl9uN1Ew",
-      "title": "IBM and Together AI Partner on $240 Million Nvidia-Powered Inference Cluster",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-      "title": "Anthropic in Talks to Acquire AI Startup Decart for $6 Billion",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-12/cisco-beats-on-sales-outlook-citing-broad-based-record-demand",
-      "title": "Cisco's AI Outlook Disappoints Investors Amidst Amassed AI Orders",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "Cisco’s AI Outlook Disappoints Investors Seeking Bigger Payoff"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPRlhNU3NZdFNQZ19HWWJKTnRkWUY5eUl3bXRRZjlZT1JGc2tvbzFlZEs2OGVnQWdIazNheUVDNWwxOUx1UF9Cc0MyM3NFcFZEbTluS2xxLTRDSC01ejVCdkJ3Q0Q2NTJLeE1kSnhqUXQ5VVFRWFFzQmR5QU5uQXYtMnU1eXM",
-      "title": "Taiwan Targeted in Unprecedented Autonomous AI Cyber Attack Linked to China",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxONGlJdkpCUzYtbmMtY3lmaG0xbFZKWURFaTI5ZHp1ZDcwc0x0YWlZWmdHdnRnTDAxU3FHNHNqQmpKOEVtNE9RM3lBMHV0OGQ3MlBpMzdwMFRHcW9xVzlvV2VURDJxTl9XLTc4MjJ6U0JFSG1RTlhBVTRPSkFDME4wZElxd3I",
-      "title": "AI Poses Significant Threat to India's IT Services Sector",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "The AI threat to India’s IT jobs machine - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE5uLVBUUU9BNTJobGl3MzJRckVNZlZfdXJDOEdTbWM0YTVwTk5JM3E4b1FadDVwQzAxVkNaSlFjZGg5QWE1SHlmUzc2YmFWb2s2LWZWVGZBUTR6Wl9tQVhUMTdCVzhVTkx4VllXZ1ZDaXY",
-      "title": "Poor Numeracy Skills Identified as a Critical Blind Spot in the Age of AI",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "Poor numeracy is a blind spot in the age of AI - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxON0VtNWU4bEVEQk5mUHY1WjFjaDBkanQzYjFnaGQ5SVNYU1FiWXpOaUVySTlxMmhYREtYZEpjcklNWnhFWjJ5Zm1FUTBhM0EzQ0w0bEVDd2lCUFI1NWktcW1DSWNXM0xwczZPdzZBZW44dVhubWFZalVRWWc1MDhSNm1ReTk",
-      "title": "Wall Street Bets on Nvidia's AI Chips Defying Financial Norms",
-      "first_seen": "2026-08-13T04:31:23.972218+00:00",
-      "rss_title": "Wall Street giants bet Nvidia’s AI chips will defy the laws of finance - Financial Times"
-    },
     {
       "url": "openai.com/index/builders-guide-to-gpt-5-6",
       "title": "OpenAI Unveils GPT-5.6 with Enhanced Agent Capabilities and New Response API",
@@ -952,6 +832,125 @@
       "title": "Google Secures $12 Billion AI Chip Deal with Marvell",
       "first_seen": "2026-08-20T04:31:52.003363+00:00",
       "rss_title": "Google strikes $12bn AI chip deal with Marvell - Financial Times"
+    },
+    {
+      "url": "openai.com/index/introducing-ai-futures",
+      "title": "OpenAI Launches 'AI Futures' Blog to Explore Societal Impact of Advanced AI",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Introducing AI Futures"
+    },
+    {
+      "url": "openai.com/index/stampli",
+      "title": "Stampli Achieves 68% Launch Time Reduction Using ChatGPT Work and Codex",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Stampli cuts launch hours by 68% using ChatGPT Work"
+    },
+    {
+      "url": "blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "title": "Google Search Enhances Learning Tools for Students",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "5 new ways to level up your learning with Search"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock",
+      "title": "AWS Bedrock Now Supports Cross-Region Inference for OpenAI GPT-5.6 Models",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment",
+      "title": "AWS and Snowflake Partner for No-Code ML Workflows in SageMaker Canvas",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore",
+      "title": "Amazon Bedrock AgentCore Introduces Natural Language Policy Authoring",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives",
+      "title": "AWS Vector Solutions Enable Agentic AI at Data Source",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "AWS vector solutions: Build agentic AI where your data lives"
+    },
+    {
+      "url": "huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "title": "Hugging Face Announces LFM2.5-DSpark for Up to 3.2x Faster Inference",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Up to 3.2x Faster Inference with LFM2.5-DSpark"
+    },
+    {
+      "url": "status.openai.com//incidents/01M0G1RZER839AZXWMYKSZF3GR",
+      "title": "OpenAI Reports Resolution of Codex API Authentication Errors",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Elevated Codex API authentication errors"
+    },
+    {
+      "url": "status.openai.com//incidents/01M0FQAR3NNH3ANVTQMBRD47DC",
+      "title": "OpenAI Resolves Thinking Mode Errors in ChatGPT",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Elevated Errors for Thinking mode in ChatGPT"
+    },
+    {
+      "url": "status.claude.com/incidents/c0ncxxm2wd9r",
+      "title": "Anthropic Resolves Elevated Errors on Claude Model Requests",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Elevated errors on requests to multiple models"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiaEFVX3lxTFBidzZzbzRJcEtnaUtHR3lrUjdkWTRLenFWR0lrUS1wb0F5VEcySTBsQURrclVQUTlsUWtCWDZTUzZuTktXcUFwcVFYQlExSWh4czRtUUZocXlGSVU4U0g5Q3Q4SEluU1BT",
+      "title": "US Lead in AI Race with China Rapidly Narrowing, Report Suggests",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "US Lead in the AI Race With China Is Rapidly Narrowing - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkyX3hEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko",
+      "title": "Nvidia Denies Report of Rolling Out China AI Chip by Year-End",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2ZWhyZlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg",
+      "title": "Citi, HSBC, StanChart Adopt Ant International's Forex AI Tool",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxPMi1wQ2xIZXpJeldDTlVNQzNSRlpkcloxS1lUTVl2SnpPbl9RaThMT2ZQNjZnckgwamtxdXd2cXFON2U5LTFmakJNeEc5bDBfQkN1bDBlRDdhTDVxQ1JkOGxKMF85cXk5cTcxUHA5dVl6eWZydEFyeGJCOFprdGRDY2tIYW01dFB6NXF2N1VXTW96RFQ3cjlnV2UtM2pVWlVpekZuZjA3Z3U5VFFDOWc",
+      "title": "IMF Economist Warns AI Productivity Gains May Not Curb Inflation",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "AI productivity gains may not curb inflation, IMF's Tenreyro warns - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-20/samsung-plans-as-much-as-79-billion-in-shareholder-returns",
+      "title": "Samsung Plans Up to $79 Billion Shareholder Returns Amid AI Boom",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Samsung Plans to Return Up to $79 Billion to Shareholders"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-21/cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
+      "title": "CXMT Corp. Leads Surge in China's AI Hardware Market",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "CXMT, AI Hardware Firms Take Helm as China Earnings Enter Peak"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-20/alibaba-profit-dives-75-as-ai-spending-ratchets-up-video",
+      "title": "Alibaba Profit Plummets 75% Amid Increased AI Spending",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Alibaba Profit Dives 75% as AI Spending Ratchets Up"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-20/open-machine-ceo-on-anthropic-openai-ipo-potential-video",
+      "title": "Open Machine CEO Discusses AI Investment Strategies of Frontier Companies",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "Open Machine CEO on Anthropic, OpenAI IPO Potential"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxQazRicDBFZS1GSWhpZTN0NjJWTVhmNWFhZUhmbFpZaWhKUm9SZ3BTdlFuUDkyTkYzeFhWd0ZRdkFEMUdjOEdRdFhaSjF6MVB5MVdTbHRLekVMWUpTTV80eDN4Qm9GcG1XcVROeGRQTEctQmpfVERZX0NRUWFibW9mRmw2SHltcHFPXzFQTVNya2Z6QzFSbGM2Q0h6dlpXdUZYdEVLYWxB",
+      "title": "California Attracts More Startup Investment Than All Other US States Combined",
+      "first_seen": "2026-08-21T04:31:34.990350+00:00",
+      "rss_title": "California Draws More Startup Investment Than All Other 49 States Combined - WSJ"
     }
   ]
 }
