@@ -1,125 +1,6 @@
 {
-  "updated": "2026-08-21T04:31:34.990350+00:00",
+  "updated": "2026-08-22T04:31:34.181388+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/builders-guide-to-gpt-5-6",
-      "title": "OpenAI Unveils GPT-5.6 with Enhanced Agent Capabilities and New Response API",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "The builder’s guide to GPT‑5.6"
-    },
-    {
-      "url": "openai.com/index/previewing-ultrafast",
-      "title": "OpenAI Previews Ultrafast Mode for GPT-5.6 Sol, Achieves 14x Speed Increase with Cerebras Partnership",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed"
-    },
-    {
-      "url": "openai.com/index/dali-rajic-chief-revenue-officer",
-      "title": "OpenAI Appoints Dali Rajic as Chief Revenue Officer to Drive Global Growth",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "OpenAI appoints Dali Rajic as Chief Revenue Officer"
-    },
-    {
-      "url": "blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "title": "Google Sheets Introduces 'Sheets Canvas' for Interactive Data Visualization",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "Bring your spreadsheet data to life with Sheets canvas"
-    },
-    {
-      "url": "deepmind.google.com/blog/introducing-gemini-3-7-flash",
-      "title": "Google DeepMind Launches Gemini 3.7 Flash Model",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool",
-      "title": "AWS Introduces Bedrock AgentCore Browser Tool for Automating Legacy Web Applications",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work",
-      "title": "Amazon Quick Integrates Agentic AI into Microsoft 365 for Enhanced Productivity",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "Amazon Quick for Microsoft 365: Agentic AI where you work"
-    },
-    {
-      "url": "huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "title": "Hugging Face Blog Highlights Unified Training and Deployment with Strands Agents and LeRobot",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets"
-    },
-    {
-      "url": "github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era",
-      "title": "GitHub Identifies Key Security Lessons from 50 Open Source Projects",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "What 50 open source projects taught us about security in the AI era"
-    },
-    {
-      "url": "status.openai.com//incidents/01KZXVAJQ5XFH7PTM43XVPQWGJ",
-      "title": "OpenAI Status: Elevated Errors in ChatGPT Conversations for Free Users Resolved",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "Elevated errors in ChatGPT conversations for Free users"
-    },
-    {
-      "url": "status.openai.com//incidents/01KZXPZD4KHMQQFF09PSNNEZT8",
-      "title": "OpenAI Status: Enterprise User RBAC Role Creation Errors Resolved",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "Error while creating custom RBAC roles for Enterprise users"
-    },
-    {
-      "url": "githubstatus.com/incidents/24t8gsgqx2qb",
-      "title": "GitHub Copilot Fable 5 Model Availability Restored After Upstream Provider Issues",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "Errors with the Fable 5 Model in Copilot"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE",
-      "title": "DeepSeek Launches Official V4 Pro Model Amid Expansion Efforts",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "DeepSeek releases official V4 Pro model as it steps up expansion - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiZkFVX3lxTFBLZXdBMzlkSW1zbGloS0VNNXhBNXRpaFpMSGNPNzI0NThxN1JOUzcwbjZQY001T2V0OFM2eWNMX05aVk1KeUx6am9RUHdrQjEybDdhVnBGMTJGSkQ3cm5HTFRHcXBtQQ",
-      "title": "New Gemini Flash Model Arrives Ahead of Gemini 3.5 Pro Release",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "New Gemini Flash model arrives before Gemini 3.5 Pro - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxQQXpfMllHaUxleWkxOGlLX3NkbTh5Q0l3U25TUlptRWhoMHhIVXprR0h3NlN0ajZ6emFxN205ZW1ESk51ZzhGaVBFU05UUU51ZWJWcmdxODg3WEM5UDJnMmJKbklxRDdnNGhRanpral8zeU1NYlJxeGthQW1VeDhuMVEyeW1YVjd4S1E",
-      "title": "New York Times Opinion Piece Calls for Global Cooperation on AI Safety",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "Opinion | Only Global Cooperation Can Keep the World Safe From A.I. - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxNS0VIYlk0czVDRGdnTGVvU2oyMlpoazd4TGE1RkhIRTlVdUxiWlRGMFBzd1N0c0ZFb1lJanpLTUU5WVZnT0JCUC1ITVJ1RlhlWENDTjlpT2RMRC1xMXRJbU1kZ1FOb2JGcHU0cXlXdGlQVDdXT2dKQUZ6dEF3VG5Pd0J0ZmtCWDlldWtubkpXUVhHS3c",
-      "title": "DeepSeek Increases API Pricing for its V4 Models",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "DeepSeek raises API pricing for its V4 models - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0cXV6RQ",
-      "title": "AI Boom Begins to Impact UK Economy's Performance",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "AI boom is starting to show in UK economy's performance - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-14/alibaba-baidu-kuaishou-address-mounting-ai-costs-as-competition-intensifies",
-      "title": "Chinese Tech Giants Alibaba, Baidu, and Kuaishou Face Mounting AI Costs",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "Alibaba, Baidu, Kuaishou Address Mounting AI Costs as Competition Intensifies"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-14/thrive-investor-letter-reveals-openai-fueled-growth-stake-sale",
-      "title": "Thrive Capital Fund Sees Massive Growth Driven by Early OpenAI Investment",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "Thrive Investor Letter Reveals OpenAI-Fueled Growth, Stake Sale"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQUWRXMGN5WXlraTZ5dzRnUHVkcEtuUnhDV1FJU1pBNUVndnJXRkM5dkdrSDVXbDVLckNaOTZnUm9uRks4ZDRPN1JJSDF2SmFwX2tTTHNncTZiT21hd1hoc1VyVEJPZnlHZnNMcVRGczM4QVlVV1R6TG96VnpjWUktbUJHVVM",
-      "title": "Anthropic Investors Anticipate $2 Trillion Valuation for Record IPO",
-      "first_seen": "2026-08-14T04:31:26.762248+00:00",
-      "rss_title": "Anthropic investors bet on $2tn valuation in record IPO - Financial Times"
-    },
     {
       "url": "deepmind.google/blog/introducing-gemini-3-7-flash",
       "title": "Google DeepMind Launches Gemini 3.7 Flash: Optimized for Speed and Efficiency",
@@ -951,6 +832,124 @@
       "title": "California Attracts More Startup Investment Than All Other US States Combined",
       "first_seen": "2026-08-21T04:31:34.990350+00:00",
       "rss_title": "California Draws More Startup Investment Than All Other 49 States Combined - WSJ"
+    },
+    {
+      "url": "deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "title": "Google DeepMind Advances AI in Gaming with 15 Years of Research",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours",
+      "title": "AWS Introduces Agentic Data Operations Platform for Accelerated Data Engineering",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Agentic Data Operations Platform (ADOP): Data engineering into hours"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway",
+      "title": "Amazon Bedrock AgentCore Gateway Enhances AI Agent Tool Access Governance",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression",
+      "title": "AWS Bedrock Introduces Query-Aware Compression to Reduce RAG Costs",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Reduce RAG costs on Amazon Bedrock with query-aware compression"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws",
+      "title": "Panasonic Avionics Accelerates Aircraft IFEC Diagnostics with Agentic AI on AWS",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in",
+      "title": "AWS Outlines Enterprise Patterns for Scaling Agentic AI Without Vendor Lock-In",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Scaling agentic AI: Enterprise patterns without vendor lock-in"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiUEFVX3lxTE5PWUlINnhhZ3B2dnU0dng5c2JQZ01fMjk0UkN5Vm8xNlZmVHAycS1SVmZnb3U2RDd1Mm1SaGdvcVUxYzE4SDk0bjlRVWxVazF3",
+      "title": "Mistral.ai Introduces Agentic Search for Enhanced AI System Efficiency",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Agentic Search. More accurate and efficient results from your AI systems. - mistral.ai"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxOeGxNMDBsUjdFYmk0dkZiTklucVU1d3hZLWlfNjBYQVFMaVZXY3RsSDBucHBiWEhhWTF4M1lwU3JvMlVJcmJXSTVzQmpIN216U3ZVWENHaUtMOXV4dDBGeDY3RUk0bW9nWl80UmYzWnZTMWdBS1pia2FHZzBONnRfNE9WbmxYdFBqdGJlXzZ0Ni1tU3haUlg3X3VwajFlYk9QcDNtSzBvckVCVDNhbm1MN055WhQ5NVQ4Q1cwWXRGQlZoWHBMdU1z",
+      "title": "Google Cloud CISO Emphasizes Security Fundamentals in the AI Era",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxNYTFQbjdQQk9fUVc3VEJKNExMYWFHYS0xM25ZdWJRQk1TTGJVNlNDbkpUUDNfaTNVSkNRMzdETlVYTkZ2cVhpNFlUS2oyY2ZHRmxwTWhiMWZxQll1Z0szZWVTQnJMZVdGOGk3dHlXZkV1c0drSDRKM1ZUS29EMXo1YW9Da29MdDAycjZGYWdtSHlORm8",
+      "title": "ChatGPT Integrates into Group Messaging, Sparking User Reactions",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMif0FVX3lxTFBDeWdmemZPWExLd2lROFpaODR4eU5NZmVSMERRdGp4dFNreDZ3Y25OR1lpWDhDODlCN1ZNd1REOVJOM0M0ZDB5NVJqa24yLVQ4N2pRUkFBMGlNQ1NTelZBZGtHUTNadGE0b3BxU3NLTXduWURseUJmcy1GdldoUk0",
+      "title": "Texas AG Candidate Proposes 'AI Audit' Plan Amidst Growing AI Concerns",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Exclusive: Texas AG candidate unveils \"AI audit\" plan - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxNWnI5Y0VrWDl0cjYtTlRNYWlMLXpTOFN0enl2TldXSW15bjB2bng4N2tTb0hpVjFvTmMwbXpyZVcxTHdveWVCd2VPNnRBOVRORXdPY2N1NERrM2s2SmxnY1RkRXJyX0dzd09CS3VyQmh3b2ZEaFpxZmNQWGUtanQ4R19JY3pXS2tsdjR5aUMzMEF3d3NLUG1BdC0zZWduMVRZQ0ZhS0h1LXpLM0hvV19MYWY3X3J4VTR5Y25SRUllOGNrSEFrSEtUaQ",
+      "title": "Brazil Initiates AI Supercomputer Project, Dividing Contracts Between US and Chinese Firms",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxOTEtjUjJVUXlMNW80UzhSd3lYbHRvMlJEMDQxR2p2cFk1cWRyd05RNjBGRHNtdXpuWjBwaXkwZmxPVGQ0V2lKYm9OR1ZhWEhiTzgzTXUtdURlVjlEb25CalF1QzkwRWxUVmZISU81SVZFYXF2WWQ3NnpSSE92ZFozMHR1WEVVTkM4Z0ZMN3ZQdjU4RnRSb0plY0VmQ2hjM2w3TG5kNXlnTHV0QkFVMXJ4dWQtMzRaTlhUNTJKV2dHcFNYQQ",
+      "title": "Ex-Google Engineer's AI Secrets Conviction Partially Overturned",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxQQVpEeVJ6cjA4N2dKX0pJNFhkZTFDZXRpVXpYQzlTRmhkMThfNTBhbElMTG1TdHByZ1NUTmtGd2JzSTJEZzVnMTAtcE9rdE1fNFU1b2JnOTliZzNsWDRCUGU2NEJ5MVdld3hfeHdHS1pIMGtuMXc4MjVKeFluelRzUXc5OEtMNDhrbzl1M0I2Xy1JYTRmaXJvQjdfTWNyU0ZzME9kTVlQNGZpbUE",
+      "title": "Legal Battle Erupts Over Voice Data Used for AI Training",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Lawyers square off in fight over voice data used to train AI - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-21/itg-cfo-we-re-the-picks-shovels-of-the-ai-boom-video",
+      "title": "ITG CFO Positions Company as 'Picks and Shovels' in AI Infrastructure Buildout",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "ITG CFO: We're the Picks & Shovels of the AI Boom"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-21/chip-engineer-tsu-jae-king-liu-on-nvidia-ai-energy-need-video",
+      "title": "Chip Engineer Tsu-Jae King Liu Discusses Nvidia and AI's Energy Demands",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Chip Engineer Tsu-Jae King Liu on Nvidia, AI Energy Need"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
+      "title": "Anthropic Recruits Google Chip Veteran to Spearhead Hardware Push",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQTTZEUzJKWjRsSnV4S1cwYzdnYWpjbmJ3VkZzTXJqRV94VHBFOHRhbGgxMWFGSGF4Y3FkR3Fkb1RCUENZbjVidTdKZlR1YUJGUUZVT0dhNnZ0S01RbUMzLVE0Q2NSOWNTbmJVV1Z3TG1PS3B6ZVFtR2dDNE1UemsxNFMyN00",
+      "title": "Retail Investors Advised on Anthropic IPO Considerations",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "What retail investors need to know before jumping into Anthropic’s IPO - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNMkgwUER1MS1DT0lLaklkeHhmZ2pwd0F5eUlOV1BLZ1VhNjJpeldONFd6UXhPRWNUZlU5WUtBSGxzYUF6YmQwZHJjOHpMSDFoM0ZQQThmeHNBODQwT1FKODZ4OUZCNDNRdHJUUUR4TTdQY0hKMjZJMnNpSlp4V1J3MTZMNEY",
+      "title": "Nvidia Poised to Capitalize on Next Phase of AI Boom, Financial Times Reports",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Nvidia looks well placed to benefit from the next stage of the AI boom - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxPMkRsVFl1ZHQ0YlUwSk1EdmN6SlA3UVA3UmRxZEdhOGpDRmI3MURrblBtYVNuSVpMUHd1cHhoTTdHVUpGRWxGb0dLLWdUWi0tekY0Y3JxdWd5dFpaajJTdmVFSEhGSEs0QjVhZ01ERko0X2ZGbzNjS3BlbjlkT2h0Y0xsUFpid0ZRVzJiM3RLSjZIQ3M",
+      "title": "Samsung Plans Record Buyback Fueled by AI-Driven Windfall",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "Samsung Plans Biggest-Ever Buyback Amid AI Windfall - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizwFBVV95cUxPcG9zRGM3TWZybS1TX3lSbEg2TjREc1lPYXk3ckhjcWNIVnpNcEY1Tlk2VnZSSWQxdkhVcjhyT1paRGZIMWJlVUh5Ul9EcXR6bllpY2RMajZwMDR2ZWtZV2VpSmNiVzl5MkNyY3RBNDNRMFlNZDlRdnhiWmM3Ujg5V2k5aDVkZEVZem4zT1luYmtySFNmdUQyQzByMnJnaDhmT1NrVnAtTHJTNFkxOVFDdFpjemdPdFJLUG9nZWtELUxJZDJNNUtfZFNiY2ZVWkE",
+      "title": "MAHA Activists Urge Trump to Reject Coal for AI Data Centers",
+      "first_seen": "2026-08-22T04:31:34.181388+00:00",
+      "rss_title": "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers - The Washington Post"
     }
   ]
 }
