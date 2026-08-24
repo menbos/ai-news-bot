@@ -1,125 +1,6 @@
 {
-  "updated": "2026-08-23T04:32:02.069313+00:00",
+  "updated": "2026-08-24T04:31:38.597807+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxNSzhBX2lCOUVad0VqX2ExTk1tQVp2MFpwYkw3LVZLMlVROE4ySy1VMUItVXpxT2d5WG8xM3NoOGhQcTEzUjlaYnhfcjBKdzByQ3QzYXZYSFdHVnRhNEpFSkhaeU04c2JFQUFXYnlidjlfZEd5MXZ2eEtpS0VwcTNhcjNmNGtuUnMybGcyVDBB",
-      "title": "Grok 4.6 Integrated into GitHub Copilot, Enhancing Developer Productivity",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Grok 4.6 is now available in GitHub Copilot - The GitHub Blog"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikAFBVV95cUxOckp6Y0UxOXJraUFncm1rZWs1TTAxNXo3X3BEamlUVkZocUhfV29IOHlTSGhVQjdpbnhWdFNrZ2hJNG9QXzZCMnVyWE9IbGdiLUhzalRLSXZYVTdKYlVQY0I0ZXQ1RVJaTlBOTEdjSjBudGJKY3M3blh0WXBTbG56M3ZwOENKUGM1R2wzQUhiWHE",
-      "title": "Google Cloud Introduces Gemini Deep Research Agent for Advanced Data Exploration",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Use the Gemini Deep Research Agent - Google Cloud Documentation"
-    },
-    {
-      "url": "status.claude.com/incidents/005ym4vzrq2w",
-      "title": "Anthropic Reports Resolution of Service Disruptions Affecting Claude API and Related Services",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Service disruption on Claude services"
-    },
-    {
-      "url": "status.aws.amazon.com",
-      "title": "AWS Addresses Increased Packet Loss Due to Co-location Partner Work at Frankfurt Data Center",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Service impact: Increased Packet loss"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxQUFVxWFRMRDRsU3laSGNvbkV5RjVoblJyU3BoX3F3R241ZHdMTWZheUU4SGhQeFVEZlJZekhObVFlcGNtOHgwMDlPaDNVRFZNalFfNlByVDd6MmpkZkpGTV9nTDNCV01zSGpKNDRSR21kU19qV2lGSmhqQVJnVVpWR0dra2I5ZTBfSFlPRnpRc045SFRrUWRyck1B",
-      "title": "SpaceX Completes $60 Billion Acquisition of Cursor, Integrating AI Capabilities",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "SpaceX's $60 billion acquisition of Cursor just closed — here's 3 ways they're already working together - Business Insider"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ",
-      "title": "Amazon and Alphabet's Profits Reflect the Circular Dynamics of the AI Boom",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxNS1MtSVJMY0p5blN0MUdSV0xMMmE1NzdWdVJYUjh0cTdCNVJyOXRLVmtId004V0xIc2FyVS1IRk5laFR1MHBKemVhcWV0SGxWZkVJUGM0V2t6d214Zlg1QUFQam1aS1RoanhfOXR3dzNmWmN3enhDWWpDZ1poT1JJek92Q0tIU2ZvdVR1VTlWcEdtZVZSVmVEa1BKV29XaHIwdHVoTHFJudGRcTjhkc0pveVpidEtOcE5walIyM1E",
-      "title": "China's Z.ai Claims New Model Rivals Anthropic's Mythos 5 in Cybersecurity Tests",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk",
-      "title": "Nvidia Reportedly Eyes $3 Billion Investment in SB Energy for OpenAI Data Center Deal",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU",
-      "title": "Anthropic's IPO Valuation Tied to Ambitious $190-200 Billion 2028 Revenue Forecast",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
-      "title": "Alibaba AI Models Surpass 3 Billion Downloads, Outpacing Meta and Google",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM",
-      "title": "OpenAI and Anthropic Engage in Price War Amidst Rising Competition from Chinese AI Rivals",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M",
-      "title": "Sam Altman Prepares for OpenAI IPO Amidst Internal Upheaval",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOS3ZISllPenZtOEJ5Uy13WUlZUno1dkh3T1NBMkl4Y2lHY3YyVlVRemlFUS11UkhhX25OTHRwNHlLdWoyRUZxR29jMG5wYTdSb19XWWhaUUdrT01LVzJGQVBaeWZNMEJhYTB3anBBbFJDd0F5d0dRQTBQQWdhbkxFbkhlYW0",
-      "title": "Nvidia Discloses a Significant $21 Billion Stake in SpaceX",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Nvidia discloses $21bn stake in SpaceX - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxQd0hZUGVrZmdGTmVpTkVseXpHNzFmZ1cxaUdrT0I0Q1ZVYjFlVnZPdDFUZkV4RWdjMEpoUGxyQ0xEeHJ2VWVKZ0ZLZHc4bURlcEJyVWpUaWZXT0xqR3ljTmZXLXJjZ3FDaHFmRkVkanF1MHhRTlU3dTRtLWxJbDBFVTVB",
-      "title": "DeepSeek quadruples AI model prices amidst rising demand and competitive pressures",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "DeepSeek Lifts AI Model Prices Fourfold - wsj.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1VObHJoWnFPYy16TFAtNDF6ZkxoMW12dy1kbVNjRXY5TkVlMFY3ZDJfTGhuaXM1cUpnV2ZwUVA4X0trTEVsLVQyWlNiSEhhem9CTVZ4bS1RYUZCNTB3ZHBFQk9sM1NWVVBDYnVEaDhwaEE4a2tUSTlKUklBTGg5cHRRWkZQaHhIS2RUVUFXM203cUVjWGZtSQ",
-      "title": "Nvidia Scales Back $250 Billion OpenAI Data Center Guarantee, Citing Evolving Plans",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - wsj.com"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "title": "Apple Collaborates with Alibaba to Train Custom AI Model for China Market",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Apple trained its own AI model for China with help from Alibaba"
-    },
-    {
-      "url": "wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out",
-      "title": "Amazon to Use Twitch Content for AI Training, Offering Opt-Out Option",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out"
-    },
-    {
-      "url": "theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "title": "Google Gemini Now Allows Users to Disable Visible AI Watermarks",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "You can now turn off Google Gemini&#8217;s visible watermarks"
-    },
-    {
-      "url": "engadget.com/2237691/anthropic-watermarking-text-generated-by-claude",
-      "title": "Anthropic Implements Text Watermarking for Claude to Align with EU Regulations",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Anthropic is watermarking text generated by Claude to comply with EU law"
-    },
-    {
-      "url": "thenextweb.com/news/anthropic-q2-2026-revenue-11-5-billion-operating-income",
-      "title": "Anthropic Reports Explosive Q2 Revenue Exceeding $11.5 Billion, Up Over 14-Fold",
-      "first_seen": "2026-08-16T04:32:28.021146+00:00",
-      "rss_title": "Anthropic’s quarterly revenue passed $11.5bn, up more than 14-fold"
-    },
     {
       "url": "news.google.com/rss/articles/CBMilwFBVV95cUxNUGE5UFBHX1dYLUlrTnFoOXUzZTE2elBTd0Y4UWpHUlJFTy0taEZSUndyTy1PanZvam9QR3R6VjVhZklEdEUxU0lJOUtIVEVmY1VpU0tnV1JqSmZ5VFVsTF9VTlVKUzlpZ202dmJfaWJ6X0lqOWhkR2VfbkQ3WEpvSDBsZkxISzBLLVJNMkV5dS10Y2E5RUYw",
       "title": "FTC Investigates Health Records Giant Epic Systems",
@@ -950,6 +831,125 @@
       "title": "Anonymous Free AI Model 'Ox Alpha' Gains Developer Traction Without Clear Origin",
       "first_seen": "2026-08-23T04:32:02.069313+00:00",
       "rss_title": "A free AI model is winning over developers. And nobody knows whose servers it runs on"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ",
+      "title": "Alibaba Raises $10 Billion in Record Hong Kong Share Sale for AI Expansion",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ",
+      "title": "Humanoid Robots Surpass Usain Bolt's 100m Record at Beijing Games",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Chinese robots beat Usain Bolt's 100m world record at Beijing games - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+      "title": "Alibaba's $10.2 Billion Share Placement Fuels AI Expansion",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Alibaba Raises $10 Billion in Record Hong Kong Share Sale"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-24/softbank-plans-record-1-trillion-retail-bond-offering-in-japan",
+      "title": "SoftBank Plans Record $6.3 Billion Bond Sale for OpenAI Investments",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "SoftBank Plans Record $6.3 Billion Retail Bond Sale in Japan"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-23/uk-fintech-funding-drops-to-lowest-level-in-at-least-a-decade",
+      "title": "UK Fintech Funding Plummets to Decade Low Amid AI Investment Shift",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "UK Fintech Funding Drops to Lowest Level in At Least a Decade"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says",
+      "title": "AI Platform Hugging Face Explores Potential Sale Valued at $13 Billion+",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Hugging Face Gauging Interest for Potential Sale, Business Insider Says"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNNEdNMFc2bXZIeDFtSUVHaURibi1oU1VRSFU0SzF0MlAxYUJheEt1U1d1djktaEtza1ZuVGJGS0U2LWZmQXlYYXJwR0V4WFJKWnRQMDJ0eVhseUlZNlA5Qzc2eFE1a3JzRGxaTEZvXzl2NTlWUS1BSFVCd1VsNzZBcTJ5ZnE",
+      "title": "Alibaba's $10.2bn Share Placement Signals Expanding Chinese AI Investment",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOUzFKTlJwQllnVnNPUXR1YnJsRjFIdkJjN082emUyaXhkN004RXV4b3c4ZFRmdXpfc1JmZHB5N1lWNVFodWI2NnkySmpXanllcU5jUExmdldSMGRya0xha0ItREExeGFJOE5XVmxqamg4Y1czdl9ONU5VUlZGMkZnbzU0Y28",
+      "title": "Government Role Crucial in Advancing Robotics, Financial Times Suggests",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Government can bring robotics to life - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08",
+      "title": "Anthropic's Top AI Model Faces User Adoption Challenges Amidst Cheaper Alternatives",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOSjNwNzBheXBqNDlrQWlnVXZoejNoRE9YQW1od000QlJ0alRNSFFLWnlCRVNFblpreENVbWEwU05iaW51WHpINHN4Z2ozeTZieVRSOGVvdnJYaVJHcWhacVFadk1yT2pGYTRQQTRwOHNlSFJ6czk2SzRMelZMVXJrdlFCdng",
+      "title": "Legal Tech Start-ups Navigate AI Disruption with New Strategies",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Legal tech start-ups put AI disruption in a risky new wrapper - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOUGpFdUVpOXFSVTBBM0FwNVlQOFlEbUNldlQzSDBGUEt6RzJuLW9sdkJjd2NJQzRpeFp0TFJvVTZRZUxSWTh1UFhuVy1FQzFBWmxqc0p2MmxaaGlzSUxzRGZaYks5ZlVqZk1YVVlNT1U1aXNYR2pEbDdxNEtzU2NSM3NhWVQ",
+      "title": "UK Energy Sector on High Alert After 'Iran-linked Hackers' Disrupt Plant",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxQODYzZUNTRmFDWldFZ0NoQzJIVWhNY1ZtZ1F2UVlGOU5MWlh6RlBQUHI5NHhpUmVkcjNUX3Mya1hoOUt2aGVQRzdvYnJHTh4gOVVNMXl1WXpmVzAycmxKN3pqdFhaamtUWXJ0d0lIT0RubXFmeGp6OUQ0TDN4MEVuZG1HZVR2RE5mZEhreDVIQTVkWTRkNzhNVk44ZlVFQl9PbWgwX2c",
+      "title": "Alibaba Secures $10.2 Billion for AI Investments via Share Placement",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxNa2g4X3ZuOXMxNjRtb0tGX1lqM21UT2hCV3ZFUDlyU3JaZXhLdjdsWFZfMTFWcWxkQ3dXUFJRNnQ5OGdSWVdwWXhtVXpWZlNqRHcxUFEwcXZxZDdicnN2QVZNWjVOVUNlTTZKVEZkMTZSY1poMDNvbHVqRDdKMG85SllocFVWS1ZqaTNZNEV6WWV1NUFOc0szLXFQOHhCZEtHQWNXZm5YZzJwaXN0TlZOZ0Fwc05KMXExWkZMUUo2NnE",
+      "title": "AI Dominates Wall Street Discourse, Causing Widespread Concern at Wilderness Camp",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "We Went to Wall Street’s Exclusive Wilderness Camp. Everyone Was Spooked by AI. - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTFBnSlFQbDZhdDZLXzBybFNyMEpCeGZId3hybGlvbkw1Vi1MQkgzTl85N1BOMDUwUkNlOFNSNlc2RjZ5TlBJWE0yZ3VzVGREeWViYTFZ",
+      "title": "DeepSeek Introduces Weekend Off-Peak Pricing, Affecting AI Compute Costs",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Breaking: DeepSeek Launches Full-Day Weekend Off-Peak Pricing – Is Weekend Work Now More Cost-Effective? - 36Kr"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE9xYkdpalZzTl83OUNqNFJSUlhYTnNEeU1ZZHFlN3p3ZXZsRk44aUZRX3J1Z25lNld5QngtUFNyOEZsLUR1dU1lUzJob2o0RUx2Uy1z",
+      "title": "OpenAI Unveils Harness for Agent Runtime Dominance Post-Black Whale Launch",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "OpenAI Unveils Harness Post-Black Whale Launch: Competing for Dominance in the Agent Runtime Space - 36Kr"
+    },
+    {
+      "url": "engadget.com/2242295/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record",
+      "title": "Humanoid Robot Shatters Usain Bolt's 100m Record, Raising Questions About its Significance",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Humanoid robots have beaten Usain Bolt's 100-meter dash record"
+    },
+    {
+      "url": "engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
+      "title": "Twitch and Amazon Face Lawsuit Over AI Training Data Consent",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content"
+    },
+    {
+      "url": "thenextweb.com/news/galbot-autonomous-tennis-robot-100-rallies-claim",
+      "title": "Galbot Robots Achieve 100 Consecutive Rallies Against Tennis Champion",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Galbot Robots complete 100 consecutive rallies against a tennis champion"
+    },
+    {
+      "url": "thenextweb.com/news/world-humanoid-robot-games-beijing-usain-bolt-record",
+      "title": "Humanoid Robot Beats Usain Bolt's 100m Record, But Roboticists Remain Underwhelmed",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "A humanoid robot just beat Usain Bolt’s 100m record, and roboticists are unimpressed for good reason"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC",
+      "title": "Robots Can Outrun Humans but Struggle with Basic Tasks Like Plugging Cables",
+      "first_seen": "2026-08-24T04:31:38.597807+00:00",
+      "rss_title": "Robots can outrun humans, but can they plug in a cable? - Reuters"
     }
   ]
 }
