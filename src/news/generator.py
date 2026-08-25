@@ -9,6 +9,7 @@ from datetime import datetime, timezone
 from ..logger import setup_logger
 from .fetcher import NewsFetcher, TIER_LABELS
 from .history import NewsHistory, _normalize_url as history_normalize_url
+from . import dedup
 from ..llm_providers import get_llm_provider
 
 
@@ -157,38 +158,35 @@ class NewsGenerator:
                 return cat
         return raw
 
-    _STOPWORDS = {
-        "a", "an", "the", "of", "in", "on", "at", "to", "for", "and", "or",
-        "is", "are", "was", "were", "with", "its", "as", "by", "how", "why",
-        "what", "that", "this", "has", "have", "will", "from", "new", "get",
-    }
-
-    def _headline_tokens(self, headline: str) -> set:
-        words = re.sub(r'[^\w\s]', '', headline.lower()).split()
-        return {w for w in words if w not in self._STOPWORDS and len(w) > 3}
-
     def _deduplicate_items(self, items: list) -> list:
-        """Remove near-duplicate items based on headline word overlap (Jaccard ≥ 0.4)."""
-        kept = []
-        for item in items:
-            tokens = self._headline_tokens(item.get("headline", ""))
-            duplicate_of = None
-            for i, k in enumerate(kept):
-                k_tokens = self._headline_tokens(k.get("headline", ""))
-                if not tokens or not k_tokens:
-                    continue
-                union = tokens | k_tokens
-                similarity = len(tokens & k_tokens) / len(union)
-                if similarity >= 0.4:
-                    duplicate_of = i
-                    break
-            if duplicate_of is None:
-                kept.append(item)
-            else:
-                # Keep whichever has the longer summary
-                if len(item.get("summary", "")) > len(kept[duplicate_of].get("summary", "")):
-                    kept[duplicate_of] = item
-        return kept
+        """Collapse near-duplicate rendered items to one per story, keeping the
+        one with the longest summary. See src/news/dedup.py for the algorithm
+        (overlap-coefficient + single-linkage clustering, money-aware)."""
+        return dedup.deduplicate(items, text_key="headline")
+
+    def _collapse_duplicate_candidates(self, items: list) -> list:
+        """Cluster the fetched candidate pool BEFORE Stage-1 selection and keep
+        one representative per story, so the selector never sees several rewrites
+        of the same event (which it may otherwise all pick). The representative
+        is the most authoritative source (lowest tier number), tie-broken by the
+        longest description. A [COVERED] flag on any cluster member is preserved
+        on the representative so the continuation filter still applies."""
+        def representative(cluster: list) -> dict:
+            rep = min(
+                cluster,
+                key=lambda it: (it.get("tier", 99), -len(it.get("description", "") or "")),
+            )
+            if any(m.get("already_covered") for m in cluster):
+                rep["already_covered"] = True
+            return rep
+
+        collapsed = dedup.deduplicate(items, text_key="title", representative=representative)
+        if len(collapsed) < len(items):
+            logger.info(
+                f"Pre-selection dedup: {len(items)} candidates → {len(collapsed)} "
+                f"after collapsing {len(items) - len(collapsed)} near-duplicate(s)"
+            )
+        return collapsed
 
     def _render_digest_from_json(self, items: list) -> str:
         """Render a markdown digest from structured items, enforcing order and deduplication."""
@@ -292,6 +290,10 @@ class NewsGenerator:
                 logger.info(f"History: dropped {dropped_count} already-published items "
                             f"(same URL or near-identical title), "
                             f"marked {covered_count} items as [COVERED]")
+
+            # Collapse same-run duplicates (multiple outlets/rewrites of the same
+            # story) to one representative each, before the selector sees them.
+            fetched_items = self._collapse_duplicate_candidates(fetched_items)
 
             # Format news with unique IDs for selection
             formatted_news, news_items = self._format_news_with_ids(fetched_items)
