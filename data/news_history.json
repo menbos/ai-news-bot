@@ -1,124 +1,6 @@
 {
-  "updated": "2026-08-25T04:31:32.956888+00:00",
+  "updated": "2026-08-26T04:31:33.836195+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/openai-joins-ports-pike-project",
-      "title": "OpenAI and NVIDIA Partner on Southern Ohio AI Data Center Project",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "OpenAI joins PORTS-Pike project"
-    },
-    {
-      "url": "openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "title": "OpenAI Funds Independent Research on AI Policy for the Intelligence Age",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "New policy ideas for the Intelligence Age"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-      "title": "NVIDIA Emphasizes Critical Role of 'AI Factories' in Economic Infrastructure",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "Securing the Infrastructure of Intelligence"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments",
-      "title": "AWS Enables Autonomous Agents to Transact Using Bedrock AgentCore Payments",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "title": "GitHub Introduces 'Canvases' for Enhanced Agentic Workflow Management",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "How canvases make agentic workflows visible, steerable, and cost-efficient"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi1gFBVV95cUxNYXdyMXl0ZUs3UDVBSFo1a3BCcDg4UlZUazQxSEp1allrY1B3SEVxYnQ2RjFQVFY5T3Q1YUFYM19Jc1ZQNXVobGtZNVJBc1BPQXpFWFFsTlBvWEJqV3VRM1lCU0ZzSVlHcS14UGxUZldBaEVsdUJveHN0TXJOLURfWDBxRlJYaFdXMHREU3VSNlVrcFZncENub1czY2lGV1F6eGpGSWZiU2loYlJYVVRFZTdQSU80Q0lNZmdvX3FZQ0hTU1pjZF8weHhCRWEzeURkcDk3N1Z3",
-      "title": "NVIDIA to Exclusively Power SB Energy's PORTS-Pike Technology Campus with AI Compute",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute - NVIDIA Newsroom"
-    },
-    {
-      "url": "status.claude.com/incidents/zhk4v3yv1lsf",
-      "title": "Degraded Performance Reported for Anthropic's Claude Opus 5 and Sonnet 5 Models",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "Degraded performance for Claude Opus 5, Claude Sonnet 5"
-    },
-    {
-      "url": "githubstatus.com/incidents/zkxwbgr0cnmx",
-      "title": "GitHub Experiences Widespread Service Degradation Affecting Copilot and Core Operations",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "Incident with GitHub.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMifkFVX3lxTE1WTVZYTGFrandXeVZjWnV6TllsTjRzOEF3b0JLdy1QN2wzbFFFdC1TNXdWOU9LQ1lMbFFoQkUzY3RwU1dYbllrS2xSaE1hN1ZjOEd2ZVpuS2xvSDV2Q0pXRXFtMG43S0ZRWkZFdDRUZXJhRk54M2ZqQmFfMzl1QQ",
-      "title": "OpenAI Announces Major Data Center in Ohio with NVIDIA Partnership",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "OpenAI announces massive data center in Ohio with Nvidia guarantee - axios.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxOUi05NkI4cXl6M3ZhcWx2QlFuYjNJa2xTN3pIUER6YWZ6bGc3TTBUb0VIV3ppTXBXdG5pbEo2b19kRFQ3MW1SR3p3eFQ2RGNlQUdwUFRJRXJtS0ZCemxjZmRRRWl3Y3M0VXp0dU5nZE0tTXVsZ2xGVXZXa1czZWo3alFiTm9GTWtXVHVoOW1FOVY4ZDJWZzN6MHN0SWtPQXRRQlE",
-      "title": "Anthropic Reports Annualized Revenue Run Rate Exceeding $65 Billion",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ",
-      "title": "Trump Crypto Firm Backs Venture Offering AI from Chinese Companies",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxOTWxtMGJPV2R4Q05lWVQtX09wM2ltMjRzdVBITG4xQlFYcFgtU1FXUkdLRVJFYXNWM0VvVWNpYWZtd0ZKTnlGT29KVkFBTjVoQ2FSc2FPWVprMGdQX3h2eDNudHE5UGppM3FDT3lMOTNoREdfSXdUeGZZSzdqVDNTWHF4bTdpczBYODVhVWRtcHBPT0ZETjc3WmtBaDN3NGp5ZjBiWXM4d3NYVEFVTjV1UHgwRjFBd0JaaFJjSENGcklWZw",
-      "title": "Dan Ives Advocates for Government Role in AI Regulation",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxQN3JiYWhkcERDWi1MTllqMVduaUtTMjdkRU1GWkRKQldPbnlGR2lSenNfTmM1dmMxX1djUmQ1RFpLcHZnbFVvc3hjelp1SVROaWxReFFSREIxd0UxTGx3dDF3MUpZeGN3bWFydFZxXzNFdldtUWo5MnhEN0phclg5U0JUbk1uVlYyZDhQYzJHMEdmb0cyODBwY1BycHdGMm9WdmN0bg",
-      "title": "Investors Actively Seek AI Leaders as Capital Expenditure Concerns Recede",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "Big investors hunt for tomorrow's AI winners as capex angst fades - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxQM0dxM0lyTkVyZENsWWJSOXdyODFIeS1aRktWN0JBZW1NenFqOHVSMVY2S2dDUGYwcU5YY0xyeWVQb0lpTEdvYVFxQ2NKM3pZSDdQVWhjU1NYT1BKSHlVaURiWUw3bmJPVmkxQk0xemRaWmdIQXZsMzZSaUN4V1Z4WEcxOS1EeVQ4VnJoN1hibGt0bnhBaXFYLTF2cw",
-      "title": "Wispr Flow Valued at $2 Billion Amid Strong Investor Interest in AI Voice Startups",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxQU2JUdkZ2ZjZ4enNhT1VXa1pXU1NtbjhPbncyUDNZZTZWOC1zb3E4akhtN1pkenY3LVZpYzdCY2xna2NIMFRkRG8yQklDTW5KejV2TjZJT1dsaXk3NlFDcE1YWks3aVRPbklKVWJxWTAxUmNKOWx1b2t3WWxmMXA5VEIzdTNlMWdVVTZKMFNkWTZDQWVVNFNXdGFlc0l1QTFoQkRBNGlvT3l5dC0xSTh6QWYwSV96TWRLUm9hdGtUclpfejZfQWdpUzRFczBpbjVK",
-      "title": "Higgsfield Valuation Surges to $5.4 Billion Driven by AI Content Demand",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "Higgsfield's valuation soars fourfold to $5.4 billion in six months on AI content demand - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxOejNkZVFTSjVNZEVpMms5aWtNbzdCcWMyZFQwT2xHRnQzanhqbHoxZzZKSGdTblptSHhUT0Jjamk3ZWI1VnJHOFZPWnk0VERidlZsNFItMzE2T2UyOEhfYWVGOUt1MkRLLVlNTWlNYnViUGhnalAtS3RDSS0tX3ZSckR1MjM4UmF4YzNDZ3hyN1AxYVhEaE1fMWpOQlFhVlZBbXdJVF9sVTNhNjJGMEQ0THlBVHc",
-      "title": "European Central Bank Predicts Impending AI Market Correction",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "AI market correction is coming, ECB blog predicts - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-18/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals",
-      "title": "China's DeepSeek, Qwen, and Moonshot Pose Competitive Threat to US AI Leaders",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "Why China's DeepSeek, Qwen and Moonshot Are a Worry for US AI Rivals"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-17/alphabet-kicks-off-aussie-dollar-bond-sale-as-ai-spending-soars",
-      "title": "Alphabet Raises Funds via Australian Bonds Amid Soaring AI Spending",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "Alphabet’s Australian Bond Offers Pickup Over Dollar Debt"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
-      "title": "Anthropic's Revenue Run Rate Surpasses $65 Billion Ahead of Potential IPO",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMingFBVV95cUxQbER2YldlRmpEQWd0clg3cTNaZzlBZHc0M3VTZk9yYm14Zm9ZaTQyaGVfMkI1TWdQRTBPT0k4NTRhcXFXUG52Vll1NEVhbTRSMDRIUU15aHU3M3MwTU9ldFJwNS1rV09WQW1hUzdtMVBGM2E2RDVwdDZGM21Sc3g3cFNsTkc2QnRlcExMVkVVZXdhbDhkX0JoQ1ozRldQZw",
-      "title": "Big Tech's AI Spending Significantly Underestimated, WSJ Reports",
-      "first_seen": "2026-08-18T04:32:15.519520+00:00",
-      "rss_title": "Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems - WSJ"
-    },
     {
       "url": "openai.com/index/strengthening-democratic-oversight-in-national-security",
       "title": "OpenAI Launches Initiative for Democratic Oversight in National Security AI",
@@ -951,6 +833,125 @@
       "title": "Big Tech Faces Growing Backlash as It Rushes to Manage AI's Societal Impact",
       "first_seen": "2026-08-25T04:31:32.956888+00:00",
       "rss_title": "Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI - WSJ"
+    },
+    {
+      "url": "openai.com/index/jalapeno-first-results",
+      "title": "OpenAI's Jalapeño Chip Achieves Industry-Leading Inference Performance",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference"
+    },
+    {
+      "url": "openai.com/index/introducing-admin-plugin",
+      "title": "OpenAI Introduces Admin Plugin for ChatGPT Work and Codex",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Introducing the Admin plugin for ChatGPT Work and Codex"
+    },
+    {
+      "url": "openai.com/index/gpt-5-6-in-kiro",
+      "title": "GPT-5.6 Available in Kiro for Enhanced Developer Productivity",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Advancing price-performance for developers with GPT‑5.6 in Kiro"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps",
+      "title": "Amazon OpenSearch Service Enhances AI Agent Observability with MCP Apps",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Agentic observability with Amazon OpenSearch Service MCP Apps"
+    },
+    {
+      "url": "huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "title": "Quantization-Aware Healing Achieves Superior Performance with Compressed 4-bit Model",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original"
+    },
+    {
+      "url": "github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+      "title": "GitHub Blog Shares Best Practices for Evaluating LLMs Before Production",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "How to evaluate LLMs before production"
+    },
+    {
+      "url": "apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+      "title": "Apple Unveils New Mac Studio with M5 Max and M5 Ultra Chips",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra"
+    },
+    {
+      "url": "apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro",
+      "title": "Apple Releases Enhanced Mac Mini with M6 and M5 Pro Chips",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiWEFVX3lxTE5DVk9nS1VNSDE3RjBrZklZR3hMZV9mbU4tVGhsem9GTWdtdnhnUEVCcTRqNmh5UUxITWRjaGxIOV9OSl9SRDAxdVY5ZDlNX2c1TXN0SXZMbjk",
+      "title": "Acornaware Deploys Empathetic AI on Google Cloud for User Support",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Acornaware launches empathetic AI to support millions of users using Gemini - Google Cloud"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi1gFBVV95cUxQQ3hEdUhxOE9RQk5LaEJtcjlRbU1FSXJ6RnRvSUZmd3o3TFBxYVAzRzVwZTJVZUdRM39tOVhDWmc4UkJONFQwb1FENlJxM2Nvc2dQajdzdHNCZXlheld1cXVQTHluV3pyNEhydDRrRVF2bVlWdk9vV3NCVHNOZ2VWb0lvUWhOZkdrbHBSS3M0YTQzdGFTMjlEN1ZKdm5PeVhaaGVRNVU2UW1OWHFaRVdtZ0NRejIwNzBWeVFzaERnSDF3RWlrcm1JZ0lZdUt1cHNjcXdNVXhB",
+      "title": "OpenAI Calls for Increased Regulation Following Cybersecurity Incident",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNUHpZeUtQSDRXMTRtRVRoVnV6b05vcjFKV055QmVsb2ZGZFVJOGl3eTF2QUsyTWlfZXE2OV9MdHgyX2RaM1BCY09yYkVCOGFuVS11QnI0UDZtd1FOWVhFak5uZlpNS0ExSVRyZU9BZXZSMnN4QS1SUUszdkZpa0F1ZXl6OUUwam43WEhqbXZRYjZKZUVMSnJtNG90MWRKRVF5XzcyQjJ5M1VjX2kxNVZjWmlLZUFyS3FUYjMw",
+      "title": "German Broker Scalable Integrates AI Chatbots into Investment Platform",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "German broker Scalable opens investment platform to major AI chatbots - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg",
+      "title": "Taiwan Indicts Individuals for Illegal Export of AI Servers to China",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Taiwan issues indictments over alleged illegal export of AI servers to China - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxPbmljdWxVeFc5ZjQ1akJuSEJnZ3lQZUxnZVdaSFdwUWV2MWRuWnA3NzAwUWdMRjdFa1U5SkhkU1JabzdycGduTFVUU3J5cXpMOEpGbW1tM2w1Tk9XWm9hWVVmZ29LN1k0MVhJcWwxQlRlWkRJWjNTbDdDV3gwYy16SFpVQk02M0RkOGxGQ1pvQVdxdGJpZ1FwTlJPVjVaWWR4ZGszNw",
+      "title": "UN and Red Cross Urge Immediate Rules for Autonomous Weapons",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "UN and Red Cross call for urgent rules on autonomous weapons - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-26/mindrank-ai-ceo-on-business-strategy-ai-drug-discovery-video",
+      "title": "Mindrank AI CEO Discusses AI's Role in Drug Discovery and Business Strategy",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Mindrank AI CEO on Business Strategy, AI Drug Discovery"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-25/jack-ma-joins-top-executives-in-buying-alibaba-stock-scmp-says",
+      "title": "Jack Ma Buys Alibaba Stock to Signal Confidence in AI Investment",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Jack Ma Buys Alibaba Stock to Show Support for AI Buildout"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-26/ai-will-deflate-value-of-it-work-by-up-to-25-hexaware-ceo-says",
+      "title": "Hexaware CEO Predicts AI Will Reduce IT Work Value by Up to 25%",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "AI Will Deflate Value of IT Work by Up to 25%, Hexaware CEO Says"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-26/ai-startup-that-upends-junior-bankers-work-sets-up-in-singapore",
+      "title": "AI Startup Revolutionizing Junior Banking Work Expands to Singapore",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "AI Startup That Upends Junior Bankers’ Work Sets Up in Singapore"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-25/former-google-researchers-want-to-keep-humans-in-ai-driver-s-seat",
+      "title": "Former Google Researchers Form Nonprofit to Ensure Safe AI Development",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Ex-Googlers Are Planning AI-Human Hybrid to Prevent Rogue Models"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOSmxqMEtBMmZWdG81M3ltYm5YcmJ1a1VRbm5OOFBpd2J2amhnUXJtYUpTYkNnNGxNMzViVE1EQXpiREN4dnBnQmZtajlwTDA5ZGg3RW1GRXpxTHI0cVY2OUlPeWhWeXVxLTNfZGduSi1ZVW1lR1M4Smo5TE5oLUdHZ2tRZVo",
+      "title": "Nvidia Employee Charged with Smuggling Advanced Chips to China",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Nvidia employee charged with smuggling advanced chips into China - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxPZjZaazBLZXFzWnlOOHJ2b24wZzZsOGd6Sy11ZGF2NXZ1NmJ0bWdYNklaOUszQ2NMT2J0YTh6X0V6ZUJNVl9LVF82blJCTHZadHEybHN1WEFBMy1NdXNoenIxNGdudjZscEVQT09xMjRjU3htekdoNk45SzdkbGRlMUdKWUJCVlpzcFlYM1RLSlVqWHBtZUM0azctZV8xaWpvbHJLcmxGNXQ5bV9Mc1JjQVJXcXZnaWJ1MmJN",
+      "title": "Anthropic Projects Over $30 Trillion in Potential Revenue, Signaling High Market Expectations",
+      "first_seen": "2026-08-26T04:31:33.836195+00:00",
+      "rss_title": "Exclusive | Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue - WSJ"
     }
   ]
 }
