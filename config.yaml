@@ -102,6 +102,8 @@ news:
       {recent_coverage}
 
       ### AVOID (do not select):
+      - ❌ Vendor marketing content: customer case studies, "how we built X on <product>", tutorials, and how-to walkthroughs whose purpose is to promote a company's own product rather than report news. This is common on first-party vendor blogs (e.g. the AWS Machine Learning blog). Prefer genuine announcements — new products/models, funding, policy, research — over these. A primary-source item is only preferred when it actually reports news, not when it is a promotional case study.
+      - ❌ Source concentration: do not fill the selection with several items from the same publisher/vendor. Favor a spread of publishers; select at most ~2 items from any single publisher unless each is a distinct, genuinely major story.
       - ❌ Low-quality AI newsletters or aggregators that only copy an announcement without adding information
       - ❌ SEO-generated AI content-farm articles
       - ❌ Unverified rumors or speculation (especially sourced only from social media)

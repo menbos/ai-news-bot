@@ -5,6 +5,7 @@ from typing import List, Optional, Dict
 import json
 import re
 import email.utils
+from urllib.parse import urlparse
 from datetime import datetime, timezone
 from ..logger import setup_logger
 from .fetcher import NewsFetcher, TIER_LABELS
@@ -164,6 +165,41 @@ class NewsGenerator:
         (overlap-coefficient + single-linkage clustering, money-aware)."""
         return dedup.deduplicate(items, text_key="headline")
 
+    @staticmethod
+    def _publisher_host(url: str) -> str:
+        """Registrable-ish host for a source URL, lowercased and www-stripped,
+        used to bound how many items one publisher contributes to a digest."""
+        try:
+            host = urlparse(url).hostname or ""
+        except Exception:
+            return ""
+        host = host.lower()
+        return host[4:] if host.startswith("www.") else host
+
+    def _cap_per_publisher(self, items: list, max_per_publisher: int = 2) -> list:
+        """Drop items beyond `max_per_publisher` from the same publisher host,
+        preserving order (keeping the earliest-selected). This stops a single
+        vendor blog (e.g. the AWS ML blog, which is largely customer case
+        studies) from flooding one digest. Items with no parseable host are
+        never capped."""
+        kept = []
+        counts: Dict[str, int] = {}
+        dropped = 0
+        for item in items:
+            host = self._publisher_host(item.get("source_url", ""))
+            if host:
+                if counts.get(host, 0) >= max_per_publisher:
+                    dropped += 1
+                    continue
+                counts[host] = counts.get(host, 0) + 1
+            kept.append(item)
+        if dropped:
+            logger.info(
+                f"Per-publisher cap: dropped {dropped} item(s) exceeding "
+                f"{max_per_publisher} per publisher host"
+            )
+        return kept
+
     def _collapse_duplicate_candidates(self, items: list) -> list:
         """Cluster the fetched candidate pool BEFORE Stage-1 selection and keep
         one representative per story, so the selector never sees several rewrites
@@ -191,6 +227,7 @@ class NewsGenerator:
     def _render_digest_from_json(self, items: list) -> str:
         """Render a markdown digest from structured items, enforcing order and deduplication."""
         items = self._deduplicate_items(items)
+        items = self._cap_per_publisher(items)
         grouped: Dict[str, list] = {}
         for item in items:
             cat = self._match_category(item.get("category", "Other"))
@@ -206,7 +243,7 @@ class NewsGenerator:
             seen.add(cat)
             parts.append(f"## {cat}\n")
             for item in cat_items:
-                parts.append(f"### {item.get('headline', 'Untitled')}\n")
+                parts.append(f"### {(item.get('headline') or '').strip() or 'Untitled'}\n")
                 parts.append(f"\n*Published: {item.get('published', 'No date')}*\n")
                 parts.append(f"\n{item.get('summary', '')}\n")
                 src_name = item.get("source_name", "Source")
@@ -220,7 +257,7 @@ class NewsGenerator:
             if cat not in seen:
                 parts.append(f"## {cat}\n")
                 for item in cat_items:
-                    parts.append(f"### {item.get('headline', 'Untitled')}\n")
+                    parts.append(f"### {(item.get('headline') or '').strip() or 'Untitled'}\n")
                     parts.append(f"\n*Published: {item.get('published', 'No date')}*\n")
                     parts.append(f"\n{item.get('summary', '')}\n")
                     src_name = item.get("source_name", "Source")

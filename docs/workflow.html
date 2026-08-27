@@ -215,7 +215,7 @@
 
       <div class="step">
         <span class="n">6</span><h3>Stage 1 — Selection (LLM)</h3>
-        <p>All items are sent to the LLM with the <code>stage1_prompt_template</code>. The prompt also embeds the <strong>headlines published in the last few digests</strong> (<code>prompt_days</code>, default 3 — roughly 1K extra input tokens), so the model can skip a story it already covered <em>even when it's reworded</em> — semantic, topic-level dedup that URL/title matching can't do. Acting as a "senior AI industry analyst," it returns a JSON array of the <strong>15–20 highest-quality</strong> item IDs, balancing categories, following the <strong>source-trust hierarchy</strong>, applying an explicit <strong>avoid-list</strong> (SEO farms, copy-paste newsletters, unverified rumors, benchmark screenshots), and skipping <code>[COVERED]</code> continuations unless there's a materially new development. Code validates the IDs and enforces the 15–20 count (with a fallback if parsing fails).</p>
+        <p>All items are sent to the LLM with the <code>stage1_prompt_template</code>. The prompt also embeds the <strong>headlines published in the last few digests</strong> (<code>prompt_days</code>, default 3 — roughly 1K extra input tokens), so the model can skip a story it already covered <em>even when it's reworded</em> — semantic, topic-level dedup that URL/title matching can't do. Acting as a "senior AI industry analyst," it returns a JSON array of the <strong>15–20 highest-quality</strong> item IDs, balancing categories, following the <strong>source-trust hierarchy</strong>, applying an explicit <strong>avoid-list</strong> (SEO farms, copy-paste newsletters, unverified rumors, benchmark screenshots, <strong>vendor marketing</strong> — customer case studies and "how we built X on &lt;product&gt;" tutorials — and <strong>over-concentration in any single publisher</strong>), and skipping <code>[COVERED]</code> continuations unless there's a materially new development. Code validates the IDs and enforces the 15–20 count (with a fallback if parsing fails).</p>
       </div>
       <div class="arrow">↓</div>
 
@@ -227,7 +227,7 @@
 
       <div class="step">
         <span class="n">8</span><h3>Render</h3>
-        <p>Python parses the JSON and builds the digest, <strong>enforcing a fixed category order</strong> and running a second deduplication pass (so formatting/order never depends on the model behaving). Output is Markdown.</p>
+        <p>Python parses the JSON and builds the digest, <strong>enforcing a fixed category order</strong>, running a second deduplication pass, and applying a <strong>per-publisher cap (max 2 items per publisher host)</strong> so a single vendor blog can't flood one digest (so formatting/order never depends on the model behaving). Empty headlines fall back to <em>Untitled</em>. Output is Markdown.</p>
       </div>
       <div class="arrow">↓</div>
 
@@ -280,7 +280,7 @@
         <ul>
           <li><strong>Stage 1</strong> picks 15–20 items by quality, prioritizing breakthroughs, major launches, policy/regulation, big funding/M&amp;A, balanced category coverage, and thematic-investing relevance. It follows the <strong>source-trust hierarchy</strong> (primary &gt; regulator &gt; wire &gt; tech media &gt; research &gt; community), honors an explicit <strong>avoid-list</strong>, skips <code>[COVERED]</code> continuations, and dedupes "same story" items.</li>
           <li><strong>Stage 2</strong> assigns each item to exactly one category and writes a 4–6 sentence analytical summary.</li>
-          <li><strong>Code</strong> enforces the canonical category order, resolves duplicates toward the most primary source, and runs an additional dedup pass, so the final digest is consistent regardless of model quirks.</li>
+          <li><strong>Code</strong> enforces the canonical category order, resolves duplicates toward the most primary source, runs an additional dedup pass, and caps each publisher host at 2 items, so the final digest is consistent regardless of model quirks.</li>
         </ul>
         Both prompts live in <code>config.yaml</code> and are fully editable.
       </div>
@@ -313,6 +313,7 @@
         <span class="badge">Thematic Investing</span>
         <span class="badge">Product Launches &amp; Updates</span>
         <span class="badge">Enterprise &amp; Industry Applications</span>
+        <span class="badge">Financial Services &amp; Banking AI</span>
         <span class="badge">Funding &amp; Market Dynamics</span>
         <span class="badge">AI Infrastructure &amp; Hardware</span>
         <span class="badge">Large Language Models &amp; Foundation Models</span>
@@ -376,7 +377,7 @@
   </section>
 
   <div class="footnote">
-    Generated from the repository state on 2026-07-15. Active model, schedule, and source list reflect <code>config.yaml</code>,
+    Generated from the repository state on 2026-08-27. Active model, schedule, and source list reflect <code>config.yaml</code>,
     <code>src/news/fetcher.py</code>, and <code>.github/workflows/daily-news.yml</code> at that time — re-check those files if the bot is reconfigured.
   </div>
 
