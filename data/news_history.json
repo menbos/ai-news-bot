@@ -1,124 +1,6 @@
 {
-  "updated": "2026-08-29T04:31:39.365214+00:00",
+  "updated": "2026-08-30T04:31:31.595065+00:00",
   "entries": [
-    {
-      "url": "deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "title": "Google DeepMind Advances AI in Gaming with 15 Years of Research",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours",
-      "title": "AWS Introduces Agentic Data Operations Platform for Accelerated Data Engineering",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Agentic Data Operations Platform (ADOP): Data engineering into hours"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway",
-      "title": "Amazon Bedrock AgentCore Gateway Enhances AI Agent Tool Access Governance",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression",
-      "title": "AWS Bedrock Introduces Query-Aware Compression to Reduce RAG Costs",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Reduce RAG costs on Amazon Bedrock with query-aware compression"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws",
-      "title": "Panasonic Avionics Accelerates Aircraft IFEC Diagnostics with Agentic AI on AWS",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in",
-      "title": "AWS Outlines Enterprise Patterns for Scaling Agentic AI Without Vendor Lock-In",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Scaling agentic AI: Enterprise patterns without vendor lock-in"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiUEFVX3lxTE5PWUlINnhhZ3B2dnU0dng5c2JQZ01fMjk0UkN5Vm8xNlZmVHAycS1SVmZnb3U2RDd1Mm1SaGdvcVUxYzE4SDk0bjlRVWxVazF3",
-      "title": "Mistral.ai Introduces Agentic Search for Enhanced AI System Efficiency",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Agentic Search. More accurate and efficient results from your AI systems. - mistral.ai"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxOeGxNMDBsUjdFYmk0dkZiTklucVU1d3hZLWlfNjBYQVFMaVZXY3RsSDBucHBiWEhhWTF4M1lwU3JvMlVJcmJXSTVzQmpIN216U3ZVWENHaUtMOXV4dDBGeDY3RUk0bW9nWl80UmYzWnZTMWdBS1pia2FHZzBONnRfNE9WbmxYdFBqdGJlXzZ0Ni1tU3haUlg3X3VwajFlYk9QcDNtSzBvckVCVDNhbm1MN055WhQ5NVQ4Q1cwWXRGQlZoWHBMdU1z",
-      "title": "Google Cloud CISO Emphasizes Security Fundamentals in the AI Era",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxNYTFQbjdQQk9fUVc3VEJKNExMYWFHYS0xM25ZdWJRQk1TTGJVNlNDbkpUUDNfaTNVSkNRMzdETlVYTkZ2cVhpNFlUS2oyY2ZHRmxwTWhiMWZxQll1Z0szZWVTQnJMZVdGOGk3dHlXZkV1c0drSDRKM1ZUS29EMXo1YW9Da29MdDAycjZGYWdtSHlORm8",
-      "title": "ChatGPT Integrates into Group Messaging, Sparking User Reactions",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMif0FVX3lxTFBDeWdmemZPWExLd2lROFpaODR4eU5NZmVSMERRdGp4dFNreDZ3Y25OR1lpWDhDODlCN1ZNd1REOVJOM0M0ZDB5NVJqa24yLVQ4N2pRUkFBMGlNQ1NTelZBZGtHUTNadGE0b3BxU3NLTXduWURseUJmcy1GdldoUk0",
-      "title": "Texas AG Candidate Proposes 'AI Audit' Plan Amidst Growing AI Concerns",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Exclusive: Texas AG candidate unveils \"AI audit\" plan - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxNWnI5Y0VrWDl0cjYtTlRNYWlMLXpTOFN0enl2TldXSW15bjB2bng4N2tTb0hpVjFvTmMwbXpyZVcxTHdveWVCd2VPNnRBOVRORXdPY2N1NERrM2s2SmxnY1RkRXJyX0dzd09CS3VyQmh3b2ZEaFpxZmNQWGUtanQ4R19JY3pXS2tsdjR5aUMzMEF3d3NLUG1BdC0zZWduMVRZQ0ZhS0h1LXpLM0hvV19MYWY3X3J4VTR5Y25SRUllOGNrSEFrSEtUaQ",
-      "title": "Brazil Initiates AI Supercomputer Project, Dividing Contracts Between US and Chinese Firms",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxOTEtjUjJVUXlMNW80UzhSd3lYbHRvMlJEMDQxR2p2cFk1cWRyd05RNjBGRHNtdXpuWjBwaXkwZmxPVGQ0V2lKYm9OR1ZhWEhiTzgzTXUtdURlVjlEb25CalF1QzkwRWxUVmZISU81SVZFYXF2WWQ3NnpSSE92ZFozMHR1WEVVTkM4Z0ZMN3ZQdjU4RnRSb0plY0VmQ2hjM2w3TG5kNXlnTHV0QkFVMXJ4dWQtMzRaTlhUNTJKV2dHcFNYQQ",
-      "title": "Ex-Google Engineer's AI Secrets Conviction Partially Overturned",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxQQVpEeVJ6cjA4N2dKX0pJNFhkZTFDZXRpVXpYQzlTRmhkMThfNTBhbElMTG1TdHByZ1NUTmtGd2JzSTJEZzVnMTAtcE9rdE1fNFU1b2JnOTliZzNsWDRCUGU2NEJ5MVdld3hfeHdHS1pIMGtuMXc4MjVKeFluelRzUXc5OEtMNDhrbzl1M0I2Xy1JYTRmaXJvQjdfTWNyU0ZzME9kTVlQNGZpbUE",
-      "title": "Legal Battle Erupts Over Voice Data Used for AI Training",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Lawyers square off in fight over voice data used to train AI - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-08-21/itg-cfo-we-re-the-picks-shovels-of-the-ai-boom-video",
-      "title": "ITG CFO Positions Company as 'Picks and Shovels' in AI Infrastructure Buildout",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "ITG CFO: We're the Picks & Shovels of the AI Boom"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-08-21/chip-engineer-tsu-jae-king-liu-on-nvidia-ai-energy-need-video",
-      "title": "Chip Engineer Tsu-Jae King Liu Discusses Nvidia and AI's Energy Demands",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Chip Engineer Tsu-Jae King Liu on Nvidia, AI Energy Need"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
-      "title": "Anthropic Recruits Google Chip Veteran to Spearhead Hardware Push",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQTTZEUzJKWjRsSnV4S1cwYzdnYWpjbmJ3VkZzTXJqRV94VHBFOHRhbGgxMWFGSGF4Y3FkR3Fkb1RCUENZbjVidTdKZlR1YUJGUUZVT0dhNnZ0S01RbUMzLVE0Q2NSOWNTbmJVV1Z3TG1PS3B6ZVFtR2dDNE1UemsxNFMyN00",
-      "title": "Retail Investors Advised on Anthropic IPO Considerations",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "What retail investors need to know before jumping into Anthropic’s IPO - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNMkgwUER1MS1DT0lLaklkeHhmZ2pwd0F5eUlOV1BLZ1VhNjJpeldONFd6UXhPRWNUZlU5WUtBSGxzYUF6YmQwZHJjOHpMSDFoM0ZQQThmeHNBODQwT1FKODZ4OUZCNDNRdHJUUUR4TTdQY0hKMjZJMnNpSlp4V1J3MTZMNEY",
-      "title": "Nvidia Poised to Capitalize on Next Phase of AI Boom, Financial Times Reports",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Nvidia looks well placed to benefit from the next stage of the AI boom - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxPMkRsVFl1ZHQ0YlUwSk1EdmN6SlA3UVA3UmRxZEdhOGpDRmI3MURrblBtYVNuSVpMUHd1cHhoTTdHVUpGRWxGb0dLLWdUWi0tekY0Y3JxdWd5dFpaajJTdmVFSEhGSEs0QjVhZ01ERko0X2ZGbzNjS3BlbjlkT2h0Y0xsUFpid0ZRVzJiM3RLSjZIQ3M",
-      "title": "Samsung Plans Record Buyback Fueled by AI-Driven Windfall",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "Samsung Plans Biggest-Ever Buyback Amid AI Windfall - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizwFBVV95cUxPcG9zRGM3TWZybS1TX3lSbEg2TjREc1lPYXk3ckhjcWNIVnpNcEY1Tlk2VnZSSWQxdkhVcjhyT1paRGZIMWJlVUh5Ul9EcXR6bllpY2RMajZwMDR2ZWtZV2VpSmNiVzl5MkNyY3RBNDNRMFlNZDlRdnhiWmM3Ujg5V2k5aDVkZEVZem4zT1luYmtySFNmdUQyQzByMnJnaDhmT1NrVnAtTHJTNFkxOVFDdFpjemdPdFJLUG9nZWtELUxJZDJNNUtfZFNiY2ZVWkE",
-      "title": "MAHA Activists Urge Trump to Reject Coal for AI Data Centers",
-      "first_seen": "2026-08-22T04:31:34.181388+00:00",
-      "rss_title": "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers - The Washington Post"
-    },
     {
       "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQVGo0OXlTS3dobkR2UFpvQ0dmcUZPVV84MTNoaWZJN3dzdTY4QjBXVVBRVUNwbWJrSUE3TmNsYVNWZDJKcF9CbkJheHRHQjkzY0dyYzczMWJEQ1RJN25GWTIzVFlsQkkxTGw0YkNydGdxNzB4VE16bkxxenVjQnBMN18xMWxndk92MFNvdnE1VFUxNWRKb2taZU41X09zTkU",
       "title": "Google Cloud Implements Quotas for Anthropic Claude Models",
@@ -944,6 +826,126 @@
       "title": "Court Rules Pentagon Illegally Blacklisted Anthropic Under Trump Administration",
       "first_seen": "2026-08-29T04:31:39.365214+00:00",
       "rss_title": "Anthropic was illegally blacklisted by the Trump administration, court rules"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components",
+      "title": "Salesforce Achieves Multi-AZ HA for AI Inference with SageMaker",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihgFBVV95cUxNREwxdGg2aXlreXo5blo4WENaSFZEV2NGckE3MzBTbk1WeDQ5eVJsMkdjdlNnVUx5R1QxbHJSMmVRUmRHbkZWeV9PY2ExYXhxZ19tQnpjTFlPTWtPZy1VWmdxUFBKV2dFZmt2WHR0NmQtUlR6bzRVUVZpcHpVOGVuYnR5UHBUdw",
+      "title": "Google Cloud Unveils Latest AI Innovations and Announcements",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "Google Cloud latest news and announcements | Google Cloud Blog - Google Cloud"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN",
+      "title": "OpenAI to Revoke API Access for SpaceX-Owned Cursor Amidst Escalating Feud with Elon Musk",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxOS1FVZk93OGdac1hJUC1oTjMtRENKcm9XandrQ2RlanhkRTh1Y2ZpVDRJUjF5UE9Rd0MyWWNYVkdnTF9uR1hxTXV4MllWSm5lM09IYUFVOTBiN01QQjRQTWJzUk93bHFtaXF1RzlkT3RyWXI0a0pOZ2Vxb3VTTmxGMTRnWDF2bElqbV84R0p6RUhKZlhZMExpalB2aEw3cDNDbERfTmJ0dEdjajMxMXg2Z1QxQks4TVBYenRr",
+      "title": "JPMorgan Private Bank Suggests Bond Market May Be Pricing AI Productivity Gains",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "Bond market may be pricing AI productivity gains as yields rise: JPMorgan Private Bank - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ",
+      "title": "Nvidia Targets Global Robot Market, Finds Eager Customer in China",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "Nvidia Wants to Run the World’s Robots. China Is an Eager Customer. - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxNRHM1SDZ6dnB3YkxQZ0U5VVpXVVhhZWNHTlYtcVZMdGVSeXp1UDhGV2drSjVjZ0pTMmRQVEt4SEFlNjFlLUsxdXg4VllJSlF4a3JNYTVHalYyM3VSN2RqdnZ6UmJJWS0xWlZMck5YZGJRV3lSaW1wb3hMVHBMOVUyZU9KTUt0VjBFeHRYaVJUZE5NR21qSmpBX3NGRTBVcjZYcHc",
+      "title": "South Korea Launches 'AI for All' Initiative Providing Free Citizen Access",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "South Korea’s ‘AI for All’ Push Gives Free Access to Every Citizen - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxPUFZvdlZDMk82a1lZeF9DV0otdjVBcmJDNWRXWXlqU3hxV0xlVGlKVk1fY05CZFAweXRVZlYzb3JPRnEzNGJmYUxGelNvelhuX0E5Y2ZHX2N3VXJTTlZKMllSUVY4ZWRYSzNkYmtGaW9QQ1AwZ2ZTRFAxWnFSeC04eHVScGFpdDRzY2dCYzFqVmM0aHdnM3hsbFVuMTc",
+      "title": "Andreessen Horowitz Launches $1 Billion 'Machine Age' Fund for AI Supply Chain Solutions",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "Exclusive | Andreessen Horowitz Launches ‘Machine Age’ Fund to Tackle AI Supply Bottlenecks - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE4yWkVsWkZ5bXMySGRnSmIwVWNQR2x6Z3B6ZzF0TVU1WGZtN1R2bVczRkFJOU5HZE93VlJFbmZGU3RVeEdPWC1IalN4bXEzbmhPb3RpTGt2TmE0U0lqcTdrR0QtT1VYY05za0hkRGVrOV9sU3hvU2JOX1JR",
+      "title": "Music Publishers Sue Anthropic Alleging 'Blatant Theft' of Copyrighted Music",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMingFBVV95cUxPSWhXZjItMngwOWNNU1JFZ2NMNEFvRUpCaWJRM3gyLU5QdTdCRFZQOWlvcTJ4cl92V3BpUW15TmhEbWtka09Jbzg2SlNOVU90LWNOay1zZTVSSzlyRVRTRFVxUnNZbHFiVTRrQVBZMWYtZjVKWEhoblBvSmUyNUpfRk1TYVdPR3oxdmtDVWZlTjNvdnlfaWttMzdIZDBMdw",
+      "title": "Apple CarPlay to Integrate New AI Chatbot App Ahead of Siri's AI Overhaul",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives - 9to5Mac"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTFBDT0JZaDdfSllWZkktb1lqVjc5WmhKSDd0S2dsQmFvYndXRE9vbUdjUS1SSFQweWV5ZTkyTnZiMHFzXzd2SmlKQTVhX0VpcnRMcDd3",
+      "title": "Anthropic Releases Claude AI for Public Internet Access, Expanding Beyond Closed Systems",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "After OpenAI, Anthropic Launches Claude to Expand AI Capabilities to the Public Internet - 36 Kr"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE9KWG56cHNfdUUxZU9RTWY0bFVPcV9Ya1BCTEtGV0FCS0pEMFc1M2lENkZfR25rMGtpdzFPZTl1dnNiQmM3dVNDcWxoYjBoRGJDR2w4",
+      "title": "OpenAI Offers Refunds for Codex and ChatGPT Work Paid Subscribers Amidst Service Changes",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "OpenAI Announces Immediate Collective Refunds for Codex and ChatGPT Work Paid Subscribers - 36 Kr"
+    },
+    {
+      "url": "wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn",
+      "title": "AI Giants Issue Stark Warning of Impending Cybersecurity Apocalypse",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn"
+    },
+    {
+      "url": "wired.com/story/how-to-run-your-own-local-llm",
+      "title": "Running Local LLMs Offers Enhanced Data Privacy for Personal AI Assistants",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "How to Run a Chatbot on Your Own Computer"
+    },
+    {
+      "url": "wired.com/story/ai-has-human-doctors-asking-whats-left-for-us",
+      "title": "AI Surpasses Human Doctors in Diagnostic Accuracy, Raising Questions About Future Roles",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "AI Has Human Doctors Asking: What’s Left for Us?"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "title": "Sony Music and Warner Chappell Sue Anthropic Over Copyright Infringement",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "Sony Music and Warner Chappell are suing Anthropic"
+    },
+    {
+      "url": "thenextweb.com/news/hugging-face-nvidia-acquisition-thomas-wolf-interview",
+      "title": "Nvidia Reportedly Acquires Hugging Face for $12.9 Billion, Consolidating AI Open-Source Leadership",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "Hugging Face built a $4.5 billion empire on free AI models. Now Nvidia is buying it for $12.9 billion"
+    },
+    {
+      "url": "nature.com/articles/s41467-026-77128-5",
+      "title": "Novel Framework Enhances Polygenic Risk Scores for Complex Traits Using Pre-training and Fine-tuning",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "A pre-train and fine-tune framework for adaptive boosting of pre-trained polygenic risk scores"
+    },
+    {
+      "url": "nature.com/articles/s41467-026-76154-7",
+      "title": "AI Models Improve Prediction of Complex Traits by Integrating Spatiotemporal and Nongenetic Factors",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "Modeling nonlinear and interaction effects of spatiotemporal and nongenetic factors improves prediction for complex traits"
+    },
+    {
+      "url": "lwn.net/Articles/1091231",
+      "title": "Debian Community Votes to Permit 'Responsible Use of Generative AI'",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "Debian votes to allow \"responsible use of generative AI\""
+    },
+    {
+      "url": "reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28",
+      "title": "US Judge Rules Pentagon's Blacklisting of Anthropic Was Unlawful",
+      "first_seen": "2026-08-30T04:31:31.595065+00:00",
+      "rss_title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules"
     }
   ]
 }
