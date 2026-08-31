@@ -1,125 +1,6 @@
 {
-  "updated": "2026-08-30T04:31:31.595065+00:00",
+  "updated": "2026-08-31T04:31:25.028843+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQVGo0OXlTS3dobkR2UFpvQ0dmcUZPVV84MTNoaWZJN3dzdTY4QjBXVVBRVUNwbWJrSUE3TmNsYVNWZDJKcF9CbkJheHRHQjkzY0dyYzczMWJEQ1RJN25GWTIzVFlsQkkxTGw0YkNydGdxNzB4VE16bkxxenVjQnBMN18xMWxndk92MFNvdnE1VFUxNWRKb2taZU41X09zTkU",
-      "title": "Google Cloud Implements Quotas for Anthropic Claude Models",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "Quotas for Anthropic Claude models - Google Cloud Documentation"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2xrUVVHMnBIdjBMclpDazJ4dEJPWDl4QzFnaThSdG44aWZMVXpjS0JvenVha2FrR0MtdkhjUWZpdWxwYUhuLVJzNzRGUHNneC1qdWdhOGNacXp3N0hpUXJjaG5QRkdWV2pHdTN4ejl2dC03YXlFeGxad2FYc3dlcDdXZGVTTlJ5SEFv",
-      "title": "Google Cloud Details Skill Registry for Gemini Enterprise Agents",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "Skill Registry overview | Gemini Enterprise Agent Platform - Google Cloud Documentation"
-    },
-    {
-      "url": "status.openai.com//incidents/01M0JXWD740S0Y50DWJZS7SH75",
-      "title": "OpenAI Resolves ChatGPT Web User Logout Issue",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "Unexpected logouts for some ChatGPT web users"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA",
-      "title": "Nvidia Notifies Customers of AI-Driven Price Increases Exceeding 15%",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-08-22/scenes-from-the-2026-beijing-world-humanoid-robot-games-video",
-      "title": "World Humanoid Robot Games Commence in Beijing",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "Scenes From the 2026 Beijing World Humanoid Robot Games"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
-      "title": "Apollo Global Management Notes AI's Impact on Wages Without Job Cuts",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ",
-      "title": "Nvidia Investing $6 Billion in U.S. AI Data Center Infrastructure",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw",
-      "title": "Key Individuals Driving China's AI Advancement Highlighted",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "The Brains Who Powered China’s Surprising AI Leap - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxQemJ0SHpLNXJVOGFSRnMwNVdDZUN5VHd0T3FEemJ4dTBvVTN2ZjVXQzN4aW1nM1JiLWFWMmdKbG4tMloyc0NkTXhZbmJWMG5RaGE1WXVZVUh5NFNGSnp5U3VLd19zb0poY2hnVXAyZkxDUGp3WjhubnNZS1pMTUc1SEoxeFVzcDFsZndvYy1Idmw5Wk8xMzh2a1NVV3ZPejhYWXN2Y1FGTlFMUlUxR2VEclJWUkRPdVU",
-      "title": "Private Equity Firms Deploy AI Experts into Portfolio Companies",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxPcG5kWVJGb18zenktbVhCU3VteTlsYmxuWjRPRDktUG9KTTFKVzlRWFllM0NfUGgyLWN2WFVqaWE0YzMtYVdiT2N4c00wT0o3NUNHMWpDOWROQV9EY1Vaa1hrQ0dNNFM0am5Jc2dhOTJMM1pFNkdwVENMRnZsNDBOcVVMRUp1WDVsQ0pJT01KWEFTekNidDZsSEhn",
-      "title": "AI Utilized to Analyze and Monetize Rare Books",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "Rare-Book Sales Are Booming. They’re Getting Sliced Up and Fed to AI. - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQREs2TUE3OWFYYXV4Y0lma1VOZG8yZkFxcHpmeGVkSE1mWENZOG1td0JPYkdhMjFvT0dsZXJYY01xaExrT0taVXBLZVJ0QUdUazNMZmhoU3UtM3ZkbzlXVGM1a3dheDV6QUtpZEYzeFRUUU11QmpoN0U0RW9nZWNSd2otNFNpSm4wTlZYTVJqRlNDT1hRS2lNNE1QN7w3Qk0",
-      "title": "Payments Giant Acquires 'Stripe of AI' for $7 Billion",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxQZDFTbmlITF9SbTZJcXNLUFhXbEJxVHZBSFlFSnJZbXJSczNUZ25COHQ4ejMzdGlycWJlX3M4UFVra2JQdlFhSm1FQmU4dy1BM1hNc3BfbmdNLTI1cG81RkxJX3RJMkhsbTBfVVlXODBCQTFQWG1mUXkyY0FZejBvY3ZwVFNibVFfLVBmUjVRTGp4NjMwaU9RdXpiVTBBZm1paWVVTFg4SmFuTkk5Yl9Rb1ZXQ3FVQ1dLY3hEN2hsbjBqNjhs",
-      "title": "Nvidia in Talks to Invest in Data Center Power Developer Cloverleaf Infrastructure",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "Exclusive | Nvidia in Talks to Invest in Data-Center Power Developer Cloverleaf Infrastructure - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMingFBVV95cUxQUWNjd05PTFRrdzViMjlsZ3ZnZ25kenlEdVp0bWNBR3hrMEtLMVExTWhsNU5LLWx0bEVpRWplQzdBRU1vZjhwT2FZVTNxNFhMcm1UdEI1TVdwTHZTTUMwT3d2enNGUzh4UWtIT1AxWkxYWkRBaGhXYU9NU2Y1WTM5MUdsZzN2VVExaTd5b0piRDZaS0xTRmRpYV9OQV9IQQ",
-      "title": "Legislative Battle Over Data Center Development Intensifies",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "The Great Bipartisan Data Center Smackdown Has Begun - WSJ"
-    },
-    {
-      "url": "technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit",
-      "title": "AI-Discovered Drugs Raise Questions of Credit and Intellectual Property",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "When AI designs a drug, who gets the credit?"
-    },
-    {
-      "url": "wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom",
-      "title": "Inner Mongolia City Emerges as Key Chinese AI Data Center Hub",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "The Unlikely Place at the Center of China’s AI Boom"
-    },
-    {
-      "url": "wired.com/story/the-single-english-county-saying-no-to-palantir",
-      "title": "UK County Rejects Palantir Health Contract, Prioritizing Local Control",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "The Single English County Saying No to Palantir"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "title": "LinkedIn Users Exceed One Million Clicks on 'AI Slop' Button",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "Over 1 million people have clicked LinkedIn’s AI slop button"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "title": "YouTube Creators Face Backlash for Accepting AI-Generated Content Funding",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "Major YouTube creators are facing backlash for accepting AI money"
-    },
-    {
-      "url": "engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws",
-      "title": "OpenAI Urges California to Enhance AI Safety Laws",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "OpenAI calls for California to strengthen its AI safety laws"
-    },
-    {
-      "url": "thenextweb.com/news/ox-alpha-stealth-model-openrouter-anonymous-provider",
-      "title": "Anonymous Free AI Model 'Ox Alpha' Gains Developer Traction Without Clear Origin",
-      "first_seen": "2026-08-23T04:32:02.069313+00:00",
-      "rss_title": "A free AI model is winning over developers. And nobody knows whose servers it runs on"
-    },
     {
       "url": "news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ",
       "title": "Alibaba Raises $10 Billion in Record Hong Kong Share Sale for AI Expansion",
@@ -946,6 +827,125 @@
       "title": "US Judge Rules Pentagon's Blacklisting of Anthropic Was Unlawful",
       "first_seen": "2026-08-30T04:31:31.595065+00:00",
       "rss_title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0wFBVV95cUxPY1dyVk8tZXcwQ05zcFVqMkY3SWNDMWhucEhYN1VnY01KR29jdVRnek1rVUFrY092SFBSWS1XVE1WZldHRUVuSXAxdVVtVjF3dFpmUTA4TF9SZTNzUWNNckNFcl9RcF9hMUxxcG1nRlNpcWpKd1dsd3hyb0RVRkR4SUZEdkhVa2MzSC1wRVdfdVFHdHBwMWtLLTNRRjRsUTc3bVhlOEZSb3lXOF9zU3JFYWZEa3RRcmlwLUxERjk0VGEtSjY5bHlKY1QxcldLNy1KVzlB",
+      "title": "Department of War Invests $35.6 Million in Trilogy Metals for Strategic Equity",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "Department of War Announces $35.6 Million Strategic Equity Investment in Trilogy Metals to - U.S. Department of War (.gov)"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-31/sk-hynix-weighs-japan-memory-fab-partnership-to-supply-ai-boom",
+      "title": "SK Hynix Explores Japan Partnership for AI Memory Chip Production",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "SK Hynix Weighs Japan Memory Fab Partnership to Supply AI Boom"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-30/author-explores-cybersecurity-risks-of-driverless-cars-video",
+      "title": "Expert Warns of Cybersecurity Risks Associated with Driverless Cars",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "Author Explores Cybersecurity Risks of Driverless Cars"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-08-30/g20-faces-divide-over-debt-ai-and-global-growth-video",
+      "title": "G20 Leaders Divided on Debt, AI Regulation, and Global Growth",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "G20 Faces Divide Over Debt, AI and Global Growth"
+    },
+    {
+      "url": "thenextweb.com/news/openai-ends-cursor-contract-spacex-acquisition-eu-switching-rules",
+      "title": "OpenAI to Cease Model Supply to Cursor Following SpaceX Acquisition",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "OpenAI to stop supplying models to Cursor after SpaceX acquisition"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "title": "Texas Governor Freezes Funding for Flock AI Surveillance Cameras Amid Backlash",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "Texas Governor Abbott blocks funding for more Flock cameras"
+    },
+    {
+      "url": "thenextweb.com/news/mit-ai-undergraduate-assignments-eu-ai-act-proctoring-annex-iii",
+      "title": "MIT Report: AI Capable of Undergraduate Assignments, EU Considers Proctoring High-Risk",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "MIT report says AI can complete almost any undergraduate assignment it sets"
+    },
+    {
+      "url": "thenextweb.com/news/bill-gates-robot-tax-again-european-parliament-2017-vote",
+      "title": "Bill Gates Proposes AI Tax and New Institutions for Societal Transition",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "How Bill Gates uses AI, and why he thinks nobody is preparing for it"
+    },
+    {
+      "url": "therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics",
+      "title": "Edge AI Faces Mathematical Limitations for Embodied AI Systems",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "The edge AI wall: Why embodied AI requires new mathematics"
+    },
+    {
+      "url": "arxiv.org/abs/2608.27459",
+      "title": "Local Model Achieves 67% Accuracy on 41 Years of Jeopardy! Data",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model"
+    },
+    {
+      "url": "arxiv.org/abs/2608.27463",
+      "title": "Rasch Measurement Theory Proposed for Enhanced LLM Evaluation",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation"
+    },
+    {
+      "url": "arxiv.org/abs/2608.27512",
+      "title": "Quantization-Triggered Backdoors Pose Security Risk for Edge AI Models",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap"
+    },
+    {
+      "url": "arxiv.org/abs/2608.27549",
+      "title": "Code-as-World Paradigm Enables Physical Reasoning in Vision-Language Models",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning"
+    },
+    {
+      "url": "arxiv.org/abs/2608.27460",
+      "title": "Vector Index for LLM Inference Accelerates Output Projection by 82%",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "Accelerating LLM Inference via Vector Index Based Output Embeddings"
+    },
+    {
+      "url": "newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "title": "Article Argues Company Culture is More Important Than AI for Productivity",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "Good Culture Is the Biggest Productivity Hack, Not AI"
+    },
+    {
+      "url": "github.com/p-e-w/heretic",
+      "title": "Heretic Tool Automates Censorship Removal in Language Models",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "p-e-w/heretic"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidkFVX3lxTFBVUWg1UVlqQmJ6eEtrTkdUbTl3ZTVWNE9URUZnOFpqaEZjXzM3S0xQY3RURmJ2VHNvNHpZNTVUUnJtVlY3X1hEYWlyTE1oUENsbU1hYTlnLWUyM2lnc3FRQlk0Smx6Q2Vobzk4dnVNcUJwRHVwVEE",
+      "title": "SK Telecom's 'A. log' Feature Auto-Categorizes Photos from Meta AI Glasses",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "SK Telecom Launches 'A. log' Feature That Auto-Categorizes Photos from Meta AI Glasses - finance.biggo.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidkFVX3lxTE5kZEpnaEpKSTE4Y1JoUXRQRk9yTEtXUGlmMXlKUzhoaUl3azIzYkNKNDhrUTN5YnBUZjZoZDdseTdBSWhNWlU1OWFJcVBWa1JyZ3VrRXVpZFpvbzlSZlpRVS1zc3h2ajJBUXo5Qkh0cTdrU2lFWEE",
+      "title": "Anthropic Releases Browser-Operating AI for General Availability, Enabling Autonomous Execution",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "Anthropic Launches Browser-Operating AI to General Availability, Commits to Autonomous Execution Without Approval - finance.biggo.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilAJBVV95cUxNRW1wZmVUWGxMNWg0RklHZE9GMy1BV3d0X0lSRzVSaVNnLW5BQkJVUTlRaWZkclRnRTJyWkRhZW41U0MzcjZPNkZIVmJrUlAxd0VYaHJTN3JWWmVheXFNTmtwdjBCQ3V1bmE5TDduZ3dRazJBMGtBQzNOTl9fLWJyY1gzLUJSMVNMYUZhNHFIeEdVRml2T1cycl8zazlSQnNQU09CX3BadmZpeUk1bTlTS3hyS0c1TFRVbWVNUzhJYWM0YWloLW42VFBQa09QelZmQS11YUk1TjhtOUJWQVc0TkJJU2RRaFpjcDNqRkhucnBiY1I5dGZNam9SdmxtY1o1YU5aVzBRNkIzZzctVVhpNG5paFPSAZQCQVVfeXq5d0FwZmVUWGxMNWg0RklHZE9GMy1BV3d0X0lSRzVSaVNnLW5BQkJVUTlRaWZkclRnRTJyWkRhZW41U0MzcjZPNkZIVmJrUlAxd0VYaHJTN3JWWmVheXFNTmtwdjBCQ3V1bmE5TDduZ3dRazJBMGtBQzNOTl9fLWJyY1gzLUJSMVNMYUZhNHFIeEdVRml2T1cycl8zazlSQnNQU09CX3BadmZpeUk1bTlTS3hyS0c1TFRVbWVNUzhJYWM0YWloLW42VFBQa09QelZmQS11YUk1TjhtOUJWQVc0TkJJU2RRaFpjcDNqRkhucnBiY1I5dGZNam9SdmxtY1o1YU5aVzBRNkIzZzctVVhpNG5paFNvP2NvPTU",
+      "title": "Anthropic Unveils Model Hardware Standard (MHS) for Safe AI Agent Operation",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxNNl95dF9zaDJlbmZJcnJTMUhQOHJ5YVVYNE5aYUNNc1I4LUZ6UGVETGNDR0c0QWRRVThDWklYaFAxaEdPUzF2N284VWVXeFRnMVZBamZpbXRDdVBlampDNjJLUEVWV3h0WjNHN0hrVENhTTFVYlk0VVJVNkw4YWtIaExIQWdMNDFNemdPZ1Zxckp0NHNmVko0",
+      "title": "China's AI Strategy Focuses on Global Domination, Analysis Shows",
+      "first_seen": "2026-08-31T04:31:25.028843+00:00",
+      "rss_title": "China’s AI Strategy: Drivers of Global Domination [In-Depth Analysis, 2026] - Klover.ai"
     }
   ]
 }
