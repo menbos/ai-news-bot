@@ -1,125 +1,6 @@
 {
-  "updated": "2026-08-31T04:31:25.028843+00:00",
+  "updated": "2026-09-01T04:31:52.387142+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ",
-      "title": "Alibaba Raises $10 Billion in Record Hong Kong Share Sale for AI Expansion",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ",
-      "title": "Humanoid Robots Surpass Usain Bolt's 100m Record at Beijing Games",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Chinese robots beat Usain Bolt's 100m world record at Beijing games - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-      "title": "Alibaba's $10.2 Billion Share Placement Fuels AI Expansion",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Alibaba Raises $10 Billion in Record Hong Kong Share Sale"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-24/softbank-plans-record-1-trillion-retail-bond-offering-in-japan",
-      "title": "SoftBank Plans Record $6.3 Billion Bond Sale for OpenAI Investments",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "SoftBank Plans Record $6.3 Billion Retail Bond Sale in Japan"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-23/uk-fintech-funding-drops-to-lowest-level-in-at-least-a-decade",
-      "title": "UK Fintech Funding Plummets to Decade Low Amid AI Investment Shift",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "UK Fintech Funding Drops to Lowest Level in At Least a Decade"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says",
-      "title": "AI Platform Hugging Face Explores Potential Sale Valued at $13 Billion+",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Hugging Face Gauging Interest for Potential Sale, Business Insider Says"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNNEdNMFc2bXZIeDFtSUVHaURibi1oU1VRSFU0SzF0MlAxYUJheEt1U1d1djktaEtza1ZuVGJGS0U2LWZmQXlYYXJwR0V4WFJKWnRQMDJ0eVhseUlZNlA5Qzc2eFE1a3JzRGxaTEZvXzl2NTlWUS1BSFVCd1VsNzZBcTJ5ZnE",
-      "title": "Alibaba's $10.2bn Share Placement Signals Expanding Chinese AI Investment",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOUzFKTlJwQllnVnNPUXR1YnJsRjFIdkJjN082emUyaXhkN004RXV4b3c4ZFRmdXpfc1JmZHB5N1lWNVFodWI2NnkySmpXanllcU5jUExmdldSMGRya0xha0ItREExeGFJOE5XVmxqamg4Y1czdl9ONU5VUlZGMkZnbzU0Y28",
-      "title": "Government Role Crucial in Advancing Robotics, Financial Times Suggests",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Government can bring robotics to life - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08",
-      "title": "Anthropic's Top AI Model Faces User Adoption Challenges Amidst Cheaper Alternatives",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOSjNwNzBheXBqNDlrQWlnVXZoejNoRE9YQW1od000QlJ0alRNSFFLWnlCRVNFblpreENVbWEwU05iaW51WHpINHN4Z2ozeTZieVRSOGVvdnJYaVJHcWhacVFadk1yT2pGYTRQQTRwOHNlSFJ6czk2SzRMelZMVXJrdlFCdng",
-      "title": "Legal Tech Start-ups Navigate AI Disruption with New Strategies",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Legal tech start-ups put AI disruption in a risky new wrapper - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOUGpFdUVpOXFSVTBBM0FwNVlQOFlEbUNldlQzSDBGUEt6RzJuLW9sdkJjd2NJQzRpeFp0TFJvVTZRZUxSWTh1UFhuVy1FQzFBWmxqc0p2MmxaaGlzSUxzRGZaYks5ZlVqZk1YVVlNT1U1aXNYR2pEbDdxNEtzU2NSM3NhWVQ",
-      "title": "UK Energy Sector on High Alert After 'Iran-linked Hackers' Disrupt Plant",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "UK energy companies on alert after ‘Iran-linked hackers’ shut down ‘peaker’ plant - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxQODYzZUNTRmFDWldFZ0NoQzJIVWhNY1ZtZ1F2UVlGOU5MWlh6RlBQUHI5NHhpUmVkcjNUX3Mya1hoOUt2aGVQRzdvYnJHTh4gOVVNMXl1WXpmVzAycmxKN3pqdFhaamtUWXJ0d0lIT0RubXFmeGp6OUQ0TDN4MEVuZG1HZVR2RE5mZEhreDVIQTVkWTRkNzhNVk44ZlVFQl9PbWgwX2c",
-      "title": "Alibaba Secures $10.2 Billion for AI Investments via Share Placement",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxNa2g4X3ZuOXMxNjRtb0tGX1lqM21UT2hCV3ZFUDlyU3JaZXhLdjdsWFZfMTFWcWxkQ3dXUFJRNnQ5OGdSWVdwWXhtVXpWZlNqRHcxUFEwcXZxZDdicnN2QVZNWjVOVUNlTTZKVEZkMTZSY1poMDNvbHVqRDdKMG85SllocFVWS1ZqaTNZNEV6WWV1NUFOc0szLXFQOHhCZEtHQWNXZm5YZzJwaXN0TlZOZ0Fwc05KMXExWkZMUUo2NnE",
-      "title": "AI Dominates Wall Street Discourse, Causing Widespread Concern at Wilderness Camp",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "We Went to Wall Street’s Exclusive Wilderness Camp. Everyone Was Spooked by AI. - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTFBnSlFQbDZhdDZLXzBybFNyMEpCeGZId3hybGlvbkw1Vi1MQkgzTl85N1BOMDUwUkNlOFNSNlc2RjZ5TlBJWE0yZ3VzVGREeWViYTFZ",
-      "title": "DeepSeek Introduces Weekend Off-Peak Pricing, Affecting AI Compute Costs",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Breaking: DeepSeek Launches Full-Day Weekend Off-Peak Pricing – Is Weekend Work Now More Cost-Effective? - 36Kr"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE9xYkdpalZzTl83OUNqNFJSUlhYTnNEeU1ZZHFlN3p3ZXZsRk44aUZRX3J1Z25lNld5QngtUFNyOEZsLUR1dU1lUzJob2o0RUx2Uy1z",
-      "title": "OpenAI Unveils Harness for Agent Runtime Dominance Post-Black Whale Launch",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "OpenAI Unveils Harness Post-Black Whale Launch: Competing for Dominance in the Agent Runtime Space - 36Kr"
-    },
-    {
-      "url": "engadget.com/2242295/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record",
-      "title": "Humanoid Robot Shatters Usain Bolt's 100m Record, Raising Questions About its Significance",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Humanoid robots have beaten Usain Bolt's 100-meter dash record"
-    },
-    {
-      "url": "engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
-      "title": "Twitch and Amazon Face Lawsuit Over AI Training Data Consent",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content"
-    },
-    {
-      "url": "thenextweb.com/news/galbot-autonomous-tennis-robot-100-rallies-claim",
-      "title": "Galbot Robots Achieve 100 Consecutive Rallies Against Tennis Champion",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Galbot Robots complete 100 consecutive rallies against a tennis champion"
-    },
-    {
-      "url": "thenextweb.com/news/world-humanoid-robot-games-beijing-usain-bolt-record",
-      "title": "Humanoid Robot Beats Usain Bolt's 100m Record, But Roboticists Remain Underwhelmed",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "A humanoid robot just beat Usain Bolt’s 100m record, and roboticists are unimpressed for good reason"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC",
-      "title": "Robots Can Outrun Humans but Struggle with Basic Tasks Like Plugging Cables",
-      "first_seen": "2026-08-24T04:31:38.597807+00:00",
-      "rss_title": "Robots can outrun humans, but can they plug in a cable? - Reuters"
-    },
     {
       "url": "blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory",
       "title": "NVIDIA Outlines AI Factory Architecture with XPUs and NVLink Fusion for Scalable Intelligence",
@@ -946,6 +827,125 @@
       "title": "China's AI Strategy Focuses on Global Domination, Analysis Shows",
       "first_seen": "2026-08-31T04:31:25.028843+00:00",
       "rss_title": "China’s AI Strategy: Drivers of Global Domination [In-Depth Analysis, 2026] - Klover.ai"
+    },
+    {
+      "url": "openai.com/index/polimill",
+      "title": "Polimill Leverages OpenAI Models for Japan's Public AI Infrastructure",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Polimill builds Japan's next-generation public AI infrastructure"
+    },
+    {
+      "url": "openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "title": "ChatGPT Ads Surpasses $1 Billion ARR, Expanding Global AI Access",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "A milestone in expanding access to AI"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick",
+      "title": "AWS Enhances Agent Reusability with AgentCore Runtime and Amazon Quick Integration",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025",
+      "title": "AWS Recognized as Leader in AI Infrastructure Solutions by Forrester",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry",
+      "title": "AWS Agent Registry Now Available for Scalable Management of AI Assets",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Manage agents, tools and skills at scale with AWS Agent Registry"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation",
+      "title": "AWS CloudFormation Simplifies Observable Enterprise Agentic Retrieval",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxOXy0zTHRReGVHTVVnY1VaRDJuRDdTYmpBV0otd3ZwdzdwOTlwamx0R3pKbjE5ckN2QTdScVdLZDdURVNJLUdPS1hhckdZZXQyZ1lpT1VqWU1qQTNQOVZ0SE1Uc1pkOVRPLXE5TFhWaGd4eDVBMEltLWZ3ZnNaM0swWm1WQ3VkY0JyZGtfWE5MaUpwUQ",
+      "title": "GitHub Copilot Releases Enhance Developer Productivity in VS Code",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "GitHub Copilot in VS Code, August 2026 releases - The GitHub Blog"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizAFBVV95cUxNYWxnTVVjWFNDU1ZfWllpYUROQTU4SENleUFadjdmRnhwMVE0YUREQXR3R09EWEN5OUI1N2x0TDF2bjFyaGY3eWREZHlWbVFyRll3bFlYMUMtYlBDWHBUcjJEUERLNmt4dFZCQUNSN1dzcGdmejV5MHJmeTV4eHpTaEFmX3ppMnFUMHN0X2g3M3Z3aVBOTk1nY01pNGxYMXhaTWFwS1AxRVZZLUI4RHdnSEt2MU12UmY0ZjhwM2NEZzl4Vkk0UGctWFpOTHU",
+      "title": "Department of War Adopts Starshield AI's Grok for Government Use",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Department of War Launches Starshield AI's Grok for Government on GenAI.mil - U.S. Department of War (.gov)"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxOM29vWkp0TnUzSHhSZENaZW9zanNmdV8waTdYRl84QjFPcXFoN0swM1JRNjMwaHRhSnd3NjFmcjVBekloNFduVE9pU0Rpb09WMkc5Qm9XcDkyX1dRMnlwR1FpV0lLSDJWWXR6aUNaaDM3SVNBZ3o0OWZ3WlBReXJVZDhoek9JYTJYNHpiWG14U1AyWWVKTXQyUXhKZkczY3hRVzdSVFFuZHY",
+      "title": "Anthropic Pauses AI Training Due to Unauthorized Agent Actions",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Anthropic paused some AI training after Claude took unauthorized actions - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxOTFl3RjhRbTM3S3FIWG5Gam5pY1gyc3czWmpEcVpqZEtBak9PV1JBUDliUUlJY2otUEY5RHBCeXc3MXdzYVJwR2NEbHNISlVSbF93SGhUR0xGTWRnWUZCOU1GQWVROVlqbXNLRTdWOFUzMC1LSDRIYUVtcTdyem5Za0k3Nm16eHpvMlZUYjlENFFUQm5kN2hCd3l6aTFvYWg20gGmAUFVX3lxTE9meUduZS1qckpvNkd5VlU0aXotTjA5VUtVYWVGTVktQmpVaHBMU3VsMWZxTWo2dGRUTVJIWFZDYmVBeTladkdtMFp0a19NaWxJMWhFb3l2VGpzQ1RWVW5WdkRORXIxVHlybHQzTUF1aWVJbGdnRFhZVFJ5UWdDdEhfT1RxV3BWLWxuTk1ET1d2VGJCekxFYTBQaTl2OGt3Y3lQOFRxYUE",
+      "title": "Microsoft Outlook and OpenAI ChatGPT Work Experience Outages",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxNX0JqSFg4eDZVZkJmMFBBd1BoeDRrMlBQNkY3cFNWckJlVEVWQUFocjM4QkktNkFSdTFVMWFfbzJhbU13LXBQMlZWTnVFQm5mNFNlX2ptTVZqTUg5UktpcndDdVM3Q0p2RzIwckRUajRWRzZ0ZTUxQXExdnJzZkRldDJiUnQ3ZXcxcHppRTVGZjhZYjRnbzFIbFdIQ0dWczhoaDdtbWdWazlTSllkbDZuaJQ1b0LLX05abXNhVzB2Y2Q4MnFXeUxqOQ",
+      "title": "AI-Driven Cyber Risk Identified as Top Concern for Global Financial Stability",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxOaG84MDdUdXlvbzJldndVZWpseUMyeGloNXBCeGZZVG5qYkNlMlJyY0lyakQyWUpvSXhrSHp3UF9idUFsVG43bXRJemIxSTNmOU5Cd2VuNjdJaVJuQzUteHN5NWgzV3JzZjB1NXpFeUlWc2J0cTZCLWs0SzB2SDZaeDNheFdwQzIyUFRzdHR0cm9Tci1oRGhuRm01NVZOamU1M2llSHl5X0Z4QWNsbENHZUhsNkdielRXM3F3Vw",
+      "title": "EU Orders AI Supercomputer from Bull to Meet Growing Demand",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "EU orders AI supercomputer from Bull as demand exceeds capacity - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQNGVpZmlzQ09VYkdFQktNaG5fWmNRTlZiV1czLXREc3FWcEtINjg0RF9rM2RUcER4T05pSlVMUkYzejJKWFNuTFZHYzhnZXFoaktSeU5JUTlMRC1mT2pzdkNuT19mQ2NQbTNySllWZUdLa1RhUEpFWHpSOVFpalU3dDZBMjFVaERCckE5NVVHV2NOMm9TeEJEZEUxNWFjR1k",
+      "title": "China's Zhipu AI Sees Revenue Quintuple, Narrows Losses",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "China's Zhipu AI revenue quintuples in first half, loss narrows - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxPMFh5NUhXWG5NZW1lVzkySlBKWnZTRFVMLXh1R3N5VFJ4TkNmN2dXQnd0NmgwOXFyZENWS3dGbW84VnJ4YnFGQUtwcEJkNDRaT05aeUtFMmlfQllOY0luZnd6UzgwWVBRTlJLZ3hZMkJObzlHTnNENDZCNTJ3NVZ1MTBHQ3Z6QUE3VUp6WGw5WmRCWGtySV9GelhKNmhlV2RyaktqZ0VORzhURmxxME9LdllRSmVSdE0",
+      "title": "Central Bankers Express Concerns Over Dystopian AI Future at Jackson Hole",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "At Jackson Hole, global central bankers glimpse dystopian AI future - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxNZUc4cWlVekNJVlVlQ0gtR3VBUnVLaFE1MXMtVEdJLWd0bEw0S1MwRUJLOEg2NmJWNFR1NkppME4zZndnTm1Ycl9PSHVKSUFGT2M2al9mMHJ4Sy14ZmdjMGFmU2dHdGp5OTVUMnJfeVlNUGFiVmk3NTFMZkpFS3RnV3ByVzZpMHRMX0llMzRleFZxOGhpXy1KUmpnZFhOekhDMENYQTBkM2JvWU5vOUs5YTcwNG84ajdxZDI0WHo3QQ",
+      "title": "Soitec Secures Multi-Year Deals Amidst Surging AI Wafer Demand",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Soitec locks customers into multi-year deals as AI wafer demand surges - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxPci1FMmItQ21hc2NTdV9rN3dIZXljSGVLYVNEN0lWRF9TYzZNN3VIUzRBSnFqcDUySXA1dEo5NkZUX3Jnb2ZPM2tzRkRSVXFjdTR2QWhkSGZVNTdFN1ctb0RLenFHWHN3ME9ZZVVhR3RRSzF3VHlqUl9tR21fNklHa3dEQ0tpclFaVTMycFk4ZGJOajVFQkZQZllsc0hjQVhESHZMalpiRFlobFlQNWlrbloyc21kSk02bkdkbHdJWDFkcVBIMzdsUVdQTkFUQQ",
+      "title": "Chinese AI Chipmaker Enflame Aims to Raise $908 Million in Shanghai IPO",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-01/mediatek-shares-soar-10-after-blockbuster-nvidia-investment",
+      "title": "MediaTek Joins Top AI Chipmakers Club with Nvidia Mega-Deal",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Nvidia Mega-Deal Ushers MediaTek Into Top AI Chipmaker Club"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+      "title": "Anthropic Secures $35 Billion Cloud Deal with Nvidia-Backed Lambda",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
+      "title": "Apple Accuses OpenAI of Destroying Evidence in Trade Secrets Case",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPbDEyUlAzNEduUnpUVGtPNElwbHREQ2ZDdi1xRkQyaGg1VWxXWjBPS2puTmR4Zm1scE5uenI3MHl5bDhlaUFnVHJIaGpDVzBsb01pUkxCTzd6cFpwQ1dKUFY3MVNxclJUNlQ2U3hEQk9CbXBzOXF6dnR5bFVGeE9rX2xsX0k",
+      "title": "Bank of England Governor Warns G20 of AI's Financial System Dangers",
+      "first_seen": "2026-09-01T04:31:52.387142+00:00",
+      "rss_title": "Andrew Bailey warns G20 of danger AI poses to financial system - Financial Times"
     }
   ]
 }
