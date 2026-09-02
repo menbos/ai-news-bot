@@ -1,126 +1,6 @@
 {
-  "updated": "2026-09-01T04:31:52.387142+00:00",
+  "updated": "2026-09-02T04:31:28.389119+00:00",
   "entries": [
-    {
-      "url": "blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory",
-      "title": "NVIDIA Outlines AI Factory Architecture with XPUs and NVLink Fusion for Scalable Intelligence",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "How XPUs Meet a World-Class AI Factory"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion",
-      "title": "NVIDIA Vera Rubin NVL72 Extends High-Performance Inference for Agentic AI with Groq 3 LPX",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
-      "title": "NVIDIA Vera Rubin NVL72 Achieves Up to 30x Performance Per Watt for AI Agents",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod",
-      "title": "AWS SageMaker HyperPod Now Offers Managed Ray on EKS for Distributed AI Workloads",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Introducing new Ray capabilities on SageMaker HyperPod"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws",
-      "title": "AWS Enables AI-Powered Knowledge Management System with Voice-First Avatar",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect",
-      "title": "Amazon Connect Powers AI Restaurant Telephony Host for End-to-End Voice Ordering",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Building a restaurant telephony AI host with Amazon Connect"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization",
-      "title": "AI-Powered Metadata Correction and Harmonization Solution Launched by AWS",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "AI-powered metadata correction and harmonization"
-    },
-    {
-      "url": "status.claude.com/incidents/n0rlp126qf8g",
-      "title": "Anthropic Reports Resolution of Claude.ai Login and Claude Code Subscription Issues",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Issues logging into Claude.ai"
-    },
-    {
-      "url": "status.claude.com/incidents/vgz5psbjmt1h",
-      "title": "Anthropic Addresses Elevated Errors Across Multiple Claude Models, Including Opus and Fable",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Elevated errors for multiple models"
-    },
-    {
-      "url": "githubstatus.com/incidents/lyppgxbq1nyk",
-      "title": "GitHub Actions Experiences Start Delays and Failures Due to Node Disk Failure",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Actions delays in starting runs"
-    },
-    {
-      "url": "githubstatus.com/incidents/wt3hjqcrczfg",
-      "title": "GitHub Copilot Experiencing Fable 5 Model Degradation Due to Upstream Provider Issue",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Elevated errors on Fable 5 due to upstream provider"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3",
-      "title": "Meta Poised to Launch 'Hatch' AI Agent Platform in Upcoming Weeks",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks - The Information"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ",
-      "title": "Alabama Investigates OpenAI Following Hugging Face Breach",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Alabama launches probe into OpenAI after Hugging Face breach - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxQNTlJeGxyakhWMlAyR0JTaEV6UDVnaTZmWVMxYk9SSk5wNktnU3gyVnZWdzRBek5CMjJsdExoWXBkNzJlQlZUQWVsbmVoTkcyQWZlX1p4ZUo1YUdkajlXUkw2TV83eTM1WFdsSUphQmU0eWo0dXExYjlKSXgwNlZzSzRRMDBOLWthMTNVbTFlU3JuTURNZ0tpWA",
-      "title": "Thomson Reuters Seeks Alternatives to Reduce Reliance on Claude's Costly Services",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Here's how Thomson Reuters is loosening Claude's costly grip - Business Insider"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf",
-      "title": "Alibaba Launches Wan3.0 AI Video Model Amidst Major Share Sale",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Alibaba launches Wan3.0 AI video model after $10 billion share sale - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiywFBVV95cUxQMk1vd2pFVnJwQWNUbVJRS1A0WDRCXzBuVVBMN0hlTFJtNDhSZDVnSkdaMmZTSXRhSWlOTjNvYTBSVU9KM1NSdE9OWTFIVXJKWEdEU0ZfaTBMbGV6WHlkWkdEWGdMNEE3WVFoNnRQdVZNamRlc3cxakRMbkxXd3JSYnFYMXlDVUJXZC1nOW9ONTVseXlCRGNxUExhOUhCb2E3aVpPWmRjYmpoUnFmNG5WMGRJV0lGelBQRjk3emF2MTdaSmF3eTE3UXZ3QQ",
-      "title": "UK and Ukraine Forge AI Defence Partnership Focusing on Battlefield Technology",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "UK, Ukraine sign AI defence partnership linked to battlefield technology - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-24/taiwan-indicts-nvidia-manager-following-chip-smuggling-probe",
-      "title": "Nvidia Manager Indicted in Taiwan Over Alleged AI Chip Smuggling Operation",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round",
-      "title": "AI Cloud Provider Lambda in Discussions for $3 Billion Pre-IPO Funding Round",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "AI Cloud Provider Lambda in Talks for $3 Billion Pre-IPO Round"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxPaTdvSkZfVUh4VnlWSUs3ZVdnVWVyR1JnT3dDLXRaM1BnWlZzeFFXOWhwek1DRGNYdWpHVVRPbHh6djhsSThXRmVLczAzb3lMaC1EREdHckE5a3l3bGJPRkxBVml1ZzJMSURsSnpLX1d0aDBWNWR5Yl9YZ0RvQXZRV3Bock1hYXFleFlkZnRWTmRxc19yUG9tNjJqYw",
-      "title": "US Stock Market Shows Mixed Performance Amidst AI-Related Jitters",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "U.S. Stocks Mixed on Artificial-Intelligence Jitters - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxOd0ZMN28xd2NTdzNCbllaLVFGVkVDaGJlMkZOOU1xMlplVjR6ZnpoRVcxT0ZYMFdDcDJCN3p1SHdYT00waFVkT0loNGxMcXN0NFpyVzZJbzE5R3hsaHhTM2xZWUREOTdyN0R3RmJ3ajNzd2lFRGlUOVlZckVzQTRUYVJzeWFVZEwwSzY1QW84NGJfM3B4OWNMWkpFZHBiS3NI",
-      "title": "Big Tech Faces Growing Backlash as It Rushes to Manage AI's Societal Impact",
-      "first_seen": "2026-08-25T04:31:32.956888+00:00",
-      "rss_title": "Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI - WSJ"
-    },
     {
       "url": "openai.com/index/jalapeno-first-results",
       "title": "OpenAI's Jalapeño Chip Achieves Industry-Leading Inference Performance",
@@ -946,6 +826,124 @@
       "title": "Bank of England Governor Warns G20 of AI's Financial System Dangers",
       "first_seen": "2026-09-01T04:31:52.387142+00:00",
       "rss_title": "Andrew Bailey warns G20 of danger AI poses to financial system - Financial Times"
+    },
+    {
+      "url": "openai.com/index/path-to-astra",
+      "title": "OpenAI's Astra Model Achieves Critical Cybersecurity Preparedness Threshold",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "Path to Astra: critical capabilities and frontier safeguards"
+    },
+    {
+      "url": "openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "title": "ChatGPT Connects to Healthcare EHRs for Enhanced Clinical Insights",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT"
+    },
+    {
+      "url": "openai.com/index/gilbert-tobin",
+      "title": "Law Firm Gilbert + Tobin Leverages OpenAI for Scalable AI Governance",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI"
+    },
+    {
+      "url": "blog.google/products-and-platforms/products/workspace/google-pics",
+      "title": "Google Workspace Introduces Google Pics for AI-Powered Image Creation and Editing",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "Try Google Pics: Easy image creation and editing in Google Workspace"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
+      "title": "NVIDIA and CrowdStrike Forge Partnership to Advance Agentic Cybersecurity",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws",
+      "title": "Anthropic's Claude Fable 5.1 Now Available on AWS with Enhanced Enterprise Safeguards",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "Introducing Claude Fable 5.1 on AWS"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai",
+      "title": "Atos Upskills 400 Engineers in Agentic AI Through Hands-on AWS Training",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments",
+      "title": "t54 Builds Secure Trust Layer for Autonomous Agent Payments on Amazon Bedrock AgentCore",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "How t54 built a trust layer with Amazon Bedrock AgentCore payments"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws",
+      "title": "Boomi Scribe Streamlines Enterprise Documentation with AWS AI Integration",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "How Boomi Scribe streamlines documentation using AWS"
+    },
+    {
+      "url": "huggingface.co/blog/allenai/benchmirt",
+      "title": "Hugging Face Explores Nuances of LLM Benchmarking with BenchMIRT",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "BenchMIRT: What are LLM benchmarks actually measuring?"
+    },
+    {
+      "url": "huggingface.co/blog/webgpu-kernels",
+      "title": "Hugging Face Releases @huggingface/kernels for Local AI Development with WebGPU",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiVkFVX3lxTE5HcGwzQnZHUW4tMzRqNUpBMHJLSXVjT1VNSTVpRjhuSURLX29ZNkVnTmdRSGNpQV9vdkwyMEh2NV95enI4VHdWeVpicjVDRG1UZUU1aWt3",
+      "title": "X.ai Addresses Biosecurity Concerns at the AI Frontier",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "Biosecurity at the frontier - X.ai"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxOa2FtbEFMblFrZFZ3bnBXbGhZZnNCUzBXd2Ytejl6QmZhak1RZjBjQU5XQmxTck5ac3J2NkN5bUZwSzEtUVl3aXRsb2ZBMmtSMHdwZXFRRk9MMFQ1OWFtNkFOVjBvcWRZU2NtOEpvemhNUkpfMThMaTdSemJhbWNFR1dhMW5jVkNXZnhCLTVraGpJSFVDaEkzZFJMeVhwekpRQS14bDB0TTgwcUVMNmgzaF9zMUY2TmFD",
+      "title": "U.S. Department of War Adopts OpenAI's ChatGPT Mil for Enhanced Military Operations",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil - U.S. Department of War (.gov)"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxOT2phY0R2b1N5eTVJRXNMM21ubUlFYUhaWjZCY0VDb3pFMXJsSWlxOWhsQ0RXRmVVM0RTejN0OVp4TEtVRm02SlRydW5yS2YzV1dtbVNGeVZocDNaeTIwYzNVSnBST1hSbGZvR25Ba3IwaWowTklveUhyZHo0M21HSEI3V1Mtbk1kdkgwYWwtamt5UzYtenZfVQ",
+      "title": "Anthropic Unveils New Models, Pricing, and Advanced Safeguards",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "Anthropic releases new models, cost structures and safeguards - axios.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBf TGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA",
+      "title": "New Google AI Model Reportedly Closes Coding Ability Gap",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxPbmFFcTlLcU1BTjFTOXBjTE80ZGFzSUc5ZUtPREdXX2tDcTJZODd4UTNwekU1M3JFdXlZdUhPcFl6Z0RqcWhjQ3VvLW92cmtZMHlLY0ZmTktxNlUtVXJLRlFfTXhWWXpvbGRBTU1Vb0FEY0dVNWE1Y3VNZTJ5SVhoU19hU0lsU0xmUnpoSkJrMVY5T1ZIaHlzTHRBS2JRTjdRU0U0R0tB",
+      "title": "US Advocates for Hands-Off AI Regulation at G20 Tech Meeting",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "US urges hands-off approach to AI regulation at G20 tech meeting - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxQZFlBR2lIQkRoR2FlVjNvYTFCbW1IS0xsbUQ3SU9FSTh4aXMtSVlXanUydkNGZHBBenl0YTVQWXIzSm1OeVdsb3NWdGV0SlhfcTVfQ0paN2EzN015dnQxR0RrT3poUllHT2MxYjJpcUppemJndFdBbml6YmtwRHh6bTZPQTlYYkNTUFhzTHh6Q3ZCa1BVM2t6cXBuQ2ZxcVBVcnI2MjlldXhCNU90NUwzRjJMOUhWelhUbkJLVw",
+      "title": "Judge Criticizes HHS Use of AI in Grant Reductions for Teen Pregnancy Prevention",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJlc1IxSnBNVlBndHZMS1kwYVlDX0ZMdWh6NUpST05rNjJhX21oSHBoRkROUjVoUVcycTZuaTZPYk8tXzBDdjRvdjlJaDBHMkNTdlF1VnZmQmxVRnI0empNaTEyQ211Ulh2Z0wtbXFmYUJJZWRCakUwYld4Sk5BbjlTa29sTk1Kd20xMEMxR1hyVWdGb29Hb0twOUdZeUZYOE9TOFplT2NORTB0ZGNmbEpkVl9Hd2Fq",
+      "title": "USDA Piloting Satellites and AI to Enhance Crop Estimates Amid Farmer Concerns",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-02/data-center-spending-to-reach-31-6-trillion-by-2050-on-ai-boom",
+      "title": "Global Data Center Spending Projected to Hit $31.6 Trillion by 2050 Fueled by AI Boom",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "Data Center Spending to Reach $31.6 Trillion by 2050 on AI Boom"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-02/nvidia-nears-14-billion-hugging-face-deal-this-week",
+      "title": "Nvidia Reportedly Nears $14 Billion Acquisition of Hugging Face",
+      "first_seen": "2026-09-02T04:31:28.389119+00:00",
+      "rss_title": "Nvidia Nears $14 Billion Hugging Face Deal This Week"
     }
   ]
 }
