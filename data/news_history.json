@@ -1,125 +1,6 @@
 {
-  "updated": "2026-09-02T04:31:28.389119+00:00",
+  "updated": "2026-09-03T04:31:37.259164+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/jalapeno-first-results",
-      "title": "OpenAI's Jalapeño Chip Achieves Industry-Leading Inference Performance",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference"
-    },
-    {
-      "url": "openai.com/index/introducing-admin-plugin",
-      "title": "OpenAI Introduces Admin Plugin for ChatGPT Work and Codex",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Introducing the Admin plugin for ChatGPT Work and Codex"
-    },
-    {
-      "url": "openai.com/index/gpt-5-6-in-kiro",
-      "title": "GPT-5.6 Available in Kiro for Enhanced Developer Productivity",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Advancing price-performance for developers with GPT‑5.6 in Kiro"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps",
-      "title": "Amazon OpenSearch Service Enhances AI Agent Observability with MCP Apps",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Agentic observability with Amazon OpenSearch Service MCP Apps"
-    },
-    {
-      "url": "huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "title": "Quantization-Aware Healing Achieves Superior Performance with Compressed 4-bit Model",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original"
-    },
-    {
-      "url": "github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
-      "title": "GitHub Blog Shares Best Practices for Evaluating LLMs Before Production",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "How to evaluate LLMs before production"
-    },
-    {
-      "url": "apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-      "title": "Apple Unveils New Mac Studio with M5 Max and M5 Ultra Chips",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra"
-    },
-    {
-      "url": "apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro",
-      "title": "Apple Releases Enhanced Mac Mini with M6 and M5 Pro Chips",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiWEFVX3lxTE5DVk9nS1VNSDE3RjBrZklZR3hMZV9mbU4tVGhsem9GTWdtdnhnUEVCcTRqNmh5UUxITWRjaGxIOV9OSl9SRDAxdVY5ZDlNX2c1TXN0SXZMbjk",
-      "title": "Acornaware Deploys Empathetic AI on Google Cloud for User Support",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Acornaware launches empathetic AI to support millions of users using Gemini - Google Cloud"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi1gFBVV95cUxQQ3hEdUhxOE9RQk5LaEJtcjlRbU1FSXJ6RnRvSUZmd3o3TFBxYVAzRzVwZTJVZUdRM39tOVhDWmc4UkJONFQwb1FENlJxM2Nvc2dQajdzdHNCZXlheld1cXVQTHluV3pyNEhydDRrRVF2bVlWdk9vV3NCVHNOZ2VWb0lvUWhOZkdrbHBSS3M0YTQzdGFTMjlEN1ZKdm5PeVhaaGVRNVU2UW1OWHFaRVdtZ0NRejIwNzBWeVFzaERnSDF3RWlrcm1JZ0lZdUt1cHNjcXdNVXhB",
-      "title": "OpenAI Calls for Increased Regulation Following Cybersecurity Incident",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNUHpZeUtQSDRXMTRtRVRoVnV6b05vcjFKV055QmVsb2ZGZFVJOGl3eTF2QUsyTWlfZXE2OV9MdHgyX2RaM1BCY09yYkVCOGFuVS11QnI0UDZtd1FOWVhFak5uZlpNS0ExSVRyZU9BZXZSMnN4QS1SUUszdkZpa0F1ZXl6OUUwam43WEhqbXZRYjZKZUVMSnJtNG90MWRKRVF5XzcyQjJ5M1VjX2kxNVZjWmlLZUFyS3FUYjMw",
-      "title": "German Broker Scalable Integrates AI Chatbots into Investment Platform",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "German broker Scalable opens investment platform to major AI chatbots - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg",
-      "title": "Taiwan Indicts Individuals for Illegal Export of AI Servers to China",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Taiwan issues indictments over alleged illegal export of AI servers to China - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxPbmljdWxVeFc5ZjQ1akJuSEJnZ3lQZUxnZVdaSFdwUWV2MWRuWnA3NzAwUWdMRjdFa1U5SkhkU1JabzdycGduTFVUU3J5cXpMOEpGbW1tM2w1Tk9XWm9hWVVmZ29LN1k0MVhJcWwxQlRlWkRJWjNTbDdDV3gwYy16SFpVQk02M0RkOGxGQ1pvQVdxdGJpZ1FwTlJPVjVaWWR4ZGszNw",
-      "title": "UN and Red Cross Urge Immediate Rules for Autonomous Weapons",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "UN and Red Cross call for urgent rules on autonomous weapons - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-08-26/mindrank-ai-ceo-on-business-strategy-ai-drug-discovery-video",
-      "title": "Mindrank AI CEO Discusses AI's Role in Drug Discovery and Business Strategy",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Mindrank AI CEO on Business Strategy, AI Drug Discovery"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-25/jack-ma-joins-top-executives-in-buying-alibaba-stock-scmp-says",
-      "title": "Jack Ma Buys Alibaba Stock to Signal Confidence in AI Investment",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Jack Ma Buys Alibaba Stock to Show Support for AI Buildout"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-26/ai-will-deflate-value-of-it-work-by-up-to-25-hexaware-ceo-says",
-      "title": "Hexaware CEO Predicts AI Will Reduce IT Work Value by Up to 25%",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "AI Will Deflate Value of IT Work by Up to 25%, Hexaware CEO Says"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-26/ai-startup-that-upends-junior-bankers-work-sets-up-in-singapore",
-      "title": "AI Startup Revolutionizing Junior Banking Work Expands to Singapore",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "AI Startup That Upends Junior Bankers’ Work Sets Up in Singapore"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-25/former-google-researchers-want-to-keep-humans-in-ai-driver-s-seat",
-      "title": "Former Google Researchers Form Nonprofit to Ensure Safe AI Development",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Ex-Googlers Are Planning AI-Human Hybrid to Prevent Rogue Models"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOSmxqMEtBMmZWdG81M3ltYm5YcmJ1a1VRbm5OOFBpd2J2amhnUXJtYUpTYkNnNGxNMzViVE1EQXpiREN4dnBnQmZtajlwTDA5ZGg3RW1GRXpxTHI0cVY2OUlPeWhWeXVxLTNfZGduSi1ZVW1lR1M4Smo5TE5oLUdHZ2tRZVo",
-      "title": "Nvidia Employee Charged with Smuggling Advanced Chips to China",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Nvidia employee charged with smuggling advanced chips into China - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxPZjZaazBLZXFzWnlOOHJ2b24wZzZsOGd6Sy11ZGF2NXZ1NmJ0bWdYNklaOUszQ2NMT2J0YTh6X0V6ZUJNVl9LVF82blJCTHZadHEybHN1WEFBMy1NdXNoenIxNGdudjZscEVQT09xMjRjU3htekdoNk45SzdkbGRlMUdKWUJCVlpzcFlYM1RLSlVqWHBtZUM0azctZV8xaWpvbHJLcmxGNXQ5bV9Mc1JjQVJXcXZnaWJ1MmJN",
-      "title": "Anthropic Projects Over $30 Trillion in Potential Revenue, Signaling High Market Expectations",
-      "first_seen": "2026-08-26T04:31:33.836195+00:00",
-      "rss_title": "Exclusive | Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue - WSJ"
-    },
     {
       "url": "openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "title": "OpenAI Expands ChatGPT for Teachers to Over 100,000 U.S. Educators",
@@ -944,6 +825,124 @@
       "title": "Nvidia Reportedly Nears $14 Billion Acquisition of Hugging Face",
       "first_seen": "2026-09-02T04:31:28.389119+00:00",
       "rss_title": "Nvidia Nears $14 Billion Hugging Face Deal This Week"
+    },
+    {
+      "url": "openai.com/index/atv-big-air-tour",
+      "title": "ATV Big Air Tour Leverages ChatGPT for Accelerated Marketing and Merchandising Operations",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT"
+    },
+    {
+      "url": "openai.com/index/ai-native-company-workflows",
+      "title": "AI-Native Companies Transform Workflows into Core Operating Capabilities with AI Agents",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "How AI-native companies turn workflows into operating capability"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
+      "title": "Google Launches Fairwind Program for Proactive Cyber Defense with Governments and Trusted Partners",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "Proactive cyber defense for governments and enterprises"
+    },
+    {
+      "url": "deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+      "title": "Google DeepMind Unveils Gemini 3.8 Flash and Gemini 3.8 Flash Cyber Models",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"
+    },
+    {
+      "url": "blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence",
+      "title": "Microsoft Emphasizes 'Yield Imperative' for Turning AI Infrastructure into Actionable Intelligence",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "The yield imperative: Turning AI infrastructure into useful intelligence"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference",
+      "title": "AWS Enables Australian Access to OpenAI Models on Amazon Bedrock with Global Cross-Region Inference",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws",
+      "title": "Generative AI on AWS Modernizes and Scales Support Operations with AI-Powered Platform",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "Modernizing and scaling support operations with generative AI on AWS"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore",
+      "title": "Amazon Bedrock AgentCore Automates Architecture Documentation from Code for Interdealer Broker",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+      "title": "GitHub Podcast Decodes Emerging AI Lingo for Developers, Including Loops, Harnesses, and Squads",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+      "title": "GitHub Copilot Enhances AI Coding Cost Efficiency Without Compromising Task Quality",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "How we make AI coding more cost efficient without sacrificing task quality"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxOdVhIc1N2SUcwTGpmR1Q0N3JEeTBhaWw3WVZielNBbXNXNnJuS251cHNNdFk3U3Q5ZVliNHYwYVpqM21ZV0JKeHZiSmhJRTlYRUNfUEpGQ2hUQ1prX2d0OTFQZGdWS0tNVkZSUTY4ZVQwLVJHZnVCWFd1d3lCU1p3WG5TYUc4UjA5TW96TnhpZXlvb0JVdmYxZTg5b2RzRXUtbnZzQnIxeldURjRqNmV1VjdZZXp0WnhpN1E",
+      "title": "U.S. Department of War Expands AI System Options to Include ChatGPT and Grok",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "ChatGPT, Grok Added to War Department's AI System Options - U.S. Department of War (.gov)"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxQOXZyc29IWE51Z2JLQ0tjNE5NMlhVeXd0TDZOOWEzY1c0V1liT1hNa3A2YlZOZTJycUg5eUpoclNOMllRbEw2NzFWX0pjRTBwSF9oM2RvdHE0dHVEaVk1SS1vemZGNFJVUEU0U3dXbVRDME04SmVZNlNSYlI5RjM1aTVkZHQtQi1mdzc2eGZXc1JwR3hvWVFzV18tTGZ4N2M4SURLdlIyRzBBcTBvc3RIemEyNkZjUVE",
+      "title": "Congressman Casar Demands Greater Transparency from OpenAI and Anthropic Regarding Security Lapses",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "Casar Responds to OpenAI, Anthropic, Demands Greater Transparency About Major Security Lapses - House.gov"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi1gFBVV95cUxOZnpYSkJQNF9FY2pHYXBETVkzdkdMRGhfLVU4ZVZ6MmhRSkRxSGlhYUktc0RpOFhxMEZ4NG4yaW9TdGZJMU80OG9UVG9xc0JKRzVCb21UZTJJZjZoMi1ONWdVT2dCUXNRRi1QZ3RFVnp2QnZRa3hNUFB0QnNGNV9fUGxmckttdXFjX2JSUEljSjFMRnNoSmFoT2Z4U3ctUHoweWVnQnlCYUhaZ1FCd1c5TXBHZUVEUTdGRXlQcFVhZ1lwZTRMYjk2QXRpbE5wU1pWeC1YS2NB",
+      "title": "Anthropic Releases AI Agent Blueprints for Retailers Ahead of Holiday Shopping Season",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXnidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo",
+      "title": "OpenAI's Astra AI Model Deemed 'Critical' for Cybersecurity Capabilities, Citing Stronger Guardrails",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93",
+      "title": "US Urges G20 Nations to Permit AI Training on Creators' Copyrighted Works",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "US urges G20 countries to allow AI training on creators' work - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMingFBVV95cUxNMHVNSmdqeHMyQ25WbzBIbEllY05mcWZaNG9DcGFPR216TGZlcURDU0k3U3VhRTJROS1VMnFEZVp0cG1vN1h2MkxJdDFCdlpfZ1pJcWs0QVhSNTUxMmxTR1FkZlJSNUduMTRqMV9faHJuemt3eWRUNW1oamNYWVRILVoyeGtPODg1VUNsSWk2aVlWNU4zQmpwRExHbUkxUQ",
+      "title": "Broadcom Raises AI Chip Forecast as Major Tech Companies Increase Spending",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQbFh0bjF0aXc5OFBldkJvWXMzcW00WnF4TTVybHBsWDR0T2dXaWxJNWp5ci1kaFpCNXloY1FxM2JjRHlEY1F6cEFhSmU4LTMtYlBUTXI0TUd0OFVBLVZSNzJUY2dDT1pXR21wZTRteThtYUtQMnlmRHZ3TmFnR3FrQndEZ3BOaHRZRGlvdklaMGJjeGg1TTdjUDU4UW93amlmTjRUNV9kZTdXalNJ",
+      "title": "California Lawmakers Approve Bill to Govern Lawyers' Use of AI",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "California lawmakers pass bill governing lawyers' use of AI - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQZmFpdE5PNUc2RGxZcDJtQ09LMTZsaHNRTE5NVWg2bWtHYU1wNVBjZDlDdmN5MnlOVFNNb0QySm9xWkdtSEhBajkyZzFEbXF0ZW9PbjVBNGdRVGlXVXlqbEVNOXFLV3hGUVlBdzdHZExNR1ZrVE9xaVphTlowdFBBaU5mRzFlYVZadUd6TmdRei16aHFXc0FCdVdvbUNNUDVscVNnUmJNSTBIdWYwMll6TlBsWGxEMGg5",
+      "title": "OpenAI States Upcoming Model's High Capability Necessitates Stronger Guardrails",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "OpenAI says upcoming model is so capable it requires stronger guardrails - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPNkQ2YmcyMGlMZmp3QzJTdlFrcmxBQk16cEpIZU5QZ0l2UU5wV3dyZGVUNnlDZkFXUng0MFBuSnV6Z0R0Vk8yOUJ0ZGI5bU94bUZLUlNoQjFaa25mNVdUT2Z0YkYtV3RyRHc0VFBrR1BEWHp5enh6dHpicFJNUUoxNDJxaFY",
+      "title": "Trump Administration Backs OpenAI in Copyright Dispute with The New York Times",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPUEFpN2Q4Vzd3Ul81b3ZIc0FiX3ctRE5obXNoanZGUWdZN212Vlc4ekVZbTdieUgwWjI1dHBRLWFNckJrREI2R1hwb1lhQ2N3ZUcyY0xBbTlTLXdtSkdoUVQxTExEM0R0WTBQVlkxYklqVTI3eG9MTTZSbzJRMWtwazM2cVA",
+      "title": "AI Groups Race to Limit Bioweapon Risks, Emphasizing Potential for 'One Screw-up'",
+      "first_seen": "2026-09-03T04:31:37.259164+00:00",
+      "rss_title": "‘All it will take is one screw-up’: AI groups race to limit bioweapon risks - Financial Times"
     }
   ]
 }
