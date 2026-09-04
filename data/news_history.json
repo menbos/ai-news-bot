@@ -1,119 +1,6 @@
 {
-  "updated": "2026-09-03T04:31:37.259164+00:00",
+  "updated": "2026-09-04T04:31:29.364436+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "title": "OpenAI Expands ChatGPT for Teachers to Over 100,000 U.S. Educators",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "Bringing ChatGPT for Teachers to more U.S. school districts"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxORkFZcEtOVXhreV8wc1VWU0lmY181MFdjN1prM3dGNWZ4S3hvMEJrTlVudi1YQ3hwYjlYUjhVWTFXaEVQOExCVjJJZUFwcEUzbmJQSkNHS1FFa1dkcnVzZDRFUnBFVmZZbWNyOXUwcGpMMld4OUE3OVJ3Qnk2cnlGQ04xZk5saUtRakRRWm8zNVpSX3EyTFVmT1Zfc2RfeWVlU2syQVdnWldtOEJXTDdTNG9oamZqRV9MYldIc3RKMm04bUMybUQ1Yg",
-      "title": "FDA Seeks Public Input on Regulating Generative AI in Medical Devices",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "FDA Requests Feedback on Considerations for Generative AI-Enabled Medical Devices Regulation - Office of Advocacy (.gov)"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi1AFBVV95cUxOUEtnS09CSTVzNnc5QlZuNDhFdnNWN253dEs5N3dNSnFwQnhHT01Nd1hJdzl2dk94M2cxZE5qN05jQzBoaTN0Q0tVUFVZS1Rfb2V2UnkxXzRac1RPU1FBSUlIZG1jQVFLYjNMRk9LSUlMZ1A5MHBBMHNoQ3ZZaWFNT3ZVXy1uRXhnWVZyT3RKSGNKTXY2UmhmOHBOZG5TUUY1WjV0V2pGZWZ5QWYwU1Npck9 populeruVU55aXpBQlJGZVJ6SlpDWXdyLVNzYWh3NA",
-      "title": "U.S. Department of War Announces $750 Million Investment in AI Initiative",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxOVFN2VVNaUWE0bXJiNjQ2VWJlbngtWlpzcnY3RG44VlB1eVVhMWNiT21wYmVKSDJnQ0JkNXMycVg5bWRqQ2RIZ3E0d0hzdkEzUlNPV05aUjRUTFhzaXlNdVhVSHFXNGRuZFlPWUhEeEtKemMwdWJValR0MFpZM19OMVRpS1piVVhZWEI3ZmdJZmlDR1B5d2JMRU5DcENuSUktd01Ra0J6Zw",
-      "title": "Alibaba Launches Smaller, Cost-Effective Qwen AI Model",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "Alibaba Releases Smaller, Cost-Effective Qwen AI Model - Bloomberg"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB",
-      "title": "Bill Gates Warns of AI Dangers Beyond Big Tech's Admissions",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit - The New York Times"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory",
-      "title": "Nvidia Expands NVLink Fusion with NVHBM Custom High-Bandwidth Memory",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
-    },
-    {
-      "url": "openai.com/index/loveholidays",
-      "title": "loveholidays Leverages OpenAI Codex to Empower Business Users as Builders",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "How loveholidays is making everyone a builder with Codex"
-    },
-    {
-      "url": "openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "title": "Hugging Face Incident Highlights Need for Strengthened AI Model Security",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "The Hugging Face incident and the road ahead"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi1AFBVV95cUxPYW1lbXBvUWttMnNTQ0ZWUlNHMGVXWUxEaDgyMWlwN1dZam9aWk9lZUhFb1VxeU1kNHpKSVdXbklHdjczWG55YzlyZlJNZk1UYUVQcXIzVk9Uc0Y1MlFDU2MtWWRQVUk5NFFLbkdqaHVOUV94RUpvN011WkdFRDB2dEcwZlBibllBbUduTkJ4cTVSVEx4SEFjWTlCMWNOd01UTzM5ZzJCS0dqMG53RHdfZTBTSjZYcDAtSldOeERFMWZSUnFSY0tLTzh4MTFncUVEYmJfaA",
-      "title": "Nvidia's Q2 Results Surge Driven by Strong AI Chip Demand",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "Strong AI chip demand fuels Nvidia's Q2 results well beyond Wall Street's expectations - The Washington Post"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
-      "title": "GitHub Copilot Automates Dependabot Pull Request Triage for Beginners",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-27/us-probes-apex-logistics-over-alleged-nvidia-ai-chip-smuggling",
-      "title": "US Investigates Apex Logistics for Alleged Nvidia AI Chip Smuggling",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "US Probes Apex Logistics Over Alleged Nvidia AI Chip Smuggling"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore",
-      "title": "Amazon Bedrock AgentCore Enables Intelligent Appointment Scheduling for Natera",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3",
-      "title": "Amazon SageMaker Python SDK v3 Enhances Custom Model Training and Fine-tuning",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3"
-    },
-    {
-      "url": "huggingface.co/blog/ibm-granite/granite-4-2",
-      "title": "Granite 4.2 LLMs: Deep Dive into Their Architecture and Development",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "Granite 4.2 LLMs: How They're Built"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations",
-      "title": "Amazon Bedrock AgentCore Evaluations Offer Framework-Agnostic Model Scoring",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies",
-      "title": "Advanced Data Strategies for Supervised Fine-Tuning of LLMs",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "Preparing data for supervised fine-tuning Part 2: Advanced data strategies"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases",
-      "title": "Amazon Bedrock AgentCore Connects Cross-Account Knowledge Bases Seamlessly",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases"
-    },
-    {
-      "url": "huggingface.co/blog/train-multi-vector-encoder",
-      "title": "Training and Fine-tuning Multi-Vector Embedding Models with Sentence Transformers",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxNRHprb3VKTk5GZmM2UkczeUpUWDFQQ2JHX05QQml1TXIyem13cGFNdTlJUGwxLXJmcGRDaEhJZEZyYzh5MWxIRlhGcEZKcDZQcks2UW5vVkVGQURXMl9LOTRaS3VmR3A5T1JKdjJPVFJsVERDd2Mzdmdtc0VabndOaE9QQXBpTFpWSlRsM2tZMWI0dUlnQ0l5QjAtTWFQVDc2UnZWVjUycw",
-      "title": "Call to Rethink AI's Anthropomorphic Treatment",
-      "first_seen": "2026-08-27T04:31:29.808033+00:00",
-      "rss_title": "Stop treating AI like it’s human - The Washington Post"
-    },
     {
       "url": "openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
       "title": "OpenAI Study Finds ChatGPT Enhances Student Critical Thinking and Performance",
@@ -943,6 +830,125 @@
       "title": "AI Groups Race to Limit Bioweapon Risks, Emphasizing Potential for 'One Screw-up'",
       "first_seen": "2026-09-03T04:31:37.259164+00:00",
       "rss_title": "‘All it will take is one screw-up’: AI groups race to limit bioweapon risks - Financial Times"
+    },
+    {
+      "url": "openai.com/index/daybreak-for-frontline-defenders",
+      "title": "OpenAI Expands Access to Frontier Cyber AI for Essential Services",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "Daybreak for Frontline Defenders: $1B to protect essential services"
+    },
+    {
+      "url": "openai.com/index/legora-financial-statement-review-with-astra",
+      "title": "Legora Achieves Significant Efficiency Gains with GPT-6 Astra for Financial Review",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "Legora reviewed 41 documents in minutes with GPT-6 Astra"
+    },
+    {
+      "url": "openai.com/index/playco-game-prototyping-with-astra",
+      "title": "Playco Streamlines Game Prototyping with GPT-6 Astra, Reducing Manual Fixes by 50%",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra"
+    },
+    {
+      "url": "openai.com/index/safety-overview-gpt-6-astra",
+      "title": "OpenAI's GPT-6 Astra Reaches Critical Cybersecurity Capability Level",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "Safety overview: GPT-6 Astra"
+    },
+    {
+      "url": "deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+      "title": "Google DeepMind Unveils WeatherNext 3, Its Most Advanced Global Weather AI",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
+      "title": "NVIDIA Accelerates Local AI Deployment with New Tools and RTX Spark PCs at IFA 2026",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
+      "title": "NVIDIA DLSS 5 Enhances 'NBA 2K27' Graphics for GeForce NOW Streaming",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "title": "NVIDIA Agrees to Acquire Hugging Face for $12.9 Billion",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "NVIDIA to Acquire Hugging Face"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore",
+      "title": "AWS Bedrock AgentCore Enables AI-Driven Development Lifecycle Implementations",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "AI-driven development lifecycle using Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "huggingface.co/blog/Hcompany/neomme",
+      "title": "Hugging Face Introduces NeoMME: An Efficient Multimodal-native and Multilingual Encoder",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+      "title": "GitHub Copilot App Enables Parallel Agent Execution for Beginners",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "GitHub Copilot app for Beginners: Run several agents at once"
+    },
+    {
+      "url": "status.claude.com/incidents/461yvfrzpwtt",
+      "title": "Anthropic Addresses Elevated Error Rates Across Multiple Claude Models",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "Elevated errors for multiple models"
+    },
+    {
+      "url": "status.openai.com//incidents/01M1J99EDCYED5GP2W8GZ3N2NA",
+      "title": "OpenAI Status Reports Resolved High Error Rates for ChatGPT Work Mode",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "ChatGPT Work Mode High Error Rates"
+    },
+    {
+      "url": "status.aws.amazon.com",
+      "title": "AWS Reports Resolution of Increased API Error Rates in US-WEST-2 Region",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "Service is operating normally: [RESOLVED] Increased API Error Rates"
+    },
+    {
+      "url": "githubstatus.com/incidents/ktdr5t0xwnhp",
+      "title": "GitHub Experiences Incident with Upstream Grok Copilot AI Model Provider",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "Incident with Grok Copilot AI Model Provider"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxQZlRlRURkaE5IYjdsd3JTN2lNMXNaNkV5OW11N2tpek1paUMwSnhuWk9XWExGRV9XaDFvYTd0SmFVSVNaaFk5VkhyY09UQXVrRTFlbVUxODB0ZktZMmRCM29fdFJMZ3dRVU1lb1piZHJHLVlYeHRGZVZGbXc5d01VTVNjUXhILW4zVFVLRWZlWVlKN25qSU9EX1BCOFRIMjRSTDJjbGFLc3lxQQ",
+      "title": "OpenAI President Claims Human-Level AI Capability Achieved",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "OpenAI’s president claims AI is as capable as humans now - The Washington Post"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round",
+      "title": "Andreessen-Backed Gimlet AI Valued at $3 Billion in New Funding Round",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "Andreessen-Backed AI Startup Gimlet Is Valued at $3 Billion in New Round"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street",
+      "title": "Crusoe Secures $13 Billion AI Cloud Deal with Jane Street",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "Crusoe Signs Roughly $13 Billion AI Cloud Deal With Jane Street"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-03/los-angeles-schools-bar-students-from-ai-on-district-devices",
+      "title": "Los Angeles Schools Ban Student Use of AI Tools on District Devices",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQaFotMGNwWjVDOXpPakFvVDduRjF5OE1IZHJtMDRRcy01a1h0NDdlaE5xVEszazVWZk9OSGxtWFJYV1dnRHBGZjZ6WXJGdWlJbFV1VVFzMGlqOFhEZXkyTnZHTURqTHNXMmwtV1VPNmVpWmc0WmlmX2pyN09MWVNnUV81ZDR1Mjc3TDRrSTFDa0pveVhtTDEwXzhJSlY0TE0",
+      "title": "Zscaler Reports Soaring Revenue Growth Fueled by AI Adoption",
+      "first_seen": "2026-09-04T04:31:29.364436+00:00",
+      "rss_title": "Zscaler Loss Narrows As Revenue Soars, Boosted by AI - WSJ"
     }
   ]
 }
