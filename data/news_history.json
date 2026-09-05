@@ -1,124 +1,6 @@
 {
-  "updated": "2026-09-04T04:31:29.364436+00:00",
+  "updated": "2026-09-05T04:31:50.729642+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "title": "OpenAI Study Finds ChatGPT Enhances Student Critical Thinking and Performance",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
-    },
-    {
-      "url": "openai.com/index/expanding-our-presence-in-brazil",
-      "title": "OpenAI Expands Presence in Brazil to Drive AI Adoption",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Expanding OpenAI’s presence in Brazil"
-    },
-    {
-      "url": "openai.com/index/learning-never-stops",
-      "title": "OpenAI Report Details AI's Role in Facilitating Continuous Learning",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Learning never stops: How AI makes learning continuous"
-    },
-    {
-      "url": "blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-      "title": "Google Search Integrates AI for Enhanced Travel Planning and Booking",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "3 new ways to plan and book travel in Search"
-    },
-    {
-      "url": "deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-      "title": "Google DeepMind Unveils Gemini Omni 1.1 Flash for Enhanced Development Control",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Gemini Omni 1.1 Flash lets you build with more control"
-    },
-    {
-      "url": "deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-      "title": "Google DeepMind Pilots World's First Double-Blind AI Evaluations",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Piloting the world's first double-blind AI evaluations"
-    },
-    {
-      "url": "deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-      "title": "Gemini 3.5 Transcribe Offers Advanced AI-Powered Speech-to-Text",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Intelligent transcription with Gemini 3.5 Transcribe"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/vera-cpu-delivery",
-      "title": "NVIDIA Begins Shipping Vera CPU, Its First CPU Designed for AI Agents",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal",
-      "title": "AWS and Fal Enable Agentic Creative Workflows with Amazon Quick",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Build agentic creative workflows with Amazon Quick and fal"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india",
-      "title": "OpenAI Models Now Available on Amazon Bedrock for In-Country Inferencing in India",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India"
-    },
-    {
-      "url": "github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it",
-      "title": "OpenClaw Becomes Fastest-Growing GitHub Project, Maintainers Share Insights",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "OpenClaw went viral. Meet the maintainers building and securing it."
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ",
-      "title": "Anthropic Previews Model Hardware Standard Amidst Hardware Advancements",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Previewing the Model Hardware Standard - Anthropic"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi1AFBVV95cUxOUEtnS09CSTVzNnc5QlZuNDhFdnNWN253dEs5N3dNSnFwQnhHT01Nd1hJdzl2dk94M2cxZE5qN05jQzBoaTN0Q0tVUFVZS1Rfb2V2UnkxXzRac1RPU1FBSUlIZG1jQVFLYjNMRk9LSUlMZ1A5MHBBMHNoQ3ZZaWFNT3ZVXy1uRXhnWVZyT3RKSGNKTXY2UmhmOHBOZG5TUUY1WjV0V2pGZWZ5QWYwU1Npck9semJVNUlpSm5VNUljQVNCQkZGZVJ6SlpDWXdyLVNzYWh3NA",
-      "title": "Department of War Announces $750 Million Investment in Critical Minerals Initiative",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Department of War Announces a $750 Million Investment as Part of a $1.55 Billion Initiativ - U.S. Department of War (.gov)"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOdktRbmg2OXVoanFZZTN2c2E4T1ozVjZ2Tl9NdW9XNHROTXZlU0liU0NSU21sck42YXZQdXd1QVJwVWprODk5VTZNa2g4dTEydFN6dTA4TDhvMnlnZDdSN2lnU0h4ZVRWUzlrS0NJZzB6d2phUk00TGxDWTNoLU93Mm1GalU",
-      "title": "Anthropic Develops AI Tool Capable of Conducting Scientific Experiments",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMibkFVX3lxTFBMLVduQzZINVRma3Z3aTdoWHdpQ19yQlctQk1xZTN1ejcwdXZhMXpOU3lVRmRCNUxObHJOMjFaUGlWTWNFV0tyWlUzajFtcEU2MEF6WkpWVnNqc0wyVkZfODBGUk5jcl81bGpMTXBR0gFzQVVfeXFMTnNqLXZPLWdiLUtsak5jWnM0UGt6SGxIOEhmaWNUMlVEbGpncUwxc1NvWWg4YVJFbjdMdHVyV3BmTE1URWlHZDVld1h2cDBmdjFURm84aTZKQk1XN2c5djB6STk1cWFiMjdxTHE2cTh5YUhXTQ",
-      "title": "NVIDIA Bolsters Support for Chinese AI Models Amidst U.S. Crackdown Concerns",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilgFBVV95cUxPbXFQUkxsakFQdER4cE5NTV9QQmk3eVpaYkFraC1IT2xjRU1uRWpKM3FSLW52alFMYTFwMnhjem02eUxLNVcwcHY4SVpab0FSQkk5cmtsekRJZ1lmYTdvVjBJdVVBNnpTSHVocnltMW5JcTQ5ckpDQld3eTUtRXpQMjQxQ2RqVnowTWo1dlhZTTlFZmVraXc",
-      "title": "Google Employees Test Next-Generation Gemini Flash AI Model",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Google Employees Are Already Testing the Next Gemini Flash AI Model - Business Insider"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQX2dDaUNXZFo5LThPNmMzLXVqWXNQSXRNWE1ETDNibDRUbTdzYjcyd09vNlFoc2ZiajZGdThYUkowNF8yQVR1VXQzRnY5cmxBRW9HOGh3ZGU4UXJNUDlzQkFJVlhpVUNsVWk0Z3U0emVFWlhMcnZ1Q3lrQ05HZ3V4OW5ialRlQkFXdHhoYWZSWTg2ZHB2NnNfeTFaT1Y5THdFTXVGVWVheXFyU1pCVi1LYWExUnY1SDBr",
-      "title": "Major Tech Companies Urge Defensive Surge Against AI-Driven Cyberattacks",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Major tech companies call for defensive surge to defeat AI-driven hacks - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxNVG5SUDh0c0lLWkFTNWlLWmMtdnhHOXZHMC1zMmlTNFZnTG9CZnpXUG1QbnRZMmFCQTJ5QkhCdzVkX3JtWWNWbFNtSmpNVTJqTERPLWVKbXdxSV9oc2tKdm95YTZnX1B2YXlrRmptRGNqOUZUenctc2dTQi1TdGtnR1NZQXRSVmJMVS1QZWhnX1V0dHAyVG01RVIyQmtQd1VqQnJVcEIxYXBuOVlpeXE2SWxPTEVlcHhIeG9rSlln",
-      "title": "Anthropic in Talks with Chip Startup MatX to Accelerate Chip Design",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "EXCLUSIVE: Anthropic in talks with chip start up MatX to speed up chip design, sources say - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxNdVRUeXAzYi1DWkw1Uno1dXNGdUo2NXlWVmt1Wk1Ob1lQNVNucTJVZ21TNEZQNU9qcmZweGJlV2xnTUFJWTFvbENkWlpyV3V4ekZRRzdfc1p4bnppXzRhd3hfdkQ4blp3eG1sNl9aajROWjA1SmxHVXJkZEFvMFkzNzk5ZXVWWWJ3Zi13bjdBV2t6ZVp6LXRfY0ZtX19ZdE1RUW9JNHFfWmVydkZ3c09WRl9MM0U",
-      "title": "Cyber Insurers Adapt Policies as AI Agents Pose New Risks",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Focus: As AI agents go rogue, cyber insurers are adapting their policies - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-28/anthropic-wins-court-challenge-to-us-supply-chain-risk-label",
-      "title": "Anthropic Wins Court Challenge Against US Supply-Chain Risk Label",
-      "first_seen": "2026-08-28T04:31:29.388238+00:00",
-      "rss_title": "Anthropic Wins Court Challenge to US Supply-Chain Risk Label"
-    },
     {
       "url": "openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "title": "OpenAI Terminates Model Provision to Cursor Post-SpaceX Acquisition",
@@ -949,6 +831,124 @@
       "title": "Zscaler Reports Soaring Revenue Growth Fueled by AI Adoption",
       "first_seen": "2026-09-04T04:31:29.364436+00:00",
       "rss_title": "Zscaler Loss Narrows As Revenue Soars, Boosted by AI - WSJ"
+    },
+    {
+      "url": "openai.com/index/gpt-6-astra",
+      "title": "OpenAI Unveils GPT-6 Astra: A Leap in Advanced AI Capabilities",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "GPT-6 Astra: A new generation of intelligence"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore",
+      "title": "AWS Enables Multimodal WhatsApp Ordering Assistant with Amazon Bedrock AgentCore",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod",
+      "title": "NVIDIA Cosmos 3 Powers Physical AI Model Factory on AWS SageMaker HyperPod",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+      "title": "GitHub's Project HydraFusion Achieves Frontier Quality with Multi-Model Orchestration",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "Project HydraFusion: Frontier quality via multi-model orchestration"
+    },
+    {
+      "url": "status.openai.com//incidents/01M1NKFZH5EEYEREC54HNAHY35",
+      "title": "OpenAI Addresses Service Disruptions Affecting ChatGPT and Codex in APAC",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "Users in APAC region may face increased error in ChatGPT, Work, image generation, file upload, Voice, and Codex Cloud"
+    },
+    {
+      "url": "status.openai.com//incidents/01M1KWEDH417T2CF44YYHZDFCR",
+      "title": "OpenAI Restores Full Service After ChatGPT and Codex Elevated Error Incident",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "Elevated errors across ChatGPT and Codex"
+    },
+    {
+      "url": "githubstatus.com/incidents/zw1hbx2yyhvr",
+      "title": "GitHub Resolves Copilot Code Review Disruption",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "Disruption with Copilot Code Review"
+    },
+    {
+      "url": "githubstatus.com/incidents/r05vk75c594j",
+      "title": "GitHub Addresses Degradation in Repos Contents API",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "Degradation in repos contents API"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMib0FVX3lxTE1iUlVPODl5bTBweko3Y1pHY1Y3RzZua3FHak9hVm5aa3hZWmNQcmVrVW1VMHdXME04cDJITVM4TmlBdUZWZ3JIQlgtdUZPMjlEd3pUdmNkV3BsT3FRMTEwNm1GcnRJU2NXeElBYVZhc9IBdEFVX3lxTE9NYUtIZlJ6NHoxSGladzc0bkc5Tm8xWjJkcHdJeHJHeUVfUlZ4b2ZoTC1ueE9HaEI4ZFZoUXAxUldGZHYweTd2ZEhtUkJiaFFid0FZdkdRS2Z1OV9NY2tzb3BKQW5wZGh0SER5aTlOdm9sbWVD",
+      "title": "OpenAI's Astra Model Rolled Out, Raising Concerns Over Advanced Cyber Capabilities",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenpmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc",
+      "title": "Nvidia Invests $13 Billion in Hugging Face for Open AI Model Advancement",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxNcHVnRVBYTlF2Z1Zwc3NNRnMyZFkyZDVvM0NqUUcyOTZJSE5FUlhMaVR4WkVwWjBqSmNOXzdnY3hsTHBza2tSand0REo3M3NiU1AxWkFBNUwwZU5XLXNYNkEzcUl0QkRValFFYUdCeFFPdVUzcmNyZDJjZ3REZE5UaC1jR1dWSHJfcFkyZkVMZjE3bzFuOC1icDU2M1JlclRxdlE",
+      "title": "Anthropic Delays IPO to Mid-October, Amidst Growing AI Market Activity",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxPd0dTWnZWcm1zc3pGR2l0R0c3YWhnUWFZa2JQeDFSeDA0OHNBdXlULTgya3ZKQ192OXI3NU0xZEEyRmdYb01zaHRQTEt6N01CNFZxU1NnOEZ3WVI0MGtkOUNQSmI3UTJyaWVVTE1hY19NOGJMOWJESVYycVpRU3NvaTdIamVWX2k4dXlIUXVhMUtzZXo4SWV6S01JblIwMGJ5UDF1VA",
+      "title": "US and China to Hold AI Safety Talks in Mid-September",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "EXCLUSIVE: US, China gear up for mid-September AI safety talks - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk",
+      "title": "OpenAI Agents Hijacked German Website in Previously Undisclosed Incident",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxQS1VRQXhtR19VS2tKbVEzTnB6YjFUNl8zV3NFSURDZDRTcmZRS2tHa0RPOHdlMklXMWVSckNXdm5HWjdYNWhSTlFNeUlkdWFxWHo2SFdXU19ieWlQaUlEUjNrUjJkV1JSajZaNGxxUkVkM19qR2NOMkZvcWMwRHpIVTJybUlQZFB2ZmpvRy1CeURQcmp0ZFctU3RzMnItM29yajY5blZoT1ZjY0cwWFg1aVFoSGtpZw",
+      "title": "xAI Loses Legal Challenge Against Minnesota's AI 'Nudification' Ban",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "Musk’s xAI loses court bid to block Minnesota's AI ‘nudification’ ban - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizwFBVV95cUxPOFFMOVN0WFItRlg2RExOaGQwNlVCaVk4UEdVSDhNbEZVUElvejVDUUxVRklVRnNESzd1bUczRS1EOXNXVlZ2R01vSlhqSVdNa0FVVW5wZXdDNERnXzFoaGJUOFdEdldTU1M5ODRPRzg5UEViTmx6MEtPTlBsQ0dHTUNEeE11YU1hTFJDaEtRNF9tRTd2MlRIRGxweEttX0lJRENPO94tY3FiaElKZ0FYYXdWOVAxOVlsdTJfbDhwQm9vV19udEJTaTBWRmI1VzQ",
+      "title": "Abu Dhabi AI Institute Releases Open-Source Models with Full Training Data and Code",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxPTHpzOWFzdTVYaklhcU5oMGVfRGxhRW9IVUdpYVJ2TFl1bFJEZjA4el91V1hncjEtVXY5OG43T2lGalZWZzhUOFFVVzZ4M24zWWg3UkhWMmFicnQ4WWNUdGlmbGtKaTBlRXY1dW9GV1JSZDh6Q3R6b1NCNWhrSk1lUDJ2ek10Y09jamkyWWdJbEdjclpiNF9LbWFwRzNKS1JYa0I4",
+      "title": "The Dawn of Artificial General Intelligence is Upon Us, According to WSJ",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "Yes, We’re Entering the Era of Artificial General Intelligence - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxQU3hZTS1LdVBJWUFVdjZ2ZUpUQ1hSMkJJYkRzVmJ5aWZ1UHdscUtrLW1WNzR3eEZBYW9DZFhYWERCaEtYVTZ5VDExelNWZTRzTHRjaTRqX3B3VTNMWjRIRlNVSjdDSEFPU21lRzZmZWh3cXhlVUlmNXZmTnpZc3p0ajZPUjFoNlRNVlAtVmkwdkJiQUgtczJ2MkpSR3FuLXdQZ29v",
+      "title": "Microsoft Restructures Reporting to Better Reflect AI's Impact",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "Microsoft to Change Reporting Structure to Reflect Effects of AI - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxOcFIweVpVUHJlR1I3SlpLSkMwRDdjS1dUMFlBR0ZERFMyQjRFdkp2STVuX2FOUWpwNXdDSEFLcVVoRzNNdnE1VWVFVE5RZkVtc3Exajl4bHNGNWlTQzNzQUdCYzV2Y3pYZk1XeXl5WXBpSEJMa0xQUWRxQkwyYkJ0dkNGS0w5WUMtZDNaSDBnbXJDR3B2YTNEVmwxYVYzNEJVVzBpal9SaXhRbExOa3M1dmwxMEczakY5OGlZcTdR",
+      "title": "Palo Alto Networks Anticipates Double-Digit Growth Fueled by AI-Driven Cybersecurity Spending",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "Palo Alto Projects Double-Digit Growth as AI Drives Cybersecurity Spending - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMickFVX3lxTFBNSGRHUzhDZzF6VXdmOVlpWmxBQVNPOWF2Rk5OZThqM0MwQnRJeVp3QkUxdGZuaC1xNldPT0RmNFp5Mlo1amFPZzZrZk5rLVN2RXlGS2xoY1QyQXZYQW90TWZUS1FDcF9mYnVBYm9NQXZUZw",
+      "title": "Axios Reports on OpenAI's GPT-6 Astra Debut, Signaling the Arrival of AGI",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts - Axios"
+    },
+    {
+      "url": "wired.com/story/ai-job-market-infinite-doom-loop",
+      "title": "AI Use in Job Market Creates 'Infinite Doom Loop' for Job Seekers",
+      "first_seen": "2026-09-05T04:31:50.729642+00:00",
+      "rss_title": "AI Use in the Job Market Is Creating an Infinite Doom Loop"
     }
   ]
 }
