@@ -1,124 +1,6 @@
 {
-  "updated": "2026-09-05T04:31:50.729642+00:00",
+  "updated": "2026-09-06T04:32:01.670406+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "title": "OpenAI Terminates Model Provision to Cursor Post-SpaceX Acquisition",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Our decision on Cursor following its acquisition by SpaceX"
-    },
-    {
-      "url": "openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "title": "OpenAI Partners with Thailand's MHESI to Foster AI Startup Ecosystem",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Supporting Thailand’s next generation of AI startups"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store",
-      "title": "Amazon SageMaker Feature Store Enhances Data Management with Batch Write and Discovery APIs",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Batch write and discover records in Amazon SageMaker Feature Store"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2",
-      "title": "Decathlon Achieves Significant Demand Forecasting Improvements with AWS Chronos-2",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "How Decathlon runs demand forecasting at scale with Chronos-2"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2",
-      "title": "NVIDIA MPS and Triton Server Cut ASR Inference Costs by 75% on AWS EC2",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2"
-    },
-    {
-      "url": "status.claude.com/incidents/vr9tpk8w7zr8",
-      "title": "Anthropic's Claude Services Experience Brief Outage Due to Upstream Provider Issue",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Elevated errors on Claude Code and Claude Cowork"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOdktRbmg2OXVoenFZZTN2c2E4T1ozVjZ2Tl9NdW9XNHROTXZlU0liU0NSU21sck42YXZQdXd1QVJwVWprODk5VTZNa2g4dTEydFN6dTA4TDhvMnlnZDdSN2lnU0h4ZVRWUzlrS0NJZzB6d2phUk00TGxDWTNoLU93Mm1GalU",
-      "title": "Anthropic Develops AI Tool Capable of Conducting Scientific Experiments",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Anthropic launches AI tool that can conduct scientific experiments - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMibkFVX3lxTFBMLVduQzZINVRma3Z3aTdoWHdpQ19yQlctQk1xZTN1ejcwdXZhMXpOU3lVRmRCNUxObHJOMjFaUGlWTWNFV0tyWlUzajFtcEU2MEF6WkpWVnNqc0wyVkZfODBGUk5jcl81bGpMTXBR0gFzQVVfeXFMTnNqLXZPLWdiLUtsak5jWnM0UGt6SGxIOEhmaWNUMlVEbGpncUwxc1NvWWg4YVJFbjdMdHVyV3BmTE1URWlHZDVld1h2cDBmdjFURm84aTZKQk1XN2c5djB6STk1cWFiMjdxTHF6cTh5YUhXTQ",
-      "title": "Nvidia Bolsters Support for Chinese AI Models Amidst White House Crackdown Warning",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxNN2ZVcER1YXNsaEthelVtNENlUXBCMzdyRV80bWhNWHpHSk5rVmMzZGJyaFZfWS1YclBDWklqc0RFTEZzYm1fSXJzd1RWVDR4U1d2QzZfWTRFTUtfa1Ewa2FBUzRGZU93dkE4dWZJM0YwdHFhaWlrLTF2ajRBaWt2TGZMS1oyclVaM0lpQms1dGx1T3JTVlFLdA",
-      "title": "AI Startup DeepSeek Nears $74 Billion Valuation, Signaling Intense Market Interest",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxQcFAzZElBMXB2bzloV0FDMnV0ZGE3QjBKb1RTT3JMWVNZTEJaUzdoY0dFM2lGWFRoejJWMUhWcS1kSHpSbG5YVjh5VElENTVOZW82ODQ3SW1heHc2cUhOVHBxOFJTd0JLaXFnT3kyRXVjUmlJSWhDWEhnREZSdWxydHB1MjdFQXJEQXlEQVFhZ1dobWtNVkEzT3c5VDJaanoxbkduWHRFTGd4bzBQa0dNdmd3",
-      "title": "China's Z.AI Unveils Ox Alpha Model, Challenging DeepSeek's Dominance",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek - Bloomberg.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQZU51VXJkN2ltWnJJRkszMXM0S0Fmd2Y2VThIcUQzTE1wLTVHeXFvTi00UGV5ajdrR0lIVEw2UTZpVmI5cTZ1eVJkQ0ZVNHVReHV2TjZSa201dmZzcW9VLXQzT3dqWU5OY0REd29KODFWOWNsVWszeElNOW80NUJMWUZVZTdieGFGa2htSUVqcHhqb01QQUFmcWlNTUJBZ1V2blltdUZnQTVQMzZr",
-      "title": "Trump Administration Explores AI Rule to Restrict China's Remote Chip Access",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Trump Administration Working on AI Rule to Curb China’s Remote Access to Chips - The Information"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPbGFaaDN4azFXVkpsOXY3T3VNbk9KOEdHQ2xqN1R4aGxVMWtnUERCWE0yN0pDRWhVNDUwTG1aekxQTEk0X2taY09ZN1JGTXNHNUMyR1Q2SmY5TEhOYVBHVzVSTTltVnRoeDhoem9vXzNZTjI5Q0NHWjBZU3Z3MDF3YTNnZ0pvOS1vRHUyQ1gxQ3NXdXhyeENEeXFlUWU3X0lCWG9UakIyUVVqaEs5NkRsemxJUnNDVHJwV21fZ2N3VUpuTUhTMnA3Rw",
-      "title": "SK Hynix Plans Indiana AI Chip Production by 2029, Foresees Continued Memory Shortage Through 2030",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030 - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-29/chinese-chipmaker-cxmt-sues-pentagon-to-get-off-us-blacklist",
-      "title": "Chinese Chipmaker CXMT Sues Pentagon Over U.S. Military Supporter Blacklist",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Chinese Chipmaker CXMT Sues Pentagon to Get Off US Blacklist"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-08-28/sentinelone-ceo-on-earnings-ai-s-cybersecurity-impact-video",
-      "title": "SentinelOne CEO Discusses AI's Impact on Cybersecurity and Earnings",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "SentinelOne CEO on Earnings, AI's Cybersecurity Impact"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-08-28/cisco-s-patel-makes-the-case-for-ai-in-the-classroom-video",
-      "title": "Cisco President Advocates for AI Integration in Educational Classrooms",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Cisco President Patel Makes the Case for AI in the Classroom"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTFBfakVyMldIdHlBRXg2cjFpOTVMZlFFMUZxS0dYd195VS1uNVlmbm4tWGJNLTBCanAtZUxqSmY2b1hrUjkyM1JOSlZoLXRwYnMwRms2cHdyaWpyMUlzMHpoUzJWRGthejdISEhfMmhybkY",
-      "title": "AI's Hacking Capabilities Severely Underestimated, Warns Financial Times",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "AI’s hacking capabilities are severely underestimated - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOVF9Hd3dTQkpvcGJxaFliNF9qVFlnMzRadmhqZGZSeUJ2UXJBUFlVcG52aXVjajRtYjBRRFRXS1R4VVJtTUVrLVYyNXV0NEdRY3VsMFI2OVZfdzZwSUJuQW9fQTVHVWtpek0xdDJvZEpEYXJVOVRzSlNUMjVKRjI2YXhWYWY",
-      "title": "Junior Consultants Recalled to Office as AI Augments Need for Human Skills",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Junior consultants called back to office as AI increases need for human skills - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNcGFNSmk5b3JvSXhyV2wtaDloUTBEbVpmSlhXbnM4Z3d0WTc4VTJGLTgxMG9yaFdoOVZaNjlwTzU0ekJwTE5fVXNuYWhiV1RrQzZsSjBSZ1p6SFFTdVdmRFp3WGpTUDNmdGU0b3NCTFVzU3RwWll6ZTFCMXBic2FVdnRVYko",
-      "title": "Anthropic Wins Legal Battle Against Pentagon in California Court",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Anthropic wins legal battle with Pentagon in California - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxObVVkZ3E3ZmJtVFR1SGFmMm1CNUpSTVRFM3psNWRGZndCZXFTaUdvR1cwUXBXN0N3bGJqb3hTUi1BdkxrbmZtUVVXQ1JjVVpqTm5vSmM3eXV2VkRadFFNcTdzeFdEMlJRQk5JZFNHcGdtRk80ZlRJaFpsLU9fUXBPejZZbHYtY2tiNExJcmVGVXZETUhVMHF5R0Jsd1RVcTQ",
-      "title": "Nvidia Confident in Continued Revenue Growth to Fund AI Boom",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom - WSJ"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "title": "Court Rules Pentagon Illegally Blacklisted Anthropic Under Trump Administration",
-      "first_seen": "2026-08-29T04:31:39.365214+00:00",
-      "rss_title": "Anthropic was illegally blacklisted by the Trump administration, court rules"
-    },
     {
       "url": "aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components",
       "title": "Salesforce Achieves Multi-AZ HA for AI Inference with SageMaker",
@@ -949,6 +831,126 @@
       "title": "AI Use in Job Market Creates 'Infinite Doom Loop' for Job Seekers",
       "first_seen": "2026-09-05T04:31:50.729642+00:00",
       "rss_title": "AI Use in the Job Market Is Creating an Infinite Doom Loop"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart",
+      "title": "AWS SageMaker HyperPod Enhances Operations with Agent-Driven InstantStart",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock",
+      "title": "Intuit Deploys Agentic Disaster Recovery Assistant on Amazon Bedrock",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw",
+      "title": "OpenAI Unveils GPT-6 Astra, Signaling Next-Gen Intelligence",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "GPT-6 Astra: A new generation of intelligence - OpenAI"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMibEFVX3lxTE9FcTZhZmh2V2ZjSmVHekF5elNubTMtT283MEhYRjZwaEE2R2FIUlRxazFBWE05aXNyTzJOeVRFQWdFelV1V242Zzl0M3NCaWlWc1YySDNiS3JrV05TbllEbkM3OW5oNGFLazVVUw",
+      "title": "Meta Faces Lawsuit Alleging AI Training Data from 'Perv Glasses'",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMif0FVX3lxTE5rclFWNDlIYmY4cVpLMzhaNGZERC1IRGoweFlTR1J5ZXZJb0xNaDBuT0MwMTB6N1NfcEFUckxSMndGNFF0bDJrNEJpMEprX0k1a1huV1VVSUN0RWEtam9iQ2tFN0RkdWQzRExQbW5uZklUQ1Z4dmo5blR1UlpQNHc",
+      "title": "EU Tech Chief Declares AI Guardrails Inevitable for US",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "EU tech chief: AI guardrails inevitable for U.S. - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiygFBVV95cUxQSDFKd0EtQ2RFV0NGWVBPaHZPNjUzS2ItY3Z6dGhsOFJCXzFCU1dodk5zSFRfU0VaX3A2Q0QzNjRJM19KNm5LdEJrdFlKNDZtZ3JGaEQ1THBhZGV3eVRObDFGRFplRFhNUVVuUkUwS3I0a25MVzV5alBGalJpV05SdHJlSUF4T19nM1lfSGtqakluX1VfMkFZcGdpLWR5ZE1VQWFuLTA2Z25tNDgyb0M2SXB5c0hubUx3TVgyM1BYQXk0V1hSYjFySVBn",
+      "title": "AI Regulation Argued to Cost Lives",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "AI regulation costs lives - The Washington Post"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE",
+      "title": "OpenAI Acknowledges 'Wiki Incident,' Cites Need for Transparency",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc",
+      "title": "Nvidia Invests $13 Billion in Open AI Models via Hugging Face Partnership",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE",
+      "title": "Media Outlets Sue OpenAI and Microsoft Over Copyright Infringement",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india",
+      "title": "TCS Commits $7.4 Billion for 1 Gigawatt AI Data Center in India",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "TCS Plans One-Gigawatt Capacity Data Center in Southern India"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxPWUxkQ2FtOXRTbDRSMi1HdTA3aUxtbFlua0sxaHpwWkZYYVg3VlI5Q1JNOEtOd01sYlNLa01EcnlTd3BzUDdqcDJhaFI5SUJUelk5VUs3WFdVXzdaS3Z1U0pUbFBvUFMzenVCWkJBRkota3doU2pJdmdkOGNMNllFWTN4eFQ1c0ZYOFNFUkZJdHkxOGk4RWlMZWhYeEE",
+      "title": "Nations Reach Agreement at Geneva Talks on Autonomous Weapons",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "States reach agreement at autonomous weapons talks in Geneva - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxPTjR3THpRX2ZqUllRY3pIRi1iYXlmM3RyUk5QSklqY3BUREVsbEdIM1RBZUt0Zy10MjZuVEV5SGprWmlsVTVxMExCYnVlNlRqTkh2SWFHQ05idUdMZXZkeXp6V1FFNzFfbmd1TFNUNWdaM0NLaTAxUURFOXR4d1pxMWJ1cXNnQk4yaVl0dV8wQzV5TFVLdEc3ZmhuajJCQ2Q4XzE0MU02azlzM0VZT09WYzZiUGM3Uy1WclZwdTBhbEx3dw",
+      "title": "Foxconn Reports Strong Q3 Earnings Driven by AI Server Demand",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "Foxconn says third quarter to outperform market expectations on AI strength - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
+      "title": "Nvidia Partner Hon Hai Sees 52% Sales Increase Driven by AI Server Demand",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "Nvidia Partner Hon Hai’s Sales Climb 52% With AI Server Momentum"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNaWxaRF9ValREekRRNE00M0JmTWVkZE9hN0hyLXlhVTktdFVtdjBqaENTcTBJZUdmbHJ6UEtHVTB4Z3JqcTBRWjhoYWkxYWgtbGNhTkRxclJJT0hLUHJYTDRUV1NINERTal82WVZjRVJYekIwZ0stYjFYdk9YSEx3eUNSRkw",
+      "title": "Anthropic Nears $2 Trillion IPO, Tapping Morgan Stanley and Goldman Sachs",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNbEJmOWRwaGQxLXdMVzlaUk16VUZfVE9FTkN4MVdOXzBYZEY5VlpWMWZFbHBjaTNCTmxnQVdsamU4YUd3YmUtZDV6OUFNZDdvOGFfY0pLSndyc0JVci03c2NrcUtveEhnTU8tOEZMY3FoUUlETnlrM0pZUGlsSFdjOW5xU2VpQ3pOeWhoOHZ2TTNqb3RyQzdFSnR0YktRWjZHeDcxNzBuQmZvOUk",
+      "title": "US Leverages Nvidia Chips to Broker Armenia-Azerbaijan Peace Deal",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "Exclusive | U.S. Used Promise of Nvidia Chips to Broker Armenia-Azerbaijan Peace Deal - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQLThYM2VKejRrbndnaTJuYUFpNVBmMlFqa0xyQmhDRWVJSENSRlJ3dmRBMlZoS0lXNEY2VUEyRHFrQzNCV3dWYVlzNTlOMnRLeTZiNkNPTHJyR3FiYkV4OVJYamRqb2Q3bDBtMkdIOGxXTTRMRm0zZnRfUkRlTmNKMXFfSE5UVFV1dkdZOGRTREctd3ZsLXdnTFNPRk1SbVE",
+      "title": "AI Revolution Transforms Everyday Investors into Mini Quant Funds",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "The AI Shift Turning Everyday Investors Into Mini Quant Funds - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiaEFVX3lxTFBWcTFucDF6RzNEZ1ZrT1BoajJyZkVlM0FDRDF3dlNwQUtvamFuR3hJOU1QZkcwMlltS3l4V1NTT055dDFramZqbzJVWk1tSHNOWV9nY1dacjh0a3BlaGQxc0JWRG4wcy1x",
+      "title": "OpenAI Expands Policy Team Amid Legislative Pressures",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "Exclusive: OpenAI expands policy team amid legislative headwinds - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidkFVX3lxTE1TNmZKVHpZOTdleTJ5MVFyQjhneXp0dElHWkdQTENwSjBZc3VJYnp5aGttU01VbF9ZUlc1eXFIeGprR3huWTlSRlVRbHpCTDl5R2c2Z1Y1OWl2OFVJSTZZY0s3V3N0OWRLYzdHSzZsYXVnMlo0NFE",
+      "title": "AI Creators Grapple with Understanding Their Own Creations",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "Behind the Curtain: AI creators race to understand their creations - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMic0FVX3lxTE1SaFBKelRIaVZKb3hzeHZPN3ZUZzloM2gzdTZ6RTJPLUhJS084dG1LcGlnUExuX1YtVU9jZWxVLV84VzFCYVhobkxJb0F1SnUyWjJtb2JxM1o0WldJWjFzNGw0RTVyUHZQSS1GVENuMkx5WHc",
+      "title": "AI Models Becoming 'Unknowable,' Raising Governance Concerns",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "AI models are becoming unknowable - Axios"
+    },
+    {
+      "url": "finextra.com/newsarticle/48346/anthropic-launches-ai-commerce-agents-with-visa-and-mastercard",
+      "title": "Anthropic Launches AI Commerce Agents with Visa and Mastercard",
+      "first_seen": "2026-09-06T04:32:01.670406+00:00",
+      "rss_title": "Anthropic launches AI commerce agents with Visa and Mastercard"
     }
   ]
 }
