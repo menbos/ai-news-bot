@@ -1,126 +1,6 @@
 {
-  "updated": "2026-09-06T04:32:01.670406+00:00",
+  "updated": "2026-09-07T04:31:50.347533+00:00",
   "entries": [
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components",
-      "title": "Salesforce Achieves Multi-AZ HA for AI Inference with SageMaker",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihgFBVV95cUxNREwxdGg2aXlreXo5blo4WENaSFZEV2NGckE3MzBTbk1WeDQ5eVJsMkdjdlNnVUx5R1QxbHJSMmVRUmRHbkZWeV9PY2ExYXhxZ19tQnpjTFlPTWtPZy1VWmdxUFBKV2dFZmt2WHR0NmQtUlR6bzRVUVZpcHpVOGVuYnR5UHBUdw",
-      "title": "Google Cloud Unveils Latest AI Innovations and Announcements",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "Google Cloud latest news and announcements | Google Cloud Blog - Google Cloud"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN",
-      "title": "OpenAI to Revoke API Access for SpaceX-Owned Cursor Amidst Escalating Feud with Elon Musk",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxOS1FVZk93OGdac1hJUC1oTjMtRENKcm9XandrQ2RlanhkRTh1Y2ZpVDRJUjF5UE9Rd0MyWWNYVkdnTF9uR1hxTXV4MllWSm5lM09IYUFVOTBiN01QQjRQTWJzUk93bHFtaXF1RzlkT3RyWXI0a0pOZ2Vxb3VTTmxGMTRnWDF2bElqbV84R0p6RUhKZlhZMExpalB2aEw3cDNDbERfTmJ0dEdjajMxMXg2Z1QxQks4TVBYenRr",
-      "title": "JPMorgan Private Bank Suggests Bond Market May Be Pricing AI Productivity Gains",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "Bond market may be pricing AI productivity gains as yields rise: JPMorgan Private Bank - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ",
-      "title": "Nvidia Targets Global Robot Market, Finds Eager Customer in China",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "Nvidia Wants to Run the World’s Robots. China Is an Eager Customer. - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxNRHM1SDZ6dnB3YkxQZ0U5VVpXVVhhZWNHTlYtcVZMdGVSeXp1UDhGV2drSjVjZ0pTMmRQVEt4SEFlNjFlLUsxdXg4VllJSlF4a3JNYTVHalYyM3VSN2RqdnZ6UmJJWS0xWlZMck5YZGJRV3lSaW1wb3hMVHBMOVUyZU9KTUt0VjBFeHRYaVJUZE5NR21qSmpBX3NGRTBVcjZYcHc",
-      "title": "South Korea Launches 'AI for All' Initiative Providing Free Citizen Access",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "South Korea’s ‘AI for All’ Push Gives Free Access to Every Citizen - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxPUFZvdlZDMk82a1lZeF9DV0otdjVBcmJDNWRXWXlqU3hxV0xlVGlKVk1fY05CZFAweXRVZlYzb3JPRnEzNGJmYUxGelNvelhuX0E5Y2ZHX2N3VXJTTlZKMllSUVY4ZWRYSzNkYmtGaW9QQ1AwZ2ZTRFAxWnFSeC04eHVScGFpdDRzY2dCYzFqVmM0aHdnM3hsbFVuMTc",
-      "title": "Andreessen Horowitz Launches $1 Billion 'Machine Age' Fund for AI Supply Chain Solutions",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "Exclusive | Andreessen Horowitz Launches ‘Machine Age’ Fund to Tackle AI Supply Bottlenecks - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE4yWkVsWkZ5bXMySGRnSmIwVWNQR2x6Z3B6ZzF0TVU1WGZtN1R2bVczRkFJOU5HZE93VlJFbmZGU3RVeEdPWC1IalN4bXEzbmhPb3RpTGt2TmE0U0lqcTdrR0QtT1VYY05za0hkRGVrOV9sU3hvU2JOX1JR",
-      "title": "Music Publishers Sue Anthropic Alleging 'Blatant Theft' of Copyrighted Music",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMingFBVV95cUxPSWhXZjItMngwOWNNU1JFZ2NMNEFvRUpCaWJRM3gyLU5QdTdCRFZQOWlvcTJ4cl92V3BpUW15TmhEbWtka09Jbzg2SlNOVU90LWNOay1zZTVSSzlyRVRTRFVxUnNZbHFiVTRrQVBZMWYtZjVKWEhoblBvSmUyNUpfRk1TYVdPR3oxdmtDVWZlTjNvdnlfaWttMzdIZDBMdw",
-      "title": "Apple CarPlay to Integrate New AI Chatbot App Ahead of Siri's AI Overhaul",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives - 9to5Mac"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTFBDT0JZaDdfSllWZkktb1lqVjc5WmhKSDd0S2dsQmFvYndXRE9vbUdjUS1SSFQweWV5ZTkyTnZiMHFzXzd2SmlKQTVhX0VpcnRMcDd3",
-      "title": "Anthropic Releases Claude AI for Public Internet Access, Expanding Beyond Closed Systems",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "After OpenAI, Anthropic Launches Claude to Expand AI Capabilities to the Public Internet - 36 Kr"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE9KWG56cHNfdUUxZU9RTWY0bFVPcV9Ya1BCTEtGV0FCS0pEMFc1M2lENkZfR25rMGtpdzFPZTl1dnNiQmM3dVNDcWxoYjBoRGJDR2w4",
-      "title": "OpenAI Offers Refunds for Codex and ChatGPT Work Paid Subscribers Amidst Service Changes",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "OpenAI Announces Immediate Collective Refunds for Codex and ChatGPT Work Paid Subscribers - 36 Kr"
-    },
-    {
-      "url": "wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn",
-      "title": "AI Giants Issue Stark Warning of Impending Cybersecurity Apocalypse",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn"
-    },
-    {
-      "url": "wired.com/story/how-to-run-your-own-local-llm",
-      "title": "Running Local LLMs Offers Enhanced Data Privacy for Personal AI Assistants",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "How to Run a Chatbot on Your Own Computer"
-    },
-    {
-      "url": "wired.com/story/ai-has-human-doctors-asking-whats-left-for-us",
-      "title": "AI Surpasses Human Doctors in Diagnostic Accuracy, Raising Questions About Future Roles",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "AI Has Human Doctors Asking: What’s Left for Us?"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "title": "Sony Music and Warner Chappell Sue Anthropic Over Copyright Infringement",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "Sony Music and Warner Chappell are suing Anthropic"
-    },
-    {
-      "url": "thenextweb.com/news/hugging-face-nvidia-acquisition-thomas-wolf-interview",
-      "title": "Nvidia Reportedly Acquires Hugging Face for $12.9 Billion, Consolidating AI Open-Source Leadership",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "Hugging Face built a $4.5 billion empire on free AI models. Now Nvidia is buying it for $12.9 billion"
-    },
-    {
-      "url": "nature.com/articles/s41467-026-77128-5",
-      "title": "Novel Framework Enhances Polygenic Risk Scores for Complex Traits Using Pre-training and Fine-tuning",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "A pre-train and fine-tune framework for adaptive boosting of pre-trained polygenic risk scores"
-    },
-    {
-      "url": "nature.com/articles/s41467-026-76154-7",
-      "title": "AI Models Improve Prediction of Complex Traits by Integrating Spatiotemporal and Nongenetic Factors",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "Modeling nonlinear and interaction effects of spatiotemporal and nongenetic factors improves prediction for complex traits"
-    },
-    {
-      "url": "lwn.net/Articles/1091231",
-      "title": "Debian Community Votes to Permit 'Responsible Use of Generative AI'",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "Debian votes to allow \"responsible use of generative AI\""
-    },
-    {
-      "url": "reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28",
-      "title": "US Judge Rules Pentagon's Blacklisting of Anthropic Was Unlawful",
-      "first_seen": "2026-08-30T04:31:31.595065+00:00",
-      "rss_title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules"
-    },
     {
       "url": "news.google.com/rss/articles/CBMi0wFBVV95cUxPY1dyVk8tZXcwQ05zcFVqMkY3SWNDMWhucEhYN1VnY01KR29jdVRnek1rVUFrY092SFBSWS1XVE1WZldHRUVuSXAxdVVtVjF3dFpmUTA4TF9SZTNzUWNNckNFcl9RcF9hMUxxcG1nRlNpcWpKd1dsd3hyb0RVRkR4SUZEdkhVa2MzSC1wRVdfdVFHdHBwMWtLLTNRRjRsUTc3bVhlOEZSb3lXOF9zU3JFYWZEa3RRcmlwLUxERjk0VGEtSjY5bHlKY1QxcldLNy1KVzlB",
       "title": "Department of War Invests $35.6 Million in Trilogy Metals for Strategic Equity",
@@ -951,6 +831,126 @@
       "title": "Anthropic Launches AI Commerce Agents with Visa and Mastercard",
       "first_seen": "2026-09-06T04:32:01.670406+00:00",
       "rss_title": "Anthropic launches AI commerce agents with Visa and Mastercard"
+    },
+    {
+      "url": "openai.com/index/an-alien-mind",
+      "title": "OpenAI Chief Scientist Calls for Caution on AI Scaling, Cites 'Alien Mind' Risks",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "An Alien Mind"
+    },
+    {
+      "url": "openai.com/index/research-acceleration-view-inside-openai",
+      "title": "OpenAI Reports Significant Research Acceleration Driven by Internal Coding Agents",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "Research acceleration: The view inside OpenAI"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk",
+      "title": "AI Labs Grapple with 'Model Fatigue' Amidst Rapid Release Cycles",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlla0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ",
+      "title": "India's TCS to Invest Up to $7.4 Billion in AI Data Center Campus",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "India's TCS unit to invest up to $7.4 billion in AI data center campus - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxOYlY5UWtzNjhvVnRzNHJpWk54ZTYwMjZNeWIwUTVNU1RSOFl2X19NcGZvRnJxNDZUMmt5LWlvZnROeVlHQ052V2UtaUViYjFBWFhJSlJqN3p5TC1kZHZPZ3hPdDRETE9INHpnYm04eXItcGZhUVRNUVFNbTNTSUoydUdRX3ZtWmFHdnB4cVNNWnRjTTFmN0E5ekFzcEFxcGhzbnR5QU41c2dLcml4Z0l3ZzcwRFhQRlBQdTRmQi0wMnRxUlFkNGI0TmRNZFRhdw",
+      "title": "Germany Plans Anti-Sabotage Shield Following Airport Drone Incident",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "Germany plans anti-sabotage shield after airport drone attack - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxNbXNPeUFiR3h1WlFQd1pXTkFsRHlPUmt2TUJVYlp2QXlQbko1SFltZk9Qb1RoRmR6YkNHTTFxQUZqX3N5ZDJMZ0xwRUZJd1VCVklLSzdFM3Z5TFNUcWIxN2dBdnI1VUVlaTJ2V21wOGFtSFo0Z3pqYnlxNjZ6TE1jQTRUb1EyZHlGVGdVYVczNXNITURObXBHcEpqVlhmUy0wV3FjQk42VVh6QmZnX2tWQjVGaGlNVER4d0JtallNR2g",
+      "title": "Taiwan Leverages Chip Diplomacy Amidst Pressure to Share AI Resources with Allies",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-07/australia-s-ai-boom-risks-demand-surge-and-higher-rates-be-says",
+      "title": "Australia's AI Boom May Drive Demand Beyond Capacity, Raising Inflation Concerns",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "Australia’s AI Boom Risks Demand Surge and Higher Rates, BE Says"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOamlCY2RObWRDcFp6dEV2Q2tjc3lHRUE0ZnJTa2NHajl5WnlHT2tFdEFXOXJZa1BxdEFMWHN0Z0hYcm4yaFQ3M0pmNlVoOUVKcS0zNzNzRGNSZ0QxeUpvVmFGb2NDMUd6X1RrdFdUSmYyanhueUxPeVZFeUIxd2ZPbGNBZTU",
+      "title": "UBS Mandates AI Proficiency for New Junior Bankers Amid Industry Shift",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "UBS demands new junior bankers show AI proficiency - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQaGN4XzNCQUQ0VHd2RV9uT2FsYTlpSTJacU1QQ1lGWGtYTFk1ZzJzWnlHTWRJQ1NjSlEtZnVmSWY2b0R5aDIzT2hpWmwtN2puY29YRkNKTkp1Sjg5aGUwOWI2Z1JhZGpRbkllUTRjOVZPN19IZzNTc2xxeWRoYjRLUnd4cV8",
+      "title": "UK Considers Strategies to Retain Top Tech Start-ups Amidst Export Risks",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "How the UK can stop accidentally exporting its best tech start-ups - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQOEVrMlQwQndMeXNZMHNMVjJleUV0WmlzdFNyal9UQ0dhdklwNVZ4NjdzYzBBbExibUN5YnZSUmpzU2tyb3F1NHVNcDRvMmJlVXhuQVEyRS02emZLbjVlSVlhd0VCSnRRMG5JMmpCakZZZHJzWklGYkk0NUp2elowZ3VrbXY",
+      "title": "German Far-Right Surges in State Elections Amidst Shifting Political Landscape",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "FirstFT: Germany’s far-right AfD surges to first place in state elections - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxPVmxrOWNhaHBqNkhSTG1iVDNneG9Ob3NJU3BmbUtGRFFxczRBb18wMUFaZjdOYi1FYUt2LTJDdlhQT3h4aGE1bUw5UnR2dFRIbWo0U2gyVEMwQ3RhOEdsQnd3aWp1Nkc0QjFhQTc3RmFHem5OVnpyVWVhTUdzWlNoRy1KVHlOWC13cEpWS0ZoMHlZa1FOdzhyZ01EZzhyWlM4TXE4UmVxQ0c0QQ",
+      "title": "AI Deemed 'Satanic' by US Senator, Resonating with Christian Republican Base",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "Vance Called AI Satanic. He Struck a Chord Among Christian Republicans. - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxOUlVKV2FKVnpNR2NtY21oUjdQZ3JCRVNoWGFvVXZvTVJNVDhCUGpmSE5vVFczQlBZanEyUjMyTmNpcGVkUEszSURKZGZ5YW5lLUVMZEF0ZEFDRG03aGdhSm40LWZIRDdIbjVWNWsyZjNHODk1QllPMHJCOW9DbG1XMDhRUmlqMzZFRnZOZHl0Y3ptZ3hiQ0xDVllvY1RpTmo5bnhmcUhXOVllUFo5RmNPc3ZQejZidw",
+      "title": "US Leveraged Nvidia Chip Promise to Aid Armenia-Azerbaijan Peace Deal",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "U.S. Used Promise of Nvidia Chips to Help Secure Armenia-Azerbaijan Peace Deal | The 10-Point for Sept. 5 - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTFBjeHR5bW0tb3JGZXd0b1BzZF83NEJGWUFlbmVOS1ZNT1FHZ2FReWxmMFNNbm5LckkxbDFEOU4xUWlTcldGMzlPX0hQMUxoY0F3MnZF",
+      "title": "MIT Professor Demonstrates Rapid Fabrication of Physical Parts Using AI",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "AI Scientists Step Out of Screen: MIT Professor Releases 4 Photos, 3 Grok Units Fabricate All Parts in 1 Hour - 36 Kr"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "title": "OpenAI Agents Hijacked German Wiki Site, Prompting Security Concerns",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "OpenAI admits to German wiki ‘incident’"
+    },
+    {
+      "url": "engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern",
+      "title": "OpenAI Achieves Goal of Automated AI Research Intern, Eyes Further Automation",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "OpenAI says it reached its goal of creating an automated research intern"
+    },
+    {
+      "url": "thenextweb.com/news/openai-slowdown-pachocki-alien-mind-research-intern-compute",
+      "title": "OpenAI Chief Scientist Recommends Slowing AI Scaling Pace",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "OpenAI’s chief scientist says no lab should keep scaling at maximum speed"
+    },
+    {
+      "url": "thenextweb.com/news/nscale-figure-3-5bn-compute-equity-stake",
+      "title": "Nscale Invests $3.5 Billion in Compute and Takes Stake in Figure AI",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "Nscale is selling Figure $3.5bn of compute and buying a stake in it"
+    },
+    {
+      "url": "thenextweb.com/news/nvidia-equity-investments-99bn-portfolio",
+      "title": "Nvidia Holds $99 Billion in Shares of Companies Buying Its Chips",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "Nvidia now holds $99bn in shares of the companies that buy its chips"
+    },
+    {
+      "url": "arxiv.org/abs/2609.04239",
+      "title": "EXAONE Finance: New Foundation Model for Financial Forecasting Achieves SOTA",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "EXAONE Forecast for Finance"
+    },
+    {
+      "url": "wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
+      "title": "OpenAI Agents Accused of Hacking Another Website, Escalating Security Concerns",
+      "first_seen": "2026-09-07T04:31:50.347533+00:00",
+      "rss_title": "OpenAI Agents Hacked Another Website"
     }
   ]
 }
