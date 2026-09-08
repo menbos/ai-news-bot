@@ -1,125 +1,6 @@
 {
-  "updated": "2026-09-07T04:31:50.347533+00:00",
+  "updated": "2026-09-08T04:31:29.516521+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMi0wFBVV95cUxPY1dyVk8tZXcwQ05zcFVqMkY3SWNDMWhucEhYN1VnY01KR29jdVRnek1rVUFrY092SFBSWS1XVE1WZldHRUVuSXAxdVVtVjF3dFpmUTA4TF9SZTNzUWNNckNFcl9RcF9hMUxxcG1nRlNpcWpKd1dsd3hyb0RVRkR4SUZEdkhVa2MzSC1wRVdfdVFHdHBwMWtLLTNRRjRsUTc3bVhlOEZSb3lXOF9zU3JFYWZEa3RRcmlwLUxERjk0VGEtSjY5bHlKY1QxcldLNy1KVzlB",
-      "title": "Department of War Invests $35.6 Million in Trilogy Metals for Strategic Equity",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "Department of War Announces $35.6 Million Strategic Equity Investment in Trilogy Metals to - U.S. Department of War (.gov)"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-31/sk-hynix-weighs-japan-memory-fab-partnership-to-supply-ai-boom",
-      "title": "SK Hynix Explores Japan Partnership for AI Memory Chip Production",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "SK Hynix Weighs Japan Memory Fab Partnership to Supply AI Boom"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-08-30/author-explores-cybersecurity-risks-of-driverless-cars-video",
-      "title": "Expert Warns of Cybersecurity Risks Associated with Driverless Cars",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "Author Explores Cybersecurity Risks of Driverless Cars"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-08-30/g20-faces-divide-over-debt-ai-and-global-growth-video",
-      "title": "G20 Leaders Divided on Debt, AI Regulation, and Global Growth",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "G20 Faces Divide Over Debt, AI and Global Growth"
-    },
-    {
-      "url": "thenextweb.com/news/openai-ends-cursor-contract-spacex-acquisition-eu-switching-rules",
-      "title": "OpenAI to Cease Model Supply to Cursor Following SpaceX Acquisition",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "OpenAI to stop supplying models to Cursor after SpaceX acquisition"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "title": "Texas Governor Freezes Funding for Flock AI Surveillance Cameras Amid Backlash",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "Texas Governor Abbott blocks funding for more Flock cameras"
-    },
-    {
-      "url": "thenextweb.com/news/mit-ai-undergraduate-assignments-eu-ai-act-proctoring-annex-iii",
-      "title": "MIT Report: AI Capable of Undergraduate Assignments, EU Considers Proctoring High-Risk",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "MIT report says AI can complete almost any undergraduate assignment it sets"
-    },
-    {
-      "url": "thenextweb.com/news/bill-gates-robot-tax-again-european-parliament-2017-vote",
-      "title": "Bill Gates Proposes AI Tax and New Institutions for Societal Transition",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "How Bill Gates uses AI, and why he thinks nobody is preparing for it"
-    },
-    {
-      "url": "therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics",
-      "title": "Edge AI Faces Mathematical Limitations for Embodied AI Systems",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "The edge AI wall: Why embodied AI requires new mathematics"
-    },
-    {
-      "url": "arxiv.org/abs/2608.27459",
-      "title": "Local Model Achieves 67% Accuracy on 41 Years of Jeopardy! Data",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model"
-    },
-    {
-      "url": "arxiv.org/abs/2608.27463",
-      "title": "Rasch Measurement Theory Proposed for Enhanced LLM Evaluation",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation"
-    },
-    {
-      "url": "arxiv.org/abs/2608.27512",
-      "title": "Quantization-Triggered Backdoors Pose Security Risk for Edge AI Models",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap"
-    },
-    {
-      "url": "arxiv.org/abs/2608.27549",
-      "title": "Code-as-World Paradigm Enables Physical Reasoning in Vision-Language Models",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning"
-    },
-    {
-      "url": "arxiv.org/abs/2608.27460",
-      "title": "Vector Index for LLM Inference Accelerates Output Projection by 82%",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "Accelerating LLM Inference via Vector Index Based Output Embeddings"
-    },
-    {
-      "url": "newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "title": "Article Argues Company Culture is More Important Than AI for Productivity",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "Good Culture Is the Biggest Productivity Hack, Not AI"
-    },
-    {
-      "url": "github.com/p-e-w/heretic",
-      "title": "Heretic Tool Automates Censorship Removal in Language Models",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "p-e-w/heretic"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMidkFVX3lxTFBVUWg1UVlqQmJ6eEtrTkdUbTl3ZTVWNE9URUZnOFpqaEZjXzM3S0xQY3RURmJ2VHNvNHpZNTVUUnJtVlY3X1hEYWlyTE1oUENsbU1hYTlnLWUyM2lnc3FRQlk0Smx6Q2Vobzk4dnVNcUJwRHVwVEE",
-      "title": "SK Telecom's 'A. log' Feature Auto-Categorizes Photos from Meta AI Glasses",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "SK Telecom Launches 'A. log' Feature That Auto-Categorizes Photos from Meta AI Glasses - finance.biggo.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMidkFVX3lxTE5kZEpnaEpKSTE4Y1JoUXRQRk9yTEtXUGlmMXlKUzhoaUl3azIzYkNKNDhrUTN5YnBUZjZoZDdseTdBSWhNWlU1OWFJcVBWa1JyZ3VrRXVpZFpvbzlSZlpRVS1zc3h2ajJBUXo5Qkh0cTdrU2lFWEE",
-      "title": "Anthropic Releases Browser-Operating AI for General Availability, Enabling Autonomous Execution",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "Anthropic Launches Browser-Operating AI to General Availability, Commits to Autonomous Execution Without Approval - finance.biggo.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilAJBVV95cUxNRW1wZmVUWGxMNWg0RklHZE9GMy1BV3d0X0lSRzVSaVNnLW5BQkJVUTlRaWZkclRnRTJyWkRhZW41U0MzcjZPNkZIVmJrUlAxd0VYaHJTN3JWWmVheXFNTmtwdjBCQ3V1bmE5TDduZ3dRazJBMGtBQzNOTl9fLWJyY1gzLUJSMVNMYUZhNHFIeEdVRml2T1cycl8zazlSQnNQU09CX3BadmZpeUk1bTlTS3hyS0c1TFRVbWVNUzhJYWM0YWloLW42VFBQa09QelZmQS11YUk1TjhtOUJWQVc0TkJJU2RRaFpjcDNqRkhucnBiY1I5dGZNam9SdmxtY1o1YU5aVzBRNkIzZzctVVhpNG5paFPSAZQCQVVfeXq5d0FwZmVUWGxMNWg0RklHZE9GMy1BV3d0X0lSRzVSaVNnLW5BQkJVUTlRaWZkclRnRTJyWkRhZW41U0MzcjZPNkZIVmJrUlAxd0VYaHJTN3JWWmVheXFNTmtwdjBCQ3V1bmE5TDduZ3dRazJBMGtBQzNOTl9fLWJyY1gzLUJSMVNMYUZhNHFIeEdVRml2T1cycl8zazlSQnNQU09CX3BadmZpeUk1bTlTS3hyS0c1TFRVbWVNUzhJYWM0YWloLW42VFBQa09QelZmQS11YUk1TjhtOUJWQVc0TkJJU2RRaFpjcDNqRkhucnBiY1I5dGZNam9SdmxtY1o1YU5aVzBRNkIzZzctVVhpNG5paFNvP2NvPTU",
-      "title": "Anthropic Unveils Model Hardware Standard (MHS) for Safe AI Agent Operation",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxNNl95dF9zaDJlbmZJcnJTMUhQOHJ5YVVYNE5aYUNNc1I4LUZ6UGVETGNDR0c0QWRRVThDWklYaFAxaEdPUzF2N284VWVXeFRnMVZBamZpbXRDdVBlampDNjJLUEVWV3h0WjNHN0hrVENhTTFVYlk0VVJVNkw4YWtIaExIQWdMNDFNemdPZ1Zxckp0NHNmVko0",
-      "title": "China's AI Strategy Focuses on Global Domination, Analysis Shows",
-      "first_seen": "2026-08-31T04:31:25.028843+00:00",
-      "rss_title": "China’s AI Strategy: Drivers of Global Domination [In-Depth Analysis, 2026] - Klover.ai"
-    },
     {
       "url": "openai.com/index/polimill",
       "title": "Polimill Leverages OpenAI Models for Japan's Public AI Infrastructure",
@@ -951,6 +832,125 @@
       "title": "OpenAI Agents Accused of Hacking Another Website, Escalating Security Concerns",
       "first_seen": "2026-09-07T04:31:50.347533+00:00",
       "rss_title": "OpenAI Agents Hacked Another Website"
+    },
+    {
+      "url": "openai.com/index/supporting-independent-journalism-in-ukraine",
+      "title": "OpenAI Launches Program to Aid Independent Journalism in Ukraine",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "Supporting independent journalism in Ukraine"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxPeUFUajdmanVrUFlzZkRfSHhoZGhHVXdaQVBlaVNadmRTa1pkWDA5bFpOZEhJVWYyc1NNVUdIZFI3bVlTamhkTkNWdmNpWjVYbVVOZ3FuNTdQSGJfVmpYZjU3a0FqQzV1U0JpQ0VuRGV4RzhmVnMxc0d2VC04T2J6VXpxNEdOUm9HdnByYlFvQUNhdw",
+      "title": "OpenAI's AI Agents Secretly Used Wiki as Message Board, Raising Transparency Concerns",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "OpenAI’s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks. - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo",
+      "title": "UN Rights Chief Warns of AI's 'Existential' Risk to Humanity",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "AI could pose 'existential' risk to humanity, UN rights chief warns - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc",
+      "title": "China Develops Humanoid Robots for Potential Combat Applications",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "From dance floor to war: China readies humanoid robots for combat - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxNTEl5UFVvaWZBUmFEZkVObFBBRVk3MHRBV29pSnoxSDJXSFVxUTl0SGR6NjdlamEyWUF5WF9LQW5nWVFRUTZhTnRjalplVWVEc3NPTEk4NllZR1B6VWVJbE1UaDlPLUFyc1pRenZNRWRnUGlvREIyNy1kLUYyVTl0WU9IaG91MlV2dFpfYnpUNk1idFVMbmI0T2pmWHRWalY3UHRvMU1aazJhejh2eGJnS1pqUXpnNWdXY2k4THEzdV82OURFWjFz",
+      "title": "Nvidia-backed Firmus Secures OpenAI Deal for Malaysian Data Centre Capacity",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
+      "title": "AI-Discovered Lung Drug Shows Promise in Reversing Aging Markers",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "AI-Discovered Lung Drug Reverses Aging Markers in Study"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition",
+      "title": "Anthropic Reportedly Walks Away From $6 Billion Decart AI Acquisition",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "Anthropic Said to Walk Away From $6 Billion Decart Purchase"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
+      "title": "ByteDance Joins AI Race with New Model for Real-Time Spatial Video Generation",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "ByteDance Joins AI Elite in Race to Perfect World Models"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai",
+      "title": "OpenAI Chief Scientist Urges 'Extreme Caution' on AI Development Pace",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNcl9UQllHZTNxT0xReUxGQmplaDBEZ3E4OUg0OE5HWVFnVktQX0NvNmxoZWt4YVcyc2VkbzJaelJuV3hUYVBhM01CZm84QnJnWlZ3VE5ndFNlMGJDZDNCak5TemVZY2NhdUdWbEEzczgzN1J2ZmlLNktZMm12d1FmTDFOT0E",
+      "title": "CEO of Nvidia Partner Iren Believes AI Computing Demand is Unsatiable",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "AI computing demand may never be sated, says CEO of Nvidia partner Iren - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxPWU94djBpOTdzY3VmQjl0U0s5a21qX3RGcHFEYy1adnp3NFpEaVpNTnpLaGlPZW9zRDF2cHVySF80UWM4YlAxd2ZiZDNtbjVaSXJrMW9iaUtZTFBlWmNoeVh6TVFfc0k2OFB5T2V6TEZNVkhxODRSRXMyOEF5T3dxRERHTXVHdnEzV0JkazUycF85OXN1bXQ3YTcwTQ",
+      "title": "CXMT Sees Market Share Growth Driven by Smartphone and AI Advances",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "CXMT Highlights Smartphone, AI Advances as Market Share Climbs - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPSDRBdkwxSWlZeDY2OElmc283aE9QUlJFYmxVZ052YVNpb3ZyZEJIeVYxVG5MR0RkeW9ydVd1SG1tMHQzbjJMWG01R3k0VzVrUklBSTBCRU9nMDdRc003c2VISU1aN09DaC1SZUdCb2VxenJ2X2ZTaGpTQmJQQ2pIdURXb2hJb1ZFYTFHcHhKY25YdTRCYWhtOU1ZcGVCNzBrY0xVd1hwaXEyMzJJTkhxTHVXcWRDY1lEZnhLU0stR3RuZUpzS0pNeQ",
+      "title": "Prominent US Politicians Target Data Centers Amidst AI Growth",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "The Morning Risk Report: Bernie, AOC and Bannon All Want to Fight Data Centers - WSJ"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "title": "Seattle Times and Newsday Sue OpenAI and Microsoft for Copyright Infringement",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement"
+    },
+    {
+      "url": "thenextweb.com/news/malaysia-huawei-ai-chips-sovereign-ai-us-export-warning",
+      "title": "Malaysia Considers Huawei Chips for National AI Project Amid US Scrutiny",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "Malaysia weighs Huawei chips for sovereign AI, Bloomberg reports"
+    },
+    {
+      "url": "thenextweb.com/news/belgan-belgium-chip-espionage-arrest-china-mirror-company",
+      "title": "Belgian Chip Researcher Detained for Allegedly Passing Secrets to China",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "Belgian chip researcher held since May over secrets allegedly sent to China"
+    },
+    {
+      "url": "thenextweb.com/news/jensen-huang-agi-has-arrived-gpt-6-astra",
+      "title": "Nvidia CEO Jensen Huang Declares 'AGI Has Arrived' Following OpenAI's GPT-6 Astra",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "Jensen Huang says AGI has arrived, and 400,000 more GPUs are coming"
+    },
+    {
+      "url": "therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac",
+      "title": "Agility Robotics Reports $1.8M Revenue Ahead of Humanoid Robot SPAC",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC"
+    },
+    {
+      "url": "finextra.com/newsarticle/48357/mastercard-predicts-that-over-the-next-four-years-one-in-ten-will-use-ai-agents-for-online-shopping",
+      "title": "Mastercard Predicts One-in-Ten Online Shoppers to Use AI Agents by 2030",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "Mastercard predicts that over the next four years one-in-ten will use AI agents for online shopping"
+    },
+    {
+      "url": "nature.com/articles/d41586-026-02822-9",
+      "title": "Anthropic AI Formalizes Proof of Fermat's Last Theorem in 11 Days",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "Anthropic AI ‘formalizes’ proof of Fermat’s last theorem in just 11 days"
+    },
+    {
+      "url": "bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "title": "AI Models Demonstrated Running Real Businesses, Resulting in Financial Losses",
+      "first_seen": "2026-09-08T04:31:29.516521+00:00",
+      "rss_title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200"
     }
   ]
 }
