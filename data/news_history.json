@@ -1,125 +1,6 @@
 {
-  "updated": "2026-09-08T04:31:29.516521+00:00",
+  "updated": "2026-09-09T04:33:33.300492+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/polimill",
-      "title": "Polimill Leverages OpenAI Models for Japan's Public AI Infrastructure",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Polimill builds Japan's next-generation public AI infrastructure"
-    },
-    {
-      "url": "openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "title": "ChatGPT Ads Surpasses $1 Billion ARR, Expanding Global AI Access",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "A milestone in expanding access to AI"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick",
-      "title": "AWS Enhances Agent Reusability with AgentCore Runtime and Amazon Quick Integration",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025",
-      "title": "AWS Recognized as Leader in AI Infrastructure Solutions by Forrester",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry",
-      "title": "AWS Agent Registry Now Available for Scalable Management of AI Assets",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Manage agents, tools and skills at scale with AWS Agent Registry"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation",
-      "title": "AWS CloudFormation Simplifies Observable Enterprise Agentic Retrieval",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxOXy0zTHRReGVHTVVnY1VaRDJuRDdTYmpBV0otd3ZwdzdwOTlwamx0R3pKbjE5ckN2QTdScVdLZDdURVNJLUdPS1hhckdZZXQyZ1lpT1VqWU1qQTNQOVZ0SE1Uc1pkOVRPLXE5TFhWaGd4eDVBMEltLWZ3ZnNaM0swWm1WQ3VkY0JyZGtfWE5MaUpwUQ",
-      "title": "GitHub Copilot Releases Enhance Developer Productivity in VS Code",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "GitHub Copilot in VS Code, August 2026 releases - The GitHub Blog"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizAFBVV95cUxNYWxnTVVjWFNDU1ZfWllpYUROQTU4SENleUFadjdmRnhwMVE0YUREQXR3R09EWEN5OUI1N2x0TDF2bjFyaGY3eWREZHlWbVFyRll3bFlYMUMtYlBDWHBUcjJEUERLNmt4dFZCQUNSN1dzcGdmejV5MHJmeTV4eHpTaEFmX3ppMnFUMHN0X2g3M3Z3aVBOTk1nY01pNGxYMXhaTWFwS1AxRVZZLUI4RHdnSEt2MU12UmY0ZjhwM2NEZzl4Vkk0UGctWFpOTHU",
-      "title": "Department of War Adopts Starshield AI's Grok for Government Use",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Department of War Launches Starshield AI's Grok for Government on GenAI.mil - U.S. Department of War (.gov)"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxOM29vWkp0TnUzSHhSZENaZW9zanNmdV8waTdYRl84QjFPcXFoN0swM1JRNjMwaHRhSnd3NjFmcjVBekloNFduVE9pU0Rpb09WMkc5Qm9XcDkyX1dRMnlwR1FpV0lLSDJWWXR6aUNaaDM3SVNBZ3o0OWZ3WlBReXJVZDhoek9JYTJYNHpiWG14U1AyWWVKTXQyUXhKZkczY3hRVzdSVFFuZHY",
-      "title": "Anthropic Pauses AI Training Due to Unauthorized Agent Actions",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Anthropic paused some AI training after Claude took unauthorized actions - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxOTFl3RjhRbTM3S3FIWG5Gam5pY1gyc3czWmpEcVpqZEtBak9PV1JBUDliUUlJY2otUEY5RHBCeXc3MXdzYVJwR2NEbHNISlVSbF93SGhUR0xGTWRnWUZCOU1GQWVROVlqbXNLRTdWOFUzMC1LSDRIYUVtcTdyem5Za0k3Nm16eHpvMlZUYjlENFFUQm5kN2hCd3l6aTFvYWg20gGmAUFVX3lxTE9meUduZS1qckpvNkd5VlU0aXotTjA5VUtVYWVGTVktQmpVaHBMU3VsMWZxTWo2dGRUTVJIWFZDYmVBeTladkdtMFp0a19NaWxJMWhFb3l2VGpzQ1RWVW5WdkRORXIxVHlybHQzTUF1aWVJbGdnRFhZVFJ5UWdDdEhfT1RxV3BWLWxuTk1ET1d2VGJCekxFYTBQaTl2OGt3Y3lQOFRxYUE",
-      "title": "Microsoft Outlook and OpenAI ChatGPT Work Experience Outages",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxNX0JqSFg4eDZVZkJmMFBBd1BoeDRrMlBQNkY3cFNWckJlVEVWQUFocjM4QkktNkFSdTFVMWFfbzJhbU13LXBQMlZWTnVFQm5mNFNlX2ptTVZqTUg5UktpcndDdVM3Q0p2RzIwckRUajRWRzZ0ZTUxQXExdnJzZkRldDJiUnQ3ZXcxcHppRTVGZjhZYjRnbzFIbFdIQ0dWczhoaDdtbWdWazlTSllkbDZuaJQ1b0LLX05abXNhVzB2Y2Q4MnFXeUxqOQ",
-      "title": "AI-Driven Cyber Risk Identified as Top Concern for Global Financial Stability",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxOaG84MDdUdXlvbzJldndVZWpseUMyeGloNXBCeGZZVG5qYkNlMlJyY0lyakQyWUpvSXhrSHp3UF9idUFsVG43bXRJemIxSTNmOU5Cd2VuNjdJaVJuQzUteHN5NWgzV3JzZjB1NXpFeUlWc2J0cTZCLWs0SzB2SDZaeDNheFdwQzIyUFRzdHR0cm9Tci1oRGhuRm01NVZOamU1M2llSHl5X0Z4QWNsbENHZUhsNkdielRXM3F3Vw",
-      "title": "EU Orders AI Supercomputer from Bull to Meet Growing Demand",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "EU orders AI supercomputer from Bull as demand exceeds capacity - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQNGVpZmlzQ09VYkdFQktNaG5fWmNRTlZiV1czLXREc3FWcEtINjg0RF9rM2RUcER4T05pSlVMUkYzejJKWFNuTFZHYzhnZXFoaktSeU5JUTlMRC1mT2pzdkNuT19mQ2NQbTNySllWZUdLa1RhUEpFWHpSOVFpalU3dDZBMjFVaERCckE5NVVHV2NOMm9TeEJEZEUxNWFjR1k",
-      "title": "China's Zhipu AI Sees Revenue Quintuple, Narrows Losses",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "China's Zhipu AI revenue quintuples in first half, loss narrows - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxPMFh5NUhXWG5NZW1lVzkySlBKWnZTRFVMLXh1R3N5VFJ4TkNmN2dXQnd0NmgwOXFyZENWS3dGbW84VnJ4YnFGQUtwcEJkNDRaT05aeUtFMmlfQllOY0luZnd6UzgwWVBRTlJLZ3hZMkJObzlHTnNENDZCNTJ3NVZ1MTBHQ3Z6QUE3VUp6WGw5WmRCWGtySV9GelhKNmhlV2RyaktqZ0VORzhURmxxME9LdllRSmVSdE0",
-      "title": "Central Bankers Express Concerns Over Dystopian AI Future at Jackson Hole",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "At Jackson Hole, global central bankers glimpse dystopian AI future - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxNZUc4cWlVekNJVlVlQ0gtR3VBUnVLaFE1MXMtVEdJLWd0bEw0S1MwRUJLOEg2NmJWNFR1NkppME4zZndnTm1Ycl9PSHVKSUFGT2M2al9mMHJ4Sy14ZmdjMGFmU2dHdGp5OTVUMnJfeVlNUGFiVmk3NTFMZkpFS3RnV3ByVzZpMHRMX0llMzRleFZxOGhpXy1KUmpnZFhOekhDMENYQTBkM2JvWU5vOUs5YTcwNG84ajdxZDI0WHo3QQ",
-      "title": "Soitec Secures Multi-Year Deals Amidst Surging AI Wafer Demand",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Soitec locks customers into multi-year deals as AI wafer demand surges - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxPci1FMmItQ21hc2NTdV9rN3dIZXljSGVLYVNEN0lWRF9TYzZNN3VIUzRBSnFqcDUySXA1dEo5NkZUX3Jnb2ZPM2tzRkRSVXFjdTR2QWhkSGZVNTdFN1ctb0RLenFHWHN3ME9ZZVVhR3RRSzF3VHlqUl9tR21fNklHa3dEQ0tpclFaVTMycFk4ZGJOajVFQkZQZllsc0hjQVhESHZMalpiRFlobFlQNWlrbloyc21kSk02bkdkbHdJWDFkcVBIMzdsUVdQTkFUQQ",
-      "title": "Chinese AI Chipmaker Enflame Aims to Raise $908 Million in Shanghai IPO",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-01/mediatek-shares-soar-10-after-blockbuster-nvidia-investment",
-      "title": "MediaTek Joins Top AI Chipmakers Club with Nvidia Mega-Deal",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Nvidia Mega-Deal Ushers MediaTek Into Top AI Chipmaker Club"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
-      "title": "Anthropic Secures $35 Billion Cloud Deal with Nvidia-Backed Lambda",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
-      "title": "Apple Accuses OpenAI of Destroying Evidence in Trade Secrets Case",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPbDEyUlAzNEduUnpUVGtPNElwbHREQ2ZDdi1xRkQyaGg1VWxXWjBPS2puTmR4Zm1scE5uenI3MHl5bDhlaUFnVHJIaGpDVzBsb01pUkxCTzd6cFpwQ1dKUFY3MVNxclJUNlQ2U3hEQk9CbXBzOXF6dnR5bFVGeE9rX2xsX0k",
-      "title": "Bank of England Governor Warns G20 of AI's Financial System Dangers",
-      "first_seen": "2026-09-01T04:31:52.387142+00:00",
-      "rss_title": "Andrew Bailey warns G20 of danger AI poses to financial system - Financial Times"
-    },
     {
       "url": "openai.com/index/path-to-astra",
       "title": "OpenAI's Astra Model Achieves Critical Cybersecurity Preparedness Threshold",
@@ -951,6 +832,123 @@
       "title": "AI Models Demonstrated Running Real Businesses, Resulting in Financial Losses",
       "first_seen": "2026-09-08T04:31:29.516521+00:00",
       "rss_title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock",
+      "title": "OpenAI's GPT-6 Astra Now Generally Available on Amazon Bedrock, Enhancing Enterprise AI Capabilities",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock"
+    },
+    {
+      "url": "openai.com/index/navier-stokes-solution",
+      "title": "OpenAI Announces AI-Generated Solution to Navier–Stokes Millennium Prize Problem",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "On the Navier–Stokes Millennium Prize Problem"
+    },
+    {
+      "url": "openai.com/index/introducing-chatgpt-images-2-5",
+      "title": "ChatGPT Images 2.5 Enhances Personalization and Quality in AI Image Generation",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "Introducing ChatGPT Images 2.5"
+    },
+    {
+      "url": "deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "title": "Google DeepMind's AlphaGenome Atlas Maps 9 Billion DNA Variants, Advancing Biomedical AI",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ",
+      "title": "Meta Launches 'Muse', Positioned as the World’s First Personal AI Agent for Everyone",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod",
+      "title": "Pathway Develops Brain-Inspired AI Architecture on Amazon SageMaker HyperPod, Sets Cost-Efficiency Benchmark",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxOcjJnSk5fZG5tQ18ydkxneV9ORkc3M0FsS0xLYW5xS192eDUtYVE1TXpNdW1kS0lHWUh3dmVCQVFrYmpGSlIyVm9iXzhVdDVWZUlkd0x6X0F0MWNoS2RIZXMxS24yeDVsOVFBeVdMclVPZ1g0eVY5UWVGX1BfcUQ4Rk9aenNjMnR6UXI2WEF2Q0Ezb1RsZDhoWEJZZlJUZ3lWaENQd01iS3YwbkNHWXNIZw",
+      "title": "Mistral AI Valuation Soars Past $24 Billion Following Samsung-Led Investment Round",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQTjlnSWVPWm84bENtZ1VsbERndnh6dS1FaTVLVDl6bzNuTmhHa0stNms0ZHdJV09oYUFURkk5cFZ4MFpla2ZUVnlQU19SeWVEclZaR0lLRnhrV0szeXJZblZ1LVdKN0tvSDJRQ1pkWVJab3RTZ192Q1FaUzgza05fRnZDY2U",
+      "title": "Mistral AI Secures Record €3 Billion Funding Round Amid European AI Race",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "Mistral raises record €3bn as Europe strains to keep pace in AI race - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn",
+      "title": "Anthropic Researcher Resigns Citing 'Out-of-Control' AI Fears Amid Safety Debates",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - wsj.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxONnJKcDF6a1hkcmpscnNFcVZMd1BvamNUMDdXWThhQUxYaG1EdEt4X2FYXzJNbVk1T0NUc2dGM1FWYmpzalJsa1BvVG5zeXhRY0xmdnhPb1NwWnFhSU8tQVZCcEZScmUtRGp3U1dKRW5aTERJd2k4NVFpV2EzZ3R6Z29zaHl6TjNNallUWVNR",
+      "title": "Anthropic's Planned IPO Nears, Signaling Maturation of Frontier AI Market",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "What to Know About Anthropic’s Planned IPO - wsj.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxPNm9Dck5iY3gydVpGQlBFVU5mcF9oa0Qzd0Y5OWN4ZjRVb2huWDBWeFVUeXhQejZZTkdUd3JfZDhZN095X21HODJSdnJ4MVhyMjZQWjVuSXJrM1dMN3dZdkcwMG1NMnB0V05ENDhoN2hKakZLZDExczNYNUlEXzNFcXVQTUdNMDI0THVKYWxuc3dheVBMNUpqdGNHcENOMlJyb0hPVnFTM1JYZURNOWM2dnktUGo1Q3JtdlBpb29uUF9jNVRlVnlR",
+      "title": "OpenAI, New York Times Copyright Lawsuit Poised for Key Test of AI Training Legalities",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOMndLNHd3NkVkNmtTb3NMSlh3emJ5VTVZamVfaEUzVmhheFdrd1NIMjFsVnJnRHJfQWJ0M09BOEMzY25mNVFYZFZPWWY0cHpiMjM3RFQzclFIZk9RNW5ERmdkaUpEUlhMUXY2SW9XVnQtby0yMko0MUY3LS1oUF9PeWtpQQ",
+      "title": "AI-Powered Hacking Tool Breaches Phones Without User Interaction, Raising Security Concerns",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "A Hacking Tool Built With A.I. Can Breach Phones Without a Click - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGhwLQ",
+      "title": "US Accuses Chinese AI Firms of 'Malicious' Copying of AI Technology, Escalating Tech Tensions",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk",
+      "title": "Anthropic and OpenAI Bankers Push for Top-Tier Credit Ratings Post-IPO",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times"
+    },
+    {
+      "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math",
+      "title": "OpenAI's Navier-Stokes Solution Mired in Controversy Over Verification and Credit",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "What OpenAI’s latest controversy tells us about the future of math"
+    },
+    {
+      "url": "wired.com/story/openai-navier-stokes-math-discovery-academics",
+      "title": "OpenAI's Major Math Discovery Claim Challenged by Academics Over Propriety and Verification",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "title": "Drama Swirls Around OpenAI's Navier-Stokes Solution, Highlighting Verification Debates",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "Drama swirls around OpenAI’s legendary mathematical milestone"
+    },
+    {
+      "url": "engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy",
+      "title": "OpenAI's Navier-Stokes Controversy Highlights Murky Credit for AI-Driven Math Breakthroughs",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "What's going on with OpenAI and the Navier-Stokes controversy?"
+    },
+    {
+      "url": "thenextweb.com/news/openai-navier-stokes-claim-verification-credit",
+      "title": "OpenAI's Navier-Stokes Claim Lacks Published Proof, Contrasting with Machine-Checkable Preprints",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "The mathematicians published machine-checkable proofs. OpenAI announced its result on a call with reporters."
+    },
+    {
+      "url": "thenextweb.com/news/qualcomm-amazon-4bn-warrants",
+      "title": "Qualcomm Issues $4 Billion Warrants to Amazon for AWS Custom Silicon, Powering EU AI Gigafactories",
+      "first_seen": "2026-09-09T04:33:33.300492+00:00",
+      "rss_title": "Qualcomm hands Amazon $4B of warrants to build custom silicon for AWS"
     }
   ]
 }
