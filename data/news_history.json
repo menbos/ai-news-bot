@@ -1,124 +1,6 @@
 {
-  "updated": "2026-09-09T04:33:33.300492+00:00",
+  "updated": "2026-09-10T04:31:36.559522+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/path-to-astra",
-      "title": "OpenAI's Astra Model Achieves Critical Cybersecurity Preparedness Threshold",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "Path to Astra: critical capabilities and frontier safeguards"
-    },
-    {
-      "url": "openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "title": "ChatGPT Connects to Healthcare EHRs for Enhanced Clinical Insights",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT"
-    },
-    {
-      "url": "openai.com/index/gilbert-tobin",
-      "title": "Law Firm Gilbert + Tobin Leverages OpenAI for Scalable AI Governance",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI"
-    },
-    {
-      "url": "blog.google/products-and-platforms/products/workspace/google-pics",
-      "title": "Google Workspace Introduces Google Pics for AI-Powered Image Creation and Editing",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "Try Google Pics: Easy image creation and editing in Google Workspace"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
-      "title": "NVIDIA and CrowdStrike Forge Partnership to Advance Agentic Cybersecurity",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws",
-      "title": "Anthropic's Claude Fable 5.1 Now Available on AWS with Enhanced Enterprise Safeguards",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "Introducing Claude Fable 5.1 on AWS"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai",
-      "title": "Atos Upskills 400 Engineers in Agentic AI Through Hands-on AWS Training",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments",
-      "title": "t54 Builds Secure Trust Layer for Autonomous Agent Payments on Amazon Bedrock AgentCore",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "How t54 built a trust layer with Amazon Bedrock AgentCore payments"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws",
-      "title": "Boomi Scribe Streamlines Enterprise Documentation with AWS AI Integration",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "How Boomi Scribe streamlines documentation using AWS"
-    },
-    {
-      "url": "huggingface.co/blog/allenai/benchmirt",
-      "title": "Hugging Face Explores Nuances of LLM Benchmarking with BenchMIRT",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "BenchMIRT: What are LLM benchmarks actually measuring?"
-    },
-    {
-      "url": "huggingface.co/blog/webgpu-kernels",
-      "title": "Hugging Face Releases @huggingface/kernels for Local AI Development with WebGPU",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiVkFVX3lxTE5HcGwzQnZHUW4tMzRqNUpBMHJLSXVjT1VNSTVpRjhuSURLX29ZNkVnTmdRSGNpQV9vdkwyMEh2NV95enI4VHdWeVpicjVDRG1UZUU1aWt3",
-      "title": "X.ai Addresses Biosecurity Concerns at the AI Frontier",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "Biosecurity at the frontier - X.ai"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxOa2FtbEFMblFrZFZ3bnBXbGhZZnNCUzBXd2Ytejl6QmZhak1RZjBjQU5XQmxTck5ac3J2NkN5bUZwSzEtUVl3aXRsb2ZBMmtSMHdwZXFRRk9MMFQ1OWFtNkFOVjBvcWRZU2NtOEpvemhNUkpfMThMaTdSemJhbWNFR1dhMW5jVkNXZnhCLTVraGpJSFVDaEkzZFJMeVhwekpRQS14bDB0TTgwcUVMNmgzaF9zMUY2TmFD",
-      "title": "U.S. Department of War Adopts OpenAI's ChatGPT Mil for Enhanced Military Operations",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil - U.S. Department of War (.gov)"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxOT2phY0R2b1N5eTVJRXNMM21ubUlFYUhaWjZCY0VDb3pFMXJsSWlxOWhsQ0RXRmVVM0RTejN0OVp4TEtVRm02SlRydW5yS2YzV1dtbVNGeVZocDNaeTIwYzNVSnBST1hSbGZvR25Ba3IwaWowTklveUhyZHo0M21HSEI3V1Mtbk1kdkgwYWwtamt5UzYtenZfVQ",
-      "title": "Anthropic Unveils New Models, Pricing, and Advanced Safeguards",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "Anthropic releases new models, cost structures and safeguards - axios.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBf TGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA",
-      "title": "New Google AI Model Reportedly Closes Coding Ability Gap",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxPbmFFcTlLcU1BTjFTOXBjTE80ZGFzSUc5ZUtPREdXX2tDcTJZODd4UTNwekU1M3JFdXlZdUhPcFl6Z0RqcWhjQ3VvLW92cmtZMHlLY0ZmTktxNlUtVXJLRlFfTXhWWXpvbGRBTU1Vb0FEY0dVNWE1Y3VNZTJ5SVhoU19hU0lsU0xmUnpoSkJrMVY5T1ZIaHlzTHRBS2JRTjdRU0U0R0tB",
-      "title": "US Advocates for Hands-Off AI Regulation at G20 Tech Meeting",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "US urges hands-off approach to AI regulation at G20 tech meeting - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxQZFlBR2lIQkRoR2FlVjNvYTFCbW1IS0xsbUQ3SU9FSTh4aXMtSVlXanUydkNGZHBBenl0YTVQWXIzSm1OeVdsb3NWdGV0SlhfcTVfQ0paN2EzN015dnQxR0RrT3poUllHT2MxYjJpcUppemJndFdBbml6YmtwRHh6bTZPQTlYYkNTUFhzTHh6Q3ZCa1BVM2t6cXBuQ2ZxcVBVcnI2MjlldXhCNU90NUwzRjJMOUhWelhUbkJLVw",
-      "title": "Judge Criticizes HHS Use of AI in Grant Reductions for Teen Pregnancy Prevention",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJlc1IxSnBNVlBndHZMS1kwYVlDX0ZMdWh6NUpST05rNjJhX21oSHBoRkROUjVoUVcycTZuaTZPYk8tXzBDdjRvdjlJaDBHMkNTdlF1VnZmQmxVRnI0empNaTEyQ211Ulh2Z0wtbXFmYUJJZWRCakUwYld4Sk5BbjlTa29sTk1Kd20xMEMxR1hyVWdGb29Hb0twOUdZeUZYOE9TOFplT2NORTB0ZGNmbEpkVl9Hd2Fq",
-      "title": "USDA Piloting Satellites and AI to Enhance Crop Estimates Amid Farmer Concerns",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "USDA to test satellites, AI to try to improve crop estimates amid farmer criticism - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-02/data-center-spending-to-reach-31-6-trillion-by-2050-on-ai-boom",
-      "title": "Global Data Center Spending Projected to Hit $31.6 Trillion by 2050 Fueled by AI Boom",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "Data Center Spending to Reach $31.6 Trillion by 2050 on AI Boom"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-02/nvidia-nears-14-billion-hugging-face-deal-this-week",
-      "title": "Nvidia Reportedly Nears $14 Billion Acquisition of Hugging Face",
-      "first_seen": "2026-09-02T04:31:28.389119+00:00",
-      "rss_title": "Nvidia Nears $14 Billion Hugging Face Deal This Week"
-    },
     {
       "url": "openai.com/index/atv-big-air-tour",
       "title": "ATV Big Air Tour Leverages ChatGPT for Accelerated Marketing and Merchandising Operations",
@@ -949,6 +831,124 @@
       "title": "Qualcomm Issues $4 Billion Warrants to Amazon for AWS Custom Silicon, Powering EU AI Gigafactories",
       "first_seen": "2026-09-09T04:33:33.300492+00:00",
       "rss_title": "Qualcomm hands Amazon $4B of warrants to build custom silicon for AWS"
+    },
+    {
+      "url": "openai.com/index/gpt-6-astra-next-generation-work",
+      "title": "OpenAI Unveils GPT-6 Astra for Advanced Business Intelligence",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "GPT-6 Astra: The next generation in intelligence for work"
+    },
+    {
+      "url": "openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "title": "Paul Christiano Joins OpenAI Foundation Board Focused on Safety and Standards",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "Paul Christiano joins OpenAI Foundation Board"
+    },
+    {
+      "url": "openai.com/index/codex-quantum-computing-experiments",
+      "title": "GPT-5.6 Sol Accelerates Quantum Computing Research",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "How GPT-5.6 Sol helps run quantum computing experiments"
+    },
+    {
+      "url": "openai.com/index/the-work-now-within-reach",
+      "title": "OpenAI Highlights Economic Growth Through More Capable and Affordable AI",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "The Work Now Within Reach"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/deploying-qwen-3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm",
+      "title": "AWS SageMaker HyperPod Deploys Large-Scale Qwen Model with vLLM",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026",
+      "title": "August 2026 AWS AI Builder Updates Include Long Context and Extended Agent Run Times",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "ICYMI: What landed for AI builders in August 2026"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore",
+      "title": "Heurist Finance Leverages Bedrock AgentCore for AI-Native Investment Workbench",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "title": "IBM Releases State-of-the-Art Granite Time Series Model",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license"
+    },
+    {
+      "url": "apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
+      "title": "Apple Unveils iPhone Duo, Signaling New Product Strategy",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "Apple unveils iPhone Duo"
+    },
+    {
+      "url": "apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
+      "title": "Apple Enhances Health and Fitness with Apple Intelligence Integration",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "Apple advances health and fitness capabilities using Apple Intelligence"
+    },
+    {
+      "url": "apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
+      "title": "Apple Watch Series 12 Introduces Advanced Health Sensing System",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System"
+    },
+    {
+      "url": "apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
+      "title": "Apple Launches AirPods 5 with Advanced Open-Ear Active Noise Cancellation",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw",
+      "title": "Meta Launches AI Agent Capable of Cross-App Task Execution",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxNdlB6ckhOUjNOZ3VfSVNXTVBvQWlkLTRiWUwxLU1KZG9fT0t3QVI5U043NS1pdGp6UHpCM0hjTHFzZm5OelhkWVdZbkY3RnBBbEdCVnFTXzhJNl8yTW4tOHo5UzU3SEU5VW0xNFZnQkhCNjJzWVVWTmZEQUhsUVNYalpYNnpIZUo1S0UxNEF0MHFpalVablBwWFF1ZDE5V25OSDIzd2tadlZqdU9xdDFQc1YwR1FxNW91aDJKeHNaeF9iQQ",
+      "title": "Legal AI Startup Harvey Achieves $15.5 Billion Valuation",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxPb0VVN1VjMFR5bUpFTTNWSG55MDhPUnlBNTRuanVCWHpPeHNHRVg0eGNIRFZiLTd0eVZ5TVM5NjdMLUFoNFp3WjV2eWlqQ2JzWmV2Vk12bzlBYnFoWWJ1M1JjRmtXTWFzYnQ4OFF2SkpIT2lJSkRuLVNjNGtLRWVpS1otUi1EVlY5VklsY19lRQ",
+      "title": "Cohere CEO Urges National Control Over AI to Prevent Disconnection",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "Cohere CEO says countries need more control over AI to avoid being ‘switched off’ - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE",
+      "title": "Google Commits $15 Billion to AI Infrastructure, Secures Finnish Nuclear Power",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiywFBVV95cUxOY2o2VUItNFg5QW81Z1pGUDRZejdleV9jLXpNTTRFWWd6aHVrRkEzYk04dHIwUU1DcXNBc2pGQ2hFU01UNUtkZVBseGd1RE9SdGotVkxnLWZoYk9BQ2owaHZKZ1NNQTEtUDdaSzMtZXFMcnB2RXNtbjBEMXhwUGJhQXgtNmZLTHNnODdPTVNYZ3c1ZXZJclUzOWJBTkZuaVREVWN3a2Z0TUh5MjY4MmFsTWMyWEdIVWF6LXNWQVpELXR1SXFucUNhQ3Nzbw",
+      "title": "OpenAI and Samsung Partner on Next-Generation AI Chips",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "OpenAI says working with Samsung on next-generation chips, deepening cooperation - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ",
+      "title": "US Accuses Chinese AI Firms of Malicious Technology Copying",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxPNm9Dck5iY3gydVpGQlBFVU5mcF9oa0Qzd0Y5OWN4ZjRVb2huWDBWeFVUeXhQejZZTkdUd3JfZDhZN095X21HODJSdnJ4MVhyMjZQWjVuSXJrM1dMN3dZdkcwMG1NMnB0V05ENDhoN2hKakZLZDExczNYNUlEXzNFcXVQTUdNMDI0THVKYWxuc3dheVBMNUpqdGNHcENOMlpyLUhPVnFTM1JYZURNOWM2dnktUGo1Q3JtdlBpb29uUF9jNVRlVnlR",
+      "title": "OpenAI-NYT Copyright Case Set to Test AI Training Laws",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "OpenAI, New York Times case tees up key test of AI training under copyright law - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-10/doj-probes-nvidia-s-license-deal-with-groq-on-antitrust-concerns",
+      "title": "DOJ Investigates Nvidia's Groq Licensing Deal for Antitrust Concerns",
+      "first_seen": "2026-09-10T04:31:36.559522+00:00",
+      "rss_title": "DOJ Probes Nvidia’s License Deal With Groq on Antitrust Concerns"
     }
   ]
 }
