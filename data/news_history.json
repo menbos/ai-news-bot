@@ -1,124 +1,6 @@
 {
-  "updated": "2026-09-10T04:31:36.559522+00:00",
+  "updated": "2026-09-11T04:31:36.299773+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/atv-big-air-tour",
-      "title": "ATV Big Air Tour Leverages ChatGPT for Accelerated Marketing and Merchandising Operations",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT"
-    },
-    {
-      "url": "openai.com/index/ai-native-company-workflows",
-      "title": "AI-Native Companies Transform Workflows into Core Operating Capabilities with AI Agents",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "How AI-native companies turn workflows into operating capability"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-      "title": "Google Launches Fairwind Program for Proactive Cyber Defense with Governments and Trusted Partners",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "Proactive cyber defense for governments and enterprises"
-    },
-    {
-      "url": "deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-      "title": "Google DeepMind Unveils Gemini 3.8 Flash and Gemini 3.8 Flash Cyber Models",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"
-    },
-    {
-      "url": "blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence",
-      "title": "Microsoft Emphasizes 'Yield Imperative' for Turning AI Infrastructure into Actionable Intelligence",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "The yield imperative: Turning AI infrastructure into useful intelligence"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference",
-      "title": "AWS Enables Australian Access to OpenAI Models on Amazon Bedrock with Global Cross-Region Inference",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws",
-      "title": "Generative AI on AWS Modernizes and Scales Support Operations with AI-Powered Platform",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "Modernizing and scaling support operations with generative AI on AWS"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore",
-      "title": "Amazon Bedrock AgentCore Automates Architecture Documentation from Code for Interdealer Broker",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-      "title": "GitHub Podcast Decodes Emerging AI Lingo for Developers, Including Loops, Harnesses, and Squads",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-      "title": "GitHub Copilot Enhances AI Coding Cost Efficiency Without Compromising Task Quality",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "How we make AI coding more cost efficient without sacrificing task quality"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxOdVhIc1N2SUcwTGpmR1Q0N3JEeTBhaWw3WVZielNBbXNXNnJuS251cHNNdFk3U3Q5ZVliNHYwYVpqM21ZV0JKeHZiSmhJRTlYRUNfUEpGQ2hUQ1prX2d0OTFQZGdWS0tNVkZSUTY4ZVQwLVJHZnVCWFd1d3lCU1p3WG5TYUc4UjA5TW96TnhpZXlvb0JVdmYxZTg5b2RzRXUtbnZzQnIxeldURjRqNmV1VjdZZXp0WnhpN1E",
-      "title": "U.S. Department of War Expands AI System Options to Include ChatGPT and Grok",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "ChatGPT, Grok Added to War Department's AI System Options - U.S. Department of War (.gov)"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxQOXZyc29IWE51Z2JLQ0tjNE5NMlhVeXd0TDZOOWEzY1c0V1liT1hNa3A2YlZOZTJycUg5eUpoclNOMllRbEw2NzFWX0pjRTBwSF9oM2RvdHE0dHVEaVk1SS1vemZGNFJVUEU0U3dXbVRDME04SmVZNlNSYlI5RjM1aTVkZHQtQi1mdzc2eGZXc1JwR3hvWVFzV18tTGZ4N2M4SURLdlIyRzBBcTBvc3RIemEyNkZjUVE",
-      "title": "Congressman Casar Demands Greater Transparency from OpenAI and Anthropic Regarding Security Lapses",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "Casar Responds to OpenAI, Anthropic, Demands Greater Transparency About Major Security Lapses - House.gov"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi1gFBVV95cUxOZnpYSkJQNF9FY2pHYXBETVkzdkdMRGhfLVU4ZVZ6MmhRSkRxSGlhYUktc0RpOFhxMEZ4NG4yaW9TdGZJMU80OG9UVG9xc0JKRzVCb21UZTJJZjZoMi1ONWdVT2dCUXNRRi1QZ3RFVnp2QnZRa3hNUFB0QnNGNV9fUGxmckttdXFjX2JSUEljSjFMRnNoSmFoT2Z4U3ctUHoweWVnQnlCYUhaZ1FCd1c5TXBHZUVEUTdGRXlQcFVhZ1lwZTRMYjk2QXRpbE5wU1pWeC1YS2NB",
-      "title": "Anthropic Releases AI Agent Blueprints for Retailers Ahead of Holiday Shopping Season",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXnidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo",
-      "title": "OpenAI's Astra AI Model Deemed 'Critical' for Cybersecurity Capabilities, Citing Stronger Guardrails",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93",
-      "title": "US Urges G20 Nations to Permit AI Training on Creators' Copyrighted Works",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "US urges G20 countries to allow AI training on creators' work - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMingFBVV95cUxNMHVNSmdqeHMyQ25WbzBIbEllY05mcWZaNG9DcGFPR216TGZlcURDU0k3U3VhRTJROS1VMnFEZVp0cG1vN1h2MkxJdDFCdlpfZ1pJcWs0QVhSNTUxMmxTR1FkZlJSNUduMTRqMV9faHJuemt3eWRUNW1oamNYWVRILVoyeGtPODg1VUNsSWk2aVlWNU4zQmpwRExHbUkxUQ",
-      "title": "Broadcom Raises AI Chip Forecast as Major Tech Companies Increase Spending",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQbFh0bjF0aXc5OFBldkJvWXMzcW00WnF4TTVybHBsWDR0T2dXaWxJNWp5ci1kaFpCNXloY1FxM2JjRHlEY1F6cEFhSmU4LTMtYlBUTXI0TUd0OFVBLVZSNzJUY2dDT1pXR21wZTRteThtYUtQMnlmRHZ3TmFnR3FrQndEZ3BOaHRZRGlvdklaMGJjeGg1TTdjUDU4UW93amlmTjRUNV9kZTdXalNJ",
-      "title": "California Lawmakers Approve Bill to Govern Lawyers' Use of AI",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "California lawmakers pass bill governing lawyers' use of AI - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQZmFpdE5PNUc2RGxZcDJtQ09LMTZsaHNRTE5NVWg2bWtHYU1wNVBjZDlDdmN5MnlOVFNNb0QySm9xWkdtSEhBajkyZzFEbXF0ZW9PbjVBNGdRVGlXVXlqbEVNOXFLV3hGUVlBdzdHZExNR1ZrVE9xaVphTlowdFBBaU5mRzFlYVZadUd6TmdRei16aHFXc0FCdVdvbUNNUDVscVNnUmJNSTBIdWYwMll6TlBsWGxEMGg5",
-      "title": "OpenAI States Upcoming Model's High Capability Necessitates Stronger Guardrails",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "OpenAI says upcoming model is so capable it requires stronger guardrails - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPNkQ2YmcyMGlMZmp3QzJTdlFrcmxBQk16cEpIZU5QZ0l2UU5wV3dyZGVUNnlDZkFXUng0MFBuSnV6Z0R0Vk8yOUJ0ZGI5bU94bUZLUlNoQjFaa25mNVdUT2Z0YkYtV3RyRHc0VFBrR1BEWHp5enh6dHpicFJNUUoxNDJxaFY",
-      "title": "Trump Administration Backs OpenAI in Copyright Dispute with The New York Times",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPUEFpN2Q4Vzd3Ul81b3ZIc0FiX3ctRE5obXNoanZGUWdZN212Vlc4ekVZbTdieUgwWjI1dHBRLWFNckJrREI2R1hwb1lhQ2N3ZUcyY0xBbTlTLXdtSkdoUVQxTExEM0R0WTBQVlkxYklqVTI3eG9MTTZSbzJRMWtwazM2cVA",
-      "title": "AI Groups Race to Limit Bioweapon Risks, Emphasizing Potential for 'One Screw-up'",
-      "first_seen": "2026-09-03T04:31:37.259164+00:00",
-      "rss_title": "‘All it will take is one screw-up’: AI groups race to limit bioweapon risks - Financial Times"
-    },
     {
       "url": "openai.com/index/daybreak-for-frontline-defenders",
       "title": "OpenAI Expands Access to Frontier Cyber AI for Essential Services",
@@ -949,6 +831,126 @@
       "title": "DOJ Investigates Nvidia's Groq Licensing Deal for Antitrust Concerns",
       "first_seen": "2026-09-10T04:31:36.559522+00:00",
       "rss_title": "DOJ Probes Nvidia’s License Deal With Groq on Antitrust Concerns"
+    },
+    {
+      "url": "openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "title": "AI-Powered Antimicrobial Discovery Accelerates Fight Against Drug Resistance",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
+    },
+    {
+      "url": "openai.com/index/put-data-to-work",
+      "title": "ChatGPT Work Introduces Data Agent for Natural Language Data Analysis",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Now everyone can put data to work"
+    },
+    {
+      "url": "openai.com/index/introducing-chatgpt-financial-services",
+      "title": "ChatGPT for Financial Services Launched with Integrated Data and Advanced GPT-6 Model",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Introducing ChatGPT for Financial Services"
+    },
+    {
+      "url": "openai.com/index/expanding-ai-access-us-government",
+      "title": "OpenAI Offers Discounted AI Access and Cyber Defense to US Governments",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments"
+    },
+    {
+      "url": "openai.com/index/introducing-the-agents-api",
+      "title": "New Agents API Enables Cloud Agent Development with Codex Harness",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Introducing the Agents API"
+    },
+    {
+      "url": "openai.com/index/introducing-gpt-live-1-in-the-api",
+      "title": "GPT‑Live‑1 API Enhances Natural Voice Experiences with Full-Duplex Conversations",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Build more natural voice experiences with GPT‑Live‑1 in the API"
+    },
+    {
+      "url": "openai.com/index/ai-policy-window",
+      "title": "Urgent Call for AI Policy Action as Capabilities Grow",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "The AI policy window is open. We need to act."
+    },
+    {
+      "url": "blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
+      "title": "Skild AI's S1 Model Teaches Robots New Tasks from Single Video Demonstration",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+      "title": "Robotaxi Market Booming with NVIDIA's Physical AI Technologies",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching",
+      "title": "SageMaker HyperPod Reduces Inference Cold Starts with Model Caching",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0",
+      "title": "Amazon Bedrock Knowledge Base Integrates Marengo 3.0 for Video and Image Search",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+      "title": "GitHub Copilot App Enhances Beginner Experience with Integrated Tools",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw",
+      "title": "Mistral AI Advocates for Sovereign, Open-Weight AI as Technology Frontier",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Making sovereign, open-weight AI the technology frontier - mistral.ai"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijAFBVV95cUxOVDIzNzRDTUpFM3hvblJLcHFBX3B6YUV4OVR1Qmc5TnMwd1dfU1RleU9tdlNpb1R6NDBkRVdNX2lzX0lZd0ZER2l6UENTQkw1NEQ3N2xOOFBuLW5SWTFWMmFKdlJnc1RWdWhoaVpNWUFBU1l3Z3JQMjlYYUNOZXRHNFhOckYwR1ZUbXRpWA",
+      "title": "Google Gemini App Now Available for Windows Users",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "The Gemini app is now available for Windows - blog.google"
+    },
+    {
+      "url": "status.claude.com/incidents/2pt83vlkk7x7",
+      "title": "Claude API Experiences Mitigated Latency Issues for US Midwest Users",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Elevated latency on the Claude API for some users"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200",
+      "title": "Anthropic Alerts to Potential AI Misuse in Biological Weapons Development",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ",
+      "title": "US Lawmakers Propose New AI Rules Following Anthropic Safety Warnings",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxQUlpORllxa2oyR0lQcWRNaXQwTXd5LThFQTQ3bXFJdlQzUWRBZ2RYMjlmWm55R0gtd255dzltb2dEa3hlaHlJc0hNVG1GaWhkSDBXa3hRbVNiVkZ3XzZsbzY5ZE8wQ1pfR0w4TERlczNHbm5YaVI0QmN5TnJLWmVNRmsxMkxmcnFlTDg1QVdhSHJ0Vm5SUWsyWHFCU0JpdXNYcFhpWjBuQWVFTTZ2V1J1Ym82aExqdGJmVE9VNm5zR0xrUmtkSkNn",
+      "title": "Anthropic Thwarts Russian and Chinese AI Influence Campaigns Targeting Claude",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxNcDUzRnJ3dHpQaFN0aF9CVHRZbTExQ1h4UHg2OEFaQmxHeHZsdUwtN2piZzdPdk5oYUticEdmSEIyS0RYUlpKYUpRX3ptWFp6WGFNbGp2QXlVNjRIVFdvanlTWXdubklpcXZzUHNWQWxURlBrU3hpcTU0dVJ2M1NEUEpRU3FhUzhHa25XRklRbUo2LUVoVWlsV3dVcVY5SENFc29hd3JXRUZQZG1FbHEw",
+      "title": "AI Boom Poses New Financial Stability Risks, BIS Head Warns",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "AI boom poses new financial stability risks, BIS head says - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-video",
+      "title": "OpenAI Open to Slowing Advanced AI Development, Sam Altman States",
+      "first_seen": "2026-09-11T04:31:36.299773+00:00",
+      "rss_title": "OpenAI Is Open to Slowing Cutting-Edge AI, Altman Tells Staff"
     }
   ]
 }
