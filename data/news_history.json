@@ -1,125 +1,6 @@
 {
-  "updated": "2026-09-11T04:31:36.299773+00:00",
+  "updated": "2026-09-12T04:32:08.116821+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/daybreak-for-frontline-defenders",
-      "title": "OpenAI Expands Access to Frontier Cyber AI for Essential Services",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "Daybreak for Frontline Defenders: $1B to protect essential services"
-    },
-    {
-      "url": "openai.com/index/legora-financial-statement-review-with-astra",
-      "title": "Legora Achieves Significant Efficiency Gains with GPT-6 Astra for Financial Review",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "Legora reviewed 41 documents in minutes with GPT-6 Astra"
-    },
-    {
-      "url": "openai.com/index/playco-game-prototyping-with-astra",
-      "title": "Playco Streamlines Game Prototyping with GPT-6 Astra, Reducing Manual Fixes by 50%",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra"
-    },
-    {
-      "url": "openai.com/index/safety-overview-gpt-6-astra",
-      "title": "OpenAI's GPT-6 Astra Reaches Critical Cybersecurity Capability Level",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "Safety overview: GPT-6 Astra"
-    },
-    {
-      "url": "deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-      "title": "Google DeepMind Unveils WeatherNext 3, Its Most Advanced Global Weather AI",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
-      "title": "NVIDIA Accelerates Local AI Deployment with New Tools and RTX Spark PCs at IFA 2026",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
-      "title": "NVIDIA DLSS 5 Enhances 'NBA 2K27' Graphics for GeForce NOW Streaming",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "title": "NVIDIA Agrees to Acquire Hugging Face for $12.9 Billion",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "NVIDIA to Acquire Hugging Face"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore",
-      "title": "AWS Bedrock AgentCore Enables AI-Driven Development Lifecycle Implementations",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "AI-driven development lifecycle using Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "huggingface.co/blog/Hcompany/neomme",
-      "title": "Hugging Face Introduces NeoMME: An Efficient Multimodal-native and Multilingual Encoder",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
-      "title": "GitHub Copilot App Enables Parallel Agent Execution for Beginners",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "GitHub Copilot app for Beginners: Run several agents at once"
-    },
-    {
-      "url": "status.claude.com/incidents/461yvfrzpwtt",
-      "title": "Anthropic Addresses Elevated Error Rates Across Multiple Claude Models",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "Elevated errors for multiple models"
-    },
-    {
-      "url": "status.openai.com//incidents/01M1J99EDCYED5GP2W8GZ3N2NA",
-      "title": "OpenAI Status Reports Resolved High Error Rates for ChatGPT Work Mode",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "ChatGPT Work Mode High Error Rates"
-    },
-    {
-      "url": "status.aws.amazon.com",
-      "title": "AWS Reports Resolution of Increased API Error Rates in US-WEST-2 Region",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "Service is operating normally: [RESOLVED] Increased API Error Rates"
-    },
-    {
-      "url": "githubstatus.com/incidents/ktdr5t0xwnhp",
-      "title": "GitHub Experiences Incident with Upstream Grok Copilot AI Model Provider",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "Incident with Grok Copilot AI Model Provider"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxQZlRlRURkaE5IYjdsd3JTN2lNMXNaNkV5OW11N2tpek1paUMwSnhuWk9XWExGRV9XaDFvYTd0SmFVSVNaaFk5VkhyY09UQXVrRTFlbVUxODB0ZktZMmRCM29fdFJMZ3dRVU1lb1piZHJHLVlYeHRGZVZGbXc5d01VTVNjUXhILW4zVFVLRWZlWVlKN25qSU9EX1BCOFRIMjRSTDJjbGFLc3lxQQ",
-      "title": "OpenAI President Claims Human-Level AI Capability Achieved",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "OpenAI’s president claims AI is as capable as humans now - The Washington Post"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round",
-      "title": "Andreessen-Backed Gimlet AI Valued at $3 Billion in New Funding Round",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "Andreessen-Backed AI Startup Gimlet Is Valued at $3 Billion in New Round"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street",
-      "title": "Crusoe Secures $13 Billion AI Cloud Deal with Jane Street",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "Crusoe Signs Roughly $13 Billion AI Cloud Deal With Jane Street"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-03/los-angeles-schools-bar-students-from-ai-on-district-devices",
-      "title": "Los Angeles Schools Ban Student Use of AI Tools on District Devices",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQaFotMGNwWjVDOXpPakFvVDduRjF5OE1IZHJtMDRRcy01a1h0NDdlaE5xVEszazVWZk9OSGxtWFJYV1dnRHBGZjZ6WXJGdWlJbFV1VVFzMGlqOFhEZXkyTnZHTURqTHNXMmwtV1VPNmVpWmc0WmlmX2pyN09MWVNnUV81ZDR1Mjc3TDRrSTFDa0pveVhtTDEwXzhJSlY0TE0",
-      "title": "Zscaler Reports Soaring Revenue Growth Fueled by AI Adoption",
-      "first_seen": "2026-09-04T04:31:29.364436+00:00",
-      "rss_title": "Zscaler Loss Narrows As Revenue Soars, Boosted by AI - WSJ"
-    },
     {
       "url": "openai.com/index/gpt-6-astra",
       "title": "OpenAI Unveils GPT-6 Astra: A Leap in Advanced AI Capabilities",
@@ -951,6 +832,126 @@
       "title": "OpenAI Open to Slowing Advanced AI Development, Sam Altman States",
       "first_seen": "2026-09-11T04:31:36.299773+00:00",
       "rss_title": "OpenAI Is Open to Slowing Cutting-Edge AI, Altman Tells Staff"
+    },
+    {
+      "url": "openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "Perplexity Leverages GPT-6 Astra for Enhanced End-to-End Systems",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Perplexity trusts GPT-6 Astra with end-to-end systems"
+    },
+    {
+      "url": "openai.com/index/cognition-devin-testing-with-astra",
+      "title": "Cognition's Devin Utilizes GPT-6 Astra to Enhance Software Testing Capabilities",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Cognition helps Devin test its own work with GPT‑6 Astra"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
+      "title": "d-Matrix Integrates NVIDIA NVLink Fusion for Advanced XPU Deployment",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations",
+      "title": "AWS Introduces Dual-Layer Monitoring for Production Agent Lifecycle",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference",
+      "title": "Amazon SageMaker Inference Boosts LLM Latency with Prefix-Aware Routing",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms",
+      "title": "AWS Bedrock Enables Model-Agnostic PII Detection with LLMs",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Model-agnostic PII detection with LLMs"
+    },
+    {
+      "url": "apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5",
+      "title": "Apple Announces iPhone 18 Pro, New Apple Watch and AirPods Lineup",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc",
+      "title": "Anthropic Addresses AI Misuse and Detection Efforts",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Detecting and countering misuse of AI: September 2026 - Anthropic"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMic0FVX3lxTFBNcU9ib0dLaHZEek1FNzhTMGlBaFRPbWd6R2pndlAwR1UzWUV2NVRYbm9RTHEybHJUUG9md19Xa0E1Y3BJSm9kZFlfSEphN0dyWVpYVE0yTmVMay0wY05nUEdUMWFZaDNNVFFDY09GQVd6bEU",
+      "title": "Lawmakers Introduce Bill Mandating Agentic AI Standards Beyond Self-Attestation",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Inside AI Policy: Gottheimer-Lawler bill rejects self-attestation alone in call for agentic AI standards - Congressman Mike Lawler (.gov)"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPTVJFRjl0M2NxU3YtVmplOGp5YkNqcllYY0R0Y2xPV0ZaTU5fNElVVXl1WDI4NjRRRGtSNXlwanRTUjRFY2ZCTUdLcE52QTZyTnN4WDdKNGE1bWM0SDBBdmdpSUw4YXZ1WDNnZ1hGTzl1RVhodnhBZzFEVHJ1VlJUd3Q1Z3gwTUVIMGR3X1g4Q0ZkUUFLdTc2dnAzZzZzaEREYjg5SGltUTJrelRKdjJwQ2RZbUJzY0NjMjI0SFUyUTF3X18wZ2ZjSw",
+      "title": "US Senate Negotiators Consider Mandating AI Risk Mitigation for Companies",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "US Senate negotiators consider requiring AI firms to mitigate known major risks - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc",
+      "title": "Anthropic Reports Claude AI Used for Weapons Development, Spying, and Cyber Operations",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxOM2FONXhOeTRKZVg5ZU5qa3JVQ2I4S1ZSX1V4YU1zelVDV19IczFXWWlGd1BfRjhfbVVNZ3R5ZW9VelJpT2k2TmVNUWk5UFdIcHJFMjdnMWVQbFdVMm53ckVfZEF5SnZqUjJvb0N3OXVKc19CNFd1Z2otY1Y4cmlBQ0VhaGZMbllrWHIyQUVLRU5JYTIzNm1jdTVTcmhQcHJmdWgzYzdwckp2c2NhcEttLUMycUh5OVA0NEVKZGZwRm04UQ",
+      "title": "OpenAI CEO Sam Altman Open to Slowing AI Development, Reports Indicate",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxOWU1OdlM4b0w3OWIxeFNFNEVhTnE4c0RpXzVzNk5wWTVGYXFPMXU4VUpVeEVoaWJyTDFRdkkwYXBUNnpwV2ZNZEZ1M2pkUV9nTnZTS28zaWZadlF2MHlwYXdNWHhEekFiRENSeDFQYXhGbk1XMEM2Sm5tNDNyejRFRk5KaF9uUXY0SkZQQkxlMk5lQ0R0aDFxbmJRbkF3cGJWTTJub2Fkc0U0dVBJZ2tXdlVpdXo",
+      "title": "Pentagon Explores $5 Billion Loan for AI Infrastructure Funding",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Exclusive | Pentagon in Talks to Get Into AI Infrastructure Funding With a $5 Billion Loan - WSJ"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters",
+      "title": "Nvidia Considers $10 Billion Investment in Anthropic's Potential IPO",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Nvidia Mulls $10 Billion Anthropic IPO Backing, Reuters Says"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-09-11/bridgewater-s-cio-ai-s-human-extinction-risk-is-real-video",
+      "title": "Bridgewater CIO Cites Real Human Extinction Risk from AI",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Why Bridgewater’s CIO Says AI’s Human Extinction Risk Is Real"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users",
+      "title": "Apple Watch's Always-Listening AI Feature Raises Legal Concerns Over Eavesdropping",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Apple’s Always-Listening Watch AI Tool Could Pose Legal Risks for Users"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-09-11/microsoft-s-data-center-plans-face-big-costs-video",
+      "title": "Microsoft Plans Massive Data Center Expansion to Address Computing Shortage",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Microsoft's Data Center Plans Face Big Costs"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-09-11/bloomberg-tech-9-11-2026-video",
+      "title": "Oracle Cloud Growth Amidst Growing Debate on AI Risks and Data Center Build-out",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Oracle’s Cloud Growth; Debate Around AI Risks"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNNEw1emJpa2hjbFlfTHlBNllMRFh3WVlVbXUxX3JuQTViSlE0Y1JET3JBZElLbW1mLWFrb2dBTElLYUMtM3RhRlhoNjVpVXdyWDN0UXdTLWJmVFg1YzYxbnBpTzhDNndDcmhrRDJFNkxRT20zVjNEaVRGNnlfdG03YVI0eGk",
+      "title": "Anthropic Reports Preventing Bioweapon Development Using AI",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Anthropic says it stopped scientists potentially developing bioweapons with AI - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR",
+      "title": "Anthropic AI Model Allegedly Used by Iran to Target US Navy Warships",
+      "first_seen": "2026-09-12T04:32:08.116821+00:00",
+      "rss_title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships - WSJ"
     }
   ]
 }
