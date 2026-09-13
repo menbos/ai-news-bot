@@ -1,124 +1,6 @@
 {
-  "updated": "2026-09-12T04:32:08.116821+00:00",
+  "updated": "2026-09-13T04:31:46.136076+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/gpt-6-astra",
-      "title": "OpenAI Unveils GPT-6 Astra: A Leap in Advanced AI Capabilities",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "GPT-6 Astra: A new generation of intelligence"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore",
-      "title": "AWS Enables Multimodal WhatsApp Ordering Assistant with Amazon Bedrock AgentCore",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod",
-      "title": "NVIDIA Cosmos 3 Powers Physical AI Model Factory on AWS SageMaker HyperPod",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-      "title": "GitHub's Project HydraFusion Achieves Frontier Quality with Multi-Model Orchestration",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "Project HydraFusion: Frontier quality via multi-model orchestration"
-    },
-    {
-      "url": "status.openai.com//incidents/01M1NKFZH5EEYEREC54HNAHY35",
-      "title": "OpenAI Addresses Service Disruptions Affecting ChatGPT and Codex in APAC",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "Users in APAC region may face increased error in ChatGPT, Work, image generation, file upload, Voice, and Codex Cloud"
-    },
-    {
-      "url": "status.openai.com//incidents/01M1KWEDH417T2CF44YYHZDFCR",
-      "title": "OpenAI Restores Full Service After ChatGPT and Codex Elevated Error Incident",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "Elevated errors across ChatGPT and Codex"
-    },
-    {
-      "url": "githubstatus.com/incidents/zw1hbx2yyhvr",
-      "title": "GitHub Resolves Copilot Code Review Disruption",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "Disruption with Copilot Code Review"
-    },
-    {
-      "url": "githubstatus.com/incidents/r05vk75c594j",
-      "title": "GitHub Addresses Degradation in Repos Contents API",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "Degradation in repos contents API"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMib0FVX3lxTE1iUlVPODl5bTBweko3Y1pHY1Y3RzZua3FHak9hVm5aa3hZWmNQcmVrVW1VMHdXME04cDJITVM4TmlBdUZWZ3JIQlgtdUZPMjlEd3pUdmNkV3BsT3FRMTEwNm1GcnRJU2NXeElBYVZhc9IBdEFVX3lxTE9NYUtIZlJ6NHoxSGladzc0bkc5Tm8xWjJkcHdJeHJHeUVfUlZ4b2ZoTC1ueE9HaEI4ZFZoUXAxUldGZHYweTd2ZEhtUkJiaFFid0FZdkdRS2Z1OV9NY2tzb3BKQW5wZGh0SER5aTlOdm9sbWVD",
-      "title": "OpenAI's Astra Model Rolled Out, Raising Concerns Over Advanced Cyber Capabilities",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenpmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc",
-      "title": "Nvidia Invests $13 Billion in Hugging Face for Open AI Model Advancement",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxNcHVnRVBYTlF2Z1Zwc3NNRnMyZFkyZDVvM0NqUUcyOTZJSE5FUlhMaVR4WkVwWjBqSmNOXzdnY3hsTHBza2tSand0REo3M3NiU1AxWkFBNUwwZU5XLXNYNkEzcUl0QkRValFFYUdCeFFPdVUzcmNyZDJjZ3REZE5UaC1jR1dWSHJfcFkyZkVMZjE3bzFuOC1icDU2M1JlclRxdlE",
-      "title": "Anthropic Delays IPO to Mid-October, Amidst Growing AI Market Activity",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxPd0dTWnZWcm1zc3pGR2l0R0c3YWhnUWFZa2JQeDFSeDA0OHNBdXlULTgya3ZKQ192OXI3NU0xZEEyRmdYb01zaHRQTEt6N01CNFZxU1NnOEZ3WVI0MGtkOUNQSmI3UTJyaWVVTE1hY19NOGJMOWJESVYycVpRU3NvaTdIamVWX2k4dXlIUXVhMUtzZXo4SWV6S01JblIwMGJ5UDF1VA",
-      "title": "US and China to Hold AI Safety Talks in Mid-September",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "EXCLUSIVE: US, China gear up for mid-September AI safety talks - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk",
-      "title": "OpenAI Agents Hijacked German Website in Previously Undisclosed Incident",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxQS1VRQXhtR19VS2tKbVEzTnB6YjFUNl8zV3NFSURDZDRTcmZRS2tHa0RPOHdlMklXMWVSckNXdm5HWjdYNWhSTlFNeUlkdWFxWHo2SFdXU19ieWlQaUlEUjNrUjJkV1JSajZaNGxxUkVkM19qR2NOMkZvcWMwRHpIVTJybUlQZFB2ZmpvRy1CeURQcmp0ZFctU3RzMnItM29yajY5blZoT1ZjY0cwWFg1aVFoSGtpZw",
-      "title": "xAI Loses Legal Challenge Against Minnesota's AI 'Nudification' Ban",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "Musk’s xAI loses court bid to block Minnesota's AI ‘nudification’ ban - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizwFBVV95cUxPOFFMOVN0WFItRlg2RExOaGQwNlVCaVk4UEdVSDhNbEZVUElvejVDUUxVRklVRnNESzd1bUczRS1EOXNXVlZ2R01vSlhqSVdNa0FVVW5wZXdDNERnXzFoaGJUOFdEdldTU1M5ODRPRzg5UEViTmx6MEtPTlBsQ0dHTUNEeE11YU1hTFJDaEtRNF9tRTd2MlRIRGxweEttX0lJRENPO94tY3FiaElKZ0FYYXdWOVAxOVlsdTJfbDhwQm9vV19udEJTaTBWRmI1VzQ",
-      "title": "Abu Dhabi AI Institute Releases Open-Source Models with Full Training Data and Code",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxPTHpzOWFzdTVYaklhcU5oMGVfRGxhRW9IVUdpYVJ2TFl1bFJEZjA4el91V1hncjEtVXY5OG43T2lGalZWZzhUOFFVVzZ4M24zWWg3UkhWMmFicnQ4WWNUdGlmbGtKaTBlRXY1dW9GV1JSZDh6Q3R6b1NCNWhrSk1lUDJ2ek10Y09jamkyWWdJbEdjclpiNF9LbWFwRzNKS1JYa0I4",
-      "title": "The Dawn of Artificial General Intelligence is Upon Us, According to WSJ",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "Yes, We’re Entering the Era of Artificial General Intelligence - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxQU3hZTS1LdVBJWUFVdjZ2ZUpUQ1hSMkJJYkRzVmJ5aWZ1UHdscUtrLW1WNzR3eEZBYW9DZFhYWERCaEtYVTZ5VDExelNWZTRzTHRjaTRqX3B3VTNMWjRIRlNVSjdDSEFPU21lRzZmZWh3cXhlVUlmNXZmTnpZc3p0ajZPUjFoNlRNVlAtVmkwdkJiQUgtczJ2MkpSR3FuLXdQZ29v",
-      "title": "Microsoft Restructures Reporting to Better Reflect AI's Impact",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "Microsoft to Change Reporting Structure to Reflect Effects of AI - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxOcFIweVpVUHJlR1I3SlpLSkMwRDdjS1dUMFlBR0ZERFMyQjRFdkp2STVuX2FOUWpwNXdDSEFLcVVoRzNNdnE1VWVFVE5RZkVtc3Exajl4bHNGNWlTQzNzQUdCYzV2Y3pYZk1XeXl5WXBpSEJMa0xQUWRxQkwyYkJ0dkNGS0w5WUMtZDNaSDBnbXJDR3B2YTNEVmwxYVYzNEJVVzBpal9SaXhRbExOa3M1dmwxMEczakY5OGlZcTdR",
-      "title": "Palo Alto Networks Anticipates Double-Digit Growth Fueled by AI-Driven Cybersecurity Spending",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "Palo Alto Projects Double-Digit Growth as AI Drives Cybersecurity Spending - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMickFVX3lxTFBNSGRHUzhDZzF6VXdmOVlpWmxBQVNPOWF2Rk5OZThqM0MwQnRJeVp3QkUxdGZuaC1xNldPT0RmNFp5Mlo1amFPZzZrZk5rLVN2RXlGS2xoY1QyQXZYQW90TWZUS1FDcF9mYnVBYm9NQXZUZw",
-      "title": "Axios Reports on OpenAI's GPT-6 Astra Debut, Signaling the Arrival of AGI",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts - Axios"
-    },
-    {
-      "url": "wired.com/story/ai-job-market-infinite-doom-loop",
-      "title": "AI Use in Job Market Creates 'Infinite Doom Loop' for Job Seekers",
-      "first_seen": "2026-09-05T04:31:50.729642+00:00",
-      "rss_title": "AI Use in the Job Market Is Creating an Infinite Doom Loop"
-    },
     {
       "url": "aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart",
       "title": "AWS SageMaker HyperPod Enhances Operations with Agent-Driven InstantStart",
@@ -952,6 +834,125 @@
       "title": "Anthropic AI Model Allegedly Used by Iran to Target US Navy Warships",
       "first_seen": "2026-09-12T04:32:08.116821+00:00",
       "rss_title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships - WSJ"
+    },
+    {
+      "url": "openai.com/index/scaling-storage-one-billion-users-part-one",
+      "title": "OpenAI Scales Infrastructure to Support Over 1 Billion ChatGPT Users",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload",
+      "title": "Amazon Bedrock Offers New Benchmarking for OpenAI Model Cost-Effectiveness",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore",
+      "title": "Amazon Bedrock AgentCore Enables Interactive MCP Applications",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Build interactive MCP Apps using Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+      "title": "GitHub Introduces 'Marketing Ops as Code' for Automation",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Marketing ops as code: Automating events from planning to follow-up on GitHub"
+    },
+    {
+      "url": "status.openai.com//incidents/01M28MEQWTQJDRCRPFD9FWQ0H3",
+      "title": "OpenAI Reports Resolution of ChatGPT Work Interruption",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "1% of ChatGPT Work (mobile/web) turns are failing for existing threads"
+    },
+    {
+      "url": "status.openai.com//incidents/01M27VK1VN54RQJGJEHB5JTQJJ",
+      "title": "OpenAI API Experiences and Resolves GPT-5.6 Sol Elevated Errors",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Elevated errors for GPT-5.6 Sol on the API"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxQdGd0VG54MXV1a2FoakVMYVFNUXVONnNFOXRRYkVRSlVoOXJvT0NUTGdEMjgzczd6eC1sdW5HWHA1cHVpN00tMGppaDRFZHZleHdjaGtRVFU5M3hvUUZkSTJqNmRjd0EyTmJCNTJmUGJJa1lSdmtjbWpxNTlzYldpV2xqTVZ0b2RKZVlNNUFxWThlZHRI0gGaAUFVX3lxTE9OVlEtTk9ieG5NY2Y2Tl8ydlcyY1Z1d2RHclRQRXBkbnNGWXg2TmRHSVlhY05JOHRMZHY2N1VtaUZOMkN5Y0dPSWJpX28tX1FLVC0zemNLTGZodnF4MTdQVjE5aUtxaG1WOFhkMkFuQ0RZdUlYdG5WbjFpX0Y2Slhwczc3ZE9lQTZ2VF9KUVBuajV2RnNSdWpJUHc",
+      "title": "Calls for AI Regulation Intensify in Washington Amidst Existential Risk Warnings",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "AI regulation calls grow in DC after researcher's extinction warning - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl",
+      "title": "Top AI Leaders Unite to Urge Caution on Rapid Technological Advancement",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Top AI leaders unite to warn the technology is advancing too fast - The Washington Post"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz",
+      "title": "OpenAI CEO Sam Altman Rules Out IPO This Year, Cites 'Unacceptable' AI Extinction Risk",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable' - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c",
+      "title": "Anthropic CEO Calls for Slowdown in AI Model Development Amid Misuse Fears",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxPbHdhM2RYWkhIdGYxdFJBLVFQSzRDZWRNeUxsaUU1Tldjd3R0WlZaRXY1Szlmd0Z0dU5SVTdiT0pibjJXSWU2NU50MjY4S08tcTZETF9iVUoyc0s0eFlZM3YtWXhtdm5yaW45S2N2WDV4aDNwN0N2bEpjTlBvQl9NdUc1dGE0aFN0VkJHd2VKMGk1em1qYVVMcjNGRG9xVXlrS2F2TGt1MXVaOWpIZDZaOGhWMm5POGNRWUh0QlA1eVNLaFhyTGdDcDIwa2Z1cFJa",
+      "title": "China's Z.AI Launches $5 Billion Share and Bond Sale in Hong Kong",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "China AI developer Z.AI launches $5 billion Hong Kong share, convertible bond sales, term sheet shows - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-its-time-to-slow-pace-of-improving-ai-models",
+      "title": "AI Leaders Advocate for Slower Model Development Amid Escalating Risks",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million",
+      "title": "Oracle Boosts AI Data Center Layoffs by $700 Million Amidst Cash Crunch",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Oracle Boosts Layoffs Plan by $700 Million"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-12/china-s-ai-industry-pivots-to-agents-from-models-report-says",
+      "title": "China's AI Industry Shifts Focus from Models to Agents",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "China’s AI Industry Pivots to Agents From Models, Report Says"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQeUJwX0RUY21PRFFKajNkbzlrSTVxcmJMVUU4OU82aUx5TjhpalFLQ1hBSmU0U1RSZExLV2htRkpEZTl4QUdvNnVtaGNDN3pWeVhfdXFVczZxN0lKbU02amtWSC03VWNBODFsaTJMSjNCbUNUQ0ZqRFNoWkRfdzVNYkNGVE0",
+      "title": "Financial Times Urges Serious Consideration of AI Risks",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Time to start taking AI risks seriously - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMicEFVX3lxTFBqTlcyTFBRMHJvRU1laHV3Mm5oRUtlV1VWQ3NadW1seUw1WFctMFdPRy16TjR4UTJMYjBaaFR0VXh5cHgyWlRlZWNRelNCWnRDTEs0Tlc5MXVUd3hoZHBBRVFEbUFtWlgwMzhGM1pEY1Q",
+      "title": "Houthis Allegedly Used Anthropic AI in Ballistic Missile Attempts",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Houthis used Anthropic AI to try to build ballistic missiles - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOTWtHNERvOUJaQ0Z4Yk5XdWgzYXpqU1lIX2p6MnIwdDBLNk0tWEhxZ2pTeTdmNWdnUW5fUXdEdm5CbVlURUgtVEd0a3RicEFaOUxVd2ljUERWSk9DVEhsb3NlbkZ0MmNfUExoMVRYYkFUb3VTU3c5clJpYlNJdWh2MTIyLV8",
+      "title": "AI Race Creators Fear Human Extinction, Highlighting Existential Risks",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Why the AI race has its creators fearing human extinction - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxQRkF5V0hjRURGQjc2Vm9nSUYtNmRJNDNLN0Z3Nmpoa1lVZkpKQ3g4Mld2dDd0ajgwM0xvOWM2QURyUjBJbDV3SXJKZlNhN3FQT3U0cHhSSElCWTJPdlpWTTdIWWpvVnJFTHYtSGQxTXlKUTBPbUFnMEViX2xTUm83c2M3MFhFM3BzMTFoMHAtZFVrOGQxVVpRVHFwWHZFZC1IV2lGUTVmbw",
+      "title": "Rogue AI Swarm Cyberattack Raises Fears of Uncontrollable Agents",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxPc044MVJrTFhxOFJSaHVGUUQySWtORFVvVmRSc19sWFNGYjRzYkpvVDJ4U0laZ0dKVTJ5MXp5YzdGNnMxcTYtWFBOdkJJcm9oWkk3T0ZhdlVaRDIxN2Rxem93VUU4OURNVWFZWTZHT0ZaQWJNMlExOFhpdkhrYkluN0pwZE55QWZ5Qm51LUhHNm5hQQ",
+      "title": "Major AI Rivals Agree on the Need to Slow Down AI Development",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "Biggest AI Rivals Agree They Need to Slow It Down - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMifkFVX3lxTE9Dek50el9YQ2xpYUNLMjhTa3RXdHJRNFdHbHFNSEwwQ1I3MnpwMnFwdzZZOGNaVDFWdmUxczhMRS1DNkw5U0dEa01TMjJ2X1ZpV0hVc3JXcENfSktGZF9OakNTYUR3MTltaHU5OE1UUjE4dWhMeE44NENGSVU2QQ",
+      "title": "America Experiences 'Great AI Freakout' Amidst Rapid Development",
+      "first_seen": "2026-09-13T04:31:46.136076+00:00",
+      "rss_title": "America’s Great AI Freakout Has Begun - WSJ"
     }
   ]
 }
