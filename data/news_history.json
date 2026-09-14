@@ -1,126 +1,6 @@
 {
-  "updated": "2026-09-13T04:31:46.136076+00:00",
+  "updated": "2026-09-14T04:31:55.815594+00:00",
   "entries": [
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart",
-      "title": "AWS SageMaker HyperPod Enhances Operations with Agent-Driven InstantStart",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock",
-      "title": "Intuit Deploys Agentic Disaster Recovery Assistant on Amazon Bedrock",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw",
-      "title": "OpenAI Unveils GPT-6 Astra, Signaling Next-Gen Intelligence",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "GPT-6 Astra: A new generation of intelligence - OpenAI"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMibEFVX3lxTE9FcTZhZmh2V2ZjSmVHekF5elNubTMtT283MEhYRjZwaEE2R2FIUlRxazFBWE05aXNyTzJOeVRFQWdFelV1V242Zzl0M3NCaWlWc1YySDNiS3JrV05TbllEbkM3OW5oNGFLazVVUw",
-      "title": "Meta Faces Lawsuit Alleging AI Training Data from 'Perv Glasses'",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMif0FVX3lxTE5rclFWNDlIYmY4cVpLMzhaNGZERC1IRGoweFlTR1J5ZXZJb0xNaDBuT0MwMTB6N1NfcEFUckxSMndGNFF0bDJrNEJpMEprX0k1a1huV1VVSUN0RWEtam9iQ2tFN0RkdWQzRExQbW5uZklUQ1Z4dmo5blR1UlpQNHc",
-      "title": "EU Tech Chief Declares AI Guardrails Inevitable for US",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "EU tech chief: AI guardrails inevitable for U.S. - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiygFBVV95cUxQSDFKd0EtQ2RFV0NGWVBPaHZPNjUzS2ItY3Z6dGhsOFJCXzFCU1dodk5zSFRfU0VaX3A2Q0QzNjRJM19KNm5LdEJrdFlKNDZtZ3JGaEQ1THBhZGV3eVRObDFGRFplRFhNUVVuUkUwS3I0a25MVzV5alBGalJpV05SdHJlSUF4T19nM1lfSGtqakluX1VfMkFZcGdpLWR5ZE1VQWFuLTA2Z25tNDgyb0M2SXB5c0hubUx3TVgyM1BYQXk0V1hSYjFySVBn",
-      "title": "AI Regulation Argued to Cost Lives",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "AI regulation costs lives - The Washington Post"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE",
-      "title": "OpenAI Acknowledges 'Wiki Incident,' Cites Need for Transparency",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc",
-      "title": "Nvidia Invests $13 Billion in Open AI Models via Hugging Face Partnership",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE",
-      "title": "Media Outlets Sue OpenAI and Microsoft Over Copyright Infringement",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india",
-      "title": "TCS Commits $7.4 Billion for 1 Gigawatt AI Data Center in India",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "TCS Plans One-Gigawatt Capacity Data Center in Southern India"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxPWUxkQ2FtOXRTbDRSMi1HdTA3aUxtbFlua0sxaHpwWkZYYVg3VlI5Q1JNOEtOd01sYlNLa01EcnlTd3BzUDdqcDJhaFI5SUJUelk5VUs3WFdVXzdaS3Z1U0pUbFBvUFMzenVCWkJBRkota3doU2pJdmdkOGNMNllFWTN4eFQ1c0ZYOFNFUkZJdHkxOGk4RWlMZWhYeEE",
-      "title": "Nations Reach Agreement at Geneva Talks on Autonomous Weapons",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "States reach agreement at autonomous weapons talks in Geneva - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxPTjR3THpRX2ZqUllRY3pIRi1iYXlmM3RyUk5QSklqY3BUREVsbEdIM1RBZUt0Zy10MjZuVEV5SGprWmlsVTVxMExCYnVlNlRqTkh2SWFHQ05idUdMZXZkeXp6V1FFNzFfbmd1TFNUNWdaM0NLaTAxUURFOXR4d1pxMWJ1cXNnQk4yaVl0dV8wQzV5TFVLdEc3ZmhuajJCQ2Q4XzE0MU02azlzM0VZT09WYzZiUGM3Uy1WclZwdTBhbEx3dw",
-      "title": "Foxconn Reports Strong Q3 Earnings Driven by AI Server Demand",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "Foxconn says third quarter to outperform market expectations on AI strength - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
-      "title": "Nvidia Partner Hon Hai Sees 52% Sales Increase Driven by AI Server Demand",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "Nvidia Partner Hon Hai’s Sales Climb 52% With AI Server Momentum"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNaWxaRF9ValREekRRNE00M0JmTWVkZE9hN0hyLXlhVTktdFVtdjBqaENTcTBJZUdmbHJ6UEtHVTB4Z3JqcTBRWjhoYWkxYWgtbGNhTkRxclJJT0hLUHJYTDRUV1NINERTal82WVZjRVJYekIwZ0stYjFYdk9YSEx3eUNSRkw",
-      "title": "Anthropic Nears $2 Trillion IPO, Tapping Morgan Stanley and Goldman Sachs",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNbEJmOWRwaGQxLXdMVzlaUk16VUZfVE9FTkN4MVdOXzBYZEY5VlpWMWZFbHBjaTNCTmxnQVdsamU4YUd3YmUtZDV6OUFNZDdvOGFfY0pLSndyc0JVci03c2NrcUtveEhnTU8tOEZMY3FoUUlETnlrM0pZUGlsSFdjOW5xU2VpQ3pOeWhoOHZ2TTNqb3RyQzdFSnR0YktRWjZHeDcxNzBuQmZvOUk",
-      "title": "US Leverages Nvidia Chips to Broker Armenia-Azerbaijan Peace Deal",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "Exclusive | U.S. Used Promise of Nvidia Chips to Broker Armenia-Azerbaijan Peace Deal - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQLThYM2VKejRrbndnaTJuYUFpNVBmMlFqa0xyQmhDRWVJSENSRlJ3dmRBMlZoS0lXNEY2VUEyRHFrQzNCV3dWYVlzNTlOMnRLeTZiNkNPTHJyR3FiYkV4OVJYamRqb2Q3bDBtMkdIOGxXTTRMRm0zZnRfUkRlTmNKMXFfSE5UVFV1dkdZOGRTREctd3ZsLXdnTFNPRk1SbVE",
-      "title": "AI Revolution Transforms Everyday Investors into Mini Quant Funds",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "The AI Shift Turning Everyday Investors Into Mini Quant Funds - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiaEFVX3lxTFBWcTFucDF6RzNEZ1ZrT1BoajJyZkVlM0FDRDF3dlNwQUtvamFuR3hJOU1QZkcwMlltS3l4V1NTT055dDFramZqbzJVWk1tSHNOWV9nY1dacjh0a3BlaGQxc0JWRG4wcy1x",
-      "title": "OpenAI Expands Policy Team Amid Legislative Pressures",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "Exclusive: OpenAI expands policy team amid legislative headwinds - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMidkFVX3lxTE1TNmZKVHpZOTdleTJ5MVFyQjhneXp0dElHWkdQTENwSjBZc3VJYnp5aGttU01VbF9ZUlc1eXFIeGprR3huWTlSRlVRbHpCTDl5R2c2Z1Y1OWl2OFVJSTZZY0s3V3N0OWRLYzdHSzZsYXVnMlo0NFE",
-      "title": "AI Creators Grapple with Understanding Their Own Creations",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "Behind the Curtain: AI creators race to understand their creations - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMic0FVX3lxTE1SaFBKelRIaVZKb3hzeHZPN3ZUZzloM2gzdTZ6RTJPLUhJS084dG1LcGlnUExuX1YtVU9jZWxVLV84VzFCYVhobkxJb0F1SnUyWjJtb2JxM1o0WldJWjFzNGw0RTVyUHZQSS1GVENuMkx5WHc",
-      "title": "AI Models Becoming 'Unknowable,' Raising Governance Concerns",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "AI models are becoming unknowable - Axios"
-    },
-    {
-      "url": "finextra.com/newsarticle/48346/anthropic-launches-ai-commerce-agents-with-visa-and-mastercard",
-      "title": "Anthropic Launches AI Commerce Agents with Visa and Mastercard",
-      "first_seen": "2026-09-06T04:32:01.670406+00:00",
-      "rss_title": "Anthropic launches AI commerce agents with Visa and Mastercard"
-    },
     {
       "url": "openai.com/index/an-alien-mind",
       "title": "OpenAI Chief Scientist Calls for Caution on AI Scaling, Cites 'Alien Mind' Risks",
@@ -953,6 +833,126 @@
       "title": "America Experiences 'Great AI Freakout' Amidst Rapid Development",
       "first_seen": "2026-09-13T04:31:46.136076+00:00",
       "rss_title": "America’s Great AI Freakout Has Begun - WSJ"
+    },
+    {
+      "url": "status.openai.com//incidents/01M2EWYR55J47M2BPG9WC76VEG",
+      "title": "OpenAI Services Experience Elevated Error Rates",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Elevated error rates for Codex and ChatGPT Work"
+    },
+    {
+      "url": "status.openai.com//incidents/01M2DV6788RRSDZ5K98S5HN0A8",
+      "title": "OpenAI Addresses ChatGPT Errors in Europe",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Elevated errors for ChatGPT users in Europe"
+    },
+    {
+      "url": "status.openai.com//incidents/01M2D1CZG0862JB4JHVW56QF89",
+      "title": "Codex GitHub Integrations Face Failures",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Codex GitHub Review and Pull Request Failures"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR",
+      "title": "Trump Opposes AI Slowdown Amid Shifting Political Discourse",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Trump resists AI slowdown as the political tide turns - The Washington Post"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxQOElEaDhNQW5QWVJ5Q0RMQ1M3S3B6OERSdkdoWDE2RGdXVk9XZF9ZOFE0NlY2N05BMzFZZFRBcHlKUkFMTGt2M1B4ODNDMmhtQTFKY0xodVJuRWhMMWYwMlpBZGNzTVZBTUFLMHRMUENiWEJfalVvbWhQOGtLOEdyQW9CZ1dqX1BQakdZbkh6M1RkYWxwMHRn",
+      "title": "Trump Identifies AI Race with China as Key to Regulation",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Trump Sees Race Against China as Key Issue on AI Regulation - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxPc3NTenhlaVBsazZZaUR4TlFZSzl0VzY4aXZqa3BrZHRoQ3N6a3JpR3BpQW5Nc3kzUk5hV1Eydk10SlVLUDRvMDMxRHQ2TlBUVlUxUmp0ZGZzbzlySEIzZ2tWcG1JTzZrMHVLLWdqb2E5ei14d0MzY1FlQmxWSHYzWGF2bkFrRjRkX0ZPUV9LMA",
+      "title": "Lawmakers Acknowledge Rising AI Risks Without Immediate Solutions",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa",
+      "title": "Trump Dismisses AI Concerns as 'Exaggerated' by 'Negative Forces'",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Trump says 'very negative forces' raising exaggerated concerns over AI - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxQc1ZGanNSZFlRMG85RXhGOHRxRXVzLVNDV0haQnV1MlNEdTF0Z2M0YURIcFM3OFVTMmhvRGdMYUxNVlc4R2xMelN3Vk1sU09tUlhLMXM4RktUZnNrdEpZTmYwZm9VTmd4YlhmYl9DZldJd2ZkRlRwWUpqbUJKWm5HUEliT2VHcDg3bi12MEk4QnpTa3pZQzl4RTFHVU1vemZvU2FKQkpnQ0tBaUFkMVdHRGF0OVVYd29oZGlsTnI1VndsTkRYaGNZ",
+      "title": "China's Z.AI Secures $5 Billion in Funding Through Share and Bond Sales",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "China's Z.AI raises $5 billion from new share, convertible bond sales, filing shows - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxPbmduYjZNYlh4TmVDd3dMTzZmU21ud1Q5WVVaYXBOM2hUQ201U2tjeDhoWHd6ZjhlQzdtUWxiNmFibkRpc2VlcmxjbWMzTWljZ0ZZSkF6VHFPWnJVUFQwc2g4RDNtb1FCWjN1R3BBcFRzUHkyTXJiRXZpa0NxV29IWFc1LV9lUXh0bXc3TWNrSHZhT0lPTVU2dEswYWhSVUw2SzFkRkVmSHU0S3c",
+      "title": "Nvidia in Talks to Invest in Anthropic's Potential Mega IPO",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxPcDg3dC1KTGZCUzVUbnNPOGpvSUZHdUhZTlI0eEJjYmdFUE1ZT3RaV29jd3ZJamtjakVRTnNKbE0zcVFETmtSaC1RRXZHTS1GNG56UV8tYkJkbnJpVEVwSzM4MnhpZ3o2bkhkM3Y0aWVNcW1QT0dJVlZoTUlzc0JfaWhvS2phRVE3dVYyYnpzSmJ3UzhZRWVVb0FSblpxUDA",
+      "title": "Anthropic Selects Nasdaq for its Upcoming IPO",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Anthropic selects Nasdaq for IPO, Business Insider reports - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxNWDlyZmc0bTdPci16TFF0TjNaY2lKWWlaamhvMWhjNDU3UmJ3S0cxbmdnSUZFTEQyeHNsSnJOZ1owbVpQZWlDYk04VUlhampOSWNibUFyRTExbGJMSFlndzRtRGJTMlh0b3JaVi1JRXZ6elJyUWl6MlY4cG52LTVIWW5uNWtLMDl3MEl5OTdNWS0tRC1HT2w2d0pBcEgxNlR5S0RDdHpiUGhZY04tcGRZMkpWd3NsbjdfWHV0SW1QeVdCUjZkZTlkc3lJMlphbUxN",
+      "title": "Anthropic Projects Profitability for Second Consecutive Quarter",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Anthropic tells investors it will be profitable for second straight quarter, FT reports - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-14/ligent-technologies-seeks-727-million-in-hong-kong-ipo",
+      "title": "Ligent Technologies Aims for $727 Million Hong Kong IPO Amid AI Buildout",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Ligent Technologies Seeks $727 Million in Hong Kong IPO"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-14/china-spy-chief-warns-of-ai-risks-as-us-tech-leaders-urge-brakes",
+      "title": "China Warns of AI Risks as US Tech Leaders Urge Caution",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "China Spy Chief Warns of AI Risks as Anthropic CEO Urges Brakes"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-14/z-ai-s-cash-burn-drives-alibaba-like-hong-kong-fundraising-spree",
+      "title": "Z.AI's Cash Burn Fuels Hong Kong Fundraising Amidst Market Opportunity",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Z.AI’s Cash Burn Drives Alibaba-Like HK Fundraising Spree"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+      "title": "Asian Chip Stocks Decline Amid AI Slowdown Calls and Higher Oil Prices",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Asia Chip Stocks Drop as AI Chiefs Urge Slower Model Development"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
+      "title": "AI Leaders Face Potential Clash with Wall Street and Trump Over Safety Demands",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "AI Bosses Risk Clash With Wall Street and Trump Over Safety Call"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQLWYtdEVSa2FLcE5qUkpvZTUyRlNzMFBBZGFsanBoVmt0UzJJWE1SNGJwVHRhcktRUUxIZTdGYThjTDd4am5Ca09YNTlKalkydTdreFJrWFRGR3BRZnplU2g0NVEwWDBhNmZNRS10RzRYRndKSm1yaDl0TkVWLUpNX24wLWw",
+      "title": "Altman and Musk Support Dario Amodei's Call for AI Development Slowdown",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQVGpIWkFrLXNOMW52MlJQZno3UmNCMU5jMFVaNjRoOUZDSU1Hc2Q5MzRFaTd5ckVPS2FwR2hmVkNqRDhhcEYtZGxjNUhOLUZDWWR1YzBGY0dYYVI1ek5NVFd2d3hLNzlrN1JnbkE0Wmo5a3R1SUhJaHNzLWJ1Yk1Ib3lvc3A",
+      "title": "Donald Trump Rejects Calls for AI Development Slowdown by Tech Leaders",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "Donald Trump rejects calls from tech bosses for AI slowdown - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE04Y0psbTZjY0gxcWtsS3hlWUtEb3JwYm9RN21KWUYtUjJqX2ZzWFZzNTVJcHFUazVBam1QdmJlU01BUk1hYmk2dFFoRVRqdkptOGFn",
+      "title": "Moonshot AI Files Police Report Amidst Rumors; Zhipu AI Secures $5 Billion Financing",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "8:1 Kr Brief | Moonshot AI Files Police Report Over Malicious Rumors Targeting Founder & Employees, 25 Fields Medal Laureates Warn Against AI Encroachment on Mathematics, Zhipu AI Secures $5 Billion Financing - 36 Kr"
+    },
+    {
+      "url": "wired.com/story/ai-agents-are-thirsty-for-power",
+      "title": "AI Agents Driving Demand for Power, Fueling Data Center Expansion",
+      "first_seen": "2026-09-14T04:31:55.815594+00:00",
+      "rss_title": "AI Agents Are Thirsty for Power"
     }
   ]
 }
