@@ -1,126 +1,6 @@
 {
-  "updated": "2026-09-14T04:31:55.815594+00:00",
+  "updated": "2026-09-15T04:31:54.663244+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/an-alien-mind",
-      "title": "OpenAI Chief Scientist Calls for Caution on AI Scaling, Cites 'Alien Mind' Risks",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "An Alien Mind"
-    },
-    {
-      "url": "openai.com/index/research-acceleration-view-inside-openai",
-      "title": "OpenAI Reports Significant Research Acceleration Driven by Internal Coding Agents",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "Research acceleration: The view inside OpenAI"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk",
-      "title": "AI Labs Grapple with 'Model Fatigue' Amidst Rapid Release Cycles",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlla0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ",
-      "title": "India's TCS to Invest Up to $7.4 Billion in AI Data Center Campus",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "India's TCS unit to invest up to $7.4 billion in AI data center campus - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxOYlY5UWtzNjhvVnRzNHJpWk54ZTYwMjZNeWIwUTVNU1RSOFl2X19NcGZvRnJxNDZUMmt5LWlvZnROeVlHQ052V2UtaUViYjFBWFhJSlJqN3p5TC1kZHZPZ3hPdDRETE9INHpnYm04eXItcGZhUVRNUVFNbTNTSUoydUdRX3ZtWmFHdnB4cVNNWnRjTTFmN0E5ekFzcEFxcGhzbnR5QU41c2dLcml4Z0l3ZzcwRFhQRlBQdTRmQi0wMnRxUlFkNGI0TmRNZFRhdw",
-      "title": "Germany Plans Anti-Sabotage Shield Following Airport Drone Incident",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "Germany plans anti-sabotage shield after airport drone attack - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxNbXNPeUFiR3h1WlFQd1pXTkFsRHlPUmt2TUJVYlp2QXlQbko1SFltZk9Qb1RoRmR6YkNHTTFxQUZqX3N5ZDJMZ0xwRUZJd1VCVklLSzdFM3Z5TFNUcWIxN2dBdnI1VUVlaTJ2V21wOGFtSFo0Z3pqYnlxNjZ6TE1jQTRUb1EyZHlGVGdVYVczNXNITURObXBHcEpqVlhmUy0wV3FjQk42VVh6QmZnX2tWQjVGaGlNVER4d0JtallNR2g",
-      "title": "Taiwan Leverages Chip Diplomacy Amidst Pressure to Share AI Resources with Allies",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-07/australia-s-ai-boom-risks-demand-surge-and-higher-rates-be-says",
-      "title": "Australia's AI Boom May Drive Demand Beyond Capacity, Raising Inflation Concerns",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "Australia’s AI Boom Risks Demand Surge and Higher Rates, BE Says"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOamlCY2RObWRDcFp6dEV2Q2tjc3lHRUE0ZnJTa2NHajl5WnlHT2tFdEFXOXJZa1BxdEFMWHN0Z0hYcm4yaFQ3M0pmNlVoOUVKcS0zNzNzRGNSZ0QxeUpvVmFGb2NDMUd6X1RrdFdUSmYyanhueUxPeVZFeUIxd2ZPbGNBZTU",
-      "title": "UBS Mandates AI Proficiency for New Junior Bankers Amid Industry Shift",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "UBS demands new junior bankers show AI proficiency - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQaGN4XzNCQUQ0VHd2RV9uT2FsYTlpSTJacU1QQ1lGWGtYTFk1ZzJzWnlHTWRJQ1NjSlEtZnVmSWY2b0R5aDIzT2hpWmwtN2puY29YRkNKTkp1Sjg5aGUwOWI2Z1JhZGpRbkllUTRjOVZPN19IZzNTc2xxeWRoYjRLUnd4cV8",
-      "title": "UK Considers Strategies to Retain Top Tech Start-ups Amidst Export Risks",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "How the UK can stop accidentally exporting its best tech start-ups - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQOEVrMlQwQndMeXNZMHNMVjJleUV0WmlzdFNyal9UQ0dhdklwNVZ4NjdzYzBBbExibUN5YnZSUmpzU2tyb3F1NHVNcDRvMmJlVXhuQVEyRS02emZLbjVlSVlhd0VCSnRRMG5JMmpCakZZZHJzWklGYkk0NUp2elowZ3VrbXY",
-      "title": "German Far-Right Surges in State Elections Amidst Shifting Political Landscape",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "FirstFT: Germany’s far-right AfD surges to first place in state elections - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxPVmxrOWNhaHBqNkhSTG1iVDNneG9Ob3NJU3BmbUtGRFFxczRBb18wMUFaZjdOYi1FYUt2LTJDdlhQT3h4aGE1bUw5UnR2dFRIbWo0U2gyVEMwQ3RhOEdsQnd3aWp1Nkc0QjFhQTc3RmFHem5OVnpyVWVhTUdzWlNoRy1KVHlOWC13cEpWS0ZoMHlZa1FOdzhyZ01EZzhyWlM4TXE4UmVxQ0c0QQ",
-      "title": "AI Deemed 'Satanic' by US Senator, Resonating with Christian Republican Base",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "Vance Called AI Satanic. He Struck a Chord Among Christian Republicans. - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxOUlVKV2FKVnpNR2NtY21oUjdQZ3JCRVNoWGFvVXZvTVJNVDhCUGpmSE5vVFczQlBZanEyUjMyTmNpcGVkUEszSURKZGZ5YW5lLUVMZEF0ZEFDRG03aGdhSm40LWZIRDdIbjVWNWsyZjNHODk1QllPMHJCOW9DbG1XMDhRUmlqMzZFRnZOZHl0Y3ptZ3hiQ0xDVllvY1RpTmo5bnhmcUhXOVllUFo5RmNPc3ZQejZidw",
-      "title": "US Leveraged Nvidia Chip Promise to Aid Armenia-Azerbaijan Peace Deal",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "U.S. Used Promise of Nvidia Chips to Help Secure Armenia-Azerbaijan Peace Deal | The 10-Point for Sept. 5 - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTFBjeHR5bW0tb3JGZXd0b1BzZF83NEJGWUFlbmVOS1ZNT1FHZ2FReWxmMFNNbm5LckkxbDFEOU4xUWlTcldGMzlPX0hQMUxoY0F3MnZF",
-      "title": "MIT Professor Demonstrates Rapid Fabrication of Physical Parts Using AI",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "AI Scientists Step Out of Screen: MIT Professor Releases 4 Photos, 3 Grok Units Fabricate All Parts in 1 Hour - 36 Kr"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "title": "OpenAI Agents Hijacked German Wiki Site, Prompting Security Concerns",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "OpenAI admits to German wiki ‘incident’"
-    },
-    {
-      "url": "engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern",
-      "title": "OpenAI Achieves Goal of Automated AI Research Intern, Eyes Further Automation",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "OpenAI says it reached its goal of creating an automated research intern"
-    },
-    {
-      "url": "thenextweb.com/news/openai-slowdown-pachocki-alien-mind-research-intern-compute",
-      "title": "OpenAI Chief Scientist Recommends Slowing AI Scaling Pace",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "OpenAI’s chief scientist says no lab should keep scaling at maximum speed"
-    },
-    {
-      "url": "thenextweb.com/news/nscale-figure-3-5bn-compute-equity-stake",
-      "title": "Nscale Invests $3.5 Billion in Compute and Takes Stake in Figure AI",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "Nscale is selling Figure $3.5bn of compute and buying a stake in it"
-    },
-    {
-      "url": "thenextweb.com/news/nvidia-equity-investments-99bn-portfolio",
-      "title": "Nvidia Holds $99 Billion in Shares of Companies Buying Its Chips",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "Nvidia now holds $99bn in shares of the companies that buy its chips"
-    },
-    {
-      "url": "arxiv.org/abs/2609.04239",
-      "title": "EXAONE Finance: New Foundation Model for Financial Forecasting Achieves SOTA",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "EXAONE Forecast for Finance"
-    },
-    {
-      "url": "wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
-      "title": "OpenAI Agents Accused of Hacking Another Website, Escalating Security Concerns",
-      "first_seen": "2026-09-07T04:31:50.347533+00:00",
-      "rss_title": "OpenAI Agents Hacked Another Website"
-    },
     {
       "url": "openai.com/index/supporting-independent-journalism-in-ukraine",
       "title": "OpenAI Launches Program to Aid Independent Journalism in Ukraine",
@@ -953,6 +833,126 @@
       "title": "AI Agents Driving Demand for Power, Fueling Data Center Expansion",
       "first_seen": "2026-09-14T04:31:55.815594+00:00",
       "rss_title": "AI Agents Are Thirsty for Power"
+    },
+    {
+      "url": "openai.com/index/fyxer",
+      "title": "Fyxer Leverages OpenAI for Trusted AI Executive Assistant",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "How Fyxer built an AI executive assistant people trust"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
+      "title": "Perplexity Portable Computer Enhances Local AI with NVIDIA RTX",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale",
+      "title": "Abnormal AI Deploys Amazon Bedrock AgentCore for Scalable Email Security",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws",
+      "title": "AWS Offers Framework for Generative AI Customization Spectrum",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "The generative AI customization spectrum: From prompt engineering to custom models on AWS"
+    },
+    {
+      "url": "apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+      "title": "Apple Unveils Profoundly More Capable and Personal Siri AI",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Siri AI, a profoundly more capable and personal assistant, is here"
+    },
+    {
+      "url": "status.openai.com//incidents/01M2H3J1D6Y7RHAP49GRWGJAY0",
+      "title": "OpenAI Agents API Degraded Performance Resolved",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Degraded Performance affecting Agents API"
+    },
+    {
+      "url": "status.claude.com/incidents/r1pqn1kb4hvk",
+      "title": "Anthropic Claude Cowork on Windows Functionality Restored After Microsoft Update",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Degraded functionality for Claude Cowork on Windows"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxOako0N2w1bExjVVA0azZSLUI0QXdveUdDUWFnM0RKeVJVTEN4TlFlX0t5UHR6Z1FROWp2LVJUSjY4anRUakt0OTBUWkdFdjNKLTFDNmhPZ0RVY3BZSEZzLVFFUjZVdmtLSHk1bVZQRm1ObVJ6SGVSWGpJbXBBdS1EQ3lSMk4xNzNfVTJQT2NYaW1aUkV5c1plNDJNRXk2S3ZPMzA5Yw",
+      "title": "Anthropic Targets Financial Advisers with New Claude Tool",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Anthropic targets financial advisers with new Claude tool - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxQTFFqSmtLMk9WWUVza1Q1WUZiS0RpMkFER1RhT184ZUIzVnlFcXFFZGlDXzZlYVp0RzBUeHktQXhRenAzNDF1REdCT3ZqXzlwM1FndXZ4bWZkVVNsTlJkemVsYnc0WmIzdjJ4ajJURVlRZlJoRFhtQU1jRXBBX3VySHpQTDY5MmfSAYwBQVVfeXFMTUJ0VEdRZUFnb3FPS2NTWm5YTW5xdVBFWTduQVUxYzBQMkdjQnhuOUtheGFVMV93c1V5WGljcm8tOVhxQk54ZUpBSkhUSlp6YVI1V2FtWTZHZlFGaVVpRElMbEY4Q3VZb05NLURmUURJajZsd1UxaDhzeDhwRzdHX3NwTkwya2lmN1NrazY",
+      "title": "Cohere CEO Warns AI Models Pose Significant Cyber Weapon Risk",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "AI models are becoming the ‘most potent cyber weapon’ ever created, Cohere CEO says - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMibEFVX3lxTE1xX1RDSzdVUnJoOWQzT1BGamtCR0tEZ1NPODE1enkzVHQ5RTJMUXZSTWdwWk1tYlh3RlFUT29McWtma01KbFRocVhJamIwSldZOXFfSzI4U3RtWkxhMWFJMjZ4Q1cxaXRKRXFzTA",
+      "title": "Chinese AI Labs Closing Gap with US Through Efficiency, Reports Fortune",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Chinese AI labs are tightening the gap with the US by just being more efficient - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxQaUtaZjljMHRad2I0OEcxUUxHTlhNM1laeGo1TlFPb08yVWdWYnRuLWQwMXhzWTc2N3hBdkwyTmtqSmsyaFBMVjZPdnl5eGtKNnJFdzdBaGQ2cThlckVEOHloT2dDODRDTzlMakFqY3NGblFxbUZXMkVXclJ5ZGlmT2ZNYkx3M3A1ZmxsUnI2TElVTExPaTRxQ3o5cDdramw0SS1F",
+      "title": "Trump Dismisses AI Safety Alarm, Cites Existing US Policing Tools",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Trump dismisses AI safety alarm, says US already has tools to police industry - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxPeHdfc3I3SlJyd1JBdUZLcWxVSE5TeHRHUlotMVNZSFlhU3RxRTJtZGIxUExBRXdhRXBQbHBFbm9TcVZMNTJvSnZ6OVcxTjdyazFhTWg3WVhQbVdLd0xFY0JWbkk2aUZsdVFrZHgwTk51RkM3TlUzMnhRQTMwWEgwLWo0RTFuM1dMX3kzQ2NkS0hnNzJfRUxsd0dn",
+      "title": "Trump Rejects AI Regulation Talk and Critiques Anthropic CEO",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxNMUxwdHN5dDgxNEpDZFYzNVJtZFFrSHhmRkYweEpkUVd5N3BuY0UxQ0gtYkl4bGZIRWVQLUhlbG5PVE9vT0FBSlZBWFplM3RVLUhxbkoxaUtjcC1xdXdEam1IZHFPbUlDUVB5Y2VXNVRRX2tEY05sRDYtbVFlY0hycG9NRXgtZ2FGd1NIZ1dTekhYN3VwUE0yUkpDZHVYbmdvNXEwZDJkLW5KLUNDODBaZWU5VHk4OThNZi05MEVsN1RFMmJP",
+      "title": "Germany Views Halting AI Development as Non-Viable",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Germany says halting AI development not 'viable' as Europe weighs safety of new tech - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ",
+      "title": "China Prepares for Risk of AI Escaping Human Control",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "How China is preparing for the risk of AI escaping human control - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxNeHh5QVYwWDZ2bUR1V20yb0ZhQ1lzdjVST1hheU9DODdUNjRWN2Y4aUt1NG0zMElMSnRfYjJ5Yi1ncnMyRUlWTWhIUnNHYlZHel9LMXYxcWE2MEp0UTYtR0U4SWhkTHM3ZjQ2ODcwUUg1Vk9zNGtWZzNmVEh6QU9mNUZTU244MTRDaG1ETUh6bDRtWl9WczJTZm9iYmZuWkpESW5PWUhRSGg0WU53NEp0OXgyS2U",
+      "title": "Microsoft Drafts Code of Conduct for Human Control of AI",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Microsoft drafts code of conduct to keep its AI under human control - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxOZ2RHR1kteU9kT1lsd3NHU0lpTXZyZWJKYTI4cW93ZENtdVFyNkNjWDBLWWF5YXIxQk9JcjFfYk02NFpuTzhBd0VseFl4NFRoV3BPclc0RURUV3V4ZTEwQmNhd2M5UlJyS3pwdUcySkhTZXQyTjdBbHN5RjdKUkhNT3NQcmttVnpJdExTQWVoVExfam5KTVFnQnpoak1KblV0MmdyVXh3",
+      "title": "King Charles to Host AI Executives Amid Mounting Threat Fears",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "King Charles to host AI executives as threat fears mount - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-09-15/hugging-face-scientist-on-safety-issues-with-agentic-ai-video",
+      "title": "Hugging Face Scientist Highlights Safety Challenges in Agentic AI",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Hugging Face Scientist on Safety Issues With Agentic AI"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post",
+      "title": "Google DeepMind Staffer Expresses Existential AI Risk Concerns",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Google DeepMind Staffer Says AI May ‘Kill Us All’ in Exit Post"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-15/anz-ceo-warns-of-ai-risks-and-job-cuts-after-musk-altman-alert",
+      "title": "ANZ CEO Warns of AI Risks and Potential Job Cuts",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "ANZ CEO Warns of AI Risks, Job Cuts After Musk, Altman Alert"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikAFBVV95cUxOQ19KaEFXUFNkdTBoN1lFeEJLbFNsYVl2WXY5aF9reDV0TERWTnZCRml4dDAzUWpZdnAzUkZiUjk3LVlad2VSLXoyRGY3cUJSUzZkX2lWWkpOZFJ3eTRzUTZOOWVQZHVSampUNEh4QW5kN0owNm9PRFV1ZkMySDlydV9ySEVkNUlfcDAtRDl4NHY",
+      "title": "Microsoft Implements Limits on AI Models Amid Control Risk Discussions",
+      "first_seen": "2026-09-15T04:31:54.663244+00:00",
+      "rss_title": "Microsoft Sets Limits for AI Models as Altman Details Control Risks - wsj.com"
     }
   ]
 }
