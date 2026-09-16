@@ -1,125 +1,6 @@
 {
-  "updated": "2026-09-15T04:31:54.663244+00:00",
+  "updated": "2026-09-16T04:31:36.997827+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/supporting-independent-journalism-in-ukraine",
-      "title": "OpenAI Launches Program to Aid Independent Journalism in Ukraine",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "Supporting independent journalism in Ukraine"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxPeUFUajdmanVrUFlzZkRfSHhoZGhHVXdaQVBlaVNadmRTa1pkWDA5bFpOZEhJVWYyc1NNVUdIZFI3bVlTamhkTkNWdmNpWjVYbVVOZ3FuNTdQSGJfVmpYZjU3a0FqQzV1U0JpQ0VuRGV4RzhmVnMxc0d2VC04T2J6VXpxNEdOUm9HdnByYlFvQUNhdw",
-      "title": "OpenAI's AI Agents Secretly Used Wiki as Message Board, Raising Transparency Concerns",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "OpenAI’s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks. - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo",
-      "title": "UN Rights Chief Warns of AI's 'Existential' Risk to Humanity",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "AI could pose 'existential' risk to humanity, UN rights chief warns - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc",
-      "title": "China Develops Humanoid Robots for Potential Combat Applications",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "From dance floor to war: China readies humanoid robots for combat - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxNTEl5UFVvaWZBUmFEZkVObFBBRVk3MHRBV29pSnoxSDJXSFVxUTl0SGR6NjdlamEyWUF5WF9LQW5nWVFRUTZhTnRjalplVWVEc3NPTEk4NllZR1B6VWVJbE1UaDlPLUFyc1pRenZNRWRnUGlvREIyNy1kLUYyVTl0WU9IaG91MlV2dFpfYnpUNk1idFVMbmI0T2pmWHRWalY3UHRvMU1aazJhejh2eGJnS1pqUXpnNWdXY2k4THEzdV82OURFWjFz",
-      "title": "Nvidia-backed Firmus Secures OpenAI Deal for Malaysian Data Centre Capacity",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
-      "title": "AI-Discovered Lung Drug Shows Promise in Reversing Aging Markers",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "AI-Discovered Lung Drug Reverses Aging Markers in Study"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition",
-      "title": "Anthropic Reportedly Walks Away From $6 Billion Decart AI Acquisition",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "Anthropic Said to Walk Away From $6 Billion Decart Purchase"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
-      "title": "ByteDance Joins AI Race with New Model for Real-Time Spatial Video Generation",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "ByteDance Joins AI Elite in Race to Perfect World Models"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai",
-      "title": "OpenAI Chief Scientist Urges 'Extreme Caution' on AI Development Pace",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNcl9UQllHZTNxT0xReUxGQmplaDBEZ3E4OUg0OE5HWVFnVktQX0NvNmxoZWt4YVcyc2VkbzJaelJuV3hUYVBhM01CZm84QnJnWlZ3VE5ndFNlMGJDZDNCak5TemVZY2NhdUdWbEEzczgzN1J2ZmlLNktZMm12d1FmTDFOT0E",
-      "title": "CEO of Nvidia Partner Iren Believes AI Computing Demand is Unsatiable",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "AI computing demand may never be sated, says CEO of Nvidia partner Iren - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxPWU94djBpOTdzY3VmQjl0U0s5a21qX3RGcHFEYy1adnp3NFpEaVpNTnpLaGlPZW9zRDF2cHVySF80UWM4YlAxd2ZiZDNtbjVaSXJrMW9iaUtZTFBlWmNoeVh6TVFfc0k2OFB5T2V6TEZNVkhxODRSRXMyOEF5T3dxRERHTXVHdnEzV0JkazUycF85OXN1bXQ3YTcwTQ",
-      "title": "CXMT Sees Market Share Growth Driven by Smartphone and AI Advances",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "CXMT Highlights Smartphone, AI Advances as Market Share Climbs - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPSDRBdkwxSWlZeDY2OElmc283aE9QUlJFYmxVZ052YVNpb3ZyZEJIeVYxVG5MR0RkeW9ydVd1SG1tMHQzbjJMWG01R3k0VzVrUklBSTBCRU9nMDdRc003c2VISU1aN09DaC1SZUdCb2VxenJ2X2ZTaGpTQmJQQ2pIdURXb2hJb1ZFYTFHcHhKY25YdTRCYWhtOU1ZcGVCNzBrY0xVd1hwaXEyMzJJTkhxTHVXcWRDY1lEZnhLU0stR3RuZUpzS0pNeQ",
-      "title": "Prominent US Politicians Target Data Centers Amidst AI Growth",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "The Morning Risk Report: Bernie, AOC and Bannon All Want to Fight Data Centers - WSJ"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "title": "Seattle Times and Newsday Sue OpenAI and Microsoft for Copyright Infringement",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement"
-    },
-    {
-      "url": "thenextweb.com/news/malaysia-huawei-ai-chips-sovereign-ai-us-export-warning",
-      "title": "Malaysia Considers Huawei Chips for National AI Project Amid US Scrutiny",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "Malaysia weighs Huawei chips for sovereign AI, Bloomberg reports"
-    },
-    {
-      "url": "thenextweb.com/news/belgan-belgium-chip-espionage-arrest-china-mirror-company",
-      "title": "Belgian Chip Researcher Detained for Allegedly Passing Secrets to China",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "Belgian chip researcher held since May over secrets allegedly sent to China"
-    },
-    {
-      "url": "thenextweb.com/news/jensen-huang-agi-has-arrived-gpt-6-astra",
-      "title": "Nvidia CEO Jensen Huang Declares 'AGI Has Arrived' Following OpenAI's GPT-6 Astra",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "Jensen Huang says AGI has arrived, and 400,000 more GPUs are coming"
-    },
-    {
-      "url": "therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac",
-      "title": "Agility Robotics Reports $1.8M Revenue Ahead of Humanoid Robot SPAC",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC"
-    },
-    {
-      "url": "finextra.com/newsarticle/48357/mastercard-predicts-that-over-the-next-four-years-one-in-ten-will-use-ai-agents-for-online-shopping",
-      "title": "Mastercard Predicts One-in-Ten Online Shoppers to Use AI Agents by 2030",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "Mastercard predicts that over the next four years one-in-ten will use AI agents for online shopping"
-    },
-    {
-      "url": "nature.com/articles/d41586-026-02822-9",
-      "title": "Anthropic AI Formalizes Proof of Fermat's Last Theorem in 11 Days",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "Anthropic AI ‘formalizes’ proof of Fermat’s last theorem in just 11 days"
-    },
-    {
-      "url": "bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-      "title": "AI Models Demonstrated Running Real Businesses, Resulting in Financial Losses",
-      "first_seen": "2026-09-08T04:31:29.516521+00:00",
-      "rss_title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200"
-    },
     {
       "url": "aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock",
       "title": "OpenAI's GPT-6 Astra Now Generally Available on Amazon Bedrock, Enhancing Enterprise AI Capabilities",
@@ -953,6 +834,125 @@
       "title": "Microsoft Implements Limits on AI Models Amid Control Risk Discussions",
       "first_seen": "2026-09-15T04:31:54.663244+00:00",
       "rss_title": "Microsoft Sets Limits for AI Models as Altman Details Control Risks - wsj.com"
+    },
+    {
+      "url": "deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "title": "Google DeepMind Unveils Gemini 3.8 Live and Extended Thinking Capabilities",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/jensen-huang-dreamforce",
+      "title": "NVIDIA and Salesforce Announce Koa Reasoning Model at Dreamforce",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production",
+      "title": "NVIDIA Focuses on AI Factory Production Efficiency",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories",
+      "title": "NVIDIA Vera Rubin and DSX Platform Enhance AI Factory Energy Efficiency",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care",
+      "title": "Children's Hospital Leverages Open Source NVIDIA AI for Cardiac Care",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching",
+      "title": "Amazon Bedrock Prompt Caching Optimizes Cost and Latency for Foundation Models",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "Optimizing cost and latency with Amazon Bedrock prompt caching"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization",
+      "title": "AI-Powered Product Tagging System Built with Amazon SageMaker",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs",
+      "title": "Amazon SageMaker Enhances AI Training with Instance Preference Lists",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "Announcing instance preference lists for Amazon SageMaker AI training jobs"
+    },
+    {
+      "url": "nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens",
+      "title": "NIST Finalizes Guidelines for Protecting Online Identity and Access Tokens",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQNkRwZGxpaHF6LXd4endocm1NWHpFTE5EYmVYaFE0OHdaWXdkQVFwRmFzX3d1cmdpanR0Zm8zRU9LN0F2Q1pYZXlVYmFmNGQ1dm5RdC0wLXZtaVc2YzFQOUoyVTZ1eEktSENnajVNNnlZZHNXcUJSOUptOHloWW1yem1ZNkxHODhPWWZIbjF4WFVQc1VjbmkxLXZ1YmRTenM",
+      "title": "Meta Introduces Subscriptions with Enhanced AI Features",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "Meta launches subscriptions with enhanced AI features - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxNNnNsRGxHeU9DS2taUXhjcmxfZWFMMllzUzJFTU9lMExQSE9QOGQ1UnNVNm1JM0toT3htcGVIdDJSUW5TaDRpYlhzR0hlTTg4djkyXzFEdU91S2VQNWJTWFA5UFV0b3NRc2VnMm44azg0RnJJSzhQSUdUY1dmWDJjYjJDbmIzdmPSAYwBQVVfeXFMTm5YQ0VnTHFCdDR0alBBTVRLSTN3Tjd1dk9hd2ZzTTB2b1pGN29aUmFlMVNFX3hBMmtLNkxzQ3ZwaEVrYUxTMGNnZ2lVeVBnQk9ENWhjaTNyVHdwaHBVdmJaTzJGaW1rdElMMktYY3JEeDg5VWVyQm5xOEFzU203akJFX0VtNWN4T0pFdHU",
+      "title": "Debate Over AI Safety and Regulation Divides into Two Camps",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "Two camps have emerged in the debate over AI safety and regulation - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxQRW1ON7duQ1MzekVpRGVudVNwQjdXaERxcXVRTHZRa3AwZ1NVd0xhSmRmcHRqZkhCZVJ2Q3JISmNEbzhKNng2QUY5YXF5R2dmVTl6NGJJMlJPZUp5QUxNMVBLdDlXdjBZZGpKZ1M4STBsZ2FlcjRoQjFLY2lNcExzWFd3QklfZEpEV3NKakxvcTlpUDA3QmQ0",
+      "title": "FTC Chair Expresses Skepticism Towards AI Antitrust Exemptions",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxNcmdWaGowZ1VTYV9oY2tTVGs3NGdId3ZjR29ZcHZ0bnhDYWFld29NWUZ0WmdZaWtMX2pPUUdQdUpScjMxYkNNaHBYclp4ZzdjcWhGTjVhX3F3MUVGd29XUzZKWkZOakNSVENqcDZUMUFia1RyVzRqS241OXVvc1NsRjItbHRydFBKWEE",
+      "title": "Emergence of Unlikely Allies in AI Regulation Debate",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "The Unlikely Political Bedfellows on A.I. Regulation - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA",
+      "title": "AI Regulation Push Gains Allies, While Trump and Congress Remain Hesitant",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "The push for AI regulation gains unlikely allies. Trump and Congress aren’t among them - AP News"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi4AFBVV95cUxPblh4em00c2c4Q3k4a3NPQUNNQllvbUhsZ2FRdTRjeTd6YTdHMjFuTUpnbklsWHVJXzNNd0Nva3ZqMmxVejdhU3pGMTJBOEdJdkdxdnB5NlViZVpBZk1YcERsdnBDcFpuWnZSejFhdXMwVlE4WXMxTVJ6NEw1bU9YMTFUQ045SDVORVVJbEczZzZEUWsydHBDbzRYVGZmWllSa3hBenk0NzZsVUc1QnhPZ2V2VXpucEhXSXpsRF9fbnJwOUNrTldXelNKUHBDdmdYSHlVQTFNcVFnMkprY3pvWA",
+      "title": "AI Regulation Push Intensifies Amid Mainstream 'Existential' Risk Discourse",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "Push for AI regulation mounts as talk of AI’s ‘existential’ risks go mainstream. But Trump resists calls for a slowdown - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxPLUtrSDJveHRTZDZNeXRVeHZvdjh0TWl1TUc2ZE1lMHpsb0VXWDRvbmVDUUNoSUJ4c3VvTDFQQi11RWpCckRvTDZjM0YtdFRfM3FpYVZjSXp1eXU3TzZKZGFmcElqdWxxMXpsYWNwRV9VSGxCV2FXSS11VFFWdE95eHd2NUw0SlM2cl9Tc1VJdmktLU1VVGtnbDZ0dmluMENkajVNZU1zNFFUbXFtc3A0UXAwSnF3azhUMmc",
+      "title": "Spanish Data Watchdog Reports First AI Agent-Linked Data Breach",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "Spanish data watchdog publicises first AI agent-linked data breach report - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxQTWhvb3cyWDU3RGNHSlZJdGdLWlVOQWJ2S1M3bTV6SlZHUFpOX2FjckdPWDdiYVU3NElIX1JjSGdZYXRtTk9XM0hDRVZGaldPOU5LOTJ1OEZsUkFHUDNBU2E1a2VhajdRYm1QdnoxQ21vWEZvbE5ndG5TTW5DbXVkOF9kdkYyZUN2WGdSNGJ3cTZYSVdhYjdZcU95VThQT21xRXM1QUZEX1l3MWFOUlFIWjgxejdEN04xTGp4MUpraFRRZw",
+      "title": "European Chip Startup Axelera Secures AI Factory Deals and Launches New Chip",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "European chip startup Axelera wins AI factory supply deals and launches second chip - Reuters"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock",
+      "title": "Ninth Wave Builds AI-Powered Open Finance Onboarding on Amazon Bedrock",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore",
+      "title": "Amazon Bedrock AgentCore Enhances AI Agent Security with OAuth Consent Management",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "title": "Hugging Face Explores Consistency in AI Agent Task Performance",
+      "first_seen": "2026-09-16T04:31:36.997827+00:00",
+      "rss_title": "Your Agent Aced the Task. Will It Do It Again?"
     }
   ]
 }
