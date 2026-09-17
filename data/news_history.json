@@ -1,241 +1,6 @@
 {
-  "updated": "2026-09-16T04:31:36.997827+00:00",
+  "updated": "2026-09-17T04:32:56.726025+00:00",
   "entries": [
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock",
-      "title": "OpenAI's GPT-6 Astra Now Generally Available on Amazon Bedrock, Enhancing Enterprise AI Capabilities",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock"
-    },
-    {
-      "url": "openai.com/index/navier-stokes-solution",
-      "title": "OpenAI Announces AI-Generated Solution to Navier–Stokes Millennium Prize Problem",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "On the Navier–Stokes Millennium Prize Problem"
-    },
-    {
-      "url": "openai.com/index/introducing-chatgpt-images-2-5",
-      "title": "ChatGPT Images 2.5 Enhances Personalization and Quality in AI Image Generation",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "Introducing ChatGPT Images 2.5"
-    },
-    {
-      "url": "deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-      "title": "Google DeepMind's AlphaGenome Atlas Maps 9 Billion DNA Variants, Advancing Biomedical AI",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ",
-      "title": "Meta Launches 'Muse', Positioned as the World’s First Personal AI Agent for Everyone",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod",
-      "title": "Pathway Develops Brain-Inspired AI Architecture on Amazon SageMaker HyperPod, Sets Cost-Efficiency Benchmark",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxOcjJnSk5fZG5tQ18ydkxneV9ORkc3M0FsS0xLYW5xS192eDUtYVE1TXpNdW1kS0lHWUh3dmVCQVFrYmpGSlIyVm9iXzhVdDVWZUlkd0x6X0F0MWNoS2RIZXMxS24yeDVsOVFBeVdMclVPZ1g0eVY5UWVGX1BfcUQ4Rk9aenNjMnR6UXI2WEF2Q0Ezb1RsZDhoWEJZZlJUZ3lWaENQd01iS3YwbkNHWXNIZw",
-      "title": "Mistral AI Valuation Soars Past $24 Billion Following Samsung-Led Investment Round",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQTjlnSWVPWm84bENtZ1VsbERndnh6dS1FaTVLVDl6bzNuTmhHa0stNms0ZHdJV09oYUFURkk5cFZ4MFpla2ZUVnlQU19SeWVEclZaR0lLRnhrV0szeXJZblZ1LVdKN0tvSDJRQ1pkWVJab3RTZ192Q1FaUzgza05fRnZDY2U",
-      "title": "Mistral AI Secures Record €3 Billion Funding Round Amid European AI Race",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "Mistral raises record €3bn as Europe strains to keep pace in AI race - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn",
-      "title": "Anthropic Researcher Resigns Citing 'Out-of-Control' AI Fears Amid Safety Debates",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - wsj.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxONnJKcDF6a1hkcmpscnNFcVZMd1BvamNUMDdXWThhQUxYaG1EdEt4X2FYXzJNbVk1T0NUc2dGM1FWYmpzalJsa1BvVG5zeXhRY0xmdnhPb1NwWnFhSU8tQVZCcEZScmUtRGp3U1dKRW5aTERJd2k4NVFpV2EzZ3R6Z29zaHl6TjNNallUWVNR",
-      "title": "Anthropic's Planned IPO Nears, Signaling Maturation of Frontier AI Market",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "What to Know About Anthropic’s Planned IPO - wsj.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxPNm9Dck5iY3gydVpGQlBFVU5mcF9oa0Qzd0Y5OWN4ZjRVb2huWDBWeFVUeXhQejZZTkdUd3JfZDhZN095X21HODJSdnJ4MVhyMjZQWjVuSXJrM1dMN3dZdkcwMG1NMnB0V05ENDhoN2hKakZLZDExczNYNUlEXzNFcXVQTUdNMDI0THVKYWxuc3dheVBMNUpqdGNHcENOMlJyb0hPVnFTM1JYZURNOWM2dnktUGo1Q3JtdlBpb29uUF9jNVRlVnlR",
-      "title": "OpenAI, New York Times Copyright Lawsuit Poised for Key Test of AI Training Legalities",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOMndLNHd3NkVkNmtTb3NMSlh3emJ5VTVZamVfaEUzVmhheFdrd1NIMjFsVnJnRHJfQWJ0M09BOEMzY25mNVFYZFZPWWY0cHpiMjM3RFQzclFIZk9RNW5ERmdkaUpEUlhMUXY2SW9XVnQtby0yMko0MUY3LS1oUF9PeWtpQQ",
-      "title": "AI-Powered Hacking Tool Breaches Phones Without User Interaction, Raising Security Concerns",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "A Hacking Tool Built With A.I. Can Breach Phones Without a Click - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGhwLQ",
-      "title": "US Accuses Chinese AI Firms of 'Malicious' Copying of AI Technology, Escalating Tech Tensions",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk",
-      "title": "Anthropic and OpenAI Bankers Push for Top-Tier Credit Ratings Post-IPO",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times"
-    },
-    {
-      "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math",
-      "title": "OpenAI's Navier-Stokes Solution Mired in Controversy Over Verification and Credit",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "What OpenAI’s latest controversy tells us about the future of math"
-    },
-    {
-      "url": "wired.com/story/openai-navier-stokes-math-discovery-academics",
-      "title": "OpenAI's Major Math Discovery Claim Challenged by Academics Over Propriety and Verification",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "title": "Drama Swirls Around OpenAI's Navier-Stokes Solution, Highlighting Verification Debates",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "Drama swirls around OpenAI’s legendary mathematical milestone"
-    },
-    {
-      "url": "engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy",
-      "title": "OpenAI's Navier-Stokes Controversy Highlights Murky Credit for AI-Driven Math Breakthroughs",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "What's going on with OpenAI and the Navier-Stokes controversy?"
-    },
-    {
-      "url": "thenextweb.com/news/openai-navier-stokes-claim-verification-credit",
-      "title": "OpenAI's Navier-Stokes Claim Lacks Published Proof, Contrasting with Machine-Checkable Preprints",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "The mathematicians published machine-checkable proofs. OpenAI announced its result on a call with reporters."
-    },
-    {
-      "url": "thenextweb.com/news/qualcomm-amazon-4bn-warrants",
-      "title": "Qualcomm Issues $4 Billion Warrants to Amazon for AWS Custom Silicon, Powering EU AI Gigafactories",
-      "first_seen": "2026-09-09T04:33:33.300492+00:00",
-      "rss_title": "Qualcomm hands Amazon $4B of warrants to build custom silicon for AWS"
-    },
-    {
-      "url": "openai.com/index/gpt-6-astra-next-generation-work",
-      "title": "OpenAI Unveils GPT-6 Astra for Advanced Business Intelligence",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "GPT-6 Astra: The next generation in intelligence for work"
-    },
-    {
-      "url": "openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "title": "Paul Christiano Joins OpenAI Foundation Board Focused on Safety and Standards",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "Paul Christiano joins OpenAI Foundation Board"
-    },
-    {
-      "url": "openai.com/index/codex-quantum-computing-experiments",
-      "title": "GPT-5.6 Sol Accelerates Quantum Computing Research",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "How GPT-5.6 Sol helps run quantum computing experiments"
-    },
-    {
-      "url": "openai.com/index/the-work-now-within-reach",
-      "title": "OpenAI Highlights Economic Growth Through More Capable and Affordable AI",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "The Work Now Within Reach"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/deploying-qwen-3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm",
-      "title": "AWS SageMaker HyperPod Deploys Large-Scale Qwen Model with vLLM",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026",
-      "title": "August 2026 AWS AI Builder Updates Include Long Context and Extended Agent Run Times",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "ICYMI: What landed for AI builders in August 2026"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore",
-      "title": "Heurist Finance Leverages Bedrock AgentCore for AI-Native Investment Workbench",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "title": "IBM Releases State-of-the-Art Granite Time Series Model",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license"
-    },
-    {
-      "url": "apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
-      "title": "Apple Unveils iPhone Duo, Signaling New Product Strategy",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "Apple unveils iPhone Duo"
-    },
-    {
-      "url": "apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
-      "title": "Apple Enhances Health and Fitness with Apple Intelligence Integration",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "Apple advances health and fitness capabilities using Apple Intelligence"
-    },
-    {
-      "url": "apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
-      "title": "Apple Watch Series 12 Introduces Advanced Health Sensing System",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System"
-    },
-    {
-      "url": "apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
-      "title": "Apple Launches AirPods 5 with Advanced Open-Ear Active Noise Cancellation",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw",
-      "title": "Meta Launches AI Agent Capable of Cross-App Task Execution",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxNdlB6ckhOUjNOZ3VfSVNXTVBvQWlkLTRiWUwxLU1KZG9fT0t3QVI5U043NS1pdGp6UHpCM0hjTHFzZm5OelhkWVdZbkY3RnBBbEdCVnFTXzhJNl8yTW4tOHo5UzU3SEU5VW0xNFZnQkhCNjJzWVVWTmZEQUhsUVNYalpYNnpIZUo1S0UxNEF0MHFpalVablBwWFF1ZDE5V25OSDIzd2tadlZqdU9xdDFQc1YwR1FxNW91aDJKeHNaeF9iQQ",
-      "title": "Legal AI Startup Harvey Achieves $15.5 Billion Valuation",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxPb0VVN1VjMFR5bUpFTTNWSG55MDhPUnlBNTRuanVCWHpPeHNHRVg0eGNIRFZiLTd0eVZ5TVM5NjdMLUFoNFp3WjV2eWlqQ2JzWmV2Vk12bzlBYnFoWWJ1M1JjRmtXTWFzYnQ4OFF2SkpIT2lJSkRuLVNjNGtLRWVpS1otUi1EVlY5VklsY19lRQ",
-      "title": "Cohere CEO Urges National Control Over AI to Prevent Disconnection",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "Cohere CEO says countries need more control over AI to avoid being ‘switched off’ - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE",
-      "title": "Google Commits $15 Billion to AI Infrastructure, Secures Finnish Nuclear Power",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiywFBVV95cUxOY2o2VUItNFg5QW81Z1pGUDRZejdleV9jLXpNTTRFWWd6aHVrRkEzYk04dHIwUU1DcXNBc2pGQ2hFU01UNUtkZVBseGd1RE9SdGotVkxnLWZoYk9BQ2owaHZKZ1NNQTEtUDdaSzMtZXFMcnB2RXNtbjBEMXhwUGJhQXgtNmZLTHNnODdPTVNYZ3c1ZXZJclUzOWJBTkZuaVREVWN3a2Z0TUh5MjY4MmFsTWMyWEdIVWF6LXNWQVpELXR1SXFucUNhQ3Nzbw",
-      "title": "OpenAI and Samsung Partner on Next-Generation AI Chips",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "OpenAI says working with Samsung on next-generation chips, deepening cooperation - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ",
-      "title": "US Accuses Chinese AI Firms of Malicious Technology Copying",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxPNm9Dck5iY3gydVpGQlBFVU5mcF9oa0Qzd0Y5OWN4ZjRVb2huWDBWeFVUeXhQejZZTkdUd3JfZDhZN095X21HODJSdnJ4MVhyMjZQWjVuSXJrM1dMN3dZdkcwMG1NMnB0V05ENDhoN2hKakZLZDExczNYNUlEXzNFcXVQTUdNMDI0THVKYWxuc3dheVBMNUpqdGNHcENOMlpyLUhPVnFTM1JYZURNOWM2dnktUGo1Q3JtdlBpb29uUF9jNVRlVnlR",
-      "title": "OpenAI-NYT Copyright Case Set to Test AI Training Laws",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "OpenAI, New York Times case tees up key test of AI training under copyright law - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-10/doj-probes-nvidia-s-license-deal-with-groq-on-antitrust-concerns",
-      "title": "DOJ Investigates Nvidia's Groq Licensing Deal for Antitrust Concerns",
-      "first_seen": "2026-09-10T04:31:36.559522+00:00",
-      "rss_title": "DOJ Probes Nvidia’s License Deal With Groq on Antitrust Concerns"
-    },
     {
       "url": "openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "title": "AI-Powered Antimicrobial Discovery Accelerates Fight Against Drug Resistance",
@@ -953,6 +718,126 @@
       "title": "Hugging Face Explores Consistency in AI Agent Task Performance",
       "first_seen": "2026-09-16T04:31:36.997827+00:00",
       "rss_title": "Your Agent Aced the Task. Will It Do It Again?"
+    },
+    {
+      "url": "openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "title": "OpenAI and AARP Partner to Empower Older Adults with AI Skills",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Helping older adults use AI in everyday life"
+    },
+    {
+      "url": "openai.com/index/reimagining-advertising-with-ai",
+      "title": "OpenAI Unveils New AI-Powered Advertising Experiences and Integrations",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Reimagining advertising with AI"
+    },
+    {
+      "url": "openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "title": "OpenAI Introduces Tools to Link AI Usage with Business Value",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "How to connect AI usage to business value"
+    },
+    {
+      "url": "openai.com/index/model-misalignment-reporting-framework",
+      "title": "OpenAI Publishes Framework for Reporting Model Misalignment",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Our framework for reporting model misalignment"
+    },
+    {
+      "url": "openai.com/index/unlocking-new-ways-of-working",
+      "title": "New Research Highlights AI's Impact on Evolving Work Practices",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "How workers are unlocking new ways of working"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+      "title": "Google AI Showcases Initiatives for Societal Impact",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "AI for Societal Impact"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+      "title": "Google AI Develops Advanced Models for Global Language Understanding",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "AI for everyone in every language"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxQMjk1X0RPQVJ6YXU1a08yWGRzMEdHUjVmU3lkbjcySmZibDZ4M2dXQTVodzNrbl9jRUNaZmpHSFJqdlFRaVI5NlZFR0Zab0prdzM3NW9QVm9UM2FTSzgtZGNaTTdydTlBcUFyUHczYTlDcGZZNC15emRpN1hRQl9Dc1pxQTlVS015dldSMHJOc0dMQ2pXV0swadIBngFBVV95cUxQdGRnU0tuRTZhTUt1MVBOMUY0Z3RJWGU2WWJIcDFsT09KNzF4WHBkV1JIaXhfZk0zSUZaRmRrbE9xb1luWDYyYm0xOFFXNjMtQ3BtRUc0TkxTd2FiaUhFS3kzRHlLdWhBaTAxbXNaeTdRakp5dTZmTVFFcFkyOVNyNk9HNXA4aHRDOG5EX1BpaEdFSnkzRmZHdzZUczNwUQ",
+      "title": "Meta Launches Meta One Subscription Service with Enhanced AI Features",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out - meta.com"
+    },
+    {
+      "url": "blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
+      "title": "Microsoft Reinforces Commitment to AI in Education with Focus on Student Protection",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Microsoft’s commitment for AI in education; protecting students, strengthening learning"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
+      "title": "NVIDIA Vera Rubin NVL72 Achieves Top Performance in MLPerf Inference Benchmark",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/ai-energy-management-alliance",
+      "title": "Emerald AI, Google, and NVIDIA Form Alliance for Flexible AI Data Centers",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills",
+      "title": "AWS Enhances Healthcare AI Reasoning with Open-Source Agent Skills",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Improving HCLS AI reasoning with open-source agent skills"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation",
+      "title": "AWS Bedrock Data Automation Streamlines PII Redaction for Documents",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation"
+    },
+    {
+      "url": "github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "title": "GitHub Copilot Runtime Migrated to Rust, Leveraging AI for Development",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Migrating the GitHub Copilot runtime to Rust, using Copilot"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi4wFBVV95cUxOZTIxYVo1OWFMVVFjOXhDb0hQWDc2VXI4WmdXbkxrdnhiQ21GSXZubTBFZWdYd0FpUmlVbUQ4Z2xVNU5DSmU1T2lWQzh3TVEzNDAzU1lQMUwtelU3ZnZfb1NXQnc1bmVXamVpdHRQclJvSUItZmlkaEMzR052RE53RGNFWnNnRnJWZG1HeTVVaHh2VmJqRUlDN1p0RzRkYnBucnQ2dmMza0pJOGpHMjdVaXRXRUdNbXM3RjBqTDhva3NnZHkwQ25RMU9fWHN3X0Z4ZFJ3Tkk2SGJCTWk0QVQwMFRQRQ",
+      "title": "xAI Models Integrated into Microsoft Copilot Studio",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "xAI models now available in Microsoft Copilot Studio | Microsoft Copilot Blog - Microsoft"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijAFBVV95cUxQX1dUT1c2YUtKeXBtYnR4OVdtcWpHY3cyUTYwZFFJcmNvQktCR1dzbm5Sb2pSZW1Ec0xfSEZDeEprd0dTb2YwZjNLWFVjR3hyLTJCTkVUd050QlBoRmRQZWM3ZHZBT3p4SW1YMWdWTkpKSTFXbXZhN0ZUdUhmOG5vUldlZVVuSnk4VmhJaQ",
+      "title": "Google Cloud Launches Filestore Agent Volumes for Enhanced Agent Workspaces",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Introducing Filestore agent volumes: fully managed storage for agent workspaces - Google Cloud"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc",
+      "title": "OpenAI Unveils GPT-6 Astra, Positioning it as Next-Generation Intelligence for Work",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "GPT-6 Astra: The next generation in intelligence for work - OpenAI"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxQcW9IYi1iXzJKVVNfdVRRNnh3Q2hpOHNtNmRaTkljWE02YXVtc0E3QTVKMFM2bFFhSXJWYzZDM2pOTEdRS0FuU01QWEFnMEtfTHRKcnZuZXdoQjltX2cxRDEtUW1Pa2xFWDFmbVk4ZUt0bVY1X2JrUFdOZWJnZkxrMVpTVlk1Q0daZ08zTVRMdGxXZ3FMX1VFNGk4NkZSRjIwTWJxUFRROUtpa2tJb0RN",
+      "title": "Cohere and Aleph Alpha Form Strategic Alliance for Enterprise AI Market",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Cohere, Aleph Alpha combine to target enterprise AI market - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMib0FVX3lxTFA4aU5EODcxNGZlb3Zta3RTbUVCUHhGcFliOENJREpTOTcwa0RjM3JvXzA1bzRVbnNnTDNWdDhGNzJ1MXRTaHJoVjZPWG5xcUpvWEhIcEJkSjd3XzN6ZGhITEtrdXJTWEpWNE1sMFlCbw",
+      "title": "Google and DeepMind Establish Institute to Explore Artificial General Intelligence (AGI)",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Google, DeepMind launch institute to explore AGI - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxPYkZ0bWNoSVBoWXo2TUNaRlI4MERvVXlWbHRzelJLOTdGQ3B4SFJWQkdhLW4xTjFFWFN5ZDVKOEVKZ3NHZWd2SW9kaFNSSnZ6NEJrTENCM05DY0hPRUFoeGg5aENsWmhNWFktMzhIZVpKQ2M5WXZLVkFHLTJibnE3M210MmluVnhibC1xQlZSSQ",
+      "title": "Internal White House Discussions Focus on Influencing Trump's AI Stance",
+      "first_seen": "2026-09-17T04:32:56.726025+00:00",
+      "rss_title": "Inside the White House Tussle to Sway Trump on AI - WSJ"
     }
   ]
 }
