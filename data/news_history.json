@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T04:32:56.726025+00:00",
+  "updated": "2026-09-18T04:31:41.001207+00:00",
   "entries": [
     {
       "url": "openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -838,6 +838,125 @@
       "title": "Internal White House Discussions Focus on Influencing Trump's AI Stance",
       "first_seen": "2026-09-17T04:32:56.726025+00:00",
       "rss_title": "Inside the White House Tussle to Sway Trump on AI - WSJ"
+    },
+    {
+      "url": "openai.com/index/cooley-gopublic",
+      "title": "Cooley Leverages ChatGPT for Accelerated IPO Processes",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "How Cooley is accelerating IPO work with ChatGPT"
+    },
+    {
+      "url": "openai.com/index/astra-for-law",
+      "title": "OpenAI Launches Astra for Law, Tailored for Legal Workflows",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "Introducing Astra for Law"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "title": "Google and UN Launch Data Commons for Global Statistics Exploration",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "Making global data easier to explore"
+    },
+    {
+      "url": "blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation",
+      "title": "Microsoft Shares Lessons from its Internal AI Transformation Journey",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "What we’ve learned from Microsoft’s own AI transformation"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
+      "title": "University of Manchester Uses NVIDIA Earth-2 for UK Air Pollution Forecasting",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent",
+      "title": "Amazon Connect Talent Deploys AI to Accelerate Hiring for Scaled Recruitment",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore",
+      "title": "Wood Mackenzie Builds Shared Agentic Platform on Amazon Bedrock AgentCore",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
+      "title": "Synthetic Data on Amazon SageMaker Enhances Industrial Safety AI",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxQZmhFYUxxcDBVbmZfZExmVTJEY0RZQ19YQlJ5TGs1UTkwTFhxZURXYzFJUkZrUDZ4UU1sT0pfdVJoQVRWOFNqWW5nWldZdzRfTXhwUHFFcGp6V2UxeUdIWG1DSEZDYmJvLVlmWmFQc2d1eERZRk0tb3p5MWt6blVFRzdYYzAyMlN2d1RCMmJhZlVEUkhvVWVGbC1KM1pFeU1LTm90U19fQVRMUjNuRVBsei1LN2NjcDgwejZOQ0NrdDhKdw",
+      "title": "Mistral AI Joins Microsoft Copilot Studio's Model Provider Lineup",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "Mistral joins Copilot Studio’s growing lineup of model providers - Microsoft"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMie0FVX3lxTE5PbzNJUlpWVXZ6VzVsNU13YVBoQUNmTDNEUG83cTFoZk1oU0ZQMFJCWFhqNTFZSGVZWkg3RjBRNktiaXZjd1ZoNTRLM3NpS2V4a3lVUXRJVXFDbXVwRmhfdDlPSy04ZVBzUHB3aHFEUjRtcHVzd0dvN0NYMA",
+      "title": "Anthropic's Claude Enhances Biomolecular Modeling Capabilities",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "How Claude is uplifting biomolecular modeling - Anthropic"
+    },
+    {
+      "url": "status.openai.com//incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA",
+      "title": "OpenAI Reports and Resolves Elevated Error Rates Across API Models",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "We are seeing elevated error rates across API models"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxQZy04cUpKZ1lLWHp3Zmp5N19XeEEwdi13bjBZYllISzltVk5HaDdlUnJqOEJFZUlYVjBxNzhZbUc5NDhDeWdISkUzLWw3b25ZZTYxZG4tZUFjLXU5T3F2YlZ2M1QtNDdZcDZ1anZlTVFGZzlmY2dYNGRLelY5TjRTMDU4d1QxaDRYY0JvNXBIZ0FQUWxiMVJzQlc3V0plQTd2M19oWWRVUjV3aXdvOHhXREJ0STBfdW9LZkw1QnV0Mk5MQkhRaldlQ1NsSDJHcTkt",
+      "title": "Anthropic Consolidates Claude Features, Launches New Document Tools",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMibEFVX3lxTE5UbEplOGYxLVE1bnQ5ZER0bzdhanpNQ3dDLVREaUIzUXJTWEo1VmhINzY1Z25ZVl9BNU9MV2NHdW9lY0xtUmZna0VMT0p1Wm5Qd0pKMDZTd3IyM2hpZnczczM4dTJ3UjF2RmIzONIBckFVX3lxTE9WWHJQNk5Ua2FHSzZGcUV1M2l0amdoQWNCQl8xcElqRkhYTUhJUU9keU05dVlpblVqV1ZLMG1tVk5xUXUtZ3AyRWlRQWgtUkE4OC1PX2xMZlRKVDZlOVVTOXlfZzRzM3BmX2NOMGtvNzZzUQ",
+      "title": "Palantir's Karp Suggests Nationalization of Leading AI Labs Due to High Risks",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxOZlc0aEIyZmgxVURSZXZnVWNic05GQW9SVmI1Y1JvbGVtYzR6RmFvMTFKUTBFNWNOaENqckFIdjY3NXh2dWNkZF9UUUY3VXpNbEVPYnZhZnk0N2kwWFNfWS1lNzlEdXNvTlkzRXFmM1dpTHMyOG9GTVdwZ3FkZGt1UXUwUklrWEtaeUdSdVR0WWxCTHdYNi00WFVKbmZRMWJXRFhDblNNM01HQXpGVHVrVFhUUlpHUDRiT1pVbHMyVlc",
+      "title": "Amazon Advocates for Rigorous Testing and Safeguards in AI Development",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxNd01DQXNsMmI1M3p2T1pRSjlGNEdjZHJHVGRPSE5lS2lNXzZYWi0wTmxCNUthU0ZmX1NQUklKeHZOWkZyZDVWMjNlTlBlOGl6NVFEclVyNFdJbmppMG13VkdWOXlfUXR3WnM1d3M0Y19xYWhuTTNxMGhIbGo2ek1OVU0xbXZuWnJOT29SazNfLXF4VF9IRC1ZVThUeXBWUTUyYzluVFBUa3NzQVhSMGExeEdxb1dKdw",
+      "title": "US and China Security Experts Propose Nuclear-Style Safeguards for AI Risks",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "US, China security experts propose nuclear-style safeguards for AI risks - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw",
+      "title": "Huawei Reports Surging AI Chip Demand, Challenges Nvidia",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxQcXVwcmwwcUVVMFVOeHFOZHdJQlJHMlhwdGNYUl9FeEhKVFZjWWNDV0pGUnh3dVNQZi1BSDhHZUszWmtpbVpYdGNLWU01clRZTngtT2VpQ1lPVkFhSkVwVGVVR1N6T2RaczBvX2NJTmc0aU5GWEhZTVBIYmIwbnVEc0hSRWxzeUF2d0hQQUZCcVl3cEw2MVBVdmU1MDNTbUhwQ0loRzFPSXJBY1lweWlV",
+      "title": "Microsoft AI Chief Questions Anthropic's AI Consciousness Approach",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "Microsoft AI chief calls out Anthropic's approach to AI consciousness - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-17/india-s-new-chip-plan-draws-12-billion-in-investment-pledges",
+      "title": "India's Semiconductor Plan Attracts $12 Billion in Investment Pledges",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "India’s Chip Plan Investment Pledges Hit $12 Billion"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-18/waymo-plans-to-offer-paid-robotaxi-rides-in-singapore-in-2028",
+      "title": "Waymo to Launch Paid Robotaxi Service in Singapore in 2028",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "Waymo Plans to Offer Paid Robotaxi Rides in Singapore in 2028"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-17/pennsylvania-governor-shapiro-calls-for-tougher-ai-safeguards",
+      "title": "Pennsylvania Governor Calls for Stricter AI Safeguards",
+      "first_seen": "2026-09-18T04:31:41.001207+00:00",
+      "rss_title": "Pennsylvania Governor Shapiro Calls for Tougher AI Safeguards"
     }
   ]
 }
