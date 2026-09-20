@@ -1,126 +1,6 @@
 {
-  "updated": "2026-09-19T04:31:37.525201+00:00",
+  "updated": "2026-09-20T04:31:33.268456+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/perplexity-improving-accuracy-with-astra",
-      "title": "Perplexity Leverages GPT-6 Astra for Enhanced End-to-End Systems",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Perplexity trusts GPT-6 Astra with end-to-end systems"
-    },
-    {
-      "url": "openai.com/index/cognition-devin-testing-with-astra",
-      "title": "Cognition's Devin Utilizes GPT-6 Astra to Enhance Software Testing Capabilities",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Cognition helps Devin test its own work with GPT‑6 Astra"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
-      "title": "d-Matrix Integrates NVIDIA NVLink Fusion for Advanced XPU Deployment",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations",
-      "title": "AWS Introduces Dual-Layer Monitoring for Production Agent Lifecycle",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference",
-      "title": "Amazon SageMaker Inference Boosts LLM Latency with Prefix-Aware Routing",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms",
-      "title": "AWS Bedrock Enables Model-Agnostic PII Detection with LLMs",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Model-agnostic PII detection with LLMs"
-    },
-    {
-      "url": "apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5",
-      "title": "Apple Announces iPhone 18 Pro, New Apple Watch and AirPods Lineup",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc",
-      "title": "Anthropic Addresses AI Misuse and Detection Efforts",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Detecting and countering misuse of AI: September 2026 - Anthropic"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMic0FVX3lxTFBNcU9ib0dLaHZEek1FNzhTMGlBaFRPbWd6R2pndlAwR1UzWUV2NVRYbm9RTHEybHJUUG9md19Xa0E1Y3BJSm9kZFlfSEphN0dyWVpYVE0yTmVMay0wY05nUEdUMWFZaDNNVFFDY09GQVd6bEU",
-      "title": "Lawmakers Introduce Bill Mandating Agentic AI Standards Beyond Self-Attestation",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Inside AI Policy: Gottheimer-Lawler bill rejects self-attestation alone in call for agentic AI standards - Congressman Mike Lawler (.gov)"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPTVJFRjl0M2NxU3YtVmplOGp5YkNqcllYY0R0Y2xPV0ZaTU5fNElVVXl1WDI4NjRRRGtSNXlwanRTUjRFY2ZCTUdLcE52QTZyTnN4WDdKNGE1bWM0SDBBdmdpSUw4YXZ1WDNnZ1hGTzl1RVhodnhBZzFEVHJ1VlJUd3Q1Z3gwTUVIMGR3X1g4Q0ZkUUFLdTc2dnAzZzZzaEREYjg5SGltUTJrelRKdjJwQ2RZbUJzY0NjMjI0SFUyUTF3X18wZ2ZjSw",
-      "title": "US Senate Negotiators Consider Mandating AI Risk Mitigation for Companies",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "US Senate negotiators consider requiring AI firms to mitigate known major risks - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc",
-      "title": "Anthropic Reports Claude AI Used for Weapons Development, Spying, and Cyber Operations",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxOM2FONXhOeTRKZVg5ZU5qa3JVQ2I4S1ZSX1V4YU1zelVDV19IczFXWWlGd1BfRjhfbVVNZ3R5ZW9VelJpT2k2TmVNUWk5UFdIcHJFMjdnMWVQbFdVMm53ckVfZEF5SnZqUjJvb0N3OXVKc19CNFd1Z2otY1Y4cmlBQ0VhaGZMbllrWHIyQUVLRU5JYTIzNm1jdTVTcmhQcHJmdWgzYzdwckp2c2NhcEttLUMycUh5OVA0NEVKZGZwRm04UQ",
-      "title": "OpenAI CEO Sam Altman Open to Slowing AI Development, Reports Indicate",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxOWU1OdlM4b0w3OWIxeFNFNEVhTnE4c0RpXzVzNk5wWTVGYXFPMXU4VUpVeEVoaWJyTDFRdkkwYXBUNnpwV2ZNZEZ1M2pkUV9nTnZTS28zaWZadlF2MHlwYXdNWHhEekFiRENSeDFQYXhGbk1XMEM2Sm5tNDNyejRFRk5KaF9uUXY0SkZQQkxlMk5lQ0R0aDFxbmJRbkF3cGJWTTJub2Fkc0U0dVBJZ2tXdlVpdXo",
-      "title": "Pentagon Explores $5 Billion Loan for AI Infrastructure Funding",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Exclusive | Pentagon in Talks to Get Into AI Infrastructure Funding With a $5 Billion Loan - WSJ"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters",
-      "title": "Nvidia Considers $10 Billion Investment in Anthropic's Potential IPO",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Nvidia Mulls $10 Billion Anthropic IPO Backing, Reuters Says"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-09-11/bridgewater-s-cio-ai-s-human-extinction-risk-is-real-video",
-      "title": "Bridgewater CIO Cites Real Human Extinction Risk from AI",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Why Bridgewater’s CIO Says AI’s Human Extinction Risk Is Real"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users",
-      "title": "Apple Watch's Always-Listening AI Feature Raises Legal Concerns Over Eavesdropping",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Apple’s Always-Listening Watch AI Tool Could Pose Legal Risks for Users"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-09-11/microsoft-s-data-center-plans-face-big-costs-video",
-      "title": "Microsoft Plans Massive Data Center Expansion to Address Computing Shortage",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Microsoft's Data Center Plans Face Big Costs"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-09-11/bloomberg-tech-9-11-2026-video",
-      "title": "Oracle Cloud Growth Amidst Growing Debate on AI Risks and Data Center Build-out",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Oracle’s Cloud Growth; Debate Around AI Risks"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNNEw1emJpa2hjbFlfTHlBNllMRFh3WVlVbXUxX3JuQTViSlE0Y1JET3JBZElLbW1mLWFrb2dBTElLYUMtM3RhRlhoNjVpVXdyWDN0UXdTLWJmVFg1YzYxbnBpTzhDNndDcmhrRDJFNkxRT20zVjNEaVRGNnlfdG03YVI0eGk",
-      "title": "Anthropic Reports Preventing Bioweapon Development Using AI",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Anthropic says it stopped scientists potentially developing bioweapons with AI - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR",
-      "title": "Anthropic AI Model Allegedly Used by Iran to Target US Navy Warships",
-      "first_seen": "2026-09-12T04:32:08.116821+00:00",
-      "rss_title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships - WSJ"
-    },
     {
       "url": "openai.com/index/scaling-storage-one-billion-users-part-one",
       "title": "OpenAI Scales Infrastructure to Support Over 1 Billion ChatGPT Users",
@@ -955,6 +835,125 @@
       "title": "OpenAI Projects $278 Billion Cash Burn by 2030",
       "first_seen": "2026-09-19T04:31:37.525201+00:00",
       "rss_title": "OpenAI Sees Burning Through $278 Billion by 2030: FT"
+    },
+    {
+      "url": "openai.com/index/australian-youth-safety-blueprint",
+      "title": "OpenAI Launches Australian Youth Safety Blueprint for AI",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "Introducing the Australian Youth Safety Blueprint"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+      "title": "Google Expands AI & Economy Research Team with New Experts",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "New experts join Google’s AI & Economy team"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review",
+      "title": "Amazon SageMaker Inference Accelerates Deployments with 13 New Launches",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "Amazon SageMaker Inference: 2026 year-to-date launches in review"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxQTUFnSGpyQWtoZEdZY3IzTTEzZ2Npd2JTc0MtVUxfMW1LeWgwX0xBWXdXVmNHQ1p0NjF6Y1pPdFl6RnNtZTZjZEZfcW5FX2tWSE1ETHZxTmQyNWFIYzJGWHNoLVJxSFZ5SFFZdklHYWZvd0RMWk4tc3FuelVyck9LWDRzMUFmY2tpNDFlVmhIbVBGV2thR2N5UjlUM2pnMFlYT0FEOWhIVzRTaDRlZnc",
+      "title": "OpenAI's Sam Altman to Brief UN Security Council on AI",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ",
+      "title": "Anthropic Establishes Biology Lab for AI Drug Discovery Program",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxQLUY1YUE4ZDVQQVU1WlNnVTE1MjZZUVptRzFtNTFLUzRFMmVnaDNfVXhPWV90SFBEWHVRZ2hTaFFFUXpTMlU4ZGEwTDhjNFlZM3JJWHZvd0dIc0xjaG9uV2ppOGxJX1dPQXBKb19LWmYyX3Y1NDUzSjlLb1NFUV9DeUxxWFVwT1E0TkpQbHp5R2dVVW53cGxndXBoaGRhUlNqb2dIcjBUblY4Tkd6QldRQ0dCY1dBX0cyUkRIaFRvUHN1UQ",
+      "title": "US Court Rule to Require Lawyer Certification for AI-Prepared Filings",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-20/australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race",
+      "title": "Australian PM Albanese Calls for Global AI Cooperation and Risk Mitigation",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "Australia’s Albanese Urges World to Act for Humanity in AI Race"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
+      "title": "Trump to Appoint AI Czar, Dismisses Safety Risks as Hoax",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-19/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks",
+      "title": "China State TV Affiliate Raises Anthropic Data Privacy Concerns",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxPcTJzNzJmYzhBcG1WaGtLOEhFUzBuRUZKQjd4N042Mkw0SFVBRDI4bmZXT1JDeHNSMjZic0NTejVLSUtrRVBlRXZKbVJEc1R4Mkhyak0wLWp2a0VWSmZncFM5V2NCTnZkQmZTSnJtbFFCRFhuRFF1c2NnMjNPQTBiU0F3",
+      "title": "Dario Amodei Advocates for AI Slowdown Amidst Jensen Huang's Accelerationist Stance",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "Dario Says AI Should Slow Down. Jensen Wants to Go Full Steam Ahead. - wsj.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxPekVqb1I0SHhvLVUwVFQzYXhjbTI4cFZDRHliMnVIejJQbVNsWEV1QVg5TDJ3dzlTb0QwMGF4UEJmU3NQNHlaUXNLVm1MOWQ3SGlKN24wQ1F2RWpuVVZCUmI1TVAwbTJjYVVxNl9HRzVnU1l2UGZXZVdMY3A3UmNvdi1RQmtRclFreXpZYnZ0aUZQdVR5SXduMzhIdms",
+      "title": "AI Regulation Debate Continues Amidst Development Pace Discussions",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "The AI regulation smackdown isn’t over - theverge.com"
+    },
+    {
+      "url": "technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons",
+      "title": "AI's Extinction Risk and Bioweapons Threat Under Discussion",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "The Download: AI’s extinction risk and bioweapons threat"
+    },
+    {
+      "url": "technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech",
+      "title": "AI-Enabled Bioweapons Present Wake-Up Call for Biotech Sector",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "The specter of AI-enabled bioweapons is a wake-up call for biotech"
+    },
+    {
+      "url": "wired.com/story/kernel-panic-ai-vulnerability-explosion",
+      "title": "AI Vulnerability Explosion Outpaces Slowdown Efforts",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening"
+    },
+    {
+      "url": "wired.com/story/mathematicians-cant-quit-ai",
+      "title": "Mathematicians Grapple with AI's Existential Threat and Indispensability",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "Mathematicians Hate AI. They Can’t Quit It"
+    },
+    {
+      "url": "wired.com/story/heres-how-an-ai-slowdown-could-actually-work",
+      "title": "Mechanisms Explored for Enforcing an AI Development Slowdown",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "Here’s How an AI Slowdown Could Actually Be Enforced"
+    },
+    {
+      "url": "wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already",
+      "title": "Industry Research Suggests AI Industry Should Have Already Paused",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already"
+    },
+    {
+      "url": "theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "title": "Antitrust Exemptions for AI Debated Amidst Market Dominance Concerns",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "title": "OpenAI and Microsoft Knew They Were Creating a 'Doom Loop' for the Web",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web"
+    },
+    {
+      "url": "engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations",
+      "title": "Anthropic Taps Accenture for Independent AI Safety Evaluations",
+      "first_seen": "2026-09-20T04:31:33.268456+00:00",
+      "rss_title": "Anthropic picks Accenture for third-party AI safety evaluations"
     }
   ]
 }
