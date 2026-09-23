@@ -1,126 +1,6 @@
 {
-  "updated": "2026-09-22T04:31:42.596435+00:00",
+  "updated": "2026-09-23T04:31:56.679963+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/fyxer",
-      "title": "Fyxer Leverages OpenAI for Trusted AI Executive Assistant",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "How Fyxer built an AI executive assistant people trust"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
-      "title": "Perplexity Portable Computer Enhances Local AI with NVIDIA RTX",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale",
-      "title": "Abnormal AI Deploys Amazon Bedrock AgentCore for Scalable Email Security",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws",
-      "title": "AWS Offers Framework for Generative AI Customization Spectrum",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "The generative AI customization spectrum: From prompt engineering to custom models on AWS"
-    },
-    {
-      "url": "apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
-      "title": "Apple Unveils Profoundly More Capable and Personal Siri AI",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Siri AI, a profoundly more capable and personal assistant, is here"
-    },
-    {
-      "url": "status.openai.com//incidents/01M2H3J1D6Y7RHAP49GRWGJAY0",
-      "title": "OpenAI Agents API Degraded Performance Resolved",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Degraded Performance affecting Agents API"
-    },
-    {
-      "url": "status.claude.com/incidents/r1pqn1kb4hvk",
-      "title": "Anthropic Claude Cowork on Windows Functionality Restored After Microsoft Update",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Degraded functionality for Claude Cowork on Windows"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxOako0N2w1bExjVVA0azZSLUI0QXdveUdDUWFnM0RKeVJVTEN4TlFlX0t5UHR6Z1FROWp2LVJUSjY4anRUakt0OTBUWkdFdjNKLTFDNmhPZ0RVY3BZSEZzLVFFUjZVdmtLSHk1bVZQRm1ObVJ6SGVSWGpJbXBBdS1EQ3lSMk4xNzNfVTJQT2NYaW1aUkV5c1plNDJNRXk2S3ZPMzA5Yw",
-      "title": "Anthropic Targets Financial Advisers with New Claude Tool",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Anthropic targets financial advisers with new Claude tool - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxQTFFqSmtLMk9WWUVza1Q1WUZiS0RpMkFER1RhT184ZUIzVnlFcXFFZGlDXzZlYVp0RzBUeHktQXhRenAzNDF1REdCT3ZqXzlwM1FndXZ4bWZkVVNsTlJkemVsYnc0WmIzdjJ4ajJURVlRZlJoRFhtQU1jRXBBX3VySHpQTDY5MmfSAYwBQVVfeXFMTUJ0VEdRZUFnb3FPS2NTWm5YTW5xdVBFWTduQVUxYzBQMkdjQnhuOUtheGFVMV93c1V5WGljcm8tOVhxQk54ZUpBSkhUSlp6YVI1V2FtWTZHZlFGaVVpRElMbEY4Q3VZb05NLURmUURJajZsd1UxaDhzeDhwRzdHX3NwTkwya2lmN1NrazY",
-      "title": "Cohere CEO Warns AI Models Pose Significant Cyber Weapon Risk",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "AI models are becoming the ‘most potent cyber weapon’ ever created, Cohere CEO says - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMibEFVX3lxTE1xX1RDSzdVUnJoOWQzT1BGamtCR0tEZ1NPODE1enkzVHQ5RTJMUXZSTWdwWk1tYlh3RlFUT29McWtma01KbFRocVhJamIwSldZOXFfSzI4U3RtWkxhMWFJMjZ4Q1cxaXRKRXFzTA",
-      "title": "Chinese AI Labs Closing Gap with US Through Efficiency, Reports Fortune",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Chinese AI labs are tightening the gap with the US by just being more efficient - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxQaUtaZjljMHRad2I0OEcxUUxHTlhNM1laeGo1TlFPb08yVWdWYnRuLWQwMXhzWTc2N3hBdkwyTmtqSmsyaFBMVjZPdnl5eGtKNnJFdzdBaGQ2cThlckVEOHloT2dDODRDTzlMakFqY3NGblFxbUZXMkVXclJ5ZGlmT2ZNYkx3M3A1ZmxsUnI2TElVTExPaTRxQ3o5cDdramw0SS1F",
-      "title": "Trump Dismisses AI Safety Alarm, Cites Existing US Policing Tools",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Trump dismisses AI safety alarm, says US already has tools to police industry - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxPeHdfc3I3SlJyd1JBdUZLcWxVSE5TeHRHUlotMVNZSFlhU3RxRTJtZGIxUExBRXdhRXBQbHBFbm9TcVZMNTJvSnZ6OVcxTjdyazFhTWg3WVhQbVdLd0xFY0JWbkk2aUZsdVFrZHgwTk51RkM3TlUzMnhRQTMwWEgwLWo0RTFuM1dMX3kzQ2NkS0hnNzJfRUxsd0dn",
-      "title": "Trump Rejects AI Regulation Talk and Critiques Anthropic CEO",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxNMUxwdHN5dDgxNEpDZFYzNVJtZFFrSHhmRkYweEpkUVd5N3BuY0UxQ0gtYkl4bGZIRWVQLUhlbG5PVE9vT0FBSlZBWFplM3RVLUhxbkoxaUtjcC1xdXdEam1IZHFPbUlDUVB5Y2VXNVRRX2tEY05sRDYtbVFlY0hycG9NRXgtZ2FGd1NIZ1dTekhYN3VwUE0yUkpDZHVYbmdvNXEwZDJkLW5KLUNDODBaZWU5VHk4OThNZi05MEVsN1RFMmJP",
-      "title": "Germany Views Halting AI Development as Non-Viable",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Germany says halting AI development not 'viable' as Europe weighs safety of new tech - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ",
-      "title": "China Prepares for Risk of AI Escaping Human Control",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "How China is preparing for the risk of AI escaping human control - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxNeHh5QVYwWDZ2bUR1V20yb0ZhQ1lzdjVST1hheU9DODdUNjRWN2Y4aUt1NG0zMElMSnRfYjJ5Yi1ncnMyRUlWTWhIUnNHYlZHel9LMXYxcWE2MEp0UTYtR0U4SWhkTHM3ZjQ2ODcwUUg1Vk9zNGtWZzNmVEh6QU9mNUZTU244MTRDaG1ETUh6bDRtWl9WczJTZm9iYmZuWkpESW5PWUhRSGg0WU53NEp0OXgyS2U",
-      "title": "Microsoft Drafts Code of Conduct for Human Control of AI",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Microsoft drafts code of conduct to keep its AI under human control - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxOZ2RHR1kteU9kT1lsd3NHU0lpTXZyZWJKYTI4cW93ZENtdVFyNkNjWDBLWWF5YXIxQk9JcjFfYk02NFpuTzhBd0VseFl4NFRoV3BPclc0RURUV3V4ZTEwQmNhd2M5UlJyS3pwdUcySkhTZXQyTjdBbHN5RjdKUkhNT3NQcmttVnpJdExTQWVoVExfam5KTVFnQnpoak1KblV0MmdyVXh3",
-      "title": "King Charles to Host AI Executives Amid Mounting Threat Fears",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "King Charles to host AI executives as threat fears mount - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-09-15/hugging-face-scientist-on-safety-issues-with-agentic-ai-video",
-      "title": "Hugging Face Scientist Highlights Safety Challenges in Agentic AI",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Hugging Face Scientist on Safety Issues With Agentic AI"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post",
-      "title": "Google DeepMind Staffer Expresses Existential AI Risk Concerns",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Google DeepMind Staffer Says AI May ‘Kill Us All’ in Exit Post"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-15/anz-ceo-warns-of-ai-risks-and-job-cuts-after-musk-altman-alert",
-      "title": "ANZ CEO Warns of AI Risks and Potential Job Cuts",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "ANZ CEO Warns of AI Risks, Job Cuts After Musk, Altman Alert"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikAFBVV95cUxOQ19KaEFXUFNkdTBoN1lFeEJLbFNsYVl2WXY5aF9reDV0TERWTnZCRml4dDAzUWpZdnAzUkZiUjk3LVlad2VSLXoyRGY3cUJSUzZkX2lWWkpOZFJ3eTRzUTZOOWVQZHVSampUNEh4QW5kN0owNm9PRFV1ZkMySDlydV9ySEVkNUlfcDAtRDl4NHY",
-      "title": "Microsoft Implements Limits on AI Models Amid Control Risk Discussions",
-      "first_seen": "2026-09-15T04:31:54.663244+00:00",
-      "rss_title": "Microsoft Sets Limits for AI Models as Altman Details Control Risks - wsj.com"
-    },
     {
       "url": "deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
       "title": "Google DeepMind Unveils Gemini 3.8 Live and Extended Thinking Capabilities",
@@ -954,6 +834,125 @@
       "title": "AI, Tariffs, and Rare Minerals to Feature in Trump-Xi Summit",
       "first_seen": "2026-09-22T04:31:42.596435+00:00",
       "rss_title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping"
+    },
+    {
+      "url": "openai.com/index/introducing-gpt-6-sol-and-luna",
+      "title": "OpenAI Launches GPT-6 Sol and Luna for Enhanced Workplace Intelligence",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Introducing GPT-6 Sol and Luna"
+    },
+    {
+      "url": "openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "title": "Parallel Achieves 50% Research Cost and Time Reduction with GPT-6 Astra",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Parallel cut research time and cost in half with GPT‑6 Astra"
+    },
+    {
+      "url": "openai.com/index/priorities-principles-third-party-assessments",
+      "title": "OpenAI Establishes Principles for Third-Party AI Safety Assessments",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Priorities and principles for effective third party assessments"
+    },
+    {
+      "url": "openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "title": "Higgsfield AI Accelerates Video Ad Creation with GPT-6 Astra",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Higgsfield AI ships new video features in a day with GPT-6 Astra"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore",
+      "title": "Trane Technologies Achieves 60x Faster Building Insights with Amazon Bedrock AgentCore",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws",
+      "title": "Anthropic's Claude Opus 5.5 Now Available on AWS for Advanced AI Tasks",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Claude Opus 5.5 is now available on AWS"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai",
+      "title": "Amazon SageMaker AI Enhances Generative AI Endpoint Optimization with Concurrency Sweeps",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws",
+      "title": "Tata Elxsi Deploys AWS for Real-Time Industrial Safety Risk Detection",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "How Tata Elxsi detects industrial safety risks in seconds on AWS"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws",
+      "title": "AWS and Agentforce Enhance Public Sector Intelligence with Data Automation",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Extending public sector intelligence with Agentforce and AWS"
+    },
+    {
+      "url": "huggingface.co/blog/transformers-llama-cpp-quants",
+      "title": "Hugging Face Transformers Now Supports Llama.cpp Quantized Models",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Transformers now runs llama.cpp quants"
+    },
+    {
+      "url": "status.openai.com//incidents/01M34TAFM9WBGEBE3G1GBH4SE8",
+      "title": "OpenAI Addresses Elevated Error Rates Across ChatGPT Work Plans",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans."
+    },
+    {
+      "url": "status.openai.com//incidents/01M348TX2DX7KPM9X857N4APNV",
+      "title": "OpenAI Resolves Increased Error Rate Affecting ChatGPT Plus and Pro Users",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Increased error rate for Plus and Pro users."
+    },
+    {
+      "url": "status.claude.com/incidents/7g1qpkyz5gxh",
+      "title": "Anthropic Addresses Elevated Errors on Multiple Claude Models",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Elevated errors for multiple models"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA",
+      "title": "Anthropic and OpenAI Release Cheaper AI Models Amid Safety Debate",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxNYl82VnlnNDZ1ZElxSE9RMmlPZ29FSjVleTBLZG9SYzRxc0FXRXpWWmRqekhENWtKdXdNX2ZGOFdCcGZjZVFHMWc1a3hLcGRtZUNmaU5DMmlHbzZIX3hWbTlTWklXU3c5LXpuMjB6YUtNY1Z4RTBDTlZON1BlejZ3RUFR",
+      "title": "Anthropic Releases Claude Opus 5.5 Amid AI Safety Discussions",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxQckMxTlUwUEdVMk5jNEVzdGt3aS1FUHhwS2JwQThYLWNHaUpCbnI1T1dLcWxxVXkzTVlOVkwwbEE5S3UyYmhXbHBjYWkza0x2TTZ0ZEFoMWVNaHRuaWNwLWpmT2JzY09nY3pybDlzbGlNR3YtTGpaMC1LaDQxdWdZR2ZwQmxtaGUwSk5iRjYxRlBFTXNvUnVXWHgwY18xV3py",
+      "title": "Trump Proposes Renaming AI to 'Super Intelligence'",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Trump says he’s renaming AI to ‘super intelligence’ - The Washington Post"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxNM2FrdTNOUERBcDBKS0tGTDlUaXY2aElSVmNxVWFmSGtKUXhSMWxEZndCQTJ6aXcwVzFNeTNXakFGR0lNaG5Fb2Jsb1luM3F1UkRPRTlMYXhNNGp6SjJFNmd0VVhZd2sybm9vRzl0dFlTcDJmZVhuSXZueFFpMTFveG9PTTh6NHpIeG5YMU5mNlVGb2xKdW1LaWpLdzFORlp3SXFDS0dNa19hWXRxR1RCUzd4bzNIWV9INjRvY2pQOC10T0ppSEdWSjVLUjFNUQ",
+      "title": "Congressional Awareness of AI 'Doomsday Threat' Increases",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiywFBVV95cUxOS3M3dS1XSU9ra3NOc2lNdURNcl9ReGRaRWJXMy01NnJzWHNJNWdYU2FYd2psVjhUSEV2dTNOTjlJZlFJUllzMThDM3RUR1M2VGVBYWw5dVNoaE92SzE3WC12RC1JcWNWNjFkWVJQdGltd01tRl9yb1Z4dzRoMk1zWlRUUUJnczdBQWp0YVBCNThKejZOYUpDUS1YR1gwZlZsZXN5VEhNdFB2Y0JmVjE5RTg4Y1VYSE83RERoM3VxbzI0RE5ZYmtuMndURQ",
+      "title": "Former Google Safety Chief Warns of AI's Potential Harm to Children",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Ex-Google safety chief warns AI could harm children more than social media did - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMic0FVX3lxTFByWHNrSFdNcU5SNko4Tl81c2RfNXFILWpyYXBhNDQ0Mnh3UWUxcHFDNTRUdmI5VzZzWHFrUmg3TGJCVTRWRWkweHNSdTJwRUxsYzF0RlllQTNhMFhmXzV6c0NmWUFtNlhqLXQwcUZSdFVpX2fSAXhBVV95cUxPQjBpQ09zU3NsT3dtU1ZQRXl3RnFoQnFwd2JOWjNuZm03SFlwTkU2SXU0bVp2QXMwT3RZMEpFVTkyal81TXBxU0k1T19jekF1djdnZnQ1Q2ZLczZzYWRRaWJmbUlKRk1adEl1U0lNWUItRlF5UTh1b1E",
+      "title": "Altman and Amodei to Participate in UN Security Council Meeting on AI",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Altman and Amodei expected to join UN Security Council meeting about AI - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE",
+      "title": "Trump Suggests Justice Department Could Regulate AI Companies",
+      "first_seen": "2026-09-23T04:31:56.679963+00:00",
+      "rss_title": "Trump says US Justice Department could rein in AI companies if needed - Reuters"
     }
   ]
 }
