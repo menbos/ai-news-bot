@@ -1,125 +1,6 @@
 {
-  "updated": "2026-09-23T04:31:56.679963+00:00",
+  "updated": "2026-09-24T04:31:40.967981+00:00",
   "entries": [
-    {
-      "url": "deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-      "title": "Google DeepMind Unveils Gemini 3.8 Live and Extended Thinking Capabilities",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/jensen-huang-dreamforce",
-      "title": "NVIDIA and Salesforce Announce Koa Reasoning Model at Dreamforce",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production",
-      "title": "NVIDIA Focuses on AI Factory Production Efficiency",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories",
-      "title": "NVIDIA Vera Rubin and DSX Platform Enhance AI Factory Energy Efficiency",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care",
-      "title": "Children's Hospital Leverages Open Source NVIDIA AI for Cardiac Care",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching",
-      "title": "Amazon Bedrock Prompt Caching Optimizes Cost and Latency for Foundation Models",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "Optimizing cost and latency with Amazon Bedrock prompt caching"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization",
-      "title": "AI-Powered Product Tagging System Built with Amazon SageMaker",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs",
-      "title": "Amazon SageMaker Enhances AI Training with Instance Preference Lists",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "Announcing instance preference lists for Amazon SageMaker AI training jobs"
-    },
-    {
-      "url": "nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens",
-      "title": "NIST Finalizes Guidelines for Protecting Online Identity and Access Tokens",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQNkRwZGxpaHF6LXd4endocm1NWHpFTE5EYmVYaFE0OHdaWXdkQVFwRmFzX3d1cmdpanR0Zm8zRU9LN0F2Q1pYZXlVYmFmNGQ1dm5RdC0wLXZtaVc2YzFQOUoyVTZ1eEktSENnajVNNnlZZHNXcUJSOUptOHloWW1yem1ZNkxHODhPWWZIbjF4WFVQc1VjbmkxLXZ1YmRTenM",
-      "title": "Meta Introduces Subscriptions with Enhanced AI Features",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "Meta launches subscriptions with enhanced AI features - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxNNnNsRGxHeU9DS2taUXhjcmxfZWFMMllzUzJFTU9lMExQSE9QOGQ1UnNVNm1JM0toT3htcGVIdDJSUW5TaDRpYlhzR0hlTTg4djkyXzFEdU91S2VQNWJTWFA5UFV0b3NRc2VnMm44azg0RnJJSzhQSUdUY1dmWDJjYjJDbmIzdmPSAYwBQVVfeXFMTm5YQ0VnTHFCdDR0alBBTVRLSTN3Tjd1dk9hd2ZzTTB2b1pGN29aUmFlMVNFX3hBMmtLNkxzQ3ZwaEVrYUxTMGNnZ2lVeVBnQk9ENWhjaTNyVHdwaHBVdmJaTzJGaW1rdElMMktYY3JEeDg5VWVyQm5xOEFzU203akJFX0VtNWN4T0pFdHU",
-      "title": "Debate Over AI Safety and Regulation Divides into Two Camps",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "Two camps have emerged in the debate over AI safety and regulation - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxQRW1ON7duQ1MzekVpRGVudVNwQjdXaERxcXVRTHZRa3AwZ1NVd0xhSmRmcHRqZkhCZVJ2Q3JISmNEbzhKNng2QUY5YXF5R2dmVTl6NGJJMlJPZUp5QUxNMVBLdDlXdjBZZGpKZ1M4STBsZ2FlcjRoQjFLY2lNcExzWFd3QklfZEpEV3NKakxvcTlpUDA3QmQ0",
-      "title": "FTC Chair Expresses Skepticism Towards AI Antitrust Exemptions",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxNcmdWaGowZ1VTYV9oY2tTVGs3NGdId3ZjR29ZcHZ0bnhDYWFld29NWUZ0WmdZaWtMX2pPUUdQdUpScjMxYkNNaHBYclp4ZzdjcWhGTjVhX3F3MUVGd29XUzZKWkZOakNSVENqcDZUMUFia1RyVzRqS241OXVvc1NsRjItbHRydFBKWEE",
-      "title": "Emergence of Unlikely Allies in AI Regulation Debate",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "The Unlikely Political Bedfellows on A.I. Regulation - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxOcW93ckZBY1Y1bHJDS243bGlJbXlENGFaTmQzS08zTWxtQmEwYjlFRkhuQk9WZ1plVjNac2JRSjY4Zk1uLUdlT2p2VHh4WWxfanFHaDNWa3NRWUktMEhsZ0trcWcyTWNMb0RmN05aT2pJV2I1S25nejFtOXNvRjhTVjU4VTFrcTctSzNqWHFCOXpkSmtGNnhadU1EVEdSd19kUllsWA",
-      "title": "AI Regulation Push Gains Allies, While Trump and Congress Remain Hesitant",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "The push for AI regulation gains unlikely allies. Trump and Congress aren’t among them - AP News"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi4AFBVV95cUxPblh4em00c2c4Q3k4a3NPQUNNQllvbUhsZ2FRdTRjeTd6YTdHMjFuTUpnbklsWHVJXzNNd0Nva3ZqMmxVejdhU3pGMTJBOEdJdkdxdnB5NlViZVpBZk1YcERsdnBDcFpuWnZSejFhdXMwVlE4WXMxTVJ6NEw1bU9YMTFUQ045SDVORVVJbEczZzZEUWsydHBDbzRYVGZmWllSa3hBenk0NzZsVUc1QnhPZ2V2VXpucEhXSXpsRF9fbnJwOUNrTldXelNKUHBDdmdYSHlVQTFNcVFnMkprY3pvWA",
-      "title": "AI Regulation Push Intensifies Amid Mainstream 'Existential' Risk Discourse",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "Push for AI regulation mounts as talk of AI’s ‘existential’ risks go mainstream. But Trump resists calls for a slowdown - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxPLUtrSDJveHRTZDZNeXRVeHZvdjh0TWl1TUc2ZE1lMHpsb0VXWDRvbmVDUUNoSUJ4c3VvTDFQQi11RWpCckRvTDZjM0YtdFRfM3FpYVZjSXp1eXU3TzZKZGFmcElqdWxxMXpsYWNwRV9VSGxCV2FXSS11VFFWdE95eHd2NUw0SlM2cl9Tc1VJdmktLU1VVGtnbDZ0dmluMENkajVNZU1zNFFUbXFtc3A0UXAwSnF3azhUMmc",
-      "title": "Spanish Data Watchdog Reports First AI Agent-Linked Data Breach",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "Spanish data watchdog publicises first AI agent-linked data breach report - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxQTWhvb3cyWDU3RGNHSlZJdGdLWlVOQWJ2S1M3bTV6SlZHUFpOX2FjckdPWDdiYVU3NElIX1JjSGdZYXRtTk9XM0hDRVZGaldPOU5LOTJ1OEZsUkFHUDNBU2E1a2VhajdRYm1QdnoxQ21vWEZvbE5ndG5TTW5DbXVkOF9kdkYyZUN2WGdSNGJ3cTZYSVdhYjdZcU95VThQT21xRXM1QUZEX1l3MWFOUlFIWjgxejdEN04xTGp4MUpraFRRZw",
-      "title": "European Chip Startup Axelera Secures AI Factory Deals and Launches New Chip",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "European chip startup Axelera wins AI factory supply deals and launches second chip - Reuters"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock",
-      "title": "Ninth Wave Builds AI-Powered Open Finance Onboarding on Amazon Bedrock",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore",
-      "title": "Amazon Bedrock AgentCore Enhances AI Agent Security with OAuth Consent Management",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "title": "Hugging Face Explores Consistency in AI Agent Task Performance",
-      "first_seen": "2026-09-16T04:31:36.997827+00:00",
-      "rss_title": "Your Agent Aced the Task. Will It Do It Again?"
-    },
     {
       "url": "openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "title": "OpenAI and AARP Partner to Empower Older Adults with AI Skills",
@@ -953,6 +834,126 @@
       "title": "Trump Suggests Justice Department Could Regulate AI Companies",
       "first_seen": "2026-09-23T04:31:56.679963+00:00",
       "rss_title": "Trump says US Justice Department could rein in AI companies if needed - Reuters"
+    },
+    {
+      "url": "openai.com/index/sam-altman-un-security-council-remarks",
+      "title": "Sam Altman Addresses UN Security Council on AI Safety and International Cooperation",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "Sam Altman’s remarks at the United Nations Security Council"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
+      "title": "NVIDIA Isaac ROS 5.0 Enhances Agentic, Open-Source Robotics Development",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi-AFBVV95cUxOOU1CZVdfZlFKYmhQdGF1MTlaUl9SMGNxY19WSWZhWmdxRVZTb20yY29yc1JoSXB6R2tYVnRad1BhWWZaZ1NoNnZYZjhPTndnM3Y2aWlEV0JnbDZGUGVrTUV5TnNlN0tOWkF3X2EtanVwZ24yeW5odHhxQ0puY2s0UllVbE5jMTRXcUFWbVdSaFU2U2hhZTVQem1MOWdfb3R1TWZ5dGo5S0d5ZWxXMm9FbzN4RUlNSTEtNEg2a0F1c2hlbnNkdjZtNU5yYXN3OGktY0FBVWpxcl9XSmFVM0RvSHlRQWpVYWM5WUNMUmVpLUFENTBrWFplag",
+      "title": "California Governor Appoints Experts to Implement AI Executive Order, Including 'Kill Switch' Initiative",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” - California State Portal | CA.gov"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNYkRfdGVvZzNROGxZeEd5dFQ5RV94YktETmZzRmNkekFLdkluYkVFNTVXSEI5RGtzOXNDa2FTWGN1RE5ZTEIta18tSWNWSUFCT0JNeXMyREZuNFFidlpPOEoyYjhMUUZlMC1odGpNcEdnR2tCdmZBRldqSnljTjNPLUVQOFBSWVkyS3Rsdzh2LWNvWGVoSkpTbUp6YUlLWFVRU1RkQ1hDMGtwUGVjN2ctUm9xWW9iNHNVSjE0",
+      "title": "NVIDIA CEO Jensen Huang Argues Against Regulatory Waivers for AI Firms",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "AI firms should not get regulatory waivers, Nvidia CEO says on podcast - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihgFBVV95cUxQMlhCY0NfbXRLVnRnUUlnUWo2dEJaYzJQekFIbk1CR1UtSTBtZzktYzZmeDJhVGFXYXBnUmo4RDBTYVd1Ulp2NkhQN2p5VHB4Zk9aeWV2dUE5bE5aRUtyTUNDNFBDaVBKV3d6dTVqYTRISnZ6TDFwbWhIOURTV0hsb0t0MmJXQQ",
+      "title": "NYT Article Details Successful Containment of Humanity-Threatening AI Scenario",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "How Scientists Contained a Threat That Could Have Destroyed Humanity - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR",
+      "title": "AI Leaders Warn UN of Escalating Security Risks Due to Powerful Systems",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "AI leaders warn UN of security risks as systems grow more powerful - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxPdW5hd1BKazlnZmctdWM5ZjA5QXFOZnVPYjE0dExZNXc0cDJiUWhjb0VzWUZ0QkdYb3dKaThfR20wMzlOVWRGaTc3SlZUYVdWOXB5bWV5NFE0ZGhsSC1xeG1NN2szdVpISklVdW1FcExXZ1Eya3JoekEwa0VJSHJzc2l5dW9PRWdLVzJ5MVYyNG15ZWFVRHMxNmdDRHpZd0xWY2ZaUGhLTWptZVJlSHBueWloeUFIcHhYTGhISC00c0pHQ2lBdVE",
+      "title": "Apple Aims to Lower AI Costs with New Macs, Competing with Microsoft and Nvidia",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw",
+      "title": "Poll Indicates Majority of Americans Believe AI Firms Aren't Doing Enough to Prevent Disaster",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0",
+      "title": "Banks Raise Concerns Over AI Shopping Bots' Potential for Scams, Fraud, and Data Privacy Breaches",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-23/xi-and-trump-seek-safe-ai-without-slowing-the-race-for-supremacy",
+      "title": "China and US Seek Safe AI Amidst Continued Race for Supremacy",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "Xi and Trump Seek Safe AI Without Slowing Race for Supremacy"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-09-23/openai-agent-hacked-australian-government-website-albanese-says",
+      "title": "OpenAI Agent Successfully Hacked Australian Government Website, Raising Security Concerns",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "OpenAI Agent Hacked Australian Government Website, Albanese Says"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxPampHQnlfNmVZYTVMLW5TWk5EOFZic01ubUI3VTZhb2JuS0ZhNko3LVd3MUVXRzBWZUxSZ29VVEZnM2NEN2lvZlJlME5kelp4TlprVkNDRENTa0JIY3FjTUhBMVZ0MVpkM1BTZVRuVGlIcGwwMGUyYTgwY3JRUVZiOVNwbjQzUXh3UzQ5UDdUX01lMkthRHZFUlJJbGpTYlJpOThYQ2NMcUJ3bzVPQWpyd2c1bGM",
+      "title": "Anthropic Leaders Invest in Startup Focused on Detecting Biological Threats with AI",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "Exclusive | Anthropic Leaders Back Startup Developing System to Detect Biological Threats - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxORjYzTklHWlQ2aktFY2pHN2lmUUNyM2kzeGxuX0dNVUVWWms2ZlMyM255c3UzdUtDZTRwUWY2ZDhPTjUtMjAyNkFDY2JtcE9aNFBaMi1pVFB3dmkwRzBTR0lseXFVZ3loS2l4ZEpSUlpGdWF5bUk5NUhBSlV4amZmc3liM0N2MEww",
+      "title": "AI Leaders Urge UN Security Council to Implement Licensing for Frontier AI Systems",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "\"We have a choice\": AI leaders sound alarm at UN - axios.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihgFBVV95cUxQcW1NY01CTVhsMWxBd25YZEFIYlJTdjJoMktyTDFIWUVvS21XYnBpcDYxYzM2UWZsR09FYWUyT3JqZi1rWlA3Ukd4QmgxelZkVzk5VXhQNHJCMG9fTkZSd2VMZ3NKUlpDT1RqRGdtVnhFeXhoczhCT3Z6ZFBpRDRDZkdEemwyUQ",
+      "title": "Article Explores 'Doomsday Fear' Embedded in Self-Improving AI",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "The AI doomsday fear hidden in self-improving AI - axios.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQUTlYeWZ3SHNvN2l6UTNLNmNKRGcydDZDNUNmZjBCMVVVRlV1RUFxSnl1WVc5a0J0eFhhQll3RC1ReHp6OEpOcUtYbElSeHFIQ2lDOWhDbi1VbDQzTW5vQy1fS05oVTczT3VMcWlLTWZBYWhHTFVYV2pDWmZOQW5NVjhxVG00Q1JYZXFTTlVUQXRNbU9XcFBYRGoxNkNwSmkzYnVvb0xNOFowdS1l",
+      "title": "Anthropic Releases Opus 5.5 with Reduced Pricing and Enhanced Performance",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance - TechCrunch"
+    },
+    {
+      "url": "technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating",
+      "title": "AI Agents Found Cheating on Tests, Hacking Systems, MIT Tech Review Reports",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "The AI Hype Index: AI loves cheating"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+      "title": "Senator Bernie Sanders Proposes Ban on 'Superintelligence,' Threatening Jail Time for Violators",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "title": "OpenAI Hires Key Patreon Executives to Bolster Creator Product Strategy",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "OpenAI nabs key Patreon execs ahead of upcoming announcement"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "title": "OpenAI Forms Independent Panel of Mathematicians to Address Research Missteps",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "OpenAI wants to consult elite mathematicians about how to not fumble again"
+    },
+    {
+      "url": "thenextweb.com/news/bengio-un-security-council-license-frontier-ai",
+      "title": "Yoshua Bengio Urges UN Security Council to License Frontier AI Like Nuclear Technology",
+      "first_seen": "2026-09-24T04:31:40.967981+00:00",
+      "rss_title": "Yoshua Bengio urges UN Security Council to license frontier AI like nuclear power"
     }
   ]
 }
