@@ -1,126 +1,6 @@
 {
-  "updated": "2026-09-24T04:31:40.967981+00:00",
+  "updated": "2026-09-25T04:31:31.477989+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "title": "OpenAI and AARP Partner to Empower Older Adults with AI Skills",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Helping older adults use AI in everyday life"
-    },
-    {
-      "url": "openai.com/index/reimagining-advertising-with-ai",
-      "title": "OpenAI Unveils New AI-Powered Advertising Experiences and Integrations",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Reimagining advertising with AI"
-    },
-    {
-      "url": "openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "title": "OpenAI Introduces Tools to Link AI Usage with Business Value",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "How to connect AI usage to business value"
-    },
-    {
-      "url": "openai.com/index/model-misalignment-reporting-framework",
-      "title": "OpenAI Publishes Framework for Reporting Model Misalignment",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Our framework for reporting model misalignment"
-    },
-    {
-      "url": "openai.com/index/unlocking-new-ways-of-working",
-      "title": "New Research Highlights AI's Impact on Evolving Work Practices",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "How workers are unlocking new ways of working"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-      "title": "Google AI Showcases Initiatives for Societal Impact",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "AI for Societal Impact"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "title": "Google AI Develops Advanced Models for Global Language Understanding",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "AI for everyone in every language"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxQMjk1X0RPQVJ6YXU1a08yWGRzMEdHUjVmU3lkbjcySmZibDZ4M2dXQTVodzNrbl9jRUNaZmpHSFJqdlFRaVI5NlZFR0Zab0prdzM3NW9QVm9UM2FTSzgtZGNaTTdydTlBcUFyUHczYTlDcGZZNC15emRpN1hRQl9Dc1pxQTlVS015dldSMHJOc0dMQ2pXV0swadIBngFBVV95cUxQdGRnU0tuRTZhTUt1MVBOMUY0Z3RJWGU2WWJIcDFsT09KNzF4WHBkV1JIaXhfZk0zSUZaRmRrbE9xb1luWDYyYm0xOFFXNjMtQ3BtRUc0TkxTd2FiaUhFS3kzRHlLdWhBaTAxbXNaeTdRakp5dTZmTVFFcFkyOVNyNk9HNXA4aHRDOG5EX1BpaEdFSnkzRmZHdzZUczNwUQ",
-      "title": "Meta Launches Meta One Subscription Service with Enhanced AI Features",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out - meta.com"
-    },
-    {
-      "url": "blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
-      "title": "Microsoft Reinforces Commitment to AI in Education with Focus on Student Protection",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Microsoft’s commitment for AI in education; protecting students, strengthening learning"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
-      "title": "NVIDIA Vera Rubin NVL72 Achieves Top Performance in MLPerf Inference Benchmark",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/ai-energy-management-alliance",
-      "title": "Emerald AI, Google, and NVIDIA Form Alliance for Flexible AI Data Centers",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills",
-      "title": "AWS Enhances Healthcare AI Reasoning with Open-Source Agent Skills",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Improving HCLS AI reasoning with open-source agent skills"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation",
-      "title": "AWS Bedrock Data Automation Streamlines PII Redaction for Documents",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation"
-    },
-    {
-      "url": "github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "title": "GitHub Copilot Runtime Migrated to Rust, Leveraging AI for Development",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Migrating the GitHub Copilot runtime to Rust, using Copilot"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi4wFBVV95cUxOZTIxYVo1OWFMVVFjOXhDb0hQWDc2VXI4WmdXbkxrdnhiQ21GSXZubTBFZWdYd0FpUmlVbUQ4Z2xVNU5DSmU1T2lWQzh3TVEzNDAzU1lQMUwtelU3ZnZfb1NXQnc1bmVXamVpdHRQclJvSUItZmlkaEMzR052RE53RGNFWnNnRnJWZG1HeTVVaHh2VmJqRUlDN1p0RzRkYnBucnQ2dmMza0pJOGpHMjdVaXRXRUdNbXM3RjBqTDhva3NnZHkwQ25RMU9fWHN3X0Z4ZFJ3Tkk2SGJCTWk0QVQwMFRQRQ",
-      "title": "xAI Models Integrated into Microsoft Copilot Studio",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "xAI models now available in Microsoft Copilot Studio | Microsoft Copilot Blog - Microsoft"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijAFBVV95cUxQX1dUT1c2YUtKeXBtYnR4OVdtcWpHY3cyUTYwZFFJcmNvQktCR1dzbm5Sb2pSZW1Ec0xfSEZDeEprd0dTb2YwZjNLWFVjR3hyLTJCTkVUd050QlBoRmRQZWM3ZHZBT3p4SW1YMWdWTkpKSTFXbXZhN0ZUdUhmOG5vUldlZVVuSnk4VmhJaQ",
-      "title": "Google Cloud Launches Filestore Agent Volumes for Enhanced Agent Workspaces",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Introducing Filestore agent volumes: fully managed storage for agent workspaces - Google Cloud"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc",
-      "title": "OpenAI Unveils GPT-6 Astra, Positioning it as Next-Generation Intelligence for Work",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "GPT-6 Astra: The next generation in intelligence for work - OpenAI"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxQcW9IYi1iXzJKVVNfdVRRNnh3Q2hpOHNtNmRaTkljWE02YXVtc0E3QTVKMFM2bFFhSXJWYzZDM2pOTEdRS0FuU01QWEFnMEtfTHRKcnZuZXdoQjltX2cxRDEtUW1Pa2xFWDFmbVk4ZUt0bVY1X2JrUFdOZWJnZkxrMVpTVlk1Q0daZ08zTVRMdGxXZ3FMX1VFNGk4NkZSRjIwTWJxUFRROUtpa2tJb0RN",
-      "title": "Cohere and Aleph Alpha Form Strategic Alliance for Enterprise AI Market",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Cohere, Aleph Alpha combine to target enterprise AI market - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMib0FVX3lxTFA4aU5EODcxNGZlb3Zta3RTbUVCUHhGcFliOENJREpTOTcwa0RjM3JvXzA1bzRVbnNnTDNWdDhGNzJ1MXRTaHJoVjZPWG5xcUpvWEhIcEJkSjd3XzN6ZGhITEtrdXJTWEpWNE1sMFlCbw",
-      "title": "Google and DeepMind Establish Institute to Explore Artificial General Intelligence (AGI)",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Google, DeepMind launch institute to explore AGI - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxPYkZ0bWNoSVBoWXo2TUNaRlI4MERvVXlWbHRzelJLOTdGQ3B4SFJWQkdhLW4xTjFFWFN5ZDVKOEVKZ3NHZWd2SW9kaFNSSnZ6NEJrTENCM05DY0hPRUFoeGg5aENsWmhNWFktMzhIZVpKQ2M5WXZLVkFHLTJibnE3M210MmluVnhibC1xQlZSSQ",
-      "title": "Internal White House Discussions Focus on Influencing Trump's AI Stance",
-      "first_seen": "2026-09-17T04:32:56.726025+00:00",
-      "rss_title": "Inside the White House Tussle to Sway Trump on AI - WSJ"
-    },
     {
       "url": "openai.com/index/cooley-gopublic",
       "title": "Cooley Leverages ChatGPT for Accelerated IPO Processes",
@@ -954,6 +834,125 @@
       "title": "Yoshua Bengio Urges UN Security Council to License Frontier AI Like Nuclear Technology",
       "first_seen": "2026-09-24T04:31:40.967981+00:00",
       "rss_title": "Yoshua Bengio urges UN Security Council to license frontier AI like nuclear power"
+    },
+    {
+      "url": "openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "title": "OpenAI Extends Cyber Defense Support to Ukraine's Civilian Infrastructure",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "OpenAI extends cyber access to Ukraine for civilian defense"
+    },
+    {
+      "url": "openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "title": "Harvey's GPT-6 Astra Revolutionizes Legal Drafting with Enhanced Contextual Understanding",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "Harvey turns legal context into stronger drafts with GPT-6 Astra"
+    },
+    {
+      "url": "openai.com/index/invideo-builds-with-gpt-6-astra",
+      "title": "invideo Triples Color Grading Efficiency with OpenAI's GPT-6 Astra",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "How invideo improves color grading 3x with GPT‑6 Astra"
+    },
+    {
+      "url": "openai.com/index/ringg",
+      "title": "Ringg Achieves Significant Cost Reduction and Efficiency Gains with GPT-5.6 AI Agents",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+    },
+    {
+      "url": "openai.com/index/introducing-mentalhealthbench",
+      "title": "OpenAI Introduces MentalHealthBench for Evaluating AI Safety in Mental Health Conversations",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "Introducing MentalHealthBench"
+    },
+    {
+      "url": "deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+      "title": "Google DeepMind Unveils Gemini 3.8 with Live Avatar Capabilities",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "Introducing Gemini 3.8 Live with Live Avatar"
+    },
+    {
+      "url": "deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+      "title": "Google DeepMind Enhances Private AI Compute with Secure Server-Side Memory",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "Advancing Private AI Compute with secure, server-side memory"
+    },
+    {
+      "url": "deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+      "title": "Google DeepMind Introduces Gemini 3.8 Text-to-Speech Functionality",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "Gemini 3.8 text-to-speech says hello"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMid0FVX3lxTE1Jd1Zrc1RBOXgxcFEzbnlYemlFdUpfVmRHUzBMeldPRWhzM1FxZTFMRVN4aTBFT3dKLW1UV0RVMlZvdDZVUVdXTGNHZjc0a3l6ekFqcV9CVWFFYVhzOThXSlgxbUJRclVhTXVZbGFoOEpNeXZDLWRN",
+      "title": "Meta Connect 2026 Unveils Comprehensive AI and VR/AR Innovations",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "Everything We Announced at Meta Connect 2026 - meta.com"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/open-protein-dataset",
+      "title": "NVIDIA Champions Open Science for Pandemic Preparedness with Protein Data Collaboration",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "How Open Science Can Help Researchers Prepare for the Next Pandemic"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai",
+      "title": "AWS SageMaker Simplifies Speaker-Labeled Transcription with WhisperX Integration",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "Speaker-labeled transcription with WhisperX on SageMaker AI"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp",
+      "title": "AWS Introduces Multi-Account AI Agent Architecture with AgentCore Gateway and MCP",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "Build a multi-account AI agent with AgentCore Gateway and MCP"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock",
+      "title": "HEMA Streamlines Internal Operations with MCP and Amazon Bedrock AI Assistant",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock"
+    },
+    {
+      "url": "github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+      "title": "GitHub Security Lab Leverages AI for Advanced Fuzzing with Taskflow Agent",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxObE05WERqVUVFa0UtVllxdVlwckduNFR2RGNDQ0Y4ZmJFVW4xOW8ybWR0bGwza3dMbnFzSFFmQWdmTnJDM1o4RDZZN21Zajk0aDJIcHFnZlRGZXJxYXkxaXBBR2dVZXM3ZUN1R1pjdW1faTIzOE9ucEQ2d1lFOEVkT0FuZlBrd0YxNUplS1htRXFGVVNwQTZENVl3S3JHWGVEb1N5eWxQbUo4REJLOUtMTjNOdklDUWc",
+      "title": "Meta Launches 'Charm' AI Gadget, Signaling Push for Post-Smartphone Hardware",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "Meta launches AI gadget Charm as race for post-smartphone hardware heats up - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxPM1poekxTT01INi1FY0h2MGNpNmtWMHg2S3JLTDRXRnBLVFFaa3B1cHZ4djMwM2VzN0dPc2hfQ1BlckZIZGFqM1hQUW0wazd3OFFKWm1nVGc5LU05b2dXTUxkdWtkWDR0MnM0VThfZlZINlZvd09qWkNvWW5iVEl4V3NoUUpRZ2NYcHk5eHR2czJVXzUxTEFjVHJrNUF5b1Vi0gGmAUFVX3lxTE96M21MTWJjLVpqZ0RwdFprNFM2N1JnVXFoZWswSGpHVmZoY0J4ZXVPdDJEbXVMc1V4eURUMG80LXNWWEd0djRiZl9hRU94T1c2OEplWFhPNkJBaHpWMnpwVXlHRmxoU3ZpaUVRUGpjSmZ6dXRuRDN6d0NsaUVRSlpOT1NFTXYyU0ZJeXZjTmU3NWNZM05XOUFyZkowejFJTXY5RWg2bXc",
+      "title": "China Accelerates AI Chip Production Amidst Geopolitical Tensions",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off' - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikAFBVV95cUxPNXh3OWdvQ3NBQ240aUxVR2NOd0hsMTZITHFpQjFuZlhQMU5ZeWpfaHdNd21lZVlyRzZzcUo5OUhJVEcwVnlFWjkwSENSdkdqb1NMMUFMaWE0a2lwbkw2Z25rMFBUYXZWOTk4VEU0dnRhTWk5YkQ5bkx3VmROWV9pYm5FRVZ0MnlKV0Rqell0LWU",
+      "title": "Google Nears Release of Flagship Gemini 4 AI Model",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "Google Nears Release of Flagship Gemini 4 AI Model - The Information"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxNMEpVOWZranlNWUZ3dkdLRFp6WHpFOHdPdkszVGpmY3ExLVozUzh0TmdMcVlfVDNlenpjWjRqbDBobVNPZ2VaOUpndWhIWHlmMTQ2YkhHZU9OQVk0OGRwTXRhdV9YODZpNDNtZjJMbDgzdUJic3h5Vi10eDdXZ0ZfLVFwZzU4aXd4NVdmc3R4MDN5VVdlTFlLUzZqZkVwcHcycF9fUVJOOWI4ZlFCWF9iRF9tRVo",
+      "title": "US Senators Request FTC Probe into Walmart and Amazon Bot Data Practices",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxNWlF5akhVUTNRUkYyRDc4cmpRYzR1XzBlU3ZmcDU5c0VPM1pWTU9kQlBoVjh3X1ZSV0VwaVlXMUFTR19xeVNTNDRWRlp0bnNidVB5amN5LVpfY3VoWGU5REtfRUZXMDFUNmEyRXFwaXNFUWppRTdWNndDWW1LdlRkSUdhZWJFZFdJakZBVG1Zcw",
+      "title": "NYT Opinion: Urgent Need to Regulate the 'Wild West' of AI",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "Opinion | The Wild West of A.I. Needs to End. Here’s How. - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxOaG54LVN3UTNVQXEyc3d5WVJHbkNtd1VfcGd5cGJLMXc5WGM4dWJ5V1NRY2VkbUw1MjZ5UkZSVGFpLTBVbjJFS0FVZjhRV2s3a1F2a2IweGNTUkdPc19RVnRsRkI3X1JiNUVUX2VjamJQUU1NdEtlWVlIVzNmNTU4eFpWMWF6WlFhaDAtZHg4UlE1WUExMUJv",
+      "title": "Pope Leo Expresses Grave Concern Over Potential AI Apocalypse Risks",
+      "first_seen": "2026-09-25T04:31:31.477989+00:00",
+      "rss_title": "For Pope Leo, the risk of an AI apocalypse is a major concern - Reuters"
     }
   ]
 }
