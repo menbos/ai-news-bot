@@ -1,125 +1,6 @@
 {
-  "updated": "2026-09-29T04:32:15.930640+00:00",
+  "updated": "2026-09-30T04:32:46.312481+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/advisory-group-on-mathematics-and-ai",
-      "title": "OpenAI Forms Mathematics and AI Advisory Group for Emerging Research",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "Advisory Group on Mathematics and Artificial Intelligence"
-    },
-    {
-      "url": "openai.com/index/building-standards-next-phase-ai",
-      "title": "OpenAI Proposes Global AI Standards for Safety and Governance",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "Building standards for the next phase of AI"
-    },
-    {
-      "url": "openai.com/index/v7",
-      "title": "V7 Integrates GPT-5.6 to Provide Institutional Memory for AI Agents",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "How V7 gives AI agents institutional memory"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
-      "title": "NVIDIA Launches DSX for AI Factory Power and Cooling Qualification",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/physical-ai-halos-safety",
-      "title": "NVIDIA Emphasizes Layered Safety for Scalable Physical AI Deployment",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/ai-security-agent-stack",
-      "title": "NVIDIA: AI Security is an Engineering Problem Requiring Layered Solutions",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
-      "title": "Benchling Secures Multi-Tenant AI Agents with Amazon Bedrock AgentCore",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
-      "title": "EXL Uses AI on AWS to Reduce Medical Claims Review Time by Over 60%",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution"
-    },
-    {
-      "url": "huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "title": "Hugging Face Explores Pruning LLMs via Block Removal as Ising Optimization",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ",
-      "title": "xAI Releases Grok 4.7",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "Introducing Grok 4.7 - xAI"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxQQy1Kek84Q1lOaEdVNXgwZ2VzNzNVSmEtcXE5SURRX0g3ZlNjcUM1X1lnUHlvV2M2bi15T0UxbjVoS0dFcFRILVBLRFlnS3FoUjh2aE10ZS1obU5WMV8wTGUwd2RqS1VYOVJhczUzX25wR0MtcEJiS0tfa1RhODFHN3lVV0hleURqWFNpZUR2LThnWlh2MHlMUGxSdw",
-      "title": "Googlebook's Built-in Intelligence Aims to Reinvent Laptop Usage",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "Googlebook’s built-in intelligence reinvents the way you use your laptop - blog.google"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-09-22/alibaba-shares-jump-on-new-ai-chip-video",
-      "title": "Alibaba Launches Powerful New AI Chip to Compete with Nvidia",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "Alibaba Shares Jump on New AI Chip"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMif0FVX3lxTFBzNk1Xck9GUE41UTZPc1p6elBuenQyZnA3bEg0WFEyeHNLNXBfNXZmZUNIOUtodnVSaWFXRGtueDFzenhuMS1xYVBvSjIwM0RQM25fSWtoVUszVmJCZEg5Q2RFb1llLVNlOEN4VjR1eDg0dWJyc09tN0QxNnZQeWc",
-      "title": "Anthropic Pushes Forward with IPO Plans Amid AI Safety Discussions",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "Anthropic Moves Ahead With I.P.O. Plans Amid A.I. Safety Debate - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxPXzZtd1k0Y2pvYzQ0MnlLWWNyRGdfc0FMcUFuZ3VHYlJkNTZCQUNfQlE5UjN4Vl9MbnNWMm0tRlNjNDFuY3VNSXh1TmJ5MEpkOEhOSDdBenNZdWtXcEhxWno3N3dLaW1jQ0RXNzBkRjJwQkdiNHNtNVplaF9pNG80M3RHay13eVk",
-      "title": "US and China Report Progress on AI Talks, with Challenges Ahead",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMifEFVX3lxTFBfSHp3aHg5bk14YXlSWWdCX25OS1RIUXJjSFBjUUx6MG9ITHoxNnp4aFo5UlBaWV9ycWJlSFd6dExKVlhYelVKY19Cckk5bW1WQTE5SlB2eTZDUlNIYWZZbDI4TkJmNXN4alNsVEFTOXFhQWVTWEdCTzFYTnI",
-      "title": "AI Regulation Debate Intensifies Amidst Rapid Advancement",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "AI regulation debate heats up - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxNY1F1UlF0ZWNKMTNmQkF4d3JKTGsyU3liQUt4YkhCaHRrNDdnNnFPbWNrbVpwS0U0REV6SnRIenZmU3hndndTTG1ia0lHemR1RDIwcWo5aXBmcGlIUzdIZkd5VGNrUnlqSHduTmlXUGlKb3JmRC1URWpOVXFyY0NlVF9sa0RSWms1TEZLQVlxclBqNV9PS2V0VnpMNmNoNUg3NXJmQmtaZHdGYlkyaGV0SEZvRmZnMzQzUlJzem13",
-      "title": "OpenAI Urges US Leadership in Global AI Technical Standards Development",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "OpenAI calls for US to take lead in global efforts to develop technical standards - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ",
-      "title": "US Proposes AI Safety Notifications in Talks with China",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxPc3ltX05ZbWFrSDlYLVJmREhNcUZuTXlpMzVKdy1SNUlfbnQtSGd6UUNkLUpYQV9LRURFc0o2MEp4X1N5NXVRM0ZPaFE0TFBBaFVwVkxIbWUxMUtyNmNFZ0Jjam5NaVprcEpzT2xTcHh1QkxiaW9oVWpLeFNoaFdLTTJTd0FFRjZCc1V5XzFSZ3UzZ2lsT2Z1ZjZXak5FZHVQeXlPeTFxeHdrS3BMelR1ZzdlNlhBamhIVXFldVM2elY0Y3M",
-      "title": "Belgium's Aikido Launches Cybersecurity AI Model Amid Demand for Local Tools",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "Belgium's Aikido launches cybersecurity AI model as demand for local tools grows - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE5LNEptUExGZFpXbFdSWHhvWmhMWHk2dGFZRkx4Y3JrWjNSaEY0SlQ0ekppMldFRV9EcHl0UHFDTjZqcEpZbmNuSU10Y0VtRWdvRkdGazJObC1JSVdRUlpudjBZc0RrS2M2NnBDVXFnZk0",
-      "title": "US Data Centers Face Six-City-NYC Equivalent Electricity Shortage",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "US data centres ‘are short six NYCs of electricity’ - Financial Times"
-    },
-    {
-      "url": "wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping",
-      "title": "AI, Tariffs, and Rare Minerals to Feature in Trump-Xi Summit",
-      "first_seen": "2026-09-22T04:31:42.596435+00:00",
-      "rss_title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping"
-    },
     {
       "url": "openai.com/index/introducing-gpt-6-sol-and-luna",
       "title": "OpenAI Launches GPT-6 Sol and Luna for Enhanced Workplace Intelligence",
@@ -953,6 +834,125 @@
       "title": "Nvidia and Anthropic CEOs to Join Trump and Johnson for AI Risks Discussion",
       "first_seen": "2026-09-29T04:32:15.930640+00:00",
       "rss_title": "Nvidia, Anthropic CEOs to Attend Trump-Johnson Lunch on AI Risks"
+    },
+    {
+      "url": "openai.com/index/introducing-gpt-6-1-sol",
+      "title": "OpenAI Introduces GPT-6.1 Sol, a Cost-Effective 'Near-Astra' Model",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Introducing GPT-6.1 Sol"
+    },
+    {
+      "url": "openai.com/index/devday-2026-recap",
+      "title": "OpenAI's DevDay 2026 Unveils Over 20 New AI Developments",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "DevDay 2026 Recap"
+    },
+    {
+      "url": "openai.com/index/introducing-dots",
+      "title": "OpenAI Introduces 'Dots' Proactive AI Assistants for Complex Projects",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Introducing dots"
+    },
+    {
+      "url": "openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "title": "OpenAI Publishes Early Guidelines for Frontier AI Training Safety Cases",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Towards safety cases for frontier AI training"
+    },
+    {
+      "url": "blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows",
+      "title": "Microsoft Unleashes New Data Innovations Leveraging Unique Business Knowledge for AI",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "New Microsoft data innovations unlock what only your business knows"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference",
+      "title": "Amazon Bedrock Expands Claude Model Availability for In-Country Inference in India",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore",
+      "title": "Amazon Bedrock Introduces Anthropic Models for In-Region Inference in Seoul and Singapore",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock",
+      "title": "GPT-6.1 Sol Now Generally Available on Amazon Bedrock, Enhancing Enterprise Workflows",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock"
+    },
+    {
+      "url": "huggingface.co/blog/nvidia/kumo-tabular",
+      "title": "NVIDIA Kumo Tabular Sets New Accuracy-Efficiency Standards for Tabular Prediction",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction"
+    },
+    {
+      "url": "huggingface.co/blog/Hcompany/holo4",
+      "title": "HCompany's Holo4 Powers Generalist Computer-Use Agents",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Holo4: powering generalist computer-use agents"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR",
+      "title": "NVIDIA Launches Open Agent Safety Platform for Secure AI Agent Deployment",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxPX212WWhHNWgzWkdtSlZTV3hiU3ZVdmJoUnJPMl92MVlMd1VadHJrbXJ3RjFvdXJib3dueWk0eUFwY25DallZUTJGd1J2MWRTRkFZcWNoa1g3YVBzaEdKbmF5TE1HakN0cnI5emUwdVlKeTZPY2o5R3RheG54R0E2ODVVZXpVUGZ3MDFVQ0h3bDh0UQ",
+      "title": "Anthropic Report on GLM-5.3 Highlights Spread of Advanced Cyber Capabilities",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "GLM-5.3 and the spread of advanced cyber capabilities - Anthropic"
+    },
+    {
+      "url": "status.openai.com//incidents/01M3Q4RK1SM4EMK445GGPG7C0N",
+      "title": "OpenAI Resolves Elevated Errors Across Core Services Including ChatGPT and Agents API",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Elevated errors across ChatGPT, Codex, and the API including the Agents API"
+    },
+    {
+      "url": "status.claude.com/incidents/4xvtc2gnq73l",
+      "title": "Anthropic Resolves Elevated Error Rates Affecting Claude.ai and API Services",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxQTklEd2JHM1hoQzdoMkkzZ05JNkVWaExZc2d2UGlCTmlwMG1rSkFJV3hoREE2U1I5U0FDNUtvMTMxV1Q0SGFzaHdfdlhoMHVwLW1uM0xESXppa0czZklYNVQ1RDhRMlpPRlN1cXR2Vjc0U0p4SHNPRGUwZXQxSFBkOE92ZUpOSnBnRkx4cjRTa0UtX2QwWGJJemRWLUpOMjhoYzlXWmtUNDJ1d9IBrwFBVV95cUxQLXlIVmhvLV8zcEdoSGNKb09XRkE5b2lxYTd3aFdfWWluTnU4R0p0dXdiZkFfWlVvV3Z4M1ZmMV93MWtqYXd5dU1MeV8yNVBfZGh4ZEVXemVQdEJ0OWMzNlgzaTdzY3pySERMbU5sVGxyaWpEdzcwU2FPaFBZWmVOY1dSdWRhZ1BmcXFsQkpjaDNiYTJ1Q3hwSm1tUEh1NEN2dUdmeHVyb1l5cGZhYXZr",
+      "title": "Meta Launches 'Muse for Small Business' to Expand Beyond Consumer AI Market",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxNUm1rcklHNVRzQnFIS2t3RnNGNDBwU25RUzJIcnFNN0FIbDNOU3VTNEhVVGprOEhNOVZISGVlWHo1NkFZX3doLUNkOU16cmlMdWotdnljUUowc19DcXJXbzFjRTI1QVFKNGtJSWNBMGdUSExIVlB3NmpVZWQ2TnBFNFpjckY1NEhOOS1BMWw1MktacnlrbFpBMDd5X2tZb0xpbVRxRlREYlRGWWE4elFr",
+      "title": "Anthropic Releases Second Claude 5.5 Model Ahead of Anticipated IPO",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMie0FVX3lxTE5Xa3REXzgwTUluYVRBSnczZk9mdWl1MmszYzBYNHRPbDJicXI4RVJibFkzaEZoVy14Z05yQkx3RUtIOWNWTERMMXpMVTNTYW43Z1NsTC1EY2pRQmhLUDhEdjJnR09pelJKSm1vQ2RVbnhBWndkVTF4RFVwRdIBgAFBVV95cUxOWlUzejBYN3NvR19GanJ3M2xQalBvRUFzRWNLMFMxVlpJSTF0LUV6cDNhSEJQeUZRaEJxYkJibjBSMFlEWjlVelEyMG1FZXZaTFlXbGhjQ1dNRjlWcjBHRXhzaWY0azJXNGZPakcwTGJoNzJPOHp2ZU9kR3BOUnQ3Rg",
+      "title": "Mistral CEO Criticizes U.S. AI Safety Debate as Potentially Masking Competitor Negligence",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence' - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw",
+      "title": "OpenAI Reportedly Halts New AI Model Release Over Safety Concerns",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxNWXBiMU9va2F1QUVhR0RCUk1DQm10d2g3MFJiblhXa2JuTHBEZG04TjMtUVpqeldtbW9LcVZ4SVdhMzBlcllVNEtsTVE3OGJZMVpYWTZtYUtfLXBkOFlEWHpZNDFFQTBnc3J1QXl3Q3k1ZWNvU1JNZ0hSUXo1aGJVY2J1YUItZ1MzVXNqYzNrM20xTWtsYWJQSmxxbC1WNkRIdVFmVGtTZmZFNGtIMURxa0w0dVV5ZC1m",
+      "title": "AI Researchers Warn Against Rushing Self-Improving Systems Despite Safety Risks",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00",
+      "rss_title": "EXCLUSIVE: AI researchers warn companies rushing self-improving systems despite safety risks - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNmdCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg",
+      "title": "Trump and AI CEOs Endorse Voluntary Safety Pact and Data Center Expansion",
+      "first_seen": "2026-09-30T04:32:46.312481+00:00"
     }
   ]
 }
