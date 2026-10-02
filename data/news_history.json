@@ -1,126 +1,6 @@
 {
-  "updated": "2026-10-01T04:31:35.347142+00:00",
+  "updated": "2026-10-02T04:31:23.182788+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/sam-altman-un-security-council-remarks",
-      "title": "Sam Altman Addresses UN Security Council on AI Safety and International Cooperation",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "Sam Altman’s remarks at the United Nations Security Council"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
-      "title": "NVIDIA Isaac ROS 5.0 Enhances Agentic, Open-Source Robotics Development",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi-AFBVV95cUxOOU1CZVdfZlFKYmhQdGF1MTlaUl9SMGNxY19WSWZhWmdxRVZTb20yY29yc1JoSXB6R2tYVnRad1BhWWZaZ1NoNnZYZjhPTndnM3Y2aWlEV0JnbDZGUGVrTUV5TnNlN0tOWkF3X2EtanVwZ24yeW5odHhxQ0puY2s0UllVbE5jMTRXcUFWbVdSaFU2U2hhZTVQem1MOWdfb3R1TWZ5dGo5S0d5ZWxXMm9FbzN4RUlNSTEtNEg2a0F1c2hlbnNkdjZtNU5yYXN3OGktY0FBVWpxcl9XSmFVM0RvSHlRQWpVYWM5WUNMUmVpLUFENTBrWFplag",
-      "title": "California Governor Appoints Experts to Implement AI Executive Order, Including 'Kill Switch' Initiative",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” - California State Portal | CA.gov"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNYkRfdGVvZzNROGxZeEd5dFQ5RV94YktETmZzRmNkekFLdkluYkVFNTVXSEI5RGtzOXNDa2FTWGN1RE5ZTEIta18tSWNWSUFCT0JNeXMyREZuNFFidlpPOEoyYjhMUUZlMC1odGpNcEdnR2tCdmZBRldqSnljTjNPLUVQOFBSWVkyS3Rsdzh2LWNvWGVoSkpTbUp6YUlLWFVRU1RkQ1hDMGtwUGVjN2ctUm9xWW9iNHNVSjE0",
-      "title": "NVIDIA CEO Jensen Huang Argues Against Regulatory Waivers for AI Firms",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "AI firms should not get regulatory waivers, Nvidia CEO says on podcast - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihgFBVV95cUxQMlhCY0NfbXRLVnRnUUlnUWo2dEJaYzJQekFIbk1CR1UtSTBtZzktYzZmeDJhVGFXYXBnUmo4RDBTYVd1Ulp2NkhQN2p5VHB4Zk9aeWV2dUE5bE5aRUtyTUNDNFBDaVBKV3d6dTVqYTRISnZ6TDFwbWhIOURTV0hsb0t0MmJXQQ",
-      "title": "NYT Article Details Successful Containment of Humanity-Threatening AI Scenario",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "How Scientists Contained a Threat That Could Have Destroyed Humanity - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR",
-      "title": "AI Leaders Warn UN of Escalating Security Risks Due to Powerful Systems",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "AI leaders warn UN of security risks as systems grow more powerful - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxPdW5hd1BKazlnZmctdWM5ZjA5QXFOZnVPYjE0dExZNXc0cDJiUWhjb0VzWUZ0QkdYb3dKaThfR20wMzlOVWRGaTc3SlZUYVdWOXB5bWV5NFE0ZGhsSC1xeG1NN2szdVpISklVdW1FcExXZ1Eya3JoekEwa0VJSHJzc2l5dW9PRWdLVzJ5MVYyNG15ZWFVRHMxNmdDRHpZd0xWY2ZaUGhLTWptZVJlSHBueWloeUFIcHhYTGhISC00c0pHQ2lBdVE",
-      "title": "Apple Aims to Lower AI Costs with New Macs, Competing with Microsoft and Nvidia",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw",
-      "title": "Poll Indicates Majority of Americans Believe AI Firms Aren't Doing Enough to Prevent Disaster",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0",
-      "title": "Banks Raise Concerns Over AI Shopping Bots' Potential for Scams, Fraud, and Data Privacy Breaches",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-23/xi-and-trump-seek-safe-ai-without-slowing-the-race-for-supremacy",
-      "title": "China and US Seek Safe AI Amidst Continued Race for Supremacy",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "Xi and Trump Seek Safe AI Without Slowing Race for Supremacy"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-23/openai-agent-hacked-australian-government-website-albanese-says",
-      "title": "OpenAI Agent Successfully Hacked Australian Government Website, Raising Security Concerns",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "OpenAI Agent Hacked Australian Government Website, Albanese Says"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxPampHQnlfNmVZYTVMLW5TWk5EOFZic01ubUI3VTZhb2JuS0ZhNko3LVd3MUVXRzBWZUxSZ29VVEZnM2NEN2lvZlJlME5kelp4TlprVkNDRENTa0JIY3FjTUhBMVZ0MVpkM1BTZVRuVGlIcGwwMGUyYTgwY3JRUVZiOVNwbjQzUXh3UzQ5UDdUX01lMkthRHZFUlJJbGpTYlJpOThYQ2NMcUJ3bzVPQWpyd2c1bGM",
-      "title": "Anthropic Leaders Invest in Startup Focused on Detecting Biological Threats with AI",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "Exclusive | Anthropic Leaders Back Startup Developing System to Detect Biological Threats - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxORjYzTklHWlQ2aktFY2pHN2lmUUNyM2kzeGxuX0dNVUVWWms2ZlMyM255c3UzdUtDZTRwUWY2ZDhPTjUtMjAyNkFDY2JtcE9aNFBaMi1pVFB3dmkwRzBTR0lseXFVZ3loS2l4ZEpSUlpGdWF5bUk5NUhBSlV4amZmc3liM0N2MEww",
-      "title": "AI Leaders Urge UN Security Council to Implement Licensing for Frontier AI Systems",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "\"We have a choice\": AI leaders sound alarm at UN - axios.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihgFBVV95cUxQcW1NY01CTVhsMWxBd25YZEFIYlJTdjJoMktyTDFIWUVvS21XYnBpcDYxYzM2UWZsR09FYWUyT3JqZi1rWlA3Ukd4QmgxelZkVzk5VXhQNHJCMG9fTkZSd2VMZ3NKUlpDT1RqRGdtVnhFeXhoczhCT3Z6ZFBpRDRDZkdEemwyUQ",
-      "title": "Article Explores 'Doomsday Fear' Embedded in Self-Improving AI",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "The AI doomsday fear hidden in self-improving AI - axios.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQUTlYeWZ3SHNvN2l6UTNLNmNKRGcydDZDNUNmZjBCMVVVRlV1RUFxSnl1WVc5a0J0eFhhQll3RC1ReHp6OEpOcUtYbElSeHFIQ2lDOWhDbi1VbDQzTW5vQy1fS05oVTczT3VMcWlLTWZBYWhHTFVYV2pDWmZOQW5NVjhxVG00Q1JYZXFTTlVUQXRNbU9XcFBYRGoxNkNwSmkzYnVvb0xNOFowdS1l",
-      "title": "Anthropic Releases Opus 5.5 with Reduced Pricing and Enhanced Performance",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance - TechCrunch"
-    },
-    {
-      "url": "technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating",
-      "title": "AI Agents Found Cheating on Tests, Hacking Systems, MIT Tech Review Reports",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "The AI Hype Index: AI loves cheating"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-      "title": "Senator Bernie Sanders Proposes Ban on 'Superintelligence,' Threatening Jail Time for Violators",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "title": "OpenAI Hires Key Patreon Executives to Bolster Creator Product Strategy",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "OpenAI nabs key Patreon execs ahead of upcoming announcement"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "title": "OpenAI Forms Independent Panel of Mathematicians to Address Research Missteps",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "OpenAI wants to consult elite mathematicians about how to not fumble again"
-    },
-    {
-      "url": "thenextweb.com/news/bengio-un-security-council-license-frontier-ai",
-      "title": "Yoshua Bengio Urges UN Security Council to License Frontier AI Like Nuclear Technology",
-      "first_seen": "2026-09-24T04:31:40.967981+00:00",
-      "rss_title": "Yoshua Bengio urges UN Security Council to license frontier AI like nuclear power"
-    },
     {
       "url": "openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "title": "OpenAI Extends Cyber Defense Support to Ukraine's Civilian Infrastructure",
@@ -952,6 +832,126 @@
       "title": "Samsung Invests $1 Billion in AI Infrastructure Firm Backed by KKR and Nvidia",
       "first_seen": "2026-10-01T04:31:35.347142+00:00",
       "rss_title": "Samsung Commits $1.0 Billion to AI Infrastructure Firm Backed by KKR, Nvidia - WSJ"
+    },
+    {
+      "url": "openai.com/index/the-eternal-complement",
+      "title": "OpenAI Explores AI's Role in Routine Work and Economic Progress",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "The eternal complement"
+    },
+    {
+      "url": "openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "title": "OpenAI Thwarts Coordinated Effort to Extract Model Reasoning",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "Disrupting a coordinated model-distillation campaign"
+    },
+    {
+      "url": "openai.com/index/helping-small-businesses-put-ai-to-work",
+      "title": "OpenAI Partners with SBDC to Empower Small Businesses with AI",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "Helping small businesses put AI to work"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+      "title": "NVIDIA Blackwell GPUs Power OpenAI's GPT-6 Astra Ultrafast",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/productive-durable-fungible-ai-factories",
+      "title": "NVIDIA AI Factories Maximize ROI Through Productivity and Durability",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026",
+      "title": "NVIDIA Opens Applications for Graduate Fellowships Up to $60,000",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore",
+      "title": "AWS Agentic AI Automates Enterprise Cloud Migrations on Bedrock AgentCore",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick",
+      "title": "Amazon QuickSight Enables Live, Governed Data for AI-Built Applications",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "Serve live, governed data in AI-built apps with Amazon Quick"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors",
+      "title": "NVIDIA NeMo Agent Toolkit Integrates Amazon S3 Vectors for Agent Memory",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows",
+      "title": "AWS Bedrock AgentCore Enables Ambient Agents for Event-Driven Workflows",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment",
+      "title": "Retailer uniopen Customizes Amazon Nova for Content Moderation",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "How uniopen customized Amazon Nova to their retail moderation policies for production deployment"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases",
+      "title": "Amazon Bedrock Knowledge Bases Enhances Conversational Claims Assistants",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "Query claims in natural language with Amazon Bedrock Knowledge Bases"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances",
+      "title": "AWS Bedrock AgentCore Runtime Instances Facilitate Multi-Agent Music Production Pipeline",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances"
+    },
+    {
+      "url": "huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "title": "Hugging Face Introduces AutoSynthData for Enterprise Agent Training Data",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "AutoSynthData: Generating Training Data for Enterprise Agents"
+    },
+    {
+      "url": "huggingface.co/blog/allenai/olmocore3",
+      "title": "Olmo-core 3: Open, Scalable Training Infrastructure for Large MoEs Announced",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs"
+    },
+    {
+      "url": "github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026",
+      "title": "GitHub Universe 2026: Focus on AI-Written Code and Security",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "10 technical talks I’m excited about at GitHub Universe 2026"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPTmZUMXl2aTVwYjVtWUhybXMyZGFMOHJ6aExDRTNJM2FvaTVLcW8tY0V0TGYwYU5NNERzUG1DX2RCNXF1M0JRTzhCNkh4Ukp4WEVRRk9vckFsd1UxY3cybUQwNjJmSWgtZ0pyNkdXeXdUY0hHYjNnS3JDeTRsSWx3enJpc0M",
+      "title": "US Competition Watchdog Investigates Anthropic and OpenAI",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "US competition watchdog expands investigation of Anthropic and OpenAI - ft.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidEFVX3lxTFBaX3E1SXJOeEJHVWxxNEpSUDZxRmRJZFBTQ3hDU1R2Z3FLT0hOREVTZEQ4eXNQdmRKNkQwMExCXzA0blJRRE5kb3oxb2haU1h0eGFyQ3NrOGxJSjFNYzBIVU1DU1Z1SEhkWExyelZIeHh5amE40gF6QVVfeXFMUEI1a0NEa0xqMTNScWtrWXZjS3ppbE5xVHQyWXJjVWJMQUZDby1HNlE2bG1DNUtFOFgzdDlDXy00QW1VSHJ1RDFaZ1lnUE50b2VSdjI1YlJ6LTdMUktDaWtTdm9JUG5PbDF1dFVXOUNQSFhndHpmWjlMLVE",
+      "title": "FTC Probes OpenAI, Anthropic, and Other AI Firms on Product Risks",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi4wFBVV95cUxNTEJMOEYwbGpDenhSYkdBTXR5dHNoakU1MU5JSE1ObE5OYzFsTVdrSDg4VXE5SVRuSkFzS2VPUjBBTUMwdXVPRjJHS1hsanp6NE5kWEZuVnF0Qm5VcFQ4Zm1nSngySHNkMFctR1ZEOXdXanVhMmR4ZkNkbl9pQmFqdzBycHhPcGFvWEZvcEhqQlZNRi0xbkFyTW4yOG5mUk9HR090T0o5b2k1em41ZlBUOG5aUWVaX0poTHBaWGw2MFJKS1NBclRmWml0QXA1UEk3VDlqejZ5NUpXQkVDNUwtRU1nZw",
+      "title": "Major AI Players Pledge Self-Policing at White House Meeting",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "AI’s biggest players promise to police themselves at the White House - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw",
+      "title": "FTC Initiates Probe into AI Giants Including Anthropic and OpenAI",
+      "first_seen": "2026-10-02T04:31:23.182788+00:00",
+      "rss_title": "FTC opens probe into AI giants including Anthropic and OpenAI - Reuters"
     }
   ]
 }
