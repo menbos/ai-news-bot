@@ -1,125 +1,6 @@
 {
-  "updated": "2026-10-02T04:31:23.182788+00:00",
+  "updated": "2026-10-03T04:31:26.620200+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "title": "OpenAI Extends Cyber Defense Support to Ukraine's Civilian Infrastructure",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "OpenAI extends cyber access to Ukraine for civilian defense"
-    },
-    {
-      "url": "openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "title": "Harvey's GPT-6 Astra Revolutionizes Legal Drafting with Enhanced Contextual Understanding",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "Harvey turns legal context into stronger drafts with GPT-6 Astra"
-    },
-    {
-      "url": "openai.com/index/invideo-builds-with-gpt-6-astra",
-      "title": "invideo Triples Color Grading Efficiency with OpenAI's GPT-6 Astra",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "How invideo improves color grading 3x with GPT‑6 Astra"
-    },
-    {
-      "url": "openai.com/index/ringg",
-      "title": "Ringg Achieves Significant Cost Reduction and Efficiency Gains with GPT-5.6 AI Agents",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
-    },
-    {
-      "url": "openai.com/index/introducing-mentalhealthbench",
-      "title": "OpenAI Introduces MentalHealthBench for Evaluating AI Safety in Mental Health Conversations",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "Introducing MentalHealthBench"
-    },
-    {
-      "url": "deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "title": "Google DeepMind Unveils Gemini 3.8 with Live Avatar Capabilities",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "Introducing Gemini 3.8 Live with Live Avatar"
-    },
-    {
-      "url": "deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-      "title": "Google DeepMind Enhances Private AI Compute with Secure Server-Side Memory",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "Advancing Private AI Compute with secure, server-side memory"
-    },
-    {
-      "url": "deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "title": "Google DeepMind Introduces Gemini 3.8 Text-to-Speech Functionality",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "Gemini 3.8 text-to-speech says hello"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMid0FVX3lxTE1Jd1Zrc1RBOXgxcFEzbnlYemlFdUpfVmRHUzBMeldPRWhzM1FxZTFMRVN4aTBFT3dKLW1UV0RVMlZvdDZVUVdXTGNHZjc0a3l6ekFqcV9CVWFFYVhzOThXSlgxbUJRclVhTXVZbGFoOEpNeXZDLWRN",
-      "title": "Meta Connect 2026 Unveils Comprehensive AI and VR/AR Innovations",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "Everything We Announced at Meta Connect 2026 - meta.com"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/open-protein-dataset",
-      "title": "NVIDIA Champions Open Science for Pandemic Preparedness with Protein Data Collaboration",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "How Open Science Can Help Researchers Prepare for the Next Pandemic"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai",
-      "title": "AWS SageMaker Simplifies Speaker-Labeled Transcription with WhisperX Integration",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "Speaker-labeled transcription with WhisperX on SageMaker AI"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp",
-      "title": "AWS Introduces Multi-Account AI Agent Architecture with AgentCore Gateway and MCP",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "Build a multi-account AI agent with AgentCore Gateway and MCP"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock",
-      "title": "HEMA Streamlines Internal Operations with MCP and Amazon Bedrock AI Assistant",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock"
-    },
-    {
-      "url": "github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-      "title": "GitHub Security Lab Leverages AI for Advanced Fuzzing with Taskflow Agent",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxObE05WERqVUVFa0UtVllxdVlwckduNFR2RGNDQ0Y4ZmJFVW4xOW8ybWR0bGwza3dMbnFzSFFmQWdmTnJDM1o4RDZZN21Zajk0aDJIcHFnZlRGZXJxYXkxaXBBR2dVZXM3ZUN1R1pjdW1faTIzOE9ucEQ2d1lFOEVkT0FuZlBrd0YxNUplS1htRXFGVVNwQTZENVl3S3JHWGVEb1N5eWxQbUo4REJLOUtMTjNOdklDUWc",
-      "title": "Meta Launches 'Charm' AI Gadget, Signaling Push for Post-Smartphone Hardware",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "Meta launches AI gadget Charm as race for post-smartphone hardware heats up - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxPM1poekxTT01INi1FY0h2MGNpNmtWMHg2S3JLTDRXRnBLVFFaa3B1cHZ4djMwM2VzN0dPc2hfQ1BlckZIZGFqM1hQUW0wazd3OFFKWm1nVGc5LU05b2dXTUxkdWtkWDR0MnM0VThfZlZINlZvd09qWkNvWW5iVEl4V3NoUUpRZ2NYcHk5eHR2czJVXzUxTEFjVHJrNUF5b1Vi0gGmAUFVX3lxTE96M21MTWJjLVpqZ0RwdFprNFM2N1JnVXFoZWswSGpHVmZoY0J4ZXVPdDJEbXVMc1V4eURUMG80LXNWWEd0djRiZl9hRU94T1c2OEplWFhPNkJBaHpWMnpwVXlHRmxoU3ZpaUVRUGpjSmZ6dXRuRDN6d0NsaUVRSlpOT1NFTXYyU0ZJeXZjTmU3NWNZM05XOUFyZkowejFJTXY5RWg2bXc",
-      "title": "China Accelerates AI Chip Production Amidst Geopolitical Tensions",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off' - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikAFBVV95cUxPNXh3OWdvQ3NBQ240aUxVR2NOd0hsMTZITHFpQjFuZlhQMU5ZeWpfaHdNd21lZVlyRzZzcUo5OUhJVEcwVnlFWjkwSENSdkdqb1NMMUFMaWE0a2lwbkw2Z25rMFBUYXZWOTk4VEU0dnRhTWk5YkQ5bkx3VmROWV9pYm5FRVZ0MnlKV0Rqell0LWU",
-      "title": "Google Nears Release of Flagship Gemini 4 AI Model",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "Google Nears Release of Flagship Gemini 4 AI Model - The Information"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxNMEpVOWZranlNWUZ3dkdLRFp6WHpFOHdPdkszVGpmY3ExLVozUzh0TmdMcVlfVDNlenpjWjRqbDBobVNPZ2VaOUpndWhIWHlmMTQ2YkhHZU9OQVk0OGRwTXRhdV9YODZpNDNtZjJMbDgzdUJic3h5Vi10eDdXZ0ZfLVFwZzU4aXd4NVdmc3R4MDN5VVdlTFlLUzZqZkVwcHcycF9fUVJOOWI4ZlFCWF9iRF9tRVo",
-      "title": "US Senators Request FTC Probe into Walmart and Amazon Bot Data Practices",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijwFBVV95cUxNWlF5akhVUTNRUkYyRDc4cmpRYzR1XzBlU3ZmcDU5c0VPM1pWTU9kQlBoVjh3X1ZSV0VwaVlXMUFTR19xeVNTNDRWRlp0bnNidVB5amN5LVpfY3VoWGU5REtfRUZXMDFUNmEyRXFwaXNFUWppRTdWNndDWW1LdlRkSUdhZWJFZFdJakZBVG1Zcw",
-      "title": "NYT Opinion: Urgent Need to Regulate the 'Wild West' of AI",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "Opinion | The Wild West of A.I. Needs to End. Here’s How. - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxOaG54LVN3UTNVQXEyc3d5WVJHbkNtd1VfcGd5cGJLMXc5WGM4dWJ5V1NRY2VkbUw1MjZ5UkZSVGFpLTBVbjJFS0FVZjhRV2s3a1F2a2IweGNTUkdPc19RVnRsRkI3X1JiNUVUX2VjamJQUU1NdEtlWVlIVzNmNTU4eFpWMWF6WlFhaDAtZHg4UlE1WUExMUJv",
-      "title": "Pope Leo Expresses Grave Concern Over Potential AI Apocalypse Risks",
-      "first_seen": "2026-09-25T04:31:31.477989+00:00",
-      "rss_title": "For Pope Leo, the risk of an AI apocalypse is a major concern - Reuters"
-    },
     {
       "url": "openai.com/index/proaction",
       "title": "Proaction Achieves Significant Sales Growth and Efficiency Gains with OpenAI's Codex",
@@ -952,6 +833,119 @@
       "title": "FTC Initiates Probe into AI Giants Including Anthropic and OpenAI",
       "first_seen": "2026-10-02T04:31:23.182788+00:00",
       "rss_title": "FTC opens probe into AI giants including Anthropic and OpenAI - Reuters"
+    },
+    {
+      "url": "openai.com/index/practical-guide-building-gpt-6",
+      "title": "OpenAI Releases Guide for GPT-6 Model Selection and Production Deployment",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "A model guide for the GPT-6 family"
+    },
+    {
+      "url": "openai.com/index/chatham-financial",
+      "title": "Chatham Financial Achieves Significant Efficiency Gains with OpenAI Integration",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Chatham scales its capital markets expertise with OpenAI"
+    },
+    {
+      "url": "openai.com/index/albertsons-reimagining-retail",
+      "title": "Albertsons Companies Leverages AI to Revolutionize Retail Operations and Customer Experience",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "How Albertsons Companies is reimagining retail from the inside out"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+      "title": "NVIDIA DGX Spark 64GB Empowers Local AI Development and Scalability",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern",
+      "title": "AWS Quick Chat and Adjudicated Query Pattern Enhance Lease Compliance Audits",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore",
+      "title": "Amazon Bedrock AgentCore Enhances Claude Desktop with Secure Web Search Capabilities",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai",
+      "title": "Amazon SageMaker AI Facilitates Fine-Tuning of Search Agents with Multi-Turn RL",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI"
+    },
+    {
+      "url": "huggingface.co/blog/allenai/astabrief",
+      "title": "Allen Institute for AI Open-Sources AstaBrief for Fast Report Generation",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Open-sourcing AstaBrief, the fast report-generation model in Asta"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxOVHVmTy1fekRMMGxhQzBCRk1kY3BtVzA2QXg2Vk9SUG5oZVE4bTJYNXFDcllzdlJ2NDE2bWJqUTBYbW8tT3V6WmFGdWtuRjZqYTZyUzh3SWRBbU1BcW1VU0lLbzUybkJLbnQyb1FYNVc2LThXT2tQMFU3dWkyUVhIU2ZwaTJCWUNfaVhhX3RvczdwYnc0VE8tdUkxZ0tEaUNYSzZGcmZrYk5qbmZEUlVlTG5xcW50em8",
+      "title": "Trump Expected to Appoint Jay Clayton as AI Czar",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Trump expected to name intelligence chief Jay Clayton as new AI czar - The Washington Post"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE1nUWNDM05ycHpILU91ZEliWk94VHVjX1RKSmF4SG1JNnBMLVVOT214UGt4WERxUml0RXJ4V0trSVRXZU5MeEc5cWxXcWJ5OEMyQUdqdDgxSDZRM0ZsbDcxcEllYVRwUjhxNlkwc2NIQVVQTmttVmZJMl9R0gF_QVVfeXFMTU13Y0hIZW5lT09WUzZ6WFBzN21wT3pVMWFuZG5RUFNNNnJJY1MxS2w0NjdPQldtZDczTHVyQlpMOUR2Nmx3SGQzUllrMGVtd05qa1ozX0d0T2diRlFsX2loQjl6aHAwZjZNdy16MHNYeEt4WjV1aXAxNjBfLUwtVQ",
+      "title": "Frances Haugen Questions AI Companies' Self-Policing Capabilities",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Facebook whistleblower Frances Haugen questions whether AI companies can police themselves - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxPVHRqRS1jN2w4cEJmeUFHYkZ1N2RFVTJiRUtJYnZWSTRvMWVHNWVNU2IyYUh4Qjd1aG1pT21SSVRPbEpYVlBRUXRtZTFjS3dzMlF5SThULW1NaXRZTXlHNXdodTNfdGE1QmpMTHdGS1NSbmUxdkh2RXFubWs2eFRPSFF3MkMxVGx3cmd6U0xsSWthamd3YVdFaE8wU183SktHU3ZhNE5NVDNURFpHMU81N25YMG5jbDhQTXZjSg",
+      "title": "Chinese Hackers Impersonated US Official to Steal Data from AI Experts",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Chinese hackers impersonated ex-US official to steal emails from AI experts - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxPZTUwSDRkVzM5OHNmYzN0ekFqdUMwTVVzQmtnc1A5ZXJvNHZENzJ0bHhVWE53aDdYc2Rnams0RjJ6Q0hOYU9zblpUYmk1LVRodW54U1dienZYMEg4em1pdXhJcmI1RGxRMjVjTGdKSV9IVEtFb2tLcjJaRFBXR0c4VTQ4Y0ZieVpEcnFnTGk4YVhiSU1zb3ZCTA",
+      "title": "McDonald's Explores AI for Dynamic Pricing of Menu Items",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Inside McDonald’s push to have AI price your Big Mac - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
+      "title": "Apple Tightens Mac Data Controls to Guard Against AI Agents",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-02/nscale-hires-meta-s-justin-osofsky-to-be-coo-ahead-of-ipo",
+      "title": "AI Infrastructure Firm Nscale Hires Meta Executive Ahead of IPO",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Nscale Hires Meta’s Justin Osofsky to Be COO Ahead of IPO"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE9kTl9BM0RzWlZnVkYwQk1rOExZekZ4bml4alJhMFloXzR3WVJMQXF2VU0tbDVzQXRzX19LTE55eTBVVk5pUWVyTzgzbElSQWI4cHFUaG13REtpSUVZZmZHN3F0MHMwZlNVNnpyUE5QeEs",
+      "title": "AI Sovereign Wealth Funds Criticized as 'Techno-Imperialism'",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxONHo4Zjh1Y29GaURuOFM0bXJ1OVVzUkFEQi1ZaDA3ems1R0s2YnFXdnhhLWdhNU5aeDYwYzluNmpveVBXbFFQWmVBajQ0UUtXRzhJVUNJYXBiU0lkSVlxWUVBQ01oUHpvMk9wVzB6dldqWkRZeTR3N1dqWjc1Wjc0YlItWm9UZDVOVnh6MjNrQ2NJSF81M3NrTGQzbWxPZnBiVVZjSFJvXzZlbkIt",
+      "title": "Startup TypeSafe AI's Jev Model Sparks Interest and LLM Alternatives",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Startup TypeSafe AI’s Jev Model Sparks Copycats, Talk of LLM Alternatives - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaJyQVU0QkZzc1E",
+      "title": "OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMif0FVX3lxTE9ER1hsWjc2bWtQbGZ6OEFUQ0JoVU16UFhTTU1JRnJfaUpOS0FacjlFbzMtOUhYR0RWdTF3TUdJUzVoOGN5dlRvQV93VGJ1TUcwSWd6NzN3MFNvTUlqeGR5Yl9UTVljMVJEeFJ5ZW9tSlR3U29BS3ViZnVQbTNTWUE",
+      "title": "Grassroots Rebellion Within AI Industry Led by Elite Researchers",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies - Axios"
+    },
+    {
+      "url": "github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+      "title": "GitHub Blog: Three Essential Skills for Developers in the AI Era",
+      "first_seen": "2026-10-03T04:31:26.620200+00:00",
+      "rss_title": "AI is changing developer work. Here are three skills to strengthen."
     }
   ]
 }
