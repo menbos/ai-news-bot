@@ -1,124 +1,6 @@
 {
-  "updated": "2026-10-05T04:32:35.542097+00:00",
+  "updated": "2026-10-06T04:31:27.369238+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMihgFBVV95cUxNREwxdGg2aXlreXo5blo4WENaSFZEV2NGckE3MzBTbk1WeDQ5eVJsMkdjdlNnVUx5R1QxbHJSMmVRUmRHbkZWeV9PY2ExYXhxZ19tQnpjTFlPTWtPZy1VWmdxUFBKV2dFZmt2WHR0NmQtUlR6bzRVUVZpcHpVOGVuYnR5UHBUdw",
-      "title": "Google Cloud Unveils Latest AI Advancements and Announcements",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "Google Cloud latest news and announcements - Google Cloud"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQOUVEUkVPXzdxVUc2VXA2LW1nS3hRWVM4U3hwWmptYnRQdEZJbWZjeXZEczJ2NFpmWWMyNDNOSHl0Y0thUTFJd05aZTRRTDRqNFUzSTZMNnFYU08yMzh3Q3JMNF80SlVjR0FnRFJfcFRNN0tTdE1kamFYc2xrd0FVWmZObHdDdmFldnU3MmJBaERob045a190QmNkN1JyZXc",
-      "title": "Anthropic CEO Dario Amodei to Meet with President Trump",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "Dario Amodei of Anthropic to Dine With Trump at White House - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ",
-      "title": "Governments Lagging Behind Rapid AI Advancements",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZW5QQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ",
-      "title": "OpenAI and Anthropic CEOs Summoned for Australian AI Inquiry",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi2AFBVV95cUxPX0pMdFpwUWhaRHhFM1pvcndCTDdIX1NOQUVwV2JIX0xIcXByV3Z4UWQyblZRVWl5elZ0TkYxV3BXUEluN0llM0VnUDJvVmN4X19pcXJVX0tSNDdEUWdaNGFFVVQ3N01VaWJHQ1FXVEdVZTJJcDFvZlJ0QmE0b2JpeGM4RDdBMDh4YmNxRkhILVJDRGktQzRPdGNsV2VxWHBjZWt0Q3hRN7FwZWlhcDhMcUZ0LUJsS1FoWGVQUG1PVWp4cEpCcEtVdUJVRVQ4cjZxVUxjM1lDWFM",
-      "title": "China Considers Allowing ByteDance and Alibaba Access to Nvidia's Latest Chips",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-09-28/the-stocks-that-could-survive-an-ai-bust-video",
-      "title": "Stocks Poised to Endure an AI Market Correction",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "The Stocks That Could Survive an AI Bust"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-28/verisure-bets-on-ai-partnerships-to-counter-disruption-concerns",
-      "title": "Verisure Leverages AI Partnerships to Address Disruption Concerns",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "Verisure Bets on AI Partnerships to Counter Disruption Concerns"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-28/china-s-industrial-profit-growth-slows-for-fourth-straight-month",
-      "title": "China's Industrial Profit Growth Slows Amidst AI Sector Reliance",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "China’s Industrial Profits Grow at Weakest Since November Slump"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-28/china-tech-needs-ai-catalyst-to-close-valuation-gap-bi-says",
-      "title": "China Tech Stocks Need AI Catalyst to Close Valuation Gap with US Peers",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "China Tech Needs AI Catalyst to Close Valuation Gap, BI Says"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
-      "title": "AI Breaches Intensify Safety Fears Ahead of Trump-Amodei Meeting",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-27/from-geisha-face-paint-to-servers-sakai-chemical-emerges-as-ai-linchpin",
-      "title": "Sakai Chemical Industry's Powder Expertise Fuels AI Boom",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "From Geisha Face Paint to Servers, Sakai Chemical Emerges as AI Linchpin"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxNazY3aXdkLTdidzZEZjRxV1daaF9pVVRpN0NOdEl6UzZXRVVlMjZzbXRrd0VZWWd5TzBBWUpDdldBMGlES3hhRER5MWdrUlM1TXZEMm9zOXNvMWJMLWxrdVZfTHR4b1VqbXNudHR2MUtGN2lTdHY5bkxuamR5RjR3dExmbEMtVnlSb1dONjl0dF85Tl9rcmUxTTRvRUxpTWVG",
-      "title": "OpenAI Agents Employed Aggressive Tactics to Access UN Website",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "OpenAI Agents Used Aggressive Techniques to Access U.N. Website - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxPcWNISkdYaFRyRmhUUXdQRnJJNUU5aFlHeXh4OWR2VVBNZDZGVkgyTzBLUFltSmhZazhRMXp4UVRHV1pSNUVLSlhaZnVUbEZrQlhZeF9ZV3I5RG1JWTBjajRmbW5UdTBldzJFQU00SWN4dVFaRmxWVXVCOE9yQnVlNDNvNkt3SGJ5djc1YURPMDRpVkUxOC04",
-      "title": "Indicators for a Potential AI Bubble Burst",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "How to Know When the AI Boom Is About to Go Bust - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMingFBVV95cUxORGhfcEduZHZpNWZlWnZwMld5d1BseFpWcXFfXzktTUJWVldFUlJWYnloUUhldXRSQ3d5MDA5aVZjQjZKQ3VNdGFLN0xUNTVrQnRaa2ViT2ZkOEtOaTRZTXZRYWd0bHdFdkFvdnQtZU9QcU5MYVgtNFdtbGhFTlBwZERzRzRXN0tBSnFMQS1Fc2ZVS3pZSWxiZU9kWHI1Zw",
-      "title": "US and China Agree to Tariff Reductions and Initiate AI Dialogue",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "U.S., China Agree to Trim Tariffs, Start AI Dialogue - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxQdzJ4M3I3bDhVc1BkbkVvM2wzWG5GT3NsbUZyN3l4UHpPUGE4YWEzamdMN3JLS21GTkMtRkJ3eDNLMDZBcHQ0OWJXQlBqVUFGUzRSUmRZd2w1dFFwYlFEM1VvQzVNdmxIcmZaeDNrQzN2alpoclUzUkV2azFjQkxFMFloNTN5bHNj",
-      "title": "Middle Schoolers Increasingly Opt for AI Companions Over Human Interaction",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "Middle-Schoolers Are Seeking Out AI Friends Instead of Real Human Ones - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigAFBVV95cUxONEFMdjRTdHZxWkd1MjR5a0xtM203a0tVV0Rha2lDRjBfdFZPMUlnRFNKMjhXQl81bmpjUmJrcFRJazZtMHlSaDl6RTBUMmdDSHhESEFnWmNoVy1kTWluTVlQTjhlQXBRRGgwZ0NCUVJjc1J5YzZGdVNWcjg4eklLLQ",
-      "title": "AI Poses an Unsolicited Inheritance for Young People",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "AI is the inheritance few young people asked for - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE1rTl96WlBQOWE3SnAyWi1VRDc2R1Q3TnBjdUdCREVEblVwNW16eVZzV3dXblJhQzRGYTZFR3dmS3d5YjZrUEpzSG5aZ25fRUFEQ291Z0VOaHZXUno4ak9SU0hqN05DRmlUWjI5SlFla2w",
-      "title": "AI 101: Explaining Artificial Intelligence to a General Audience",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "AI 101: Explaining AI to anyone - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxNemppeVlOd2JNa0hGT20xZU44Y2RFT3VGQ3o1Yl9MZGxoaFZUS1ZEYXZ5UU5HYmR0a1VSczlnblVxeGJHY0l4RDlDN0Y0RlVfb2tFNnNjSXJ1MkRFajVRUWt3a294VkpCeDdyWnc1aGhxNG9teUdLVlQtS1FXTnFZOGZHYmFzYnAyZDRWMEk1eDl4Zw",
-      "title": "Analyzing the Risks and Ramifications of an AI Market Bubble Burst",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "Opinion | What Happens if the A.I. Bubble Bursts - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE5YRlA4ak40dEI3blpYTE1fVEVNT0R3aWFIdFlYTEZrTlo0V09EOGdkSVVTZVU2d1FYMEQyekE1LVZRb3lXVnNFLTZZeE92YlR3Umk4",
-      "title": "DeepSeek Unveils V4.1 Agent Training Headquarters in New Paper",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "DeepSeek Unveils New Paper: First Public Reveal of V4.1 Agent Training \"Headquarters\" Led by Signatory Liang Wenfeng - eu.36kr.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxObnZGa1lhUlVVZDZVbVNVR3NZWHZlV0VQZVNUM1hwSDlqSEhwWjNDalc5cTFQNFR4aDRBSndaZzZTSFhyemRaWXNrQmU2UUp1Sy05ZXFfbXRlZl81Uk8wYURaWnJ0QjVFelh6U2Nvc0Z3N1dZY0FBZG5GSXBtV215elR1VXl5OWFPb09pUlhyMTJUOGpZWFhiUjNyb3k",
-      "title": "Gemini Live vs. ChatGPT Voice: Natural Conversation Comparison",
-      "first_seen": "2026-09-28T04:32:24.039493+00:00",
-      "rss_title": "Gemini Live Vs. ChatGPT Voice: Which AI Offers A More Natural Conversation? - Engadget"
-    },
     {
       "url": "openai.com/index/how-we-will-do-better-for-australia",
       "title": "OpenAI to Enhance Australian Cyber Defenses After Government Website Incidents",
@@ -946,6 +828,125 @@
       "title": "EmTech Future 2026: AI's Intersectional Impact Across Industries Explored",
       "first_seen": "2026-10-05T04:32:35.542097+00:00",
       "rss_title": "EmTech Future 2026: When AI Meets Everything"
+    },
+    {
+      "url": "openai.com/index/eu-text-provenance",
+      "title": "OpenAI Details EU Text Provenance Approach for AI-Generated Content",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Our approach to EU text provenance rules"
+    },
+    {
+      "url": "openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "title": "OpenAI Introduces New Ad Format and Measurement Tools for ChatGPT",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Building advertising for the way people use AI"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/ai-breast-cancer-startups",
+      "title": "NVIDIA AI Solutions Accelerate Breast Cancer Diagnosis and Treatment",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore",
+      "title": "AWS Bedrock AgentCore Enhances Multi-Agent System Explainability",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent",
+      "title": "Amazon SageMaker Optimizes Generative AI Inference for Coding Agents",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "title": "GitHub Launches ReviewBench for AI Code Review Performance Evaluation",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "ReviewBench: An open benchmark for AI code review"
+    },
+    {
+      "url": "status.claude.com/incidents/bhphxz3vr58g",
+      "title": "Anthropic Resolves Elevated Error Rates for Claude Mythos and Fable Models",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1"
+    },
+    {
+      "url": "status.openai.com//incidents/01M46KED6KQ6PR195KZYYVNY8W",
+      "title": "OpenAI Monitoring Elevated Error Rates in Codex Cloud",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Elevated error rates in Codex Cloud"
+    },
+    {
+      "url": "githubstatus.com/incidents/3q1yb5m7ltvb",
+      "title": "GitHub Actions Experiences Widespread Incident Affecting Multiple Services",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Incident with Actions"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxOZENvRHJUb3JKWEFMQWsySkliYk9MOTF1VUxqdi1kMl81Sm8wWjNXMUpHNUMxTWRoSFl2OWo0d3VWeFNaSFJIUGJLMXNVWmRINlgwWDdwLU04c3VnSmotYlBlYkEzX2FTc1ZSejBManV1UVEwOFRHTm1NNlZTbndjRHNZS2JYUmQyXy1OM0dYZzhOZjJlWVk5N0szejFrUkNaNDRnV2tXQjFzSEozNXZJc01uMA",
+      "title": "Reflection AI Launches Open Model 'Beam' to Compete with Chinese AI",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Reflection AI unveils its first open model, Beam. Could it be America’s best chance to compete with China? - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPdjU1RlZodzh1WDB5VTBqN0xyR0FBWHlETG9fNzh6cURoREZzS0ZOYXJzMFZoc25TLW5SMjd3aExMaVpsRWRxMUhJdV9zTGtMU2ZNUDV1SGpLMWpDUTI0Qm9Kcm80eWRFMUlheWpOR3ZsdHBPVkdpdnRWR0hoeHplMmR4WVA",
+      "title": "Broadcom and Anthropic Secure $60 Billion Chip Deal Backed by Wall Street Banks",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4",
+      "title": "Reflection AI's 'Beam' Model Aims to Counter Chinese Open-Source AI",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models - reuters.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxOUkY5N1ZDbkF3MXJ6RkVKYjVkeHpELXIzM0lfLWRiVGZzalNUbWFHRnBJYmR2TkFSRV9vNXhyWi0yYXVyNndFenlzd3h1Ri1DdXljRk4taWQ0NUw3NkNjVlRWSjRrMUxyUHhRRzVObDk3LVJJLVBJQ3NiWXp4eU1QV1lLTDdNZHdkYnZvMmV4YU9tM2lsSTFqdHp5OVpFTXd4VW9XQ0lLYkpWeVFF4sFjFv",
+      "title": "Huawei and Qualcomm Agree to Multi-Year Patent Licensing Deal",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxONm1aN3JiNld4ZkM1VTI1TFdCNFRiTmF5TlBFNk5QMmdnaWEwZjJXaTQ5eFBhb29wRnVWM01vWmtiZkVoRG5qSmJnTXY1V0dsTTFtYjZSN1JYRHFodzEwV0NVQVJVYlBaWEVkakQ0WEJXa1hBbUFsRmNJNEotTkd6aHBxYzR4M0NOczhpM00xVkZHQ2t2bV96YjhNSFlaa19McEpwU3ZNMENoQTg3cDhxb0R1YVA5QUprM2d5cVlB",
+      "title": "Deutsche Telekom Projects €2.5 Billion Savings from AI and Automation by 2030",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - reuters.com"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-06/seagate-is-said-to-battle-toshiba-for-tdk-s-hard-drive-head-unit",
+      "title": "Seagate and Toshiba Vie for TDK's Hard-Drive Head Unit Amid AI Storage Demand",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Seagate, Toshiba Said to Vie for TDK’s Hard-Drive Head Unit"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo",
+      "title": "AI Video Startup Kling Prepares for Over $1 Billion IPO",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-06/banks-chase-risky-chip-loans-in-asia-s-8-2-trillion-ai-buildout",
+      "title": "Banks Pursue Risky Chip Loans in Asia's $8.2 Trillion AI Buildout",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Banks Chase Risky Chip Loans in Asia’s $8.2 Trillion AI Buildout"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-10-05/tiffany-mcghee-earnings-must-show-ai-spend-paying-off-video",
+      "title": "Pivotal Advisors CEO Emphasizes ROI on AI Spending Ahead of Earnings Season",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Tiffany McGhee Says Earnings Must Show AI Spending Is Paying Off"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQV2E3TzJoN21LWHZGNlV5cTJOTWFIU1ZRRC1VQWI4bzRYQkRTZHhpZ2t3anVWQUlaVzlpSU9DZ1ZUdWFRTTFUMGNBUXBCUk0zbDAwQlpoUnNuU1Y3eXpNWkJqSEhCTElBdUNEai1hdjl5UEpRZTJLaEhVQlVEbUtUV1BhaFg",
+      "title": "Reflection AI Enhances US Ambition with Open-Model Competition Against China",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "Reflection AI boosts US ambition to compete with Chinese ‘open’ models - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE9DOHhxN1Z6WUIzbkNpTlVSSDBhOFppQnJyYmZUTkhNREFnX0w1a1p1d2ZBUEdWeGppTjhIOUFQVE5BNzA2M3hyVHptQ2VNLXVZcXFYY1hPQkQ2d201bjFCeVl2Y3VfSlhSTUV1M3VfcjQ",
+      "title": "Financial Times Warns of Dangerous Myth Surrounding AI Agent Security",
+      "first_seen": "2026-10-06T04:31:27.369238+00:00",
+      "rss_title": "The dangerous myth behind AI agent hacks - Financial Times"
     }
   ]
 }
