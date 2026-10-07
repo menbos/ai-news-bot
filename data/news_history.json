@@ -1,126 +1,6 @@
 {
-  "updated": "2026-10-06T04:31:27.369238+00:00",
+  "updated": "2026-10-07T04:31:35.918619+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/how-we-will-do-better-for-australia",
-      "title": "OpenAI to Enhance Australian Cyber Defenses After Government Website Incidents",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "How we will do better for Australia"
-    },
-    {
-      "url": "openai.com/index/lenfest-ai-collaborative-expansion",
-      "title": "OpenAI Significantly Boosts Lenfest Institute's AI Program with $10 Million in Support",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "The Lenfest Institute grows landmark program with expanded OpenAI support"
-    },
-    {
-      "url": "openai.com/index/basis-tax-workbook-with-astra",
-      "title": "GPT-6 Astra Demonstrates Significant Speed and Accuracy Gains in Tax Workbook Task",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Basis completes a tax workbook 2x faster with GPT-6 Astra"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock",
-      "title": "xAI's Grok 4.7 Now Available on Amazon Bedrock, Offering Enhanced Capabilities",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Grok 4.7 is now available on Amazon Bedrock"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws",
-      "title": "Claude Sonnet 5.5 Launches on AWS, Delivering Increased Efficiency and Lower Costs",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Introducing Claude Sonnet 5.5 on AWS"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2",
-      "title": "vLLM-Omni on SageMaker Enables Integrated Image and Video Generation Workflows",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2"
-    },
-    {
-      "url": "github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
-      "title": "Open Source AI Security Agent Discovers 24 Android Vulnerabilities",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "How we found 24 Android vulnerabilities using our open source AI security agent"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiQEFVX3lxTE5HYnpIUnhxb2dGRndDaVZCOWJWY2dSR1Bib1BvSDFJZ3NFanMtWjY5eTVoZU1Mck9SMDN0NTVXYU0",
-      "title": "xAI Introduces 'Team Bots' to Enhance Workplace Collaboration",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Team Bots: AI coworkers that learn from your team - xAI"
-    },
-    {
-      "url": "githubstatus.com/incidents/169pg72gg9jr",
-      "title": "GitHub Copilot Code Review Service Experiences Disruption",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Copilot Code Review is unable to complete reviews"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQYXl4S1J5V0N4UWpZbHpnUlFaQWlXWWdjZFd0ZVBOSzJXS2VQZndsTXgyM29XV083LVlySlk5eGNxTWRXUjBGdkZHa3djdVJ6MDlVNDFKWlFfbnlHeW8tRi1Kd25jQlNYanFTQ3NhMFN5aWFFaHRWV21DR01mSEtxSzRyaDc",
-      "title": "Meta Launches Enterprise AI Business Amidst Strong Market Demand",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Meta launches enterprise AI business seeking to cash in on vast spending - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMickFVX3lxTE9qRGtiMER0c2RNRG5wOWl1ZWd4aEszaTJqWW5hWnI3cXpVaHBtTzlGYnQ2bTBsMnhXSkxONXdLVVpXQ0IxSG9RR2tXTnNiM2J0Qk5sbXJqVTVQRUFERXBSNEVPa2NmWHpYMDNOaktSNUNlUdIBd0FVX3lxTE9VUlRzOG8tVjJtWXpKb0hFNlduRU1QU1dlS2xPaHpBSzlxcWxzbFRBT19oMEJMdjgyd0c2elZXcV9vT1lGNU9VR0VqZGZxTThIRW5kLTlMTEUxdEhhUEs2NjJabER2UUdpaTVFdzZxWTVkX0JTeGU4",
-      "title": "Anthropic Releases Cheaper AI Model Following CEO's Call for Responsible AI Development",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown - CNBC"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says",
-      "title": "OpenAI Scraps Latest Astra Model Debut Due to Safety Evaluation Shortcomings",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "OpenAI Scraps Debut of Latest Astra Model Over Safety Risks"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPcHJGOXJ5VG45UUJaOEZ4MWNFZDQwd3BpUEtsWkFCeFhPbVd5UmFDaDFCelYwaTduR3h2TEsyUTlCeFFReHNtc3h2Y0p4Zi1BVUs2Qnk4ZjZPV2hnSUZEMlVrVWRxbThlT25RdUNVbHEyVHJ6R1dwVlZ5VzlORVZzRGNVbnpxZWZxWXpVMEhEeFpaUGxCRW8zVDRDaHp1R19HbUE5M3dWaERBU2N2aGtsRldiT3RPbDBheUI1VFBjU2FiV2sxOUNvUw",
-      "title": "US House Speaker: Trump AI Meeting to Focus on 'Finding Balance'",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxNcTU1WWJ5NTVsLWJLSm9hbmJTZmVVWGxvQl9xeEpHbjFGaEw4X0RybG9qdW5rSXBuOUZxYVduWmhJY1JxdHNtUnJod1F6Ym94cVZ5SWloVzF6NzdyNFYwR1d6NFRwT0hPc1ZDaXo0eVpDcU5qTzlaZWlCell5VWthZFdPNmxsVDFQU0xJa3gwN19Zc1FhN05wVEVHV3YwOE85STV4NEFB",
-      "title": "Pope Leo Rejects 'Fake News' Label for AI Doom Scenario Concerns",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Pope Leo says concerns about AI doom scenarios are not 'fake news' - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPUG9naTh0N0NqVC1Qa2xGLTZsaHd4dFMxVnpUYzFEZnJqbFQwVTN1ek4yZ3k5Uzh4M1lyVWdZeWJvSDJXLVVvUTM1eTFQak1XdWlrUFBBN082czBVR0h5XzJwLVFqUndKTmsyQUV5NnhzNGRlQnFMazJ1UFVGN1U0ZE9nSlpSbmxRNjdEU3pPekJ3YlNuTXhCaTlFa2YtbHFsd3J1TUhSVzFJMEE0VFBOT0poOVlmV1dS",
-      "title": "Florida Seeks Court Order to Halt OpenAI's New Model Development in Lawsuit",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizAFBVV95cUxNSVREakRaN2V6OWo0bzNFcVBHb1VZMzRVS29mcWF4XzZwSmdxLVRublBqSTE5ZlNBaHBKb0lTU1o2SWV0V0t1U3M3TVl1ZnlJWGVJRGxKclM5RkphYzhzU3FlNkZHNDk3TUZhdW54dGtydmR3MFR2ZFVZdWItaVpsNjZYX2hIbjVHcTM0ZTVqLVd6UHV2OGY4eFM4ZW1va1pCSF90VzlZd3BSUjVkY1RJRzV2ZGFEUnlnbDY1d0ZjOFZoYXBVRU5YZEM0Zmk",
-      "title": "Nvidia Releases AI Safety Software Aimed at Preventing Hacks",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-29/us-china-ai-race-five-key-flashpoints-explained",
-      "title": "US-China AI Race: Geopolitical Flashpoints and Cooperation Challenges",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "US-China AI Race: Five Key Flashpoints Explained"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk",
-      "title": "OpenAI to Establish Task Force for AI Cyber Risk in Australia Following Security Incident",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "OpenAI to Help Australia on AI Defense After Government Hack"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-09-29/data-centers-ai-face-skepticism-in-australia-video",
-      "title": "Australia Faces Data Security Skepticism Amid AI Growth and Potential IPOs",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Data Centers, AI Face Skepticism in Australia"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-09-29/nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks",
-      "title": "Nvidia and Anthropic CEOs to Join Trump and Johnson for AI Risks Discussion",
-      "first_seen": "2026-09-29T04:32:15.930640+00:00",
-      "rss_title": "Nvidia, Anthropic CEOs to Attend Trump-Johnson Lunch on AI Risks"
-    },
     {
       "url": "openai.com/index/introducing-gpt-6-1-sol",
       "title": "OpenAI Introduces GPT-6.1 Sol, a Cost-Effective 'Near-Astra' Model",
@@ -947,6 +827,125 @@
       "title": "Financial Times Warns of Dangerous Myth Surrounding AI Agent Security",
       "first_seen": "2026-10-06T04:31:27.369238+00:00",
       "rss_title": "The dangerous myth behind AI agent hacks - Financial Times"
+    },
+    {
+      "url": "openai.com/index/sharing-ai-progress-in-mathematics",
+      "title": "OpenAI Publishes Progress on Frontier Math Model and Open Sources Proof Formalizations",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "Sharing AI progress in mathematics"
+    },
+    {
+      "url": "openai.com/index/atlassian-partnership",
+      "title": "Atlassian and OpenAI Expand Partnership to Integrate Enterprise Knowledge with AI",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action"
+    },
+    {
+      "url": "deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "title": "Google DeepMind Unveils EmbeddingGemma 2: A Lightweight Multimodal Embedding Model",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/telecom-operators-open-models",
+      "title": "Telecom Operators Prioritize Open Models for AI Strategy, NVIDIA Report Reveals",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "Why Telecom Operators Are Building Their AI Strategy on Open Models"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025",
+      "title": "AWS Enhances Responsible AI Governance with ISO/IEC 42005:2025 Alignment Tools",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025"
+    },
+    {
+      "url": "huggingface.com/blog/tiiuae/falcon-emirati",
+      "title": "Falcon-Emirati LLM Developed to Capture Dialect, Culture, and Nuance",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00"
+    },
+    {
+      "url": "github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+      "title": "GitHub Rebuilding Git Infrastructure for Agent-Scale Development",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "Building Git infrastructure for agent-scale development"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxQVkhyMDJHWDlKYXpjSlA2eDZWSHVta3F4QnpoaHhkVTBjZWlMa1k5RFo0RFA5SWR6UnRUclUyRVpjRnVveC13VmNvWW5mSHZNZUk4YlpOTWJwSjhYU3pmc3FCUWVfWmxGcUZySVZ0aXYxUThFRDVVZFk4eUkxRm9FWEl4ZGxWQWlDSUZYUFYzcjBpaEVObGFhVm5IM0ZkRnNOVVhhQmVTN3YyYVRGRVY3Y3QzREFNWjJxd0lSWnh5TV9uZw",
+      "title": "Google Cloud Launches 'Modernize' Initiative to Drive AI Transformation",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "Introducing Google Cloud Modernize, transforming for (and with) AI - Google Cloud"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA",
+      "title": "Mistral AI Launches New Model Outperforming Chinese Rivals in Benchmarks",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "France's Mistral launches AI model it says outperforms some Chinese rivals - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxPVjdIYzN3RVFPcUozaWtycERxS2Z2LWxhclBEUmo1cVVtSkZXMWFHR2xOQUxLcmdka285NUVyVmFMZ1l4WWZuNFpsbFNocW5NWWN1RTgxcEU0YjZTQmt5WGJPUkFlRlBFREdfaHFhWFhZdkptSV9qdG81d1pibS12akVkTVpFblkzdWdqZ3JpdzM5MHpNSFZLaWQyUXQ1cTQzejRmMy1BTVFOblJGRjU2bEIwaTVDRm95bHpJb3lnZWJLUHdpQnNB",
+      "title": "South Korea Plans $3.5 Billion Investment in Frontier AI Model Development",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "South Korea plans to develop $3.5 billion frontier AI model starting next year - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMid0FVX3lxTE5lVzdtMDhZYkhnM1R0cVJJYW9oN3ZaZEhnNTUzQTVaaGRMTXRfbk05eG4yd19rQnNObVdkMVB4d1pPX1FBc0ZWVVFSQmFMdng1Y1A1UkxlM0ZPNFRpSHJzQ2o4YUFfbW9nRURqRXAzbkNyakY3QW5F",
+      "title": "OpenAI's Math Model Solves Hundreds of Previously Unsolved Problems",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "OpenAI Releases Findings on 377 Math Problems, Further Roiling Field - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOaHNZZW9GaVRnVzBtRVBfNkpablBtcTB6aTJyM1RZSi1sTDZMS1ozRk5oRE5XR3pWNWtKU1UxRmhDSk1rY19vT0lXOWhQTlU3UWZuZHpCc1hQaWZONEJpZlp4Zmk0QkVPcDJhTEo4ejlQcVIxSVNmUkZkRUhsTDVzZE1JNA",
+      "title": "AI Solves Hundreds of Math Problems, Demonstrating Advanced Reasoning Capabilities",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More. - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxOTTF4RDY5dnNXSGdnLW1jajhQcUUzQXUxNDBCbndJNWRjWkxXY1MyWGFrNnFQdE5TUDltaW4zd194N3RKMEtkZlZUWmdLaGNBY01MaVY3U2M0RmVzbVk3Q0dFZnhTd3I5SllQcTF4T1Q0OGhsNWx5aUFXYmpJYmVjYkRyZEJxYlItRUxvS2ZRdm1JNlZ2bHQtenNicDJaS2VHTHJJZGFXT3JIbkhzR2NZMjlsRDNnZw",
+      "title": "US Power Consumption to Hit Record Highs Driven by AI Surge",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQQW9IX3h3YzRRRWZrX1VNVk02dkd6UDlUUFlDMjdfU1dwUTJEWXhHRkpCZ2EwVXZqLXJqQmJfeHdaU1VLOWpOYlU3Wi1YNmljekVRcHRsZ0dMOHNrTzM3dGlRc1dRNFBhTGlrVzFJcGxtSEVuRjVfeFQzTy1WOFRHMGVROFBIQ2R3LTZkYlVzVnMwWFVCQk9RV1B1emhkRTljS3BsTW53akZwNFRx",
+      "title": "AMD to Significantly Increase Chip Supply in 2027, CEO States",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "AMD plans to substantially increase supply in 2027, CEO says - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-07/ray-dalio-warns-ai-bubble-is-approaching-burst-point",
+      "title": "Billionaire Ray Dalio Warns of Approaching AI Bubble Burst",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "Ray Dalio Warns AI Bubble Is Approaching Burst Point"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-06/spacex-seeking-to-raise-40-billion-to-buy-nvidia-chips-ft-says",
+      "title": "SpaceX in Talks to Borrow $40 Billion for Nvidia Chip Acquisition",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "SpaceX in Talks to Borrow $40 Billion to Buy Nvidia Chips"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-06/jpmorgan-tops-global-ai-banking-index-for-fifth-straight-year",
+      "title": "JPMorgan Chase Retains Top Spot in Global AI Banking Index, Deploys AI at Record Pace",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "JPMorgan Tops Global AI Banking Index With Jobs Seen to Grow"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQLWtJVDNxaldQMWl4Q2FFMDJSallVSkk0UTJPLURfTEdOR2Zvb0t2VzljTDc4WGswM3RTZGlTaFFoYm9LMVVYZVQxUXk5emVNa3dyYjRRc2FYTHRyWU1QZmYtcVhZWDBVZlJrZGpWV1ZlT3pXeHlST1k0MERhOVJONGxmQVc",
+      "title": "South Korean President Warns of AI Models Used in Bank Cyber Attacks",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "AI models used in bank cyber attacks, warns South Korea’s president - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxNVjh2amtZeXZZbWFMVnVFOWFGaVBQOGtGWU1NVmE1WEhWeWgtakFIdEFzVGlQTDN1cjg3UXdOeVdxVDM2UG5GbGxzMFJCZ2pvT3A3eDZsZW9zcmRsbDlwTHB1QXRFMzFIdXpYNVVnSC1xZ1l2RTRhb19NcnZRbExxY2hxcjk4RnV0",
+      "title": "US Stocks Rise as AI Momentum Continues to Build",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "U.S. Stocks Rise as AI Momentum Builds - WSJ"
+    },
+    {
+      "url": "thenextweb.com/news/personal-agent-protocol-sierra-meta",
+      "title": "Sierra Announces Personal Agent Protocol, An Open Standard for AI Agents",
+      "first_seen": "2026-10-07T04:31:35.918619+00:00",
+      "rss_title": "Sierra announces Personal Agent Protocol, an open standard for personal AI agents"
     }
   ]
 }
