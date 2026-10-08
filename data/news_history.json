@@ -1,125 +1,6 @@
 {
-  "updated": "2026-10-07T04:31:35.918619+00:00",
+  "updated": "2026-10-08T04:31:36.899786+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/introducing-gpt-6-1-sol",
-      "title": "OpenAI Introduces GPT-6.1 Sol, a Cost-Effective 'Near-Astra' Model",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Introducing GPT-6.1 Sol"
-    },
-    {
-      "url": "openai.com/index/devday-2026-recap",
-      "title": "OpenAI's DevDay 2026 Unveils Over 20 New AI Developments",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "DevDay 2026 Recap"
-    },
-    {
-      "url": "openai.com/index/introducing-dots",
-      "title": "OpenAI Introduces 'Dots' Proactive AI Assistants for Complex Projects",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Introducing dots"
-    },
-    {
-      "url": "openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "title": "OpenAI Publishes Early Guidelines for Frontier AI Training Safety Cases",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Towards safety cases for frontier AI training"
-    },
-    {
-      "url": "blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows",
-      "title": "Microsoft Unleashes New Data Innovations Leveraging Unique Business Knowledge for AI",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "New Microsoft data innovations unlock what only your business knows"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference",
-      "title": "Amazon Bedrock Expands Claude Model Availability for In-Country Inference in India",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore",
-      "title": "Amazon Bedrock Introduces Anthropic Models for In-Region Inference in Seoul and Singapore",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock",
-      "title": "GPT-6.1 Sol Now Generally Available on Amazon Bedrock, Enhancing Enterprise Workflows",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock"
-    },
-    {
-      "url": "huggingface.co/blog/nvidia/kumo-tabular",
-      "title": "NVIDIA Kumo Tabular Sets New Accuracy-Efficiency Standards for Tabular Prediction",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction"
-    },
-    {
-      "url": "huggingface.co/blog/Hcompany/holo4",
-      "title": "HCompany's Holo4 Powers Generalist Computer-Use Agents",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Holo4: powering generalist computer-use agents"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR",
-      "title": "NVIDIA Launches Open Agent Safety Platform for Secure AI Agent Deployment",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxPX212WWhHNWgzWkdtSlZTV3hiU3ZVdmJoUnJPMl92MVlMd1VadHJrbXJ3RjFvdXJib3dueWk0eUFwY25DallZUTJGd1J2MWRTRkFZcWNoa1g3YVBzaEdKbmF5TE1HakN0cnI5emUwdVlKeTZPY2o5R3RheG54R0E2ODVVZXpVUGZ3MDFVQ0h3bDh0UQ",
-      "title": "Anthropic Report on GLM-5.3 Highlights Spread of Advanced Cyber Capabilities",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "GLM-5.3 and the spread of advanced cyber capabilities - Anthropic"
-    },
-    {
-      "url": "status.openai.com//incidents/01M3Q4RK1SM4EMK445GGPG7C0N",
-      "title": "OpenAI Resolves Elevated Errors Across Core Services Including ChatGPT and Agents API",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Elevated errors across ChatGPT, Codex, and the API including the Agents API"
-    },
-    {
-      "url": "status.claude.com/incidents/4xvtc2gnq73l",
-      "title": "Anthropic Resolves Elevated Error Rates Affecting Claude.ai and API Services",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxQTklEd2JHM1hoQzdoMkkzZ05JNkVWaExZc2d2UGlCTmlwMG1rSkFJV3hoREE2U1I5U0FDNUtvMTMxV1Q0SGFzaHdfdlhoMHVwLW1uM0xESXppa0czZklYNVQ1RDhRMlpPRlN1cXR2Vjc0U0p4SHNPRGUwZXQxSFBkOE92ZUpOSnBnRkx4cjRTa0UtX2QwWGJJemRWLUpOMjhoYzlXWmtUNDJ1d9IBrwFBVV95cUxQLXlIVmhvLV8zcEdoSGNKb09XRkE5b2lxYTd3aFdfWWluTnU4R0p0dXdiZkFfWlVvV3Z4M1ZmMV93MWtqYXd5dU1MeV8yNVBfZGh4ZEVXemVQdEJ0OWMzNlgzaTdzY3pySERMbU5sVGxyaWpEdzcwU2FPaFBZWmVOY1dSdWRhZ1BmcXFsQkpjaDNiYTJ1Q3hwSm1tUEh1NEN2dUdmeHVyb1l5cGZhYXZr",
-      "title": "Meta Launches 'Muse for Small Business' to Expand Beyond Consumer AI Market",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxNUm1rcklHNVRzQnFIS2t3RnNGNDBwU25RUzJIcnFNN0FIbDNOU3VTNEhVVGprOEhNOVZISGVlWHo1NkFZX3doLUNkOU16cmlMdWotdnljUUowc19DcXJXbzFjRTI1QVFKNGtJSWNBMGdUSExIVlB3NmpVZWQ2TnBFNFpjckY1NEhOOS1BMWw1MktacnlrbFpBMDd5X2tZb0xpbVRxRlREYlRGWWE4elFr",
-      "title": "Anthropic Releases Second Claude 5.5 Model Ahead of Anticipated IPO",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMie0FVX3lxTE5Xa3REXzgwTUluYVRBSnczZk9mdWl1MmszYzBYNHRPbDJicXI4RVJibFkzaEZoVy14Z05yQkx3RUtIOWNWTERMMXpMVTNTYW43Z1NsTC1EY2pRQmhLUDhEdjJnR09pelJKSm1vQ2RVbnhBWndkVTF4RFVwRdIBgAFBVV95cUxOWlUzejBYN3NvR19GanJ3M2xQalBvRUFzRWNLMFMxVlpJSTF0LUV6cDNhSEJQeUZRaEJxYkJibjBSMFlEWjlVelEyMG1FZXZaTFlXbGhjQ1dNRjlWcjBHRXhzaWY0azJXNGZPakcwTGJoNzJPOHp2ZU9kR3BOUnQ3Rg",
-      "title": "Mistral CEO Criticizes U.S. AI Safety Debate as Potentially Masking Competitor Negligence",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence' - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw",
-      "title": "OpenAI Reportedly Halts New AI Model Release Over Safety Concerns",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxNWXBiMU9va2F1QUVhR0RCUk1DQm10d2g3MFJiblhXa2JuTHBEZG04TjMtUVpqeldtbW9LcVZ4SVdhMzBlcllVNEtsTVE3OGJZMVpYWTZtYUtfLXBkOFlEWHpZNDFFQTBnc3J1QXl3Q3k1ZWNvU1JNZ0hSUXo1aGJVY2J1YUItZ1MzVXNqYzNrM20xTWtsYWJQSmxxbC1WNkRIdVFmVGtTZmZFNGtIMURxa0w0dVV5ZC1m",
-      "title": "AI Researchers Warn Against Rushing Self-Improving Systems Despite Safety Risks",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00",
-      "rss_title": "EXCLUSIVE: AI researchers warn companies rushing self-improving systems despite safety risks - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNmdCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg",
-      "title": "Trump and AI CEOs Endorse Voluntary Safety Pact and Data Center Expansion",
-      "first_seen": "2026-09-30T04:32:46.312481+00:00"
-    },
     {
       "url": "deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
       "title": "Google DeepMind Unveils Gemini 4 Argon: The Next Frontier of Intelligence",
@@ -946,6 +827,126 @@
       "title": "Sierra Announces Personal Agent Protocol, An Open Standard for AI Agents",
       "first_seen": "2026-10-07T04:31:35.918619+00:00",
       "rss_title": "Sierra announces Personal Agent Protocol, an open standard for personal AI agents"
+    },
+    {
+      "url": "openai.com/index/gpt-6-for-everyone",
+      "title": "OpenAI Rolls Out GPT-6 with Intelligent UI for Enhanced User Interaction",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "GPT-6 and Intelligent UI for everyone"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+      "title": "NVIDIA and Microsoft Forge Partnership for AI Agents on Windows PCs",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws",
+      "title": "Anthropic's Claude Haiku 5.5 Now Available on AWS Bedrock for Cost-Efficient AI",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "Introducing Claude Haiku 5.5 on AWS"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+      "title": "GitHub Blog Highlights Need for Scalable Secret Protection in Software Development",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "Secret protection must scale with software"
+    },
+    {
+      "url": "apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives",
+      "title": "Apple and The King's Trust Partner to Empower Young Creatives with AI Initiatives",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "Apple, The King’s Trust launch initiative to empower young creatives"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxNcTJSaTZIUWN0aGhNSzV3Umt3cGpxcmxTSnVPMGNZdGprNXJGNm1jMVBuVk5iakF5Z09jb3hURDRpTmhnRFlDNDJramJZbnRocTQ2bEZLYk5BUkVONVRNSFZTbjVUNi1MMDM3SFlVT25XZGdvN3UtRW1ZUWsyTHV6bU45QU1pWlo2ZHh5Z1EwRXV3MmthZmlEZA",
+      "title": "Google Announces Gemini 4 Argon, Ushering in a New Era of Frontier Intelligence",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ",
+      "title": "Anthropic Releases Third Claude 5.5 Model, Expanding AI Portfolio Ahead of IPO",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxQUU1YaVNmSXhlYVF0XzBLM0JBY1pJZFA0MGQ5YVJzZ19Cd3V0ZWx1Q0dlZmY0MFVNNk9BSG44ZGFPb1B6UUR6OFZrZGM2NHhmU285aG1zdnVVSnNnR3BsNnBLMTR2NnFFZ2RnYmdiX2I5NGZUanJYVUlxOHVpYlZrakR4VkE3WTR1ekVleHBwOWpFR29rT250TUlZalpYaW5HV2ZaSmRxb2tUbHV2bkVlYzFjenk3dw",
+      "title": "OpenAI Reports Breakthroughs in Solving Hundreds of Math Research Problems",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "OpenAI releases progress on more than 300 math research problems, stunning humans - The Washington Post"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPSkxpbGFjd2trMGlIX2JWWGl2N2cteXE3VkxqYy1GZy1CLWZZcFZtT3pqRWNmMUlUVU9wTW5iRTVKX0c0WnhwOXg2R2NNc2Z0akZ4MGp3NnpWeTNiVUdYaUtFZ1h5S2lkVi1mVVhRZ0pnaGw0OFdmc2lfbFVSbnFpYTg3MEdsYjlleFdKaTFOY1VrUTB5cmVPNHV3OUFIaXlQdFZhWUJ2V0xxSlR3X3N2RlF6NW9EOFdiVFNERmNrWlA3RW9UMlJ0bA",
+      "title": "OpenAI Claims Resolution of Hundreds of Long-Standing Mathematics Problems",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "OpenAI claims to have solved hundreds of long-standing maths problems - The Economist"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxNN2p1M1ZHTVBGQXhwSXJMYWp2SXBVWGZzVnV1V3JaWjJWTjI0RnVKS2t2OGdRc1VCYVBwTTljSk9EQ2xINUtZbl9IMDZDZTZWc3hodFYzckxmaldPNC1taDFwcTJxcTJFdjk1eTl0LVpoYlBEREJnX2U0ajB0V0FXRXE2QWlvTllvWVRFaU43SlJRQlhiVVNhVDR4WkdGMi1mSnAtUXprYmZHV1ZfT3RMdTc1emNYVEtCZkNSeFdXZw",
+      "title": "US Voters Perceive Trump, Congress as Underestimating AI Risks, Poll Indicates",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8",
+      "title": "Microsoft Intensifies AI Integration in PCs to Compete with Apple",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "Microsoft brings more AI to PCs as it challenges Apple - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxNRzNEYVFhV3haR0RGX2RWa0FjcmxRQlFTLTYwRFc1SlowRDNpUWlwdUd6NVFJVnZha25pZV9jZDlvX21ERllna0tsT01zRE9wUjZSbzg4Zk9XZmwwUEZ3dXkwZ01TWFlKU21lVV80RkdfU0d0d2NIVjV2LTk3NExQUFpzX3JqNENQY1FnOE1sR0xQOW1SWGdRdGVmenlieWlVbnlFY3BKczVnTlBuczUzQTVHZkx0Tkx1bEh5ZVZVbGs",
+      "title": "AI Companies Utilizing Virtual Drug Trials to Enhance Human Study Success Rates",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "AI companies run virtual drug trials, aim to improve success of human studies - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxQRWc5YTdRc1hIb1hBUXdiRFY1YlZVQ2lOYTN1RVFIMUhBNDh3Q3M4NnJoRWI1Tzhxc255OHpHeS1TcjJSX1ZoTnNaWEo5VTBNQlJ5Q1pEWnFkSnhWSTlnYUtESFhJcnNZNVV0VkgycHZocFZFOU5hcVg1anpIUWtVckNscjJYeURiVmpIX293bTVteUFQNElQczlwcEJDOUZVbnFEc1p4eVQyVFJFWUZhbUc1ODlhSlViODdFTkJqTUNSbzkySGNR",
+      "title": "IMF Chief Identifies Energy Shocks, Debt, and AI Risks as Threats to Global Growth",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "IMF chief warns energy shock, growing debt and AI risks threaten global growth - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-08/young-bankers-to-manage-ai-agents-from-start-goldman-exec-says",
+      "title": "Goldman Sachs Executive: New Hires Will Manage AI Agents from Day One",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "Young Bankers to Manage AI Agents From Start, Goldman Exec Says"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-08/alphabet-s-isomorphic-labs-in-funding-talks-for-at-least-40-billion-value",
+      "title": "Alphabet's Isomorphic Labs Seeks Funding at $40 Billion Valuation for AI Drug Discovery",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "Alphabet’s Isomorphic Labs in Funding Talks for at Least $40 Billion Value"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-08/ai-chipmaker-biren-taps-market-again-in-515-million-share-sale",
+      "title": "Chinese AI Chipmaker Biren Technology Raises $515 Million in Share Sale",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "AI Chipmaker Biren Taps Market Again in $515 Million Share Sale"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQdThuRWl1b3NtaUE5aFhSeXVUY0xfYjhBZXJJaG1VWWR0QXBSQ2txLTBrbTlKNm9KQmtqcG95Y3BLNlRQZF96a004TS1xaGlyQUVUaEdqNXZOTzZwdC1IU001ZmM5a191dGNRYjNCWXkwcEk0cjVhams2WUc5aGMxek13b1U",
+      "title": "SpaceX Plans $40 Billion Fundraising for NVIDIA Chip Acquisition",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "SpaceX looks to raise $40bn to buy Nvidia chips - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxOQlQwOUh0Wlhtb1B1T1YxN1ItVmh1ck5xeE5Xa0FWR2ZRcjlDdGZSM1hUVTltMHp1aHhVM1FCYUZKNnIweDhKWjlxUGpGeVlJTFFlNElVQnBkT2VMaERTRTBCVXFTbk1BRFRPRVpRWVA2blBxbnMwR3Q4VUZVQU9iVEFyRExCVW5aSjl3bXFOYlZERUxTY0l4QjA1RS1BVjRQS1lCOW5kSWtqY0t3",
+      "title": "Oracle, Broadcom, and SpaceX Pursue Major Debt Deals for AI Chip Financing",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "Exclusive | Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxNZW9OTGdpUjUzbldpeFl1aVpQUW8wbFFRYVZ0QU5GOXpmbEpLeDZTQTVQOTYySTd6RHZqekZvTXZod2VIRU5leU52S3Y0Yk9qdlRxSnZzY2ZYQnZoemZNSlNVS1pSUHk3NThPVHBEeVdLZWQ3YkVNVk5WR1lwQ2t3X043ZzEyY2sweUcwejVHTW5UR08xNTBMR0J3TzBsQkxEM1JB",
+      "title": "Nonprofit Raises Concerns Over OpenAI's ChatGPT for Teens, Citing 'Unacceptable Risk'",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "OpenAI’s ChatGPT for Teens Poses ‘Unacceptable Risk,’ Nonprofit Says - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizAFBVV95cUxPRnFjTjMxYUZERWpGdUVkLWVwVzNJRS1yRVBTT0ZsSFhVMjg2aTNZMElMUXJCamE4ZHVDVV92WFAwbXdJZ3BwcHVfNGwxUDNBc0hnTzVCNVl5RngxNG9mX2g5UC1HcGd1VEt0S2NrMEMyMkRhM3dHd3cyNmZmQ01KODdFNUJyMW04WUZQQk00bDNLNTc2YkRxS2c4YnVkYXpLYkNxR3d2Y252QnpfSnlhcWQ2MDZMdFcyZ2NxdXR4dFQwN1I4Nkw0djNQeWk",
+      "title": "Zuckerberg's Biohub Invests $1.8 Billion in Biological Data for AI Models with DOE, NIH",
+      "first_seen": "2026-10-08T04:31:36.899786+00:00",
+      "rss_title": "Zuckerberg’s Biohub Partners With DOE, NIH to Invest $1.8 Billion in Biological Data for AI Models - WSJ"
     }
   ]
 }
