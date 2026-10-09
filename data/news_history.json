@@ -1,124 +1,6 @@
 {
-  "updated": "2026-10-08T04:31:36.899786+00:00",
+  "updated": "2026-10-09T04:31:47.683474+00:00",
   "entries": [
-    {
-      "url": "deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-      "title": "Google DeepMind Unveils Gemini 4 Argon: The Next Frontier of Intelligence",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "Gemini 4 Argon: our next era of frontier intelligence"
-    },
-    {
-      "url": "deepmind.google/blog/introducing-synthid-bio",
-      "title": "Google DeepMind Introduces SynthID Bio for Watermarking AI-Generated Proteins",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "Introducing SynthID Bio"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPaDFWMzcxWjg2M1dhX1hQY1B5alI4UTVKMWQ2Tk9LWTFSRklLeE03YUUtSjJHOEhpNkdiNlFhX1N4N0thS2Z0cnByY0g3dDNQOU1WcHpSUkp6RnNQWkgtWHBUYUxNTDVkak1UOTNoT202NUIzRDBFbUNydDAtN0ZKZEpjRDFoOG5NMUxGaEFwSFdOeVlQczNuZ0VLaVVwcUJSd1BIOXVYc28yanhscWxvazRyUkNDamZVUnRxMlo3a2s5WVE5MjZkQg",
-      "title": "Microsoft Accelerates Healthcare Capacity with AI Solutions",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "Accelerating human capacity across healthcare with AI - Microsoft"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxQUXRlYTZFSW1aWEJENkZxOXVwNTY5RDJ0M0JhUURZY1R0VzcycXZaTG9JTTU4UHdINEk1M0NTMC1tX0FIdUI2WWJBSnBlVHA0RnAzdkJQS1lramV3SE1GSC1VN2x4eDE1LWpsVVlDaVNGdDBhZ3NWZWpFeVMzYlAxOEF1cVlGUWxEc3JaMUhR",
-      "title": "FTC Probes OpenAI and Anthropic for Potential Consumer Harms",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU",
-      "title": "Google Releases Delayed Gemini 4 Flagship AI Model",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "Google announces Gemini 4 flagship AI model after months of delays - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMibkFVX3lxTFA3RWVHRldQeDcwbUo2d1FlaUEza2FnMFJZX0xuRGtGZWFyamU4TTJfM09MWHhVeDB1X0o1Y2d2VzJzeFZiQi0zOThLZkdDX1VvWnNTUkxmLXFWa1U5bHotNEliUm83M1htWWNGcWR30gFzQVVfeXFMUDZ2SVZ0VVhMa01TVnJ4UXN2Yk9VQXBadXlobU5wY0hyUndwNzFBT19kNnVzTzZ6Z3JIa253TmdubVdSYXBoNU9hNHYwNDE4TzRkZXlOdzJ2OXRxc2hNSDB5TzFfRmNIR2tpbXBwb3psTHZ6RQ",
-      "title": "Google Unveils Gemini 4 Argon as Its Most Advanced AI Model",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "Google rolls out Gemini 4 Argon, its most advanced AI model - cnbc.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMickFVX3lxTE1qZ18zQVZwbFJraTBYYjFzMThQRXMzMmI4NTlfRlhCM05VMFhLckljaG9fU0NxNVlxcEVpcmZNNll0V0NMaHBrUWk4Y05Oc2ctTHEzLVhTRG1nVS11S19CRHFZalJDblFGS2pNTnEyTjdBQQ",
-      "title": "Bill Gates Warns of 'Billion Deaths' from Misused AI",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "'A billion deaths': Bill Gates warns about AI in the wrong hands, saying a kill switch and self-regulation won’t be enough - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxQN3l3OWJYclNEU1AwZWwwTGF4TU5SMXV1Sl91ekc0TE8xcDdPSFpqanc5QjRwZ2FoWkpVLURBZGhVbXFiYUJuam1kTGhtRFRUYkljZ2NCYy1GWmZZQXpva05lX1RGVFBKcHhTNEJyUXZfc0ZySHljQzQ1RWZvS1V3cGFnWVJnX1ZVem5rLURJdnFhMl96dWVRc0oyODEzeUk",
-      "title": "Pentagon Launches 'Autowarcom' to Boost AI and Drone Capabilities",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "Pentagon creates 'Autowarcom' to expand AI and drone capabilities - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxONkRsU3ZvS0tLMjlkTEpDNUtQTnJ6eThiY2l6QjFudUtXUFRnUXl0NWc3NlludDlHMnladFY4OUNZd09zWm5NZnJkUTJDcnFEWUp6YkVOMWZmdnJTYk03aTkyd0lYdkdVNkp4b3B0aEpkekpzck9QWHlGOG5KTzlfUXNZMGtfbDQ4Rl9YNDhjd0tIM3pJejNaQm16T3NqaGNOX1BxenY2WQ",
-      "title": "UK Accuses China of Academic Espionage in AI and Tech Research",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "UK accuses China of using academics to spy on AI and other tech research - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKT1lQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c",
-      "title": "OpenAI Competes with Meta in Autonomous AI with 'dots' Agent",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM3lXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg",
-      "title": "Trump and AI CEOs Sign Voluntary Safety Pact Amidst Data Center Expansion",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-01/nobroker-seeks-first-profit-in-decade-by-using-ai-to-curb-hiring",
-      "title": "NoBroker Leverages AI to Reduce Hiring, Aiming for Profitability",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "NoBroker Seeks First Profit in Decade by Using AI to Curb Hiring"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-01/south-korea-s-export-growth-extends-rally-as-chip-boom-rolls-on",
-      "title": "South Korea's Exports Surge on Record Chip Demand Driven by AI Boom",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "South Korea’s Monthly Exports Hit Record as Chip Boom Rolls on"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-09-30/micron-gives-bullish-forecast-warns-on-margins-video",
-      "title": "Micron Forecasts Strong Demand Amid AI Frenzy, Warns of Margin Pressure",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "Micron Gives Bullish Forecast, Warns on Margins"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPVEJsTjhoTWFkUHhObkxLaHBrQU5SUml0YVRZb2syVVBzNV9PX05xaTh0T1NpdUpWX1hsN1IzNXR3dl9vdk1iVzBMV1Q3R3N4VkdReVJpNlBfMERlcElJMXR3ODVSSFd3cFIyNzNBQUY3bjI1VmRwU18zbzdJSXRXSm1lNUM",
-      "title": "Financial Times Urges UK to Increase Support for Domestic AI Companies",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "The UK needs to do more to support its own AI companies - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNOE9rNFhZUjQwSFZpNkhrb3IyR2lMdGpUUTVWVGppaXBfUk1RNkdzYUlNT0dxOXBjSEJSamVHTlFiUlp2QjRmQmNNX1pWWHJidUhreWlNWmlXdVZVWUp4VTZUWU82WlNWUWFObUo3aEo5T3IwRWtOQzItanZaMXVMZXh2MzU",
-      "title": "Nvidia Seeks Insurance to Mitigate AI Build-Out Risks",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "Nvidia turns to insurers to spread the risk of AI build-out - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQdlpSOEdrMHlJVTI3MGZyRGZNb3Y2aUVlbzB6Mk5FRmlMU0ZiQXdWRFBYZHdnXzhIZ0o2MW9hRFlJNE9fOGkyVXp4RlROZjNkVUpETlF2b1d6NFZGYXdBZVMyZExFWFFUQ1M4Z0c5LVdwbEY2RUdkT0RZbEhLOHZEMXdRUFU",
-      "title": "KKR Warns of Growing Credit Market Risks from AI Borrowing Spree",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "KKR warns of growing credit market risks from AI borrowing spree - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQaUViY1R6MFNqS1dEYnRjVTVELVRjdENjUFpUOEdPazJZTU4yNWt1TjlCOFBndjJFUFdWQTMwMkJQUF9pb2dnWTBSdU5aOFRsandmbUI1UWJ2eHdaMkxtZGw5NkgyUzFGWkl4aHB4UjFRMkRVSXZZUlA5TTVKWkhPQzd3VWk",
-      "title": "OpenAI to Delay IPO Until Safety Concerns Are Addressed, Says Sam Altman",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "Sam Altman says OpenAI will delay its IPO until it overcomes safety concerns - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQS3RzNmM2WEtmZWt0NzJCa191X1ZoUEJkcXJTaVFyRURyTTZIZ0x0NV85ZFVBY3N3eDR6ZjFLdDA2QzJJcUFhS3NSb25vY3F5clYxbV9ldy0yNU5UaFJzSmljelhFTXVqMjIzeVdlSHQtOFBMRld0dTdFbFYxZGF5T2xOR2o",
-      "title": "Bank of England Warns of Market Correction Due to AI Debt Surge",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "AI debt surge raises risk of sharp market correction, warns Bank of England - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxQNVgtREJ6azRuUmNkRkREbDZRdFRJZVhTSERCc2p2NTR5WVhCS1lWTzVTS3g2bm9pUE5CSTZmRTIzNHhVT2RpMm8xNVR4TnZLa0JLQzBOTVhFZTJqNnZKckR2aGtHYUhUa0kzRjB3aU8zcXV2Q04yaXBRRy1JZHRCS3lZWmZZLXN2RC1reWRWVHJ1SEFHU3RrWWhJQjFCTXUxakZPTkU5bGg2WHdXRUE",
-      "title": "Samsung Invests $1 Billion in AI Infrastructure Firm Backed by KKR and Nvidia",
-      "first_seen": "2026-10-01T04:31:35.347142+00:00",
-      "rss_title": "Samsung Commits $1.0 Billion to AI Infrastructure Firm Backed by KKR, Nvidia - WSJ"
-    },
     {
       "url": "openai.com/index/the-eternal-complement",
       "title": "OpenAI Explores AI's Role in Routine Work and Economic Progress",
@@ -947,6 +829,126 @@
       "title": "Zuckerberg's Biohub Invests $1.8 Billion in Biological Data for AI Models with DOE, NIH",
       "first_seen": "2026-10-08T04:31:36.899786+00:00",
       "rss_title": "Zuckerberg’s Biohub Partners With DOE, NIH to Invest $1.8 Billion in Biological Data for AI Models - WSJ"
+    },
+    {
+      "url": "openai.com/index/oracle",
+      "title": "Oracle Streamlines Operations with ChatGPT and Codex",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "How Oracle turns days of work into minutes with ChatGPT and Codex"
+    },
+    {
+      "url": "openai.com/index/pollo-ai",
+      "title": "Pollo AI Empowers Creators with Advanced Generative AI Tools",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Pollo AI turns creative ideas into campaigns with OpenAI"
+    },
+    {
+      "url": "openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "title": "OpenAI Disrupts AI-Powered Disinformation Campaigns",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Disrupting AI-enabled “false front” operations"
+    },
+    {
+      "url": "openai.com/index/teens-learn-and-plan",
+      "title": "ChatGPT for Teens Introduces College Planning and AI Learning Tools",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Helping teens learn, plan, and shape the future of AI"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "title": "NVIDIA Omniverse and Frontier AI Agents Accelerate Simulation Development",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments",
+      "title": "Amazon Bedrock AgentCore Simplifies Pay-per-Inference for AI Agents",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod",
+      "title": "Amazon SageMaker HyperPod Enhances GPU Cluster Sharing for Teams",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock",
+      "title": "Amazon Bedrock and Quick Fortify RAG Access Control for Enterprise Data",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation",
+      "title": "New Framework for Valuing Agentic Automation Beyond Time Savings",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Beyond hours saved: Building the business case for agentic automation"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock",
+      "title": "Qlik Achieves Enterprise-Scale AI with Amazon Bedrock",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap",
+      "title": "AWS Playbook Bridges AI Knowledge-Capability Gap for Builders",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Building AI builders: Playbook for closing the AI knowledge-capability gap"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock",
+      "title": "Cornerstone OnDemand Reduces Database Diagnosis Time by 78% with Amazon Bedrock",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock"
+    },
+    {
+      "url": "nist.gov/news-events/news/2026/10/nist-joins-white-house-effort-drive-new-golden-age-science",
+      "title": "NIST Joins White House Initiative to Advance Scientific Discovery",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "NIST Joins White House Effort to Drive ‘A New Golden Age of Science’"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinwFBVV95cUxNbHVwaVJjdGlQNnJKRlNkNUdmMG9SSlZPRVVGd0pqcFJkMHY5Q0xTcEd1RDJtUWl0N1dXSHFvTVpDYk9DN2xqd3cwa1BMa0Qta2EwSm9pQ1Z0WmFyRmxyT1F4eERULWtaOVVyd3NrXzZSam1wdzlSWUFTcmNLNUQzYmZzeW9VRW44dE05Z0JYQS1KQTQ0ZDRWelktQWZOQ0k",
+      "title": "Anthropic Unveils New Dashboard and Animation Tools for Claude",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Anthropic launches dashboard, animation tools for Claude - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxPaUhqYlFvYUhvdUZPa283VmtJSmRzTWVyYjJyNFhsVG9tQ21rQzJBVVViN1JGdkVfZjBDVThkZk9HRXAtdk1sbm9seEh5ekYwOEpBTXA2Q2loRF80QXAyYVpmVUprNjJwQkx3VFJ6UEozUWNSTVBwWmhFRGVtbS1xV2hRYVN6ZXM",
+      "title": "Anthropic Proposes Plan to Safeguard Critical Infrastructure with AI",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Exclusive: Anthropic's new plan to protect critical infrastructure - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxPODBqdjFtSkFGUTZYd2w1WlRnaWFfX3NiWDJ4OXgzdGozcV94WFV1T2JWY0lrekg2ZGR6Sk1wMGtNMzNDeXFmdnc2Zl9zTk0zMDhCLXMyYUFVSjRVNk1CTkF2Y2h2VF9HRVZvV2xfRkpiUTJsQUlNV0ZnaFBTWGxJUW5mbkVEdjVuQ25HMHV3",
+      "title": "OpenAI's Latest Release Causes Stir in Mathematics Community",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxNOTYxUnZPS1BaUTl3NU4tc1pXVEQwNVNKQjA5MllqWmJIejF4TmxUUmVpR2NNTXFWNmNTTHJPZjdSU25FZGdwSnZWX0RNY09OMEZCNUdjdUEzU19tLWRob3BGeXgyZEhlX195bUZGM19DXzF6aGV6NU9LTGNENDhOVnoxXzVScjJEZWNKeHZHbmZER2tCaUpHM1hVc3ppcXQtWDNaYlFYeEhoNzFiS0swYkplSkY",
+      "title": "Lawmakers Express Concern Over Google's Acquisition of Airline Data for AI",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxQY3lfRzFrRWlzR2kyYVRZdUpaVXZWdmRDT2UxZDRmcmJXbXA5M25XQjhadTIySkFiZ2l0d2NCaUU3eEgxSkIyY0cxTGowLU54dXJkVUlBVEFCazhEWmltYmVsdWRnU3F1YWc5Wl9oS2NZV0V0dDhQZDdDM0VYd2JvQVFfWXJZVUloZUkySzRYc0gxblhxQnJBVVNPMlM",
+      "title": "Denmark Plans Ban on Unauthorized AI Deepfake Sharing",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Denmark plans ban on sharing AI deepfakes without consent - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-09/openai-expects-70-billion-in-annualized-revenue-by-end-of-2026",
+      "title": "OpenAI Projects $70 Billion Annualized Revenue by Year-End 2026",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "OpenAI Expects $70 Billion in Annualized Revenue by End of 2026"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-10-09/will-openai-revenue-reset-stop-ai-demand-video",
+      "title": "Strong Token Growth Suggests Robust AI Infrastructure Demand Amidst Revenue Questions",
+      "first_seen": "2026-10-09T04:31:47.683474+00:00",
+      "rss_title": "Will OpenAI Revenue Reset Stop AI Demand?"
     }
   ]
 }
