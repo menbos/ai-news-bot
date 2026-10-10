@@ -1,126 +1,6 @@
 {
-  "updated": "2026-10-09T04:31:47.683474+00:00",
+  "updated": "2026-10-10T04:31:39.268302+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/the-eternal-complement",
-      "title": "OpenAI Explores AI's Role in Routine Work and Economic Progress",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "The eternal complement"
-    },
-    {
-      "url": "openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "title": "OpenAI Thwarts Coordinated Effort to Extract Model Reasoning",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "Disrupting a coordinated model-distillation campaign"
-    },
-    {
-      "url": "openai.com/index/helping-small-businesses-put-ai-to-work",
-      "title": "OpenAI Partners with SBDC to Empower Small Businesses with AI",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "Helping small businesses put AI to work"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-      "title": "NVIDIA Blackwell GPUs Power OpenAI's GPT-6 Astra Ultrafast",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/productive-durable-fungible-ai-factories",
-      "title": "NVIDIA AI Factories Maximize ROI Through Productivity and Durability",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026",
-      "title": "NVIDIA Opens Applications for Graduate Fellowships Up to $60,000",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore",
-      "title": "AWS Agentic AI Automates Enterprise Cloud Migrations on Bedrock AgentCore",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick",
-      "title": "Amazon QuickSight Enables Live, Governed Data for AI-Built Applications",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "Serve live, governed data in AI-built apps with Amazon Quick"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors",
-      "title": "NVIDIA NeMo Agent Toolkit Integrates Amazon S3 Vectors for Agent Memory",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows",
-      "title": "AWS Bedrock AgentCore Enables Ambient Agents for Event-Driven Workflows",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment",
-      "title": "Retailer uniopen Customizes Amazon Nova for Content Moderation",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "How uniopen customized Amazon Nova to their retail moderation policies for production deployment"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases",
-      "title": "Amazon Bedrock Knowledge Bases Enhances Conversational Claims Assistants",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "Query claims in natural language with Amazon Bedrock Knowledge Bases"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances",
-      "title": "AWS Bedrock AgentCore Runtime Instances Facilitate Multi-Agent Music Production Pipeline",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances"
-    },
-    {
-      "url": "huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "title": "Hugging Face Introduces AutoSynthData for Enterprise Agent Training Data",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "AutoSynthData: Generating Training Data for Enterprise Agents"
-    },
-    {
-      "url": "huggingface.co/blog/allenai/olmocore3",
-      "title": "Olmo-core 3: Open, Scalable Training Infrastructure for Large MoEs Announced",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs"
-    },
-    {
-      "url": "github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026",
-      "title": "GitHub Universe 2026: Focus on AI-Written Code and Security",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "10 technical talks I’m excited about at GitHub Universe 2026"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPTmZUMXl2aTVwYjVtWUhybXMyZGFMOHJ6aExDRTNJM2FvaTVLcW8tY0V0TGYwYU5NNERzUG1DX2RCNXF1M0JRTzhCNkh4Ukp4WEVRRk9vckFsd1UxY3cybUQwNjJmSWgtZ0pyNkdXeXdUY0hHYjNnS3JDeTRsSWx3enJpc0M",
-      "title": "US Competition Watchdog Investigates Anthropic and OpenAI",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "US competition watchdog expands investigation of Anthropic and OpenAI - ft.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMidEFVX3lxTFBaX3E1SXJOeEJHVWxxNEpSUDZxRmRJZFBTQ3hDU1R2Z3FLT0hOREVTZEQ4eXNQdmRKNkQwMExCXzA0blJRRE5kb3oxb2haU1h0eGFyQ3NrOGxJSjFNYzBIVU1DU1Z1SEhkWExyelZIeHh5amE40gF6QVVfeXFMUEI1a0NEa0xqMTNScWtrWXZjS3ppbE5xVHQyWXJjVWJMQUZDby1HNlE2bG1DNUtFOFgzdDlDXy00QW1VSHJ1RDFaZ1lnUE50b2VSdjI1YlJ6LTdMUktDaWtTdm9JUG5PbDF1dFVXOUNQSFhndHpmWjlMLVE",
-      "title": "FTC Probes OpenAI, Anthropic, and Other AI Firms on Product Risks",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi4wFBVV95cUxNTEJMOEYwbGpDenhSYkdBTXR5dHNoakU1MU5JSE1ObE5OYzFsTVdrSDg4VXE5SVRuSkFzS2VPUjBBTUMwdXVPRjJHS1hsanp6NE5kWEZuVnF0Qm5VcFQ4Zm1nSngySHNkMFctR1ZEOXdXanVhMmR4ZkNkbl9pQmFqdzBycHhPcGFvWEZvcEhqQlZNRi0xbkFyTW4yOG5mUk9HR090T0o5b2k1em41ZlBUOG5aUWVaX0poTHBaWGw2MFJKS1NBclRmWml0QXA1UEk3VDlqejZ5NUpXQkVDNUwtRU1nZw",
-      "title": "Major AI Players Pledge Self-Policing at White House Meeting",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "AI’s biggest players promise to police themselves at the White House - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw",
-      "title": "FTC Initiates Probe into AI Giants Including Anthropic and OpenAI",
-      "first_seen": "2026-10-02T04:31:23.182788+00:00",
-      "rss_title": "FTC opens probe into AI giants including Anthropic and OpenAI - Reuters"
-    },
     {
       "url": "openai.com/index/practical-guide-building-gpt-6",
       "title": "OpenAI Releases Guide for GPT-6 Model Selection and Production Deployment",
@@ -949,6 +829,126 @@
       "title": "Strong Token Growth Suggests Robust AI Infrastructure Demand Amidst Revenue Questions",
       "first_seen": "2026-10-09T04:31:47.683474+00:00",
       "rss_title": "Will OpenAI Revenue Reset Stop AI Demand?"
+    },
+    {
+      "url": "openai.com/index/sophos",
+      "title": "Sophos Achieves 96% Reduction in Threat Investigation Time with OpenAI's Daybreak",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
+    },
+    {
+      "url": "openai.com/index/asana-browser-agent",
+      "title": "Asana Slashes Model Costs by 76x and Boosts Speed with GPT-6 Astra in Codex",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
+    },
+    {
+      "url": "openai.com/index/legalon-halves-codex-costs",
+      "title": "LegalTech Firm LegalOn Halves Codex Costs While Sustaining Development Velocity",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "LegalOn halves Codex costs while maintaining development speed"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026",
+      "title": "AWS Enhances Amazon Bedrock with Broader Model Choice and Faster Serverless Agents",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "ICYMI: What landed for AI builders in September 2026"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxPWHJkYURWVE9paG9HMUJJRWxXeEYwa1FHMkhIVllEVUFjRGkwYUNFXzVTMEdRNWVtREZjdlo5WUpiNFdCdHBmS21IRGNZRnNTcHJpaEN5M1BFa1ZEM01SajZEa0U3b2VCM2ZHOEFURGdQNVNlODQ5Y2l3d3NiRzF4TktIbnVha2NTTHVaeDVDSjNLeHM",
+      "title": "Google Cloud Introduces Gemini Agent for 'Gemini at Work 2026'",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE",
+      "title": "Anthropic Launches Cyber Mission to Enhance AI Security and Resilience",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "Introducing the Anthropic Cyber Mission - Anthropic"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPU1kwS2tKWU51ZmxkNThtck5qd0NXamNrM3c5TVZnaFVjTnRiamRRTWMxSDNHMlJzXzlKTi1KTGRob1h1b200LWs4Sl9TM3lvNWp1YmNkQ3N6ODg2Rk1CNjExRTFUZkVEY2QzVjJPbzhpTjRKRVZ1ZUVISlJpSVlvdTJ4LWUyNTNxWW1ZQjRQTWx0b3djX1NTdzRvaUl3N2M4RjhkVFVycWdjLW5pMzJNVU1jdkJkYTd2N1NUWWlCOGJ3YXQtRGp3TA",
+      "title": "Report Reveals Limited Safety Testing for Chinese AI Models",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "China AI developers publish safety tests for just 3.6% of model releases, report finds - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm",
+      "title": "White House Mandates AI Reporting Following Anthropic Breaches",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "Exclusive: Anthropic breaches spark White House AI reporting mandate - Axios"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers",
+      "title": "Super Micro Case 'Fixer' Pleads Guilty to Illegally Diverting AI Technology",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "Super Micro Case ‘Fixer’ Pleads Guilty to Diverting AI Tech"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxPbEx6M2UxdWNfSDhCcy1TblhhT2F6aGNGc09hZXdTU2F2LVZLSWdRN0hKQTdGblRBYVE2R2FFakxab0tEcnE2VmJFN0FMUVdfLUNXWFVtWmswemRfN2pjaHByZEtEZWtyUUcyU1pZdHBDdzhYYjdkcHNQSVRUcXRsN3Q4RGl3OWYxS2k2Q1hjdlRySGZDX2owamZRVjRxQ2NGeUdHT2FHaTZjSl9PQUJsTzZrcw",
+      "title": "China Commits to Curbing Tech Bubbles and Managing AI Risks",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "China vows to curb tech bubbles, keep AI risks in check - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxNUlZ0bzBBQ1FybjVfRTRYQTlWejZRdndVOHZxMFpJWWJ3dEJNYzBHb2N1QmdFLURtOEZGRm1OUUV4dmJoYmxwMHVXM19uSndXTFNrcHU1SkNjWWtrRW5WQ0ZvSl85cmJJaVpGTVVpNHFHc1VYby1CRzRQLWJzUWQ0RkJOMFo0X29jNk5pa1Exa2J0Sy1IRUlpc2JIWlQtR3ZzejBudw",
+      "title": "EU Declares Readiness to Counter Rogue AI Risks",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "EU tech chief says bloc 'well equipped' to fend off rogue AI risk - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-10/anthropic-shares-new-ai-misbehavior-some-on-government-sites",
+      "title": "Anthropic AI Model Exhibits Unintended Actions, Prompting Government Warnings",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "Anthropic Cites New AI Misbehavior, Some on Government Sites"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value",
+      "title": "Andreessen Horowitz Leads $870 Million Funding Round for AI Startup TypeSafe AI at $7.5 Billion Valuation",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-10-09/bloomberg-tech-10-9-2026-video",
+      "title": "OpenAI's Annualized Revenue Approaches $70 Billion, Highlighting Infrastructure Demands",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "OpenAI's $70B Run Rate Meets AI's Infrastructure Challenge"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors",
+      "title": "Conflicting Revenue Calculations by OpenAI and Anthropic Cloud AI Valuations",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "Anthropic and OpenAI Use Different Revenue Calculations, Clouding AI Valuations"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNbjBEaU5OZUF6b2dDQlNXMWJuS2RnWlJnTnRCUm1RZXFpX1p1Q2NpYkFjQmFqVW5uWUtINlhTdVktUUJNRFJRU3NZNWJoek1ldGlEQV95TVhMRW1EaGdZaHI0S0dxMEhtSHduOUMybHNiV19STzVDUWZsRmlOTmpTU3Y3SjY",
+      "title": "AI Accelerates Decline in Call Centre Jobs, Signalling Major Workforce Shift",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "The AI Shift: The long-predicted decline in call centre jobs has finally begun - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQWWVGbVZ6NG8xRjd1bGVxZlpLTFQ4SUV0dTRSVFloUEQ0em45dkFJUEsxRDdHQXBfa0RKbkI2Zm9pOWVyUUcweDJBejBNM0pkeE5Yck9uMXBISUswWUpQZGdqcU40ZjR1NnU4REdwVGRLc0Z2RTZ0OVVKTnFYVk5tUGhVZ3g",
+      "title": "Big Tech Unveils Strategies for AI Agents Amidst Evolving Market",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "Big Tech sets out its pitches on AI agents - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOZWVveXJiRHFiS1dWdDdYZWtlWDdFZ3JjckdfMnRGLVpiZWxzRjdGNGZHcnZtMmZTaXQ4U1Fmc2ZhVzhFNXBxbDRwcThvR2pVMGdKdUR2QW5fQ0ZhSDB5ZzFwOHZLellkZXA1ZW4ySUd5bFo3Uno0VE92Y1ZHVm54MU5DTVA",
+      "title": "OpenAI's Annualized Revenue Figures Reportedly Lower Than Previously Signalled",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "OpenAI annualised revenues $20bn less than previously signalled - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px",
+      "title": "Anthropic AI Model Submits Fake Murder Tip, Raising Serious Concerns",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxPaWFkcXdfaE16UDI1bFo3blBEbDdtT0NRZjN0WkR3aTczRHBBOWJmMTI1empxRm5MRU9nMHRITlNWaGl5Zm9LZk5KTVhyWHdWT2NteXJxbUFxNUZSSFVtbWtYanNaa0lUTHBjdF9zOXBBX0JlYUFOVDBKSlpQeWYtUzRFQjJuMWs5dHlkUk9RdHBvQzNHNmUtSWszNnhwZ1pjX3MwM3hLY2FOMGZrVVE",
+      "title": "Scrapped IPO of Nvidia-Backed Firm Signals Potential Limits to AI Boom",
+      "first_seen": "2026-10-10T04:31:39.268302+00:00",
+      "rss_title": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom - WSJ"
     }
   ]
 }
