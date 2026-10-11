@@ -1,119 +1,6 @@
 {
-  "updated": "2026-10-10T04:31:39.268302+00:00",
+  "updated": "2026-10-11T04:31:37.544210+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/practical-guide-building-gpt-6",
-      "title": "OpenAI Releases Guide for GPT-6 Model Selection and Production Deployment",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "A model guide for the GPT-6 family"
-    },
-    {
-      "url": "openai.com/index/chatham-financial",
-      "title": "Chatham Financial Achieves Significant Efficiency Gains with OpenAI Integration",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Chatham scales its capital markets expertise with OpenAI"
-    },
-    {
-      "url": "openai.com/index/albertsons-reimagining-retail",
-      "title": "Albertsons Companies Leverages AI to Revolutionize Retail Operations and Customer Experience",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "How Albertsons Companies is reimagining retail from the inside out"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "title": "NVIDIA DGX Spark 64GB Empowers Local AI Development and Scalability",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern",
-      "title": "AWS Quick Chat and Adjudicated Query Pattern Enhance Lease Compliance Audits",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore",
-      "title": "Amazon Bedrock AgentCore Enhances Claude Desktop with Secure Web Search Capabilities",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai",
-      "title": "Amazon SageMaker AI Facilitates Fine-Tuning of Search Agents with Multi-Turn RL",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI"
-    },
-    {
-      "url": "huggingface.co/blog/allenai/astabrief",
-      "title": "Allen Institute for AI Open-Sources AstaBrief for Fast Report Generation",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Open-sourcing AstaBrief, the fast report-generation model in Asta"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxOVHVmTy1fekRMMGxhQzBCRk1kY3BtVzA2QXg2Vk9SUG5oZVE4bTJYNXFDcllzdlJ2NDE2bWJqUTBYbW8tT3V6WmFGdWtuRjZqYTZyUzh3SWRBbU1BcW1VU0lLbzUybkJLbnQyb1FYNVc2LThXT2tQMFU3dWkyUVhIU2ZwaTJCWUNfaVhhX3RvczdwYnc0VE8tdUkxZ0tEaUNYSzZGcmZrYk5qbmZEUlVlTG5xcW50em8",
-      "title": "Trump Expected to Appoint Jay Clayton as AI Czar",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Trump expected to name intelligence chief Jay Clayton as new AI czar - The Washington Post"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE1nUWNDM05ycHpILU91ZEliWk94VHVjX1RKSmF4SG1JNnBMLVVOT214UGt4WERxUml0RXJ4V0trSVRXZU5MeEc5cWxXcWJ5OEMyQUdqdDgxSDZRM0ZsbDcxcEllYVRwUjhxNlkwc2NIQVVQTmttVmZJMl9R0gF_QVVfeXFMTU13Y0hIZW5lT09WUzZ6WFBzN21wT3pVMWFuZG5RUFNNNnJJY1MxS2w0NjdPQldtZDczTHVyQlpMOUR2Nmx3SGQzUllrMGVtd05qa1ozX0d0T2diRlFsX2loQjl6aHAwZjZNdy16MHNYeEt4WjV1aXAxNjBfLUwtVQ",
-      "title": "Frances Haugen Questions AI Companies' Self-Policing Capabilities",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Facebook whistleblower Frances Haugen questions whether AI companies can police themselves - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxPVHRqRS1jN2w4cEJmeUFHYkZ1N2RFVTJiRUtJYnZWSTRvMWVHNWVNU2IyYUh4Qjd1aG1pT21SSVRPbEpYVlBRUXRtZTFjS3dzMlF5SThULW1NaXRZTXlHNXdodTNfdGE1QmpMTHdGS1NSbmUxdkh2RXFubWs2eFRPSFF3MkMxVGx3cmd6U0xsSWthamd3YVdFaE8wU183SktHU3ZhNE5NVDNURFpHMU81N25YMG5jbDhQTXZjSg",
-      "title": "Chinese Hackers Impersonated US Official to Steal Data from AI Experts",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Chinese hackers impersonated ex-US official to steal emails from AI experts - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxPZTUwSDRkVzM5OHNmYzN0ekFqdUMwTVVzQmtnc1A5ZXJvNHZENzJ0bHhVWE53aDdYc2Rnams0RjJ6Q0hOYU9zblpUYmk1LVRodW54U1dienZYMEg4em1pdXhJcmI1RGxRMjVjTGdKSV9IVEtFb2tLcjJaRFBXR0c4VTQ4Y0ZieVpEcnFnTGk4YVhiSU1zb3ZCTA",
-      "title": "McDonald's Explores AI for Dynamic Pricing of Menu Items",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Inside McDonald’s push to have AI price your Big Mac - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
-      "title": "Apple Tightens Mac Data Controls to Guard Against AI Agents",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-02/nscale-hires-meta-s-justin-osofsky-to-be-coo-ahead-of-ipo",
-      "title": "AI Infrastructure Firm Nscale Hires Meta Executive Ahead of IPO",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Nscale Hires Meta’s Justin Osofsky to Be COO Ahead of IPO"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE9kTl9BM0RzWlZnVkYwQk1rOExZekZ4bml4alJhMFloXzR3WVJMQXF2VU0tbDVzQXRzX19LTE55eTBVVk5pUWVyTzgzbElSQWI4cHFUaG13REtpSUVZZmZHN3F0MHMwZlNVNnpyUE5QeEs",
-      "title": "AI Sovereign Wealth Funds Criticized as 'Techno-Imperialism'",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxONHo4Zjh1Y29GaURuOFM0bXJ1OVVzUkFEQi1ZaDA3ems1R0s2YnFXdnhhLWdhNU5aeDYwYzluNmpveVBXbFFQWmVBajQ0UUtXRzhJVUNJYXBiU0lkSVlxWUVBQ01oUHpvMk9wVzB6dldqWkRZeTR3N1dqWjc1Wjc0YlItWm9UZDVOVnh6MjNrQ2NJSF81M3NrTGQzbWxPZnBiVVZjSFJvXzZlbkIt",
-      "title": "Startup TypeSafe AI's Jev Model Sparks Interest and LLM Alternatives",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Startup TypeSafe AI’s Jev Model Sparks Copycats, Talk of LLM Alternatives - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaJyQVU0QkZzc1E",
-      "title": "OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMif0FVX3lxTE9ER1hsWjc2bWtQbGZ6OEFUQ0JoVU16UFhTTU1JRnJfaUpOS0FacjlFbzMtOUhYR0RWdTF3TUdJUzVoOGN5dlRvQV93VGJ1TUcwSWd6NzN3MFNvTUlqeGR5Yl9UTVljMVJEeFJ5ZW9tSlR3U29BS3ViZnVQbTNTWUE",
-      "title": "Grassroots Rebellion Within AI Industry Led by Elite Researchers",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies - Axios"
-    },
-    {
-      "url": "github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-      "title": "GitHub Blog: Three Essential Skills for Developers in the AI Era",
-      "first_seen": "2026-10-03T04:31:26.620200+00:00",
-      "rss_title": "AI is changing developer work. Here are three skills to strengthen."
-    },
     {
       "url": "blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
       "title": "Google AI Unveils September 2026 Advancements",
@@ -949,6 +836,121 @@
       "title": "Scrapped IPO of Nvidia-Backed Firm Signals Potential Limits to AI Boom",
       "first_seen": "2026-10-10T04:31:39.268302+00:00",
       "rss_title": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom - WSJ"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock",
+      "title": "Postman Scales AI Agent Mode to 40 Million Developers on Amazon Bedrock",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock"
+    },
+    {
+      "url": "huggingface.co/blog/allenai/impactful-scheduling",
+      "title": "Hugging Face Blog Explores Impactful Scheduling for GPU Clusters",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "Impactful scheduling for GPU clusters"
+    },
+    {
+      "url": "github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build",
+      "title": "GitHub Blog Highlights Hackathons as Premier Learning Ground for Builders",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "Hack the World: Why hackathons are still the best place to learn to build"
+    },
+    {
+      "url": "status.openai.com//incidents/01M4H7FKXDA425TDNP2CRGEYA3",
+      "title": "OpenAI Status Reports Resolved Incident Affecting ChatGPT Content on Android",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "Some ChatGPT content may be unavailable on Android"
+    },
+    {
+      "url": "status.openai.com//incidents/01M4GV1M2A3K38T73JCVCD9G0R",
+      "title": "OpenAI Compliance API Experiencing Delayed Costs Data Amidst Monitoring",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "Delayed Costs data in the Compliance API"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwJBVV95cUxQODFiMHhaUF9CVmNZZENjZ0VRQ0dYRFRuVkliQlcwZXVxM2pkWEdueXV YT1ZUeVcxNnBrWlRkRmcxbDE4ZTdYeDllNnJMVjllanhsT1RZYWNEWmctVEhaUUQ1ZF9kMG5lRFZ1c20zUU00Y2c0M0FZT2twbGthLU5HQUc3Q1NDN3gxazRCWmlUME1qS0pYaXhNY3R4TkVvX2JtLUI4QXo4VGxrMmNPWXZwVUNTWVJVY1JmLUdubVlfR2ZTSGRNbk1kdnBuQ0c4VTRncDJFVXFETXI1Vm1xNXQ2RHhyNlpjOHZuRnRCcEJNX0hFQ1QtS2JOV1BCLUttcDZSSUVzMS15X2lHVTN3SU1KUGNBTC0wRE0",
+      "title": "Senator Schiff Discusses AI Guardrails and US-China Tech Competition",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxOMkJ0SndTeEFxNDVjQ1pCOGxZX19nOXY2d29VUWNSUFdRaV9RZ0lid2J2YWg0TkpZRlEyR2M4LUFMTEtRbl90T19oamI2dnZDOWt3NHNvektDUU4xN3ltM0lnbmg1WHJmX1BoSG5pUWZmQy1YMllZeDY2dzAzWGVMejBMMEZHSFVyRGJrUmZTY2FrZkFoaG1YWkQ1ZEJldThoQk9HWG9MUW5jdl9DTmNXdm8wRU44M2k2OGpacFJjNmh3Rm5wUHc",
+      "title": "ByteDance Researchers Uncover Root Cause of Long-Context Retrieval Issues in DeepSeek Models",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "ByteDance researchers identify cause of inconsistent long-context retrieval in DeepSeek models - TechNode"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxNMVFtM2J1QUpoUW84Tjc0cE1OSmFtTVVtNGhjQm5ZX1RsVGRKVmtqcFVEWko5MTBRTnRCc3lpTndDbmx4UFNJTWlVRHhEdkJwam5hcjZCa2FGMWZMN3FjQ3RZQ3Z4bmNUX05Jb0E1QkczNXFGMl9JUVBoTjIxUUFSdVZJZTJOR21oMnNQN0NIM184T1psZ0xpSDBjVVV0cEcyX0xuTWFpNmg",
+      "title": "Mathematician Claims OpenAI Eliminated Research Programs Abruptly",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxQWlEwdWh3UlBnVFNxWEtNemNtUzI4eXppbzRTV1E5eTFkVmMyYXAxcVdXd2ZXLUtIcHhpWkRNUlFuQUd5TjE0T21MY2E4UG9xOG0wbDBDemFoMXRpQVRrYWJjU0hVN0N0eTFCd0hnc21CbTF2NURqWllxZzF6RmZXZkExX1JxZVk5cGczRG16dktMRE5sTk1vTDQ1YVdDTWI5TnR5Mm93UndTWDBZZDM1aTlHdWdoZw",
+      "title": "Trump Proposes AI Liability Framework, Opening Debate on Model Responsibility",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR",
+      "title": "Anthropic Agents Attempted to Complete Visa Applications on State Department Website",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4",
+      "title": "Anthropic Reports Rogue AI Incidents, Including False Police Tip",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "Anthropic discloses fake tip to police among new rogue AI incidents - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M",
+      "title": "Super Micro Contractor Pleads Guilty in Scheme to Divert AI Servers to China",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxOM3hfVEZGdld3RW9ZMFEwQXBIVzhLRndhajVkYm1xZXFnbGhaZ0VjQ1VfaGNwWWl2MThudzZPY2Nzem5QZWNvVG03U09wQ2tIdldKcThKN3pRenViMVVjUno4ZFAyVmZNaldNQ0d2QjQ3RmxYa2xZcUMwNkFVcjV4NmxKOTE1Rkw1QzNWRmV6Y2JZb0NsZUtDX2h6V3NVWkpHemtFck16bw",
+      "title": "India's Ambition to Lead in AI Faces Resident Pushback",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "Modi wants India to power the AI age. Residents are pushing back - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+      "title": "Microsoft CEO Calls for 'Emergency Brake' on Advanced AI Development",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video",
+      "title": "Race for AGI Sparks Safety Concerns Amidst Concentrated Control",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "The Race for AI Supremacy Raises Safety Concerns"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPSmdMU0RnR2ZKMjcyckU0andTM3BtOV92NTQxZndtVjVva0JsUzRSRkR4a0JaRUZUTVlGNTBxa3k4N1pfU2kyRlQ3aGFrbHhpVTNlRVd5d213RThxbUV1OThHRFJVLXdNMWgtWE9waGs4UXpPRFRfVlQ4V3FiVmd2RVVzcDM",
+      "title": "AI Borrowing Slows as Investors Express Wariness Over Debt Binge",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi4gFBVV95cUxQbnpidFBsektkNnhGX1ZqSDFjOUF4Z01Ga3hma0w3TkJPeHh0VTY4SnBKWThFZTkxZFdmeXQ3b0szaGMzTWNQVmc0bXctVnVyWm84TFM5NWh5RFdVNUxvTzc3Y2NsQmpaZ2w2N1BCX21pV3dyOWJQSWFCaWxHazhGS2J5eTZOcGN1VWRMdnBjVkFSbFRnUkhYanRPNVhJQWJic0NodS15NXk1UHBOa1Mwb1hLNWNwUG9zYzlteUU5ZmJzWEYya2JWbnh0c3JLMl9tUnRNRmZONFNEN3FrVjJnTTl3",
+      "title": "Hackers Leverage Chinese AI Tool to Attack South Korean Banks, Exposing New Risks",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "The Morning Risk Report: Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxOcmRmSzBtSkZNNUdzbkJoOThxUHFJNlhXVDQ3aUhtQklNTTlCN2lyckhrSGxJY2d2OGV3QnFlYzdXYTltUmdvb01Kd3Uwa0ZGYnJ3VnE2OFkxUzRpSWpLUURoX2hkVVhcS056UXAxTEdrR0k3S3A1U3RUOUhjMlVjNk5WM1JXazV6VFpBY2lZeUpPa0E4YVBmZEFQVzhuWUZCNWc",
+      "title": "U.S. Stocks Mixed as Oil Prices Rise and AI Profit Doubts Impact Tech Sector",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMib0FVX3lxTE1qZldrQnF2aGJCM0dfaUFOcHBKUmVVUE5NYjRBSS1PWWlYMHV3RTRYN3BBTU5lanN4OFpqRnhwNG5JQVpCNURobkZSVlhsR29sdkhlMVlXNVktMmh2ZFhTQ3VObldsVk9mYXMwUkhBYw",
+      "title": "Silicon Valley Faces Disruption Amidst Fierce Competition for AI Computing Power",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "The Desperate Hunt for AI Computing Power Is Upending Silicon Valley - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNSDVHWUxEbzFjQm1keEJON1NZMy1tWjFBdl8zcmw4T3JpcWNMelRjNkZzSUk3aW80VGItaUN4VmRBU0VIYTRHVUIwV1U1eExLMzNLb2paQXpOV09JNzJFU25sd1hUQWdRXzRwbEpMckl6X0JjY3FTMXJYcjlDdW51UThFUkI",
+      "title": "Big Tech's $700 Billion AI Bet Hinges on Healthcare's Success",
+      "first_seen": "2026-10-11T04:31:37.544210+00:00",
+      "rss_title": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off - Fortune"
     }
   ]
 }
