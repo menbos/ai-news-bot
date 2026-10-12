@@ -1,124 +1,6 @@
 {
-  "updated": "2026-10-11T04:31:37.544210+00:00",
+  "updated": "2026-10-12T04:31:47.376014+00:00",
   "entries": [
-    {
-      "url": "blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-      "title": "Google AI Unveils September 2026 Advancements",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "The latest AI news we announced in September 2026"
-    },
-    {
-      "url": "huggingface.co/blog/microsoft/thinkingbox",
-      "title": "AI Agent Completes Task, But Database Disagrees, Highlighting Reliability Gaps",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "The Agent Said It Was Done. The Database Disagreed."
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI",
-      "title": "Anthropic's Claude Frontier Academy Targets 10,000 Engineers with $100M Investment",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic"
-    },
-    {
-      "url": "status.openai.com//incidents/01M3YNNVTSCXS8YM2V1YMHMVSE",
-      "title": "OpenAI Status Update: Data Analysis and File Creation Issues Resolved",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "Issues with data analysis and file creation in ChatGPT"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmLlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR",
-      "title": "Apple to Flag AI Requests for Mac Data Following Meta's Muse Concerns",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-      "title": "US AI Task Force to Assess Technology's Risks and Federal Responsibility",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "US AI Task Force to Report on Technology’s Risks, WSJ Says"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMib0FVX3lxTFAyV1MxWG1LdmgzcE1VSVphU3V2NFFnU1E5MXhZM0FUMEE4MjhXOTMzMDlrSTZJdXR5Q3VnV3RWVXRRMGZaLXB3N183V0d4d0ZBcjZFdVRRWnRVWmltUnlPYlVXbllHaUtiS0o2NnQ1WdIBdEFVX3lxTFBuSmprcGRObk1JU2R0SERzdV9hNGtQallVbGhTd21LbXdVUWpzOWFsTWFxT3ZuaXBJbzA4d0I3bWdzYTNRblJzMDB0QlJSOVRBSTllWW5scUVXLWNlQXhHMkZ2SnJTY3ZhZnhlUm5XdzliYm0w",
-      "title": "Trump Appoints Director of National Intelligence as AI Czar",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxPaktMNDdZV2FZQTFSeGF3SENIXzkwWHhWLUVhT1ZwVHMzTUdQajl0akw3QTlicmFCQ04tV0YxRFFfUEZYYmxqRFA5QVh3TzhTcm9Ca0pWLXBjeTFXaV9DVXV6ZmFPU1h1NXFsUVpxaHlBUlA3SjhxRVNSQU9UZ2ItTmNBN0VvWFpFc05idzd1dWUyaUNmMWRwc0lKR3A4Q0czbkE0ekNXZlM",
-      "title": "Trump Prioritizes Voluntary Safeguards Amid Growing Public AI Fears",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "As public fears of AI grow, Trump digs in on voluntary safeguards - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw",
-      "title": "OpenAI Safety Employee Resigns, Citing Urgency for Strict AI Safeguards",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "OpenAI safety employee quits, says 'time for trial and error is over' - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28",
-      "title": "AI's Transformative Race Against Funding Constraints",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "AI's race to transform the world before the money runs out - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxPaW9VTzR5bkJYdmJGams3elZMa3hyaXRmOHJVN05BWnZ6VjNRcGlRM243SGwtWGhMeFlIX05haGhqZkFQeXJYcEpYMjdjazJTdmpHVVNsOFItNWxKd1pyenZ1SDVydnRORUZxNkR0TkJhN1YxeG9XSEY4cy1PMUh2Q1Zmd2VuMExUNWZkQ3l4R0hKbXBmVnJOMUpydGRrbnd1d0ZMdFQyWmN3cHlCV1dmYXI3S01iQQ",
-      "title": "Judge Warns AI Could Stunt Lawyer Training and Harm Clients",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "Judge warns AI could stunt lawyers' training and harm their clients - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxPVG81eDdjemJZRnNHMnd1dUpnQzRKM0tlTFBsOHo2X1ZPX1pnQkNSeU5iNWpYa2FhbHBZaWF6blpJdUJTmtNZWJ0V1RGWm5WR2lwRm8wRWVhVjdvVGlNOFBGcTZUSWdZNVRjeVJ2MS1EbFhGMnkwSXpmMFBGTTFFeEoyal9DbWREYk90TWs2SUM3U3ROdDJGRE0xazc2RDhlRWVsX1RnaUV5YVlXODY0V0pablBpVnNtcEw5TWVSdGVCOVU",
-      "title": "Euro Zone Firms Fund AI Initiatives Internally Amidst Funding Barriers",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-03/bessent-says-ai-industry-must-own-its-risks-and-find-solutions",
-      "title": "Treasury Secretary Bessent Urges AI Industry Self-Regulation and Risk Ownership",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "Bessent Says AI Industry Must Own Its Risks and Find Solutions"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-      "title": "OpenAI Safety Employee Resigns, Demanding 'Nuclear-Level' AI Safeguards",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxNS2dhQ2tycm5oZng3Y3lCYzJheWdCWU5sVWFfd0IwZUZJM01xd3BGVUpENGZtWnFwcmpoRDdrMzJGY0I0b2hhUUpnZnJEWnN1cG94V014akl1VUpmV1BUVDVGTzNITUNYdVRPcGFqV1hGVmNVN0c0aHViWlg2aEI1TVVvMXNSeTVHNXY5enhCYmJFeHdrMWQ3blNQeHZIVUxsM2VZNWxpQ28",
-      "title": "US Poised for Significant AI Investment, Potentially 9% of GDP",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "Will America Spend 9% of Its GDP on AI? The Industry Is Counting on It - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPX0dISjgxYkJlRzBQczRicDdQTDA3b0RUWFhfc0FuRW9RMHR1Nm0xeC1FU29SR2JLSWcxTURYZGRRQTU4dUlyNEhpSmhkTE8yUFNhMVpxcWJGcDhqM3YwcXk2M3huWjJIZHBfUkpVUWF1MjVDTFhwbkU2N19lT3pUQ2xjLTk",
-      "title": "Investigating AI's 'Rogue' Behavior: The Rise of AI Sleuths",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "The Sleuths Who Expose When AI Goes Rogue - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxNQmVjeUxndlA4a0RkWnBPRnpUa1QwQXc0bDdFTENEQldnaFpsWTRHYXNwRGVHS2czMjZlN3VxMTZMTzJ6TU5TU0NqU1VBd28zYmpQVkpDclJTTU5vd0pmd0xxUDNLWDBYeVQyVl9BM2I2em5hN3VsakdHZXhXdTJFT0RHTVl1WTN0b1kwN3M0ZHdDYUJfLXJkZFZB",
-      "title": "Tech Firms Deploy 'Cuddly Mascots' to Mitigate AI Anxiety",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "Tech Companies Roll Out Cuddly Mascots to Ease AI Anxiety - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxQeVBrTmhZbTRFSWZRSFhpNG5CMVI5S0sxWC03ZWNDNXlkbVdkNUxIaS1BTVRvQTU5aTdNQ1BPMm9UZkpkTThWazdHaUxJRGpWaDdsLXdwcEtOV2JMdU13QjJMSHhmLUN0bXhfQ2l6TkoyTFRWOXlCOWxfUWZWWGxEelJn",
-      "title": "AI's 'Thought' Process Untrustworthy, Increasing Rogue Model Risks",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "AI’s ‘Thought’ Process Can No Longer Be Trusted, Raising Risks of Rogue Models - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxQWWU5SEpjdXJwbE05eUhGVGd3bDRwTm1RdVU0dksxZUpiZXRzck0xTnZVQ2llQ0I5X0dfbXNjNHJJRlQyUUZqT0FCd2VfRE9Ud3o1eTFZdjhEczJqbFc0VEFfUktLRVhWVnUxbDd3UDdXdEI3cVh0Q0FLSHFBZTgzOTlkd25YOG8",
-      "title": "Pope Leo XIV Calls for Church and Artists to Ally Against AI",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "\"Algorithms lack the spark\": Pope Leo XIV calls on church to ally with artists against AI - Axios"
-    },
-    {
-      "url": "theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "title": "Apple to Restrict Mac Disk Access Due to Elevated AI Agent Risks",
-      "first_seen": "2026-10-04T04:31:42.280220+00:00",
-      "rss_title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk"
-    },
     {
       "url": "news.google.com/rss/articles/CBMickFVX3lxTFBzY09kbHptN2wzWGZwcEs4cmlqT21OTndSenN3UWlXVE1hazhod1dnVzFFZ2Z0dWdCeFVfU2FoUU9ibjhRZmFKUGpZM0sxMnpHRkpiUVgzVXA1aGNoT094ZmROcmpGeXJ1Wm9rTi1GZ1BhUdIBd0FVX3lxTFA2djVfcHE5OVBZUjBlVms3cS1oZ0ltcXlueVFKLWpMNjdCUnRFVW9pTE9nRkFjeFd6X1czNVFZUVJSMW4yTnowMWpOV242WFdyNjlINmdHNzZHN3lWcGZpU2IwNGtIbHMyMTcxSGYxZVBoemFvNmlV",
       "title": "Meta's Muse AI Assistant Empowers Users with Automated Shopping and Checkout Capabilities",
@@ -951,6 +833,126 @@
       "title": "Big Tech's $700 Billion AI Bet Hinges on Healthcare's Success",
       "first_seen": "2026-10-11T04:31:37.544210+00:00",
       "rss_title": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxQWlEwdWh3UlBnVFNxWEtNemNtUzI4eXppbzRTV1E5eTFkVmMyYXAxcVdXd2ZXLUtIcHhpWkRNUlFuQUd5TjE0T21MY2E4UG9xOG0wbDBDemFoMXRpQVRrYWJjU0hVN0N0eTFCd0Rnc21CbTF2NURqWllxZzF6RmZXZkExX1JxZVk5cGczRG16dktMRE5sTk1vTDQ1YVdDTWI5TnR5Mm93UndTWDBZZDM1aTlHdWdoZw",
+      "title": "Trump Administration Proposes New AI Liability Framework",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "Trump’s AI Liability Push Opens Blame Game for Models Gone Rogue - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxOQlp0dEhQeUJEblZQcDdEQmMyOGVkSFFlbzRVaXhuT0xFUFpNc21laThfRWNnVmpRMHdiVG1BbzJiTjliOFNCR0xDWEl3X0hES3FXWlZ5LUNjZnFFRkdwWTRoVC11VHllTkM3bS1sVi04cG1EVjlBbGw5R2tNRUxmWlp2QlFrZk1uemJBMUt1QjlLRnFtdDhyVWY1UTVHZE1HTmR4NjRmSDlvQQ",
+      "title": "Amazon Reportedly in Talks to Acquire AI Startup Decart",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxPRDJvZUFPb2dwVWRONzFpd2RZLVJuLWJSeE1QRHNrYjhTX3l5eGxRaFowem4zUy1heUFEdFBEWHFvaFliWG5lREtrUV9Ob0l0dVpQWDRLLVhQWHFFR3JMbFA2dHE3S1M4NWVjZm51NldZOEFPanJBcHpnZjUzd2ZGQWVmRmFzZkE1WTVPSUIwaEJia2VaNmhuRXZMclFZRzlJcE1XVW9YaFZQVmtzTVR0a3hsZw",
+      "title": "US Reverses Stance on UK AI Model Testing",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "US reverses course on Britain's testing of AI models, Telegraph says - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA",
+      "title": "TSMC Records Sixth Consecutive Quarter of Record Profits Driven by AI Demand",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxOcERTdzZuVGZ3R1NXOE1IbEpneTR1dEZaNzZwM3p1NXlrbkMxZjl6Q3lNVS1ybTY3THlTSkt3SnRQbndfalJSUkt5M1c2Tm9sb0ticnZ3b3dfNHd4N0g2emp0Qmh2SzNlWjJoX1VQRHV3NEpxTnFVYnNkOGdHbVVPS081ZVRFOUNpdGlJYy1PTnNlQkctbWlzcHdOeHhtRVh5UlRiSzRrRmpqem43MzRUS0NuamVLa0FXQWc",
+      "title": "Canadian Ransomware Negotiator Arrested in FBI Hacker Crackdown",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "Canadian ransomware negotiator arrested amid FBI hacker crackdown - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-12/dbs-ceo-tan-says-market-is-repricing-risks-on-ai-financing",
+      "title": "DBS CEO Notes Market Repricing of AI Financing Risks",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "DBS CEO Tan Says Market Is Repricing Risks on AI Financing"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-10-12/lg-s-cho-on-latest-ai-powered-forecasting-tools-video",
+      "title": "LG AI Research Discusses AI Forecasting Tools for Financial Markets",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "LG's Cho on Latest AI-Powered Forecasting Tools"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-11/xpeng-says-it-can-quickly-adapt-car-autopilot-systems-for-europe",
+      "title": "Xpeng Claims Rapid Adaptation of Autopilot Systems for European Markets",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "Xpeng Says It Can Quickly Adapt Car Autopilot Systems for Europe"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-10-11/is-ai-crowding-everyone-else-out-of-the-bond-market-video",
+      "title": "AI Buildout Dominates Bond Market Borrowing, Raising Absorption Concerns",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "Is AI Crowding Everyone Else Out of the Bond Market?"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxOS3RlMXZFZDNGcU1KUzRJeF9fOWVCNzNUUl9vRTYzREtnYTZvR0NCdURTNjNqbk9wNW5tbzdZc3FlRXZGZUFucGNzTGxxcWhSM2g4SGRsNklxdWRhVWdTRm53Z2FMMXVSUWlHbkJBQnVHM3VrWmNabEhwbzlfNGlHZGpzbHJOdFhiVnFSUFFHeTV2X2V6cmc4UE43cFplTkNUV2otSm5zb0xCVUU",
+      "title": "AI's Philosophical Challenges: Faith and Ethics Under Scrutiny",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "AI Has a God Problem Stretching From the Vatican to the Baptist Pulpit - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiekFVX3lxTE1xQ0lVRVpfMENMYlZ2Ulg5LW0tTnNFQmxPZXVqdlQ5UEpGbVlKd2lvRS1GaXJqLTZGMkhteW1HRWl1XzBSdEZqS2tsYUFNa0c1ajlHYklwcHNtZ0ZVV0ZzYW85aHVCdVdtdmJfblJyRnJmUTZscXk3MVFR",
+      "title": "OpenAI Reports Progress in Mitigating ChatGPT Hallucinations",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "OpenAI Makes Progress in Preventing AI-Driven ChatGPT Delusions - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE05SUg5WEJEakhLNWNzVm1pWER1ekJ3N3lzbFBaZmR3NWlMZ2hrMzVxWTVSNnFlbzZ4RGVaV29DamhMVHdOMWlILS1OcUk1Qm45ZVY0",
+      "title": "Anthropic's Claude AI Discovers Significant Vulnerabilities with Dedicated Bug-Hunting Team",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "Claude Launches Dedicated Bug-Hunting Team: 66 Vulnerabilities Discovered in 116,000 Lines of Code – Single AI Agent Only Detects Up to 27 Bugs - 36Kr"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "title": "Silicon Valley Adopts Trump's 'Super Intelligence' Rebranding Effort",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "Silicon Valley is falling in line with Trump’s attempt to rename AI"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "title": "Microsoft CEO Satya Nadella: Assume All AI Models Are 'Compromised'",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "Satya Nadella says we should assume all AI models are ‘compromised’"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "title": "Anthropic Isolates Internal Evaluations from Internet Post-Incident",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "Anthropic is cutting off its internal evaluations from the internet"
+    },
+    {
+      "url": "thenextweb.com/news/us-probes-foxconn-luxshare-and-18-others-over-ai-server-power-patents",
+      "title": "US Investigates 20 Companies, Including Foxconn, Over AI Server Power Patents",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "US probes Foxconn, Luxshare and 18 others over AI server power patents"
+    },
+    {
+      "url": "thenextweb.com/news/ai-growth-us-debt-guardian-porter-analysis",
+      "title": "AI Not Expected to Solve US National Debt, Analysis Suggests",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "AI won’t fix America’s debt, Guardian analysis argues"
+    },
+    {
+      "url": "thenextweb.com/news/alan-turing-institute-williamson-sovereign-ai-uk",
+      "title": "UK Chief of Alan Turing Institute Urges Sovereign AI Control",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "UK can’t rely on AI that could be switched off, Turing chief tells Guardian"
+    },
+    {
+      "url": "arxiv.org/abs/2610.12493",
+      "title": "Research Paper Questions Faithfulness of Explainable AI Metrics",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance"
+    },
+    {
+      "url": "arxiv.org/abs/2610.12536",
+      "title": "EliteTable: Novel AI Algorithm Improves Program Search for Control Policies",
+      "first_seen": "2026-10-12T04:31:47.376014+00:00",
+      "rss_title": "EliteTable: Self-Improving Program Search for Executable Control Policies"
     }
   ]
 }
