@@ -1,125 +1,6 @@
 {
-  "updated": "2026-10-13T04:31:56.843498+00:00",
+  "updated": "2026-10-14T04:32:02.372437+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/eu-text-provenance",
-      "title": "OpenAI Details EU Text Provenance Approach for AI-Generated Content",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Our approach to EU text provenance rules"
-    },
-    {
-      "url": "openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "title": "OpenAI Introduces New Ad Format and Measurement Tools for ChatGPT",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Building advertising for the way people use AI"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/ai-breast-cancer-startups",
-      "title": "NVIDIA AI Solutions Accelerate Breast Cancer Diagnosis and Treatment",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore",
-      "title": "AWS Bedrock AgentCore Enhances Multi-Agent System Explainability",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent",
-      "title": "Amazon SageMaker Optimizes Generative AI Inference for Coding Agents",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "title": "GitHub Launches ReviewBench for AI Code Review Performance Evaluation",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "ReviewBench: An open benchmark for AI code review"
-    },
-    {
-      "url": "status.claude.com/incidents/bhphxz3vr58g",
-      "title": "Anthropic Resolves Elevated Error Rates for Claude Mythos and Fable Models",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1"
-    },
-    {
-      "url": "status.openai.com//incidents/01M46KED6KQ6PR195KZYYVNY8W",
-      "title": "OpenAI Monitoring Elevated Error Rates in Codex Cloud",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Elevated error rates in Codex Cloud"
-    },
-    {
-      "url": "githubstatus.com/incidents/3q1yb5m7ltvb",
-      "title": "GitHub Actions Experiences Widespread Incident Affecting Multiple Services",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Incident with Actions"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxOZENvRHJUb3JKWEFMQWsySkliYk9MOTF1VUxqdi1kMl81Sm8wWjNXMUpHNUMxTWRoSFl2OWo0d3VWeFNaSFJIUGJLMXNVWmRINlgwWDdwLU04c3VnSmotYlBlYkEzX2FTc1ZSejBManV1UVEwOFRHTm1NNlZTbndjRHNZS2JYUmQyXy1OM0dYZzhOZjJlWVk5N0szejFrUkNaNDRnV2tXQjFzSEozNXZJc01uMA",
-      "title": "Reflection AI Launches Open Model 'Beam' to Compete with Chinese AI",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Reflection AI unveils its first open model, Beam. Could it be America’s best chance to compete with China? - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPdjU1RlZodzh1WDB5VTBqN0xyR0FBWHlETG9fNzh6cURoREZzS0ZOYXJzMFZoc25TLW5SMjd3aExMaVpsRWRxMUhJdV9zTGtMU2ZNUDV1SGpLMWpDUTI0Qm9Kcm80eWRFMUlheWpOR3ZsdHBPVkdpdnRWR0hoeHplMmR4WVA",
-      "title": "Broadcom and Anthropic Secure $60 Billion Chip Deal Backed by Wall Street Banks",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4",
-      "title": "Reflection AI's 'Beam' Model Aims to Counter Chinese Open-Source AI",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models - reuters.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxOUkY5N1ZDbkF3MXJ6RkVKYjVkeHpELXIzM0lfLWRiVGZzalNUbWFHRnBJYmR2TkFSRV9vNXhyWi0yYXVyNndFenlzd3h1Ri1DdXljRk4taWQ0NUw3NkNjVlRWSjRrMUxyUHhRRzVObDk3LVJJLVBJQ3NiWXp4eU1QV1lLTDdNZHdkYnZvMmV4YU9tM2lsSTFqdHp5OVpFTXd4VW9XQ0lLYkpWeVFF4sFjFv",
-      "title": "Huawei and Qualcomm Agree to Multi-Year Patent Licensing Deal",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxONm1aN3JiNld4ZkM1VTI1TFdCNFRiTmF5TlBFNk5QMmdnaWEwZjJXaTQ5eFBhb29wRnVWM01vWmtiZkVoRG5qSmJnTXY1V0dsTTFtYjZSN1JYRHFodzEwV0NVQVJVYlBaWEVkakQ0WEJXa1hBbUFsRmNJNEotTkd6aHBxYzR4M0NOczhpM00xVkZHQ2t2bV96YjhNSFlaa19McEpwU3ZNMENoQTg3cDhxb0R1YVA5QUprM2d5cVlB",
-      "title": "Deutsche Telekom Projects €2.5 Billion Savings from AI and Automation by 2030",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - reuters.com"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-06/seagate-is-said-to-battle-toshiba-for-tdk-s-hard-drive-head-unit",
-      "title": "Seagate and Toshiba Vie for TDK's Hard-Drive Head Unit Amid AI Storage Demand",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Seagate, Toshiba Said to Vie for TDK’s Hard-Drive Head Unit"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo",
-      "title": "AI Video Startup Kling Prepares for Over $1 Billion IPO",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-06/banks-chase-risky-chip-loans-in-asia-s-8-2-trillion-ai-buildout",
-      "title": "Banks Pursue Risky Chip Loans in Asia's $8.2 Trillion AI Buildout",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Banks Chase Risky Chip Loans in Asia’s $8.2 Trillion AI Buildout"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-10-05/tiffany-mcghee-earnings-must-show-ai-spend-paying-off-video",
-      "title": "Pivotal Advisors CEO Emphasizes ROI on AI Spending Ahead of Earnings Season",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Tiffany McGhee Says Earnings Must Show AI Spending Is Paying Off"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQV2E3TzJoN21LWHZGNlV5cTJOTWFIU1ZRRC1VQWI4bzRYQkRTZHhpZ2t3anVWQUlaVzlpSU9DZ1ZUdWFRTTFUMGNBUXBCUk0zbDAwQlpoUnNuU1Y3eXpNWkJqSEhCTElBdUNEai1hdjl5UEpRZTJLaEhVQlVEbUtUV1BhaFg",
-      "title": "Reflection AI Enhances US Ambition with Open-Model Competition Against China",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "Reflection AI boosts US ambition to compete with Chinese ‘open’ models - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE9DOHhxN1Z6WUIzbkNpTlVSSDBhOFppQnJyYmZUTkhNREFnX0w1a1p1d2ZBUEdWeGppTjhIOUFQVE5BNzA2M3hyVHptQ2VNLXVZcXFYY1hPQkQ2d201bjFCeVl2Y3VfSlhSTUV1M3VfcjQ",
-      "title": "Financial Times Warns of Dangerous Myth Surrounding AI Agent Security",
-      "first_seen": "2026-10-06T04:31:27.369238+00:00",
-      "rss_title": "The dangerous myth behind AI agent hacks - Financial Times"
-    },
     {
       "url": "openai.com/index/sharing-ai-progress-in-mathematics",
       "title": "OpenAI Publishes Progress on Frontier Math Model and Open Sources Proof Formalizations",
@@ -951,6 +832,123 @@
       "title": "Open-Source AI Assistant Hermes Secures $90 Million",
       "first_seen": "2026-10-13T04:31:56.843498+00:00",
       "rss_title": "Maker of Open-Source AI Assistant Hermes Secures $90 Million - WSJ"
+    },
+    {
+      "url": "openai.com/index/higgsfield-longer-videos-voice",
+      "title": "Higgsfield Enhances AI Video Capabilities with Longer Formats and Voice Integration",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Higgsfield takes AI video from 1 minute to over 10"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+      "title": "Google Launches Gemini 4 Argon Frontier Model for Complex Problem-Solving",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Gemini 4 Argon: Built to solve your hardest problems"
+    },
+    {
+      "url": "deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "title": "Google DeepMind and Singapore Government Partner on AI Scam Detection",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
+      "title": "NVIDIA RTX Spark Reimagines PC as an AI Supercomputer for Gaming and Creation",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments",
+      "title": "AWS Introduces Agent Payments for Secure Autonomous Transactions",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Building agents that transact with Anchor Browser and AgentCore payments"
+    },
+    {
+      "url": "huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "title": "Hugging Face Releases LFM2.5-24B-A2B for Private On-Device AI Agents",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Run fast, private agents on-device with LFM2.5-24B-A2B"
+    },
+    {
+      "url": "github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+      "title": "GitHub Improves Secret Detection with Context-Aware AI Model",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "GitHub’s model for secret detection: Finding more secrets with less noise"
+    },
+    {
+      "url": "apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home",
+      "title": "Apple Introduces HomeView for Integrated Entertainment and Home Management",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home"
+    },
+    {
+      "url": "apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k",
+      "title": "Apple TV 4K Gets Supercharged with New Siri AI Features",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN7ocM2pzM2NnTT9ocA",
+      "title": "xAI Launches 'The X Subscription' Amidst Evolving AI Service Landscape",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxOYWVqemVLdThXMGhqbFNrdkZ1NDUtWjNkdEVfenp5RUp6RXNwNjhlV0JRS3BJcEl0eHl3ZVZBY09HSl80RVV2RHhueXZzTUZQUUlpWnlDVFFTNkZGa1BqQlBxQUl3WlNudDlwNVNFYjVJNFZ1ajRNU0MxODlrWmhTV3Nha3dGQnhSUzNtamNicDR3ekVHRmpRRnZEbDJhV1pHb1Y2TUdac0VtTUE",
+      "title": "Meta Releases Muse Wonder AI Models to Compete with OpenAI and Anthropic",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxPTTBKc3NhTHJyMWp0Y3dSak93eEFTc0FuaUpLWklHOGp1UERTRDZ3YmtERkFFb3M3dmEyX2FRa3pxc3l1R3BjaHpUUHVNcXFpMWEzX1dBTEtlLXY1dERvdElHbzVIQnJULWViZ3RNa1ItSHdnSk5IWVBDdWRBM185R3VwWV92SjlCdzhPX2lBbG5QNjlvTW1XTk1MT3dwaUd1aERrRTEwdjdEeHl3X3hEdWVaNmJZVDdyemhNSmZuQnFFTmc0",
+      "title": "Meta's New AI Model Family Boosts Stock Performance",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMickFVX3lxTE9iTFZ0YmNOLXFxS3pxWDdPSGx0bjBrdDE2OXFTZmJELThrSU5LWHZlYXcxQ2swUmZUWHhNRjc4Znh1bDZQVU4xMjQ4ZTAySHNQMWRSZjRlaVF3T3F0MDRIU2l4T3A3V3NNYy1pdGJqZWR3Z9IBd0FVX3lxTE9UQjBLY1Jza0hRNlRoYXdYYmN6QU9jT01YUlUwTllZWUp3bGxpTC1RWmJzSlREX09xR0lzdkJVejlpV2FFWVdYRVNJZFV6cXM0Y0hyQ0kxdGhlcmd0Y0pTRE1qVTZXUVNJeHpVUVQyVVcwbUNvTXRz",
+      "title": "Anthropic Prepares to Disclose Revenue as AI Lab Financials Gain Prominence",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNeFQxWUlwYkFrOUtucEdHUTByWVp6Wmo4YmtMUF8zWnM3VHBpcUNaTmxfeE9mWGpfcG9yT2VudURUUXNLczlqOXFDWnpwQkl5M2dLNnMxd3UtLVZaWV8zWHBlVGtjN3NsM0pncl9IdE0zLUFRbHpEU2s3d3oyYTRZTmhXOVNfZkZ6SmdKVGMwcDhFcEZtN3RGMURmUWVwSFVEOUxTVWNVOHVhZ1U",
+      "title": "Moderna Founder Advocates for Urgent Regulation of AI Agents",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Moderna Founder Calls for Urgent Regulation of AI Agents - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI",
+      "title": "Nvidia Invests in French Tech Startups Doctolib and Genesis AI",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Nvidia buys stakes in French tech startups Doctolib, Genesis AI - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNUnFfeURETmxJbjhUUjBib3BFZmRrQ2JyU09MZkIzVGJncnQ1bWMxME95c3p3a2d6c1pTZDJobkhXX1hPc204SElBUC1xQXE3S2JvMDV3RW5Lemxnb09TTkxuakpFeS1lUUk3aXZBWE5xQzFvdkV2cnVhM3hXeWhRSjg4SVg3SUdNc1VrbExfdzBaeUpzNWJuQlBxZFg1T2pNTHBkTVIxUkFmdkk",
+      "title": "Scientists Urge International Body for Advanced AI Oversight",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Scientists call for international body to oversee advanced AI - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw",
+      "title": "Anthropic Warns of AI Self-Replication Risks and Web Havoc",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxOU3V4aHFMSTR2WVhYZVU4NEN4WXZVYmo3WW1YWmZ1MTd1MGFjc3VyMTgwTjdiZGxPdXcyRllRakc5aWNaNVZkQzZIcVZCbjlLTG1hZUdIYk9SdHJiQkd1ejcxSkRubTZRZ25BbXRsa0xBendNSEdrZDgtTXI5end1anA4T0x4QzA3VUpWbXZCYmhUTG1pMWdpSVA1NWJkQ2lOckk2b3RnbDA1N0VJcEJwZVFrdXUzTUJ5REZvYld0d0JGdw",
+      "title": "Banking Watchdogs Increase AI Scrutiny Amid Stability Fears",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxOOVU5eVA2N0w4anA0WVJMUFFrUU1iMHg3TFVOZkVhRDR3S0ZudXVxVm9mRjFPZDFuUHBhSGUybXRtRmJEWi1uYi1kQlc0V3BWZS1aVlZlZXQxV1JGckgzY3l6U1piY3dkSHM2Ni1LVkFSM194Q3NRN1BmYnlsSWZGQmFyT2t2YVU1UXNsdWNnT2hYN2VsWlhnZHBUYWc1UE5ab2pkT2k5QnBGeUJncGdXVGNRbWxpcHY1Z0pwengxdDk",
+      "title": "Character.AI Files for Bankruptcy, Sells Assets to Disney",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office",
+      "title": "OpenAI Employee Arrested for Hidden Recording Device in Office",
+      "first_seen": "2026-10-14T04:32:02.372437+00:00",
+      "rss_title": "OpenAI Says Staffer Arrested for Hidden Recording Device in Office"
     }
   ]
 }
