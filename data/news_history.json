@@ -1,125 +1,6 @@
 {
-  "updated": "2026-10-14T04:32:02.372437+00:00",
+  "updated": "2026-10-15T04:31:41.525551+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/sharing-ai-progress-in-mathematics",
-      "title": "OpenAI Publishes Progress on Frontier Math Model and Open Sources Proof Formalizations",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "Sharing AI progress in mathematics"
-    },
-    {
-      "url": "openai.com/index/atlassian-partnership",
-      "title": "Atlassian and OpenAI Expand Partnership to Integrate Enterprise Knowledge with AI",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action"
-    },
-    {
-      "url": "deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "title": "Google DeepMind Unveils EmbeddingGemma 2: A Lightweight Multimodal Embedding Model",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/telecom-operators-open-models",
-      "title": "Telecom Operators Prioritize Open Models for AI Strategy, NVIDIA Report Reveals",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "Why Telecom Operators Are Building Their AI Strategy on Open Models"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025",
-      "title": "AWS Enhances Responsible AI Governance with ISO/IEC 42005:2025 Alignment Tools",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025"
-    },
-    {
-      "url": "huggingface.com/blog/tiiuae/falcon-emirati",
-      "title": "Falcon-Emirati LLM Developed to Capture Dialect, Culture, and Nuance",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00"
-    },
-    {
-      "url": "github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-      "title": "GitHub Rebuilding Git Infrastructure for Agent-Scale Development",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "Building Git infrastructure for agent-scale development"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxQVkhyMDJHWDlKYXpjSlA2eDZWSHVta3F4QnpoaHhkVTBjZWlMa1k5RFo0RFA5SWR6UnRUclUyRVpjRnVveC13VmNvWW5mSHZNZUk4YlpOTWJwSjhYU3pmc3FCUWVfWmxGcUZySVZ0aXYxUThFRDVVZFk4eUkxRm9FWEl4ZGxWQWlDSUZYUFYzcjBpaEVObGFhVm5IM0ZkRnNOVVhhQmVTN3YyYVRGRVY3Y3QzREFNWjJxd0lSWnh5TV9uZw",
-      "title": "Google Cloud Launches 'Modernize' Initiative to Drive AI Transformation",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "Introducing Google Cloud Modernize, transforming for (and with) AI - Google Cloud"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA",
-      "title": "Mistral AI Launches New Model Outperforming Chinese Rivals in Benchmarks",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "France's Mistral launches AI model it says outperforms some Chinese rivals - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxPVjdIYzN3RVFPcUozaWtycERxS2Z2LWxhclBEUmo1cVVtSkZXMWFHR2xOQUxLcmdka285NUVyVmFMZ1l4WWZuNFpsbFNocW5NWWN1RTgxcEU0YjZTQmt5WGJPUkFlRlBFREdfaHFhWFhZdkptSV9qdG81d1pibS12akVkTVpFblkzdWdqZ3JpdzM5MHpNSFZLaWQyUXQ1cTQzejRmMy1BTVFOblJGRjU2bEIwaTVDRm95bHpJb3lnZWJLUHdpQnNB",
-      "title": "South Korea Plans $3.5 Billion Investment in Frontier AI Model Development",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "South Korea plans to develop $3.5 billion frontier AI model starting next year - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMid0FVX3lxTE5lVzdtMDhZYkhnM1R0cVJJYW9oN3ZaZEhnNTUzQTVaaGRMTXRfbk05eG4yd19rQnNObVdkMVB4d1pPX1FBc0ZWVVFSQmFMdng1Y1A1UkxlM0ZPNFRpSHJzQ2o4YUFfbW9nRURqRXAzbkNyakY3QW5F",
-      "title": "OpenAI's Math Model Solves Hundreds of Previously Unsolved Problems",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "OpenAI Releases Findings on 377 Math Problems, Further Roiling Field - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOaHNZZW9GaVRnVzBtRVBfNkpablBtcTB6aTJyM1RZSi1sTDZMS1ozRk5oRE5XR3pWNWtKU1UxRmhDSk1rY19vT0lXOWhQTlU3UWZuZHpCc1hQaWZONEJpZlp4Zmk0QkVPcDJhTEo4ejlQcVIxSVNmUkZkRUhsTDVzZE1JNA",
-      "title": "AI Solves Hundreds of Math Problems, Demonstrating Advanced Reasoning Capabilities",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More. - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxOTTF4RDY5dnNXSGdnLW1jajhQcUUzQXUxNDBCbndJNWRjWkxXY1MyWGFrNnFQdE5TUDltaW4zd194N3RKMEtkZlZUWmdLaGNBY01MaVY3U2M0RmVzbVk3Q0dFZnhTd3I5SllQcTF4T1Q0OGhsNWx5aUFXYmpJYmVjYkRyZEJxYlItRUxvS2ZRdm1JNlZ2bHQtenNicDJaS2VHTHJJZGFXT3JIbkhzR2NZMjlsRDNnZw",
-      "title": "US Power Consumption to Hit Record Highs Driven by AI Surge",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQQW9IX3h3YzRRRWZrX1VNVk02dkd6UDlUUFlDMjdfU1dwUTJEWXhHRkpCZ2EwVXZqLXJqQmJfeHdaU1VLOWpOYlU3Wi1YNmljekVRcHRsZ0dMOHNrTzM3dGlRc1dRNFBhTGlrVzFJcGxtSEVuRjVfeFQzTy1WOFRHMGVROFBIQ2R3LTZkYlVzVnMwWFVCQk9RV1B1emhkRTljS3BsTW53akZwNFRx",
-      "title": "AMD to Significantly Increase Chip Supply in 2027, CEO States",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "AMD plans to substantially increase supply in 2027, CEO says - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-07/ray-dalio-warns-ai-bubble-is-approaching-burst-point",
-      "title": "Billionaire Ray Dalio Warns of Approaching AI Bubble Burst",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "Ray Dalio Warns AI Bubble Is Approaching Burst Point"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-06/spacex-seeking-to-raise-40-billion-to-buy-nvidia-chips-ft-says",
-      "title": "SpaceX in Talks to Borrow $40 Billion for Nvidia Chip Acquisition",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "SpaceX in Talks to Borrow $40 Billion to Buy Nvidia Chips"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-06/jpmorgan-tops-global-ai-banking-index-for-fifth-straight-year",
-      "title": "JPMorgan Chase Retains Top Spot in Global AI Banking Index, Deploys AI at Record Pace",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "JPMorgan Tops Global AI Banking Index With Jobs Seen to Grow"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQLWtJVDNxaldQMWl4Q2FFMDJSallVSkk0UTJPLURfTEdOR2Zvb0t2VzljTDc4WGswM3RTZGlTaFFoYm9LMVVYZVQxUXk5emVNa3dyYjRRc2FYTHRyWU1QZmYtcVhZWDBVZlJrZGpWV1ZlT3pXeHlST1k0MERhOVJONGxmQVc",
-      "title": "South Korean President Warns of AI Models Used in Bank Cyber Attacks",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "AI models used in bank cyber attacks, warns South Korea’s president - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxNVjh2amtZeXZZbWFMVnVFOWFGaVBQOGtGWU1NVmE1WEhWeWgtakFIdEFzVGlQTDN1cjg3UXdOeVdxVDM2UG5GbGxzMFJCZ2pvT3A3eDZsZW9zcmRsbDlwTHB1QXRFMzFIdXpYNVVnSC1xZ1l2RTRhb19NcnZRbExxY2hxcjk4RnV0",
-      "title": "US Stocks Rise as AI Momentum Continues to Build",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "U.S. Stocks Rise as AI Momentum Builds - WSJ"
-    },
-    {
-      "url": "thenextweb.com/news/personal-agent-protocol-sierra-meta",
-      "title": "Sierra Announces Personal Agent Protocol, An Open Standard for AI Agents",
-      "first_seen": "2026-10-07T04:31:35.918619+00:00",
-      "rss_title": "Sierra announces Personal Agent Protocol, an open standard for personal AI agents"
-    },
     {
       "url": "openai.com/index/gpt-6-for-everyone",
       "title": "OpenAI Rolls Out GPT-6 with Intelligent UI for Enhanced User Interaction",
@@ -949,6 +830,125 @@
       "title": "OpenAI Employee Arrested for Hidden Recording Device in Office",
       "first_seen": "2026-10-14T04:32:02.372437+00:00",
       "rss_title": "OpenAI Says Staffer Arrested for Hidden Recording Device in Office"
+    },
+    {
+      "url": "openai.com/index/amp-beyond-coding",
+      "title": "Amp Extends AI Agent Capabilities Beyond Coding with New OpenAI Models",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "Amp puts AI agents to work beyond code with OpenAI models"
+    },
+    {
+      "url": "openai.com/index/third-moment-research",
+      "title": "Third Moment Research Utilizes Extensive AI Agents for Long-Duration Operations",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "How Third Moment Research runs 10,000 agents for 36+ hours"
+    },
+    {
+      "url": "openai.com/index/block-ai-powered-security",
+      "title": "Block Enhances Cybersecurity with OpenAI-Powered AI Solutions",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "How Block is building AI-powered security with OpenAI technology"
+    },
+    {
+      "url": "openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "title": "European Union Embraces Agentic AI for Enterprise and Small Business Growth",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "The EU’s next chapter in AI is agentic"
+    },
+    {
+      "url": "deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+      "title": "Google DeepMind Details Responsible Development of Gemini 4 Argon",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "Developing Gemini 4 Argon responsibly and safely"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/uk-ecosystem-deployment",
+      "title": "NVIDIA Invests $250 Million in UK Startup Ecosystem to Boost AI Adoption",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "NVIDIA Announces New Investments in the UK Startup Ecosystem"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/european-cities-agents-urban-operations",
+      "title": "European Cities Leverage NVIDIA AI Agents for Smarter Urban Operations",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore",
+      "title": "ShipStation Global Deploys AI IT Help Desk on Amazon Bedrock AgentCore",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock",
+      "title": "Tamnoon Achieves 90%+ Reduction in Cloud Exposure with Amazon Bedrock AI",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock",
+      "title": "AWS Bedrock Introduces Grok 4.7 for Building Long-Horizon AI Agents",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock"
+    },
+    {
+      "url": "huggingface.co/blog/allenai/hiro-acev2",
+      "title": "Allen Institute for AI Unveils HiRO-ACEv2 for Cost-Effective Extreme Weather Simulation",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk",
+      "title": "Anthropic Prepares for US Midterm Elections Amidst AI Concerns",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "Preparing for the 2026 US midterms - Anthropic"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxQUDNpZk9VeENRMThlSnJtRUtNWmF0QmQwNHg0R1oxd0lpOVJvY2x1VE1hcEhkMV9LTnVLZVFVYkFUVm0wZzZ1RHNrLWoyRXpoTVZNZFBkQWhFUmdtQ01iRTh4b3V3cEVZQ0MyMkdFYzllOUZNQ2FNQm5veTVkWElYN3p9Q2x5cUpfUmpNa2Z1RzdfNk91Z2VkTi1ia3J6OTluTWZadkNpZms2bGZhXzdPRm81YkpKYW5TTUUtemhybk9qaW1IbHl3UHl5eFRDdTRE",
+      "title": "Idaho AG Sues OpenAI Over Alleged Deception Regarding ChatGPT Safety",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxPSFJIMFZPVi1xNjBnTXdHUjBMSW56OFVoQWxYRjBSUHh2V1cwQ2QzSWhpVm5fSzhWMW9RVUdXV1gxVjdqVUhBb2ZaNFJ0SVlYRXlxeGR4OXRnWGVaUjJVanRzUy10NUxnWTJpc3E0X2VKMTVGazZzME9SUUMwWlB1Tm1fZ2dVYkUwSFhaQ3dxRmxJSGlv0gGaAUFVX3lxTE9lTzhXS0pJaG1NS2dwNU5Ya2JTY0FFZUFBWmlHdFV6akFWME9mejN1MWJoZGFsQXo3YW42eDZua1dPcDNDUDA2SWtNZGduMENsNkh3LWZ5c09WalcwNk1LSkd0Y0xSc2pOOF9GVGtCNnRSN28tZ3JBekJXbURGcmN0X0gxeHk5VWhCNmhoOGtWNUM4eDJ3anpWUkE",
+      "title": "Eight US States Sue OpenAI Over ChatGPT Safety Concerns",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "OpenAI sued by 8 states over ChatGPT safety concerns - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxNdVFXQWV1bGFHWUJuWE44ejNaSTdjVGc1U3p6Sk53VnFfYlU0ZjJkLTdfOC1lTHZzTUNBWUZ2cm9ZdGtVR3ZIdzhZc2FGbGg3aU1IVXlzcDhDSmdqLTA3SWNod0ZtNTRNbEN5MGNqbS1UdFB6TnlJcElpeUZVLWZabmR6RGtRcDlsTWFSVTRQYlE1LUxhRU84UTJ3TDlPYVVlYTdudEpLM1NKcFZqUTdR",
+      "title": "White House AI Task Force to Convene First Meeting Amidst Regulatory Scrutiny",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "White House AI Task Force to Hold First Meeting on Thursday - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOQXZsQmZ6NUVHM3RhYjhZLWI0OHR2d05RT1NxTWI3U1NNZWk1dV9mUzQ5U1c2Zkk5S291cm1lNWtnZzFBUHlILW1sSlMzbWptV2l5NmVIdmZraVBrWF9oT0dmMk04V3ByOFJVMDhvMGVLa0ZiTzdkWlZvcWd2TS1KbmpDa20",
+      "title": "UK Financial Conduct Authority to Automate Regulation with AI",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "FCA plans to embrace AI to automate financial regulation - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxQZDh1RnYtQmd3b0ZLYjh6dVd0cllieVhyUkpCbHB3SjdLMFc0N3FKOFVDbm1ISVhGNVVnY3ktVUVxcmszWjZacjJ5TkNLWVkyOHJpQTUzaEg5M0RsdXBvRXBqaWlWVFdHSU8wSGRWdi1kMkVmaGZjSVVEZWIzQnI3U21vTHBzS3VzRE5qckVzOVg4NXcwR1JpTDMyT083cTRYb1NWWWFIY1ZUd3h6MklfamVTNEw",
+      "title": "Wall Street Banks Grapple with Mounting Risks as AI Adoption Accelerates",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "As Wall Street banks finance and adopt AI, risks mount on both fronts - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-14/globalfoundries-gets-21-billion-to-run-plants-in-us-japan-deal",
+      "title": "GlobalFoundries Secures $21 Billion for US-Japan Chip Plant Expansion",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "GlobalFoundries Gets $21 Billion for Plants in US-Japan Deal"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo",
+      "title": "Anthropic Reports $16.8 Billion Revenue Ahead of Anticipated IPO",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "Anthropic Revenue Hits $16.8 Billion in Quarter Before IPO"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQYVdrSG5aLUJNY3BCQ3F1SV9TQXMwV04wM3V1ZnNnYTFHQVRZTFJHMHduMllELUVFWHNZV0t5UnlrWm9hVEJSdVA0X3phRjNfVWp0UHJ6eGVjb1N3aUJERG45LUVYaVNrTk0wVzI5VHo0eHhNdEU0dmdkbk9HTEhwMExxeWQ",
+      "title": "Anthropic Warns of Rogue AI Agents Capable of Self-Replication",
+      "first_seen": "2026-10-15T04:31:41.525551+00:00",
+      "rss_title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices - Financial Times"
     }
   ]
 }
