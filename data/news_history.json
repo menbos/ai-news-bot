@@ -1,126 +1,6 @@
 {
-  "updated": "2026-10-15T04:31:41.525551+00:00",
+  "updated": "2026-10-16T04:31:38.831988+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/gpt-6-for-everyone",
-      "title": "OpenAI Rolls Out GPT-6 with Intelligent UI for Enhanced User Interaction",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "GPT-6 and Intelligent UI for everyone"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-      "title": "NVIDIA and Microsoft Forge Partnership for AI Agents on Windows PCs",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws",
-      "title": "Anthropic's Claude Haiku 5.5 Now Available on AWS Bedrock for Cost-Efficient AI",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "Introducing Claude Haiku 5.5 on AWS"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-      "title": "GitHub Blog Highlights Need for Scalable Secret Protection in Software Development",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "Secret protection must scale with software"
-    },
-    {
-      "url": "apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives",
-      "title": "Apple and The King's Trust Partner to Empower Young Creatives with AI Initiatives",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "Apple, The King’s Trust launch initiative to empower young creatives"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxNcTJSaTZIUWN0aGhNSzV3Umt3cGpxcmxTSnVPMGNZdGprNXJGNm1jMVBuVk5iakF5Z09jb3hURDRpTmhnRFlDNDJramJZbnRocTQ2bEZLYk5BUkVONVRNSFZTbjVUNi1MMDM3SFlVT25XZGdvN3UtRW1ZUWsyTHV6bU45QU1pWlo2ZHh5Z1EwRXV3MmthZmlEZA",
-      "title": "Google Announces Gemini 4 Argon, Ushering in a New Era of Frontier Intelligence",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ",
-      "title": "Anthropic Releases Third Claude 5.5 Model, Expanding AI Portfolio Ahead of IPO",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxQUU1YaVNmSXhlYVF0XzBLM0JBY1pJZFA0MGQ5YVJzZ19Cd3V0ZWx1Q0dlZmY0MFVNNk9BSG44ZGFPb1B6UUR6OFZrZGM2NHhmU285aG1zdnVVSnNnR3BsNnBLMTR2NnFFZ2RnYmdiX2I5NGZUanJYVUlxOHVpYlZrakR4VkE3WTR1ekVleHBwOWpFR29rT250TUlZalpYaW5HV2ZaSmRxb2tUbHV2bkVlYzFjenk3dw",
-      "title": "OpenAI Reports Breakthroughs in Solving Hundreds of Math Research Problems",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "OpenAI releases progress on more than 300 math research problems, stunning humans - The Washington Post"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPSkxpbGFjd2trMGlIX2JWWGl2N2cteXE3VkxqYy1GZy1CLWZZcFZtT3pqRWNmMUlUVU9wTW5iRTVKX0c0WnhwOXg2R2NNc2Z0akZ4MGp3NnpWeTNiVUdYaUtFZ1h5S2lkVi1mVVhRZ0pnaGw0OFdmc2lfbFVSbnFpYTg3MEdsYjlleFdKaTFOY1VrUTB5cmVPNHV3OUFIaXlQdFZhWUJ2V0xxSlR3X3N2RlF6NW9EOFdiVFNERmNrWlA3RW9UMlJ0bA",
-      "title": "OpenAI Claims Resolution of Hundreds of Long-Standing Mathematics Problems",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "OpenAI claims to have solved hundreds of long-standing maths problems - The Economist"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxNN2p1M1ZHTVBGQXhwSXJMYWp2SXBVWGZzVnV1V3JaWjJWTjI0RnVKS2t2OGdRc1VCYVBwTTljSk9EQ2xINUtZbl9IMDZDZTZWc3hodFYzckxmaldPNC1taDFwcTJxcTJFdjk1eTl0LVpoYlBEREJnX2U0ajB0V0FXRXE2QWlvTllvWVRFaU43SlJRQlhiVVNhVDR4WkdGMi1mSnAtUXprYmZHV1ZfT3RMdTc1emNYVEtCZkNSeFdXZw",
-      "title": "US Voters Perceive Trump, Congress as Underestimating AI Risks, Poll Indicates",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8",
-      "title": "Microsoft Intensifies AI Integration in PCs to Compete with Apple",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "Microsoft brings more AI to PCs as it challenges Apple - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxNRzNEYVFhV3haR0RGX2RWa0FjcmxRQlFTLTYwRFc1SlowRDNpUWlwdUd6NVFJVnZha25pZV9jZDlvX21ERllna0tsT01zRE9wUjZSbzg4Zk9XZmwwUEZ3dXkwZ01TWFlKU21lVV80RkdfU0d0d2NIVjV2LTk3NExQUFpzX3JqNENQY1FnOE1sR0xQOW1SWGdRdGVmenlieWlVbnlFY3BKczVnTlBuczUzQTVHZkx0Tkx1bEh5ZVZVbGs",
-      "title": "AI Companies Utilizing Virtual Drug Trials to Enhance Human Study Success Rates",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "AI companies run virtual drug trials, aim to improve success of human studies - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxQRWc5YTdRc1hIb1hBUXdiRFY1YlZVQ2lOYTN1RVFIMUhBNDh3Q3M4NnJoRWI1Tzhxc255OHpHeS1TcjJSX1ZoTnNaWEo5VTBNQlJ5Q1pEWnFkSnhWSTlnYUtESFhJcnNZNVV0VkgycHZocFZFOU5hcVg1anpIUWtVckNscjJYeURiVmpIX293bTVteUFQNElQczlwcEJDOUZVbnFEc1p4eVQyVFJFWUZhbUc1ODlhSlViODdFTkJqTUNSbzkySGNR",
-      "title": "IMF Chief Identifies Energy Shocks, Debt, and AI Risks as Threats to Global Growth",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "IMF chief warns energy shock, growing debt and AI risks threaten global growth - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-08/young-bankers-to-manage-ai-agents-from-start-goldman-exec-says",
-      "title": "Goldman Sachs Executive: New Hires Will Manage AI Agents from Day One",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "Young Bankers to Manage AI Agents From Start, Goldman Exec Says"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-08/alphabet-s-isomorphic-labs-in-funding-talks-for-at-least-40-billion-value",
-      "title": "Alphabet's Isomorphic Labs Seeks Funding at $40 Billion Valuation for AI Drug Discovery",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "Alphabet’s Isomorphic Labs in Funding Talks for at Least $40 Billion Value"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-08/ai-chipmaker-biren-taps-market-again-in-515-million-share-sale",
-      "title": "Chinese AI Chipmaker Biren Technology Raises $515 Million in Share Sale",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "AI Chipmaker Biren Taps Market Again in $515 Million Share Sale"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQdThuRWl1b3NtaUE5aFhSeXVUY0xfYjhBZXJJaG1VWWR0QXBSQ2txLTBrbTlKNm9KQmtqcG95Y3BLNlRQZF96a004TS1xaGlyQUVUaEdqNXZOTzZwdC1IU001ZmM5a191dGNRYjNCWXkwcEk0cjVhams2WUc5aGMxek13b1U",
-      "title": "SpaceX Plans $40 Billion Fundraising for NVIDIA Chip Acquisition",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "SpaceX looks to raise $40bn to buy Nvidia chips - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxOQlQwOUh0Wlhtb1B1T1YxN1ItVmh1ck5xeE5Xa0FWR2ZRcjlDdGZSM1hUVTltMHp1aHhVM1FCYUZKNnIweDhKWjlxUGpGeVlJTFFlNElVQnBkT2VMaERTRTBCVXFTbk1BRFRPRVpRWVA2blBxbnMwR3Q4VUZVQU9iVEFyRExCVW5aSjl3bXFOYlZERUxTY0l4QjA1RS1BVjRQS1lCOW5kSWtqY0t3",
-      "title": "Oracle, Broadcom, and SpaceX Pursue Major Debt Deals for AI Chip Financing",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "Exclusive | Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxNZW9OTGdpUjUzbldpeFl1aVpQUW8wbFFRYVZ0QU5GOXpmbEpLeDZTQTVQOTYySTd6RHZqekZvTXZod2VIRU5leU52S3Y0Yk9qdlRxSnZzY2ZYQnZoemZNSlNVS1pSUHk3NThPVHBEeVdLZWQ3YkVNVk5WR1lwQ2t3X043ZzEyY2sweUcwejVHTW5UR08xNTBMR0J3TzBsQkxEM1JB",
-      "title": "Nonprofit Raises Concerns Over OpenAI's ChatGPT for Teens, Citing 'Unacceptable Risk'",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "OpenAI’s ChatGPT for Teens Poses ‘Unacceptable Risk,’ Nonprofit Says - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizAFBVV95cUxPRnFjTjMxYUZERWpGdUVkLWVwVzNJRS1yRVBTT0ZsSFhVMjg2aTNZMElMUXJCamE4ZHVDVV92WFAwbXdJZ3BwcHVfNGwxUDNBc0hnTzVCNVl5RngxNG9mX2g5UC1HcGd1VEt0S2NrMEMyMkRhM3dHd3cyNmZmQ01KODdFNUJyMW04WUZQQk00bDNLNTc2YkRxS2c4YnVkYXpLYkNxR3d2Y252QnpfSnlhcWQ2MDZMdFcyZ2NxdXR4dFQwN1I4Nkw0djNQeWk",
-      "title": "Zuckerberg's Biohub Invests $1.8 Billion in Biological Data for AI Models with DOE, NIH",
-      "first_seen": "2026-10-08T04:31:36.899786+00:00",
-      "rss_title": "Zuckerberg’s Biohub Partners With DOE, NIH to Invest $1.8 Billion in Biological Data for AI Models - WSJ"
-    },
     {
       "url": "openai.com/index/oracle",
       "title": "Oracle Streamlines Operations with ChatGPT and Codex",
@@ -949,6 +829,125 @@
       "title": "Anthropic Warns of Rogue AI Agents Capable of Self-Replication",
       "first_seen": "2026-10-15T04:31:41.525551+00:00",
       "rss_title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices - Financial Times"
+    },
+    {
+      "url": "openai.com/index/introducing-the-rosalind-academic-plan",
+      "title": "OpenAI Offers GPT-Rosalind for Life Sciences Research via Academic Plan",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "Bringing GPT-Rosalind to academic research labs"
+    },
+    {
+      "url": "openai.com/index/sullivan-cromwell",
+      "title": "Sullivan & Cromwell and OpenAI Collaborate on AI-Powered Agreement Analysis Tool",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "Sullivan & Cromwell brings legal expertise into agreement review"
+    },
+    {
+      "url": "deepmind.google/blog/accelerating-antimicrobial-discovery",
+      "title": "Google DeepMind Accelerates Antimicrobial Peptide Discovery with Antigravity for Science",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "Accelerating the search for antimicrobial peptides with Google Antigravity"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
+      "title": "NVIDIA Launches RTX Spark PC for Creators, Gamers, and AI Agents",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+      "title": "NVIDIA Expands Nemotron Family with Super VL and Edge Models",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart",
+      "title": "Meta's Muse Spark Open Model Available on Amazon SageMaker JumpStart",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control",
+      "title": "AWS Introduces 'Trust in Depth' for Enhanced AI Agent Autonomy and Control",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "Trust in Depth: Giving agents more autonomy without losing control"
+    },
+    {
+      "url": "huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "title": "Hugging Face Announces Scaling Indic Pretraining with 2.8 Trillion Tokens and Open Pipeline",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
+    },
+    {
+      "url": "github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+      "title": "GitHub Identifies Ambient Intelligence as the Next Developer Interface",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "The next developer interface is ambient intelligence"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu",
+      "title": "xAI Introduces Grok Voice 3.0 for Enhanced Conversational AI",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "Introducing Grok Voice 3.0 | SpaceXSI - xAI"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf",
+      "title": "Anthropic Provides Update on Independent AI Evaluators",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "An update on independent evaluators - Anthropic"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0AFBVV95cUxQUDNpZk9VeENRMThlSnJtRUtNWmF0QmQwNHg0R1oxd0lpOVJvY2x1VE1hcEhkMV9LTnVLZVFVYkFUVm0wZzZ1RHNrLWoyRXpoTVZNZFBkQWhFUmdtQ01iRTh4b3V3cEVZQ0MyMkdFYzllOUZNQ2FNQm5veTVkWElYN3A5Q2x5cUpfUmpNa2Z1RzdfNk91Z2VkTi1ia3J6OTluTWZadkNpZms2bGZhXzdPRm81YkpKYW5TTUUtemhybk9qaW1IbHl3UHl5eFRDdGRE",
+      "title": "Idaho AG Sues OpenAI Over Alleged Deception Regarding ChatGPT Safety",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxPdVBjUDY1NEtsWk4xYnphdUJQSjdScU5TNHdPUk9iN3FibFNId2xOWDA4c1RHY2FodFJYdVl1ZzIybjBLc21FZXJxOXRmbjNsbFk4SDNIYzhDeWw4dEt6RkJhN3NJeHJqYVlVTlc5YnVZOHRyeWJIalRfaE5ER2tKRnRieXN4MVN2WkxFSmFvSFVBbUF6b0FHV0FoVTA5emZtRThLUlQ5VXQ4TndPU3FPRFpKMjg",
+      "title": "OpenAI and Meta Warn US Judiciary on 'Deepfake' Evidence Risks",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxNNDhRZ0FsM05ZWGFISWtLaXVIam1VcVlxWUY0YlF6NUR1SF9FSnFKQnJwMU5pa2hZUG1ZalVtb1RmY19adW5LSnZhQ1pmNzhtX2tTeE9Lal9LX29iRkZsbHVlcWlLWEw2NW9iaGlrS19odFpadHRSak5VYXFfTWRaaUpjUVp0SEVlb0ZvdTBZLThVcVB0V0JSdEZyZnBrQk05dzgzWUR4Yi0",
+      "title": "US Treasury Proposes Renaming AI to 'Super Intelligence' for Global Partners",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "US Treasury pushes global partners to rename AI as 'super intelligence' - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxOaGhDYkZMZ0F5S0ZlU3NudjgxN1Mzb2NQeVFNQ2FCN253aFI4Vzdlb0JMSHZfUm9KaUYxam9Ga01rbUJod29GS3FycDhmQkRSeUNBa3dWZERBbGhmLTlscllTSkR3ajU4MF9zOFJZTFhYX1VnR3N2bVZwSHVnRTVPZWFpd3gtd2NtN2Y5b1ZtTFBqbEJjaEFTeTlIUFRPOGJGUXZCVElUMjVXRmRMNG1uU2NMMERidDIxUFVn",
+      "title": "AstraZeneca Partners with Insitro for $40 Million AI Drug Discovery Deal",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "AstraZeneca strikes $40 million AI drug discovery deal with insitro - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxPWGFNeG9sS1g2RElieWFWS1l0a3FPSmRqT1BkSXpDbHc5LW9qY3c1UGFONlZNMHdGMHFPR1JPMzk2Rlg5OVlEM0pwaU5CZ2hyN3lzWTdPWVd2UlFaOVZPVVM4U1dPUzFFc2lEOU5hZ0V3ZG1ONm5LUHc5OUc3VVVHOHNNUUctRWNWQktSOGFDS01YUFd1Q1Atczh0ZFBlSlNGOGhNWTVWa2NPeE0wZDJqV2hyWkFoNDQ",
+      "title": "Global Financial Watchdog Urges More Human Oversight for Agentic AI",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "Global financial watchdog calls for more human oversight of agentic AI - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-16/china-s-tencent-detected-unintended-behaviors-from-ai-agents",
+      "title": "Tencent Detects Unintended Behaviors from Third-Party AI Agents",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "China’s Tencent Detected Unintended Behaviors From AI Agents"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners",
+      "title": "Taiwan to Fund $4 Billion Texas Complex for AI and Nvidia Partners",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-16/india-s-billionaire-family-offices-are-betting-big-on-homegrown-ai-startups",
+      "title": "Indian Family Offices Invest Heavily in Local AI Startups",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "India’s Billionaire Family Offices are Betting Big on Homegrown AI Startups"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxPRVNpLUJKTDFYV2ZWb3JLckpkdFNZaG1FcGdlOFQyc3dDN25sdTVYSHFJVlpkNHQ2bkh3OEtyNlJDZGs5OXZpMUxXMTBLb3NjVDM4bHNrWEV5WFREZUs1ZHFXM2o0cTYxTE5ndWpRN2E1LWVSTkYtY0JlQWlFWE9XcFQ2eWdZZnNB",
+      "title": "WSJ Highlights Insurance as the Next Major Hurdle for AI",
+      "first_seen": "2026-10-16T04:31:38.831988+00:00",
+      "rss_title": "AI Runs Into Its Next Big Obstacle: Insurance - WSJ"
     }
   ]
 }
