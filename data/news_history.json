@@ -1,126 +1,6 @@
 {
-  "updated": "2026-10-17T04:31:50.278959+00:00",
+  "updated": "2026-10-18T04:31:50.253429+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/sophos",
-      "title": "Sophos Achieves 96% Reduction in Threat Investigation Time with OpenAI's Daybreak",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
-    },
-    {
-      "url": "openai.com/index/asana-browser-agent",
-      "title": "Asana Slashes Model Costs by 76x and Boosts Speed with GPT-6 Astra in Codex",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
-    },
-    {
-      "url": "openai.com/index/legalon-halves-codex-costs",
-      "title": "LegalTech Firm LegalOn Halves Codex Costs While Sustaining Development Velocity",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "LegalOn halves Codex costs while maintaining development speed"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026",
-      "title": "AWS Enhances Amazon Bedrock with Broader Model Choice and Faster Serverless Agents",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "ICYMI: What landed for AI builders in September 2026"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxPWHJkYURWVE9paG9HMUJJRWxXeEYwa1FHMkhIVllEVUFjRGkwYUNFXzVTMEdRNWVtREZjdlo5WUpiNFdCdHBmS21IRGNZRnNTcHJpaEN5M1BFa1ZEM01SajZEa0U3b2VCM2ZHOEFURGdQNVNlODQ5Y2l3d3NiRzF4TktIbnVha2NTTHVaeDVDSjNLeHM",
-      "title": "Google Cloud Introduces Gemini Agent for 'Gemini at Work 2026'",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE",
-      "title": "Anthropic Launches Cyber Mission to Enhance AI Security and Resilience",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "Introducing the Anthropic Cyber Mission - Anthropic"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPU1kwS2tKWU51ZmxkNThtck5qd0NXamNrM3c5TVZnaFVjTnRiamRRTWMxSDNHMlJzXzlKTi1KTGRob1h1b200LWs4Sl9TM3lvNWp1YmNkQ3N6ODg2Rk1CNjExRTFUZkVEY2QzVjJPbzhpTjRKRVZ1ZUVISlJpSVlvdTJ4LWUyNTNxWW1ZQjRQTWx0b3djX1NTdzRvaUl3N2M4RjhkVFVycWdjLW5pMzJNVU1jdkJkYTd2N1NUWWlCOGJ3YXQtRGp3TA",
-      "title": "Report Reveals Limited Safety Testing for Chinese AI Models",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "China AI developers publish safety tests for just 3.6% of model releases, report finds - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm",
-      "title": "White House Mandates AI Reporting Following Anthropic Breaches",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "Exclusive: Anthropic breaches spark White House AI reporting mandate - Axios"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers",
-      "title": "Super Micro Case 'Fixer' Pleads Guilty to Illegally Diverting AI Technology",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "Super Micro Case ‘Fixer’ Pleads Guilty to Diverting AI Tech"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxPbEx6M2UxdWNfSDhCcy1TblhhT2F6aGNGc09hZXdTU2F2LVZLSWdRN0hKQTdGblRBYVE2R2FFakxab0tEcnE2VmJFN0FMUVdfLUNXWFVtWmswemRfN2pjaHByZEtEZWtyUUcyU1pZdHBDdzhYYjdkcHNQSVRUcXRsN3Q4RGl3OWYxS2k2Q1hjdlRySGZDX2owamZRVjRxQ2NGeUdHT2FHaTZjSl9PQUJsTzZrcw",
-      "title": "China Commits to Curbing Tech Bubbles and Managing AI Risks",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "China vows to curb tech bubbles, keep AI risks in check - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxNUlZ0bzBBQ1FybjVfRTRYQTlWejZRdndVOHZxMFpJWWJ3dEJNYzBHb2N1QmdFLURtOEZGRm1OUUV4dmJoYmxwMHVXM19uSndXTFNrcHU1SkNjWWtrRW5WQ0ZvSl85cmJJaVpGTVVpNHFHc1VYby1CRzRQLWJzUWQ0RkJOMFo0X29jNk5pa1Exa2J0Sy1IRUlpc2JIWlQtR3ZzejBudw",
-      "title": "EU Declares Readiness to Counter Rogue AI Risks",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "EU tech chief says bloc 'well equipped' to fend off rogue AI risk - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-10/anthropic-shares-new-ai-misbehavior-some-on-government-sites",
-      "title": "Anthropic AI Model Exhibits Unintended Actions, Prompting Government Warnings",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "Anthropic Cites New AI Misbehavior, Some on Government Sites"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value",
-      "title": "Andreessen Horowitz Leads $870 Million Funding Round for AI Startup TypeSafe AI at $7.5 Billion Valuation",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-10-09/bloomberg-tech-10-9-2026-video",
-      "title": "OpenAI's Annualized Revenue Approaches $70 Billion, Highlighting Infrastructure Demands",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "OpenAI's $70B Run Rate Meets AI's Infrastructure Challenge"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors",
-      "title": "Conflicting Revenue Calculations by OpenAI and Anthropic Cloud AI Valuations",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "Anthropic and OpenAI Use Different Revenue Calculations, Clouding AI Valuations"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNbjBEaU5OZUF6b2dDQlNXMWJuS2RnWlJnTnRCUm1RZXFpX1p1Q2NpYkFjQmFqVW5uWUtINlhTdVktUUJNRFJRU3NZNWJoek1ldGlEQV95TVhMRW1EaGdZaHI0S0dxMEhtSHduOUMybHNiV19STzVDUWZsRmlOTmpTU3Y3SjY",
-      "title": "AI Accelerates Decline in Call Centre Jobs, Signalling Major Workforce Shift",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "The AI Shift: The long-predicted decline in call centre jobs has finally begun - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQWWVGbVZ6NG8xRjd1bGVxZlpLTFQ4SUV0dTRSVFloUEQ0em45dkFJUEsxRDdHQXBfa0RKbkI2Zm9pOWVyUUcweDJBejBNM0pkeE5Yck9uMXBISUswWUpQZGdqcU40ZjR1NnU4REdwVGRLc0Z2RTZ0OVVKTnFYVk5tUGhVZ3g",
-      "title": "Big Tech Unveils Strategies for AI Agents Amidst Evolving Market",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "Big Tech sets out its pitches on AI agents - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOZWVveXJiRHFiS1dWdDdYZWtlWDdFZ3JjckdfMnRGLVpiZWxzRjdGNGZHcnZtMmZTaXQ4U1Fmc2ZhVzhFNXBxbDRwcThvR2pVMGdKdUR2QW5fQ0ZhSDB5ZzFwOHZLellkZXA1ZW4ySUd5bFo3Uno0VE92Y1ZHVm54MU5DTVA",
-      "title": "OpenAI's Annualized Revenue Figures Reportedly Lower Than Previously Signalled",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "OpenAI annualised revenues $20bn less than previously signalled - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px",
-      "title": "Anthropic AI Model Submits Fake Murder Tip, Raising Serious Concerns",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxPaWFkcXdfaE16UDI1bFo3blBEbDdtT0NRZjN0WkR3aTczRHBBOWJmMTI1empxRm5MRU9nMHRITlNWaGl5Zm9LZk5KTVhyWHdWT2NteXJxbUFxNUZSSFVtbWtYanNaa0lUTHBjdF9zOXBBX0JlYUFOVDBKSlpQeWYtUzRFQjJuMWs5dHlkUk9RdHBvQzNHNmUtSWszNnhwZ1pjX3MwM3hLY2FOMGZrVVE",
-      "title": "Scrapped IPO of Nvidia-Backed Firm Signals Potential Limits to AI Boom",
-      "first_seen": "2026-10-10T04:31:39.268302+00:00",
-      "rss_title": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom - WSJ"
-    },
     {
       "url": "aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock",
       "title": "Postman Scales AI Agent Mode to 40 Million Developers on Amazon Bedrock",
@@ -947,6 +827,125 @@
       "title": "FTC Subpoenas OpenAI and Anthropic Over AI Safety Failures",
       "first_seen": "2026-10-17T04:31:50.278959+00:00",
       "rss_title": "FTC Subpoenas OpenAI And Anthropic Following Safety Failures - Engadget"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+      "title": "NVIDIA RTX Spark Laptops Bring Advanced AI Capabilities to Premium Windows PCs",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPc0E1SUN6NEYtdFpZZEd5UGJNaVdtLVkyc0RpMUE2VndsRGJLS1U4eWJTUUpLSjVRTjdkalJHazVSMzJpU283amxudFJUaGlZN1RxYnEteG05TTlUWUNJSFA0RXBDOGU1YlpvMUdUbHdNNUx3WVFMMkxVMG0ydHZuTmQ3MVZCSVRzT3R2ZERzdTZrMl82VFJpUGc5TUJmTlBkU2tzR0xPV1RzcFJOWFA3eHJESUptUnFk",
+      "title": "Google Cloud Enhances Reflection's Beam Performance with LLM-D and NVIDIA Dynamo",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo - Google Cloud"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi1AFBVV95cUxOd0x1RGVkZFl3dDgteFlzSGt1cS1xei1XMndzX0lxNHBiSzdvclVtdTNwSkFzdkgwQnVFRFZDT191WTBLMDNvSURDdmRWU2dyOXgtYlo5SUREenhSSVVvUGRVWGtxQ2M1bGk2OHIxRjBIYm9nTTJGQTZmSS1DWE9sbzhOckdDdXFMeHdGQmNjVTRaN2FveWZQU2dyT2R1T2psZG5QRFIyY2ZzaDBfd2lFamk3MFFzX213MmZyaWFsYmtwUFJtenlkVjR3N3AtTXRPelNZbg",
+      "title": "OpenAI-Hugging Face Breach Highlights Potency of AI Models, Says Cohere CEO",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "OpenAI–Hugging Face breach is a great example of how 'potent' these AI models are, says Cohere CEO - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxNd0JqQlRDd3JxZG9sWmUyLU03cFkwSDJLbkhOc0tpa2NUS24zby1jU0JQX242dEdFYWtRSXNNbUJOM2hwdDFJX3VKc1E4UFN1VVVsYi1ncl9qNkg4ZnhhcERDMkc1ZkhXUlRxUy1BdW9JTC1wYmV5YVlTZmYtUWlLRnNJQ2ZUWEw3UHNXMkdNMUdVLXJGR2M1YXRYcFFacFNmSWJCLVNxNkZ4bTZ4UXVpOXNR",
+      "title": "DeepSeek Releases Faster, Leaner AI Model",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxPTERMaGFSLU1xOHRlNmoxUlZrbU9rTm5iXzlhaDdMb1F4c29kc1QyYjRKUzNFenh3QUo2REd5SlVRMm1NMUdCZWVTWndhdHdKWGxUZmY3Y1c2Z3dfektYZ1dodDhmOHlYVkc1NWI3TzZXTnFINGxNY0dGSy02cEVyZldCcFJLNllrU2hhazdvR014YjVKeU5PWFlVZWdfWDZVSFpOUUt3NGJfV1BmS09sQQ",
+      "title": "China Plans Export Curbs on AI Technology Amid Security Concerns",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "China Plans AI Tech Export Curbs to Manage Security Risks - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ",
+      "title": "Beijing Seeks Tighter Grip on AI Exports Amid US Rivalry",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "Beijing seeks tighter grip on AI exports amid US rivalry - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNOFhxVEl6YXFpRm9YZDJ5akl5YjBZQ0lnSzNrZ2xvRXVpQ1JvR2NybkMzRk4zdnRjQzNHNGFpZk0yZzBPM25wbDdYdWZuVGRSanNfdzM2STZxQ2hNbndENWtBd1lQemVEcVljSUJCbVU0ZEhBZVdKN2hQRkg4WUpVSjFIdlg2TlkwLXdDUzR1ZG04Z1VzVkloSHpvb2p4Z0JUeDg1MUZYd2NuQzlvWk43emh3Y184RDQ",
+      "title": "Germany to Finalize NVIDIA AI Agreement",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "Germany to unveil Nvidia AI agreement next week, government sources say - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxOYTh0MnBUY0FSUC1FdGM2REw2OFBSOVYyd2ZHb212YTFrUmdIRXc3enJINnFqOFRyOEJFN2dCS0wweEhPODlMMGY1dTM5WHM2MlF6Vk1aaEJIZmVEY0hmdkhlaHFJcm1HS3I1NU1xZTZjWDdIdGVFR0s5TWRhRU90bUZGYzNsdXdzSWFsTkxkUjk3aUdiTHJrakhqby1JbVE1bDFZY1N0U1hzdw",
+      "title": "North Korea Tests New AI-Equipped Torpedo",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "North Korea tests new AI-equipped torpedo, KCNA says - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks",
+      "title": "AI Trade Reversal Impacts Asia's Tech Supply Chain Stocks",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-10-17/ai-selloff-tests-investor-confidence-video",
+      "title": "AI Selloff Tests Investor Confidence Amid Financing and Valuation Concerns",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "AI Selloff Tests Investor Confidence"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee",
+      "title": "OpenAI Engineer Arrested, Seeks Bail, Denies Flight Plan",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "Arrested OpenAI Engineer Seeks Bail, Denies Planning to Flee"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPTjJaT2FZQmE1YTNad0FoUzJtNjFDS3VCWkNNZGFBOUNVR1l6VHdvb1dfdkRDbTNmVHZZME1tMzAwMnBMT3c3czhxMnhPSUNUcElXeUtITlI0Y0haOUk0alpqbXNTQU05MzJqYzV1S3hubEZET0FhUXpHR0QzenAzTGR1YVc",
+      "title": "Bank of England Governor Urges Addressing AI Agent Concerns",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOYmFpNlpUSHlsQlNoUVJMUVlfMXN1MjlOcElmRzVOT3RlbC1haEJNY3hsSXFpeUNrZDFHQ3FCeVZITjJaRV9BcUZsQlZ4MFlieEVjVTN2UEYxSDB5MUlPM1NrUWx6NjVOQ1NzMXpBMGo4bWRjdTMxc0t2UWRyQjFhOHlFWWE",
+      "title": "Anthropic Secures Chip Financing from Blackstone with Double-Digit Yield",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "Anthropic offers Blackstone double-digit yield in latest chip financing - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNMVBhWjloaE1TTzI5U3dIMjdzejZzY0NmMTBVVGp1cllZLUF0X2o2eldaa0dIYXVOOGZOZkM5a0ktNVVtRUhudkFoS1BObGQzeXZJclFuTFlCWkdHblFyQ05abjU0Wm1jM1BXbWtSeVV5d3oyX0RURm5jN3JBVFdYVWVTV1k",
+      "title": "G7 Economies to Simulate AI Attacks on Banks Amid Rising Cyber Fears",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "G7 economies plan simulated AI attacks on banks as cyber fears rise - Financial Times"
+    },
+    {
+      "url": "thenextweb.com/news/apple-meta-muse-spark-open-mac-studio",
+      "title": "Apple and Meta Collaborate for Meta's Muse Spark Open Model on Macs",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "Apple and Meta team up to run Meta’s Muse Spark Open model on Macs"
+    },
+    {
+      "url": "technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+      "title": "AI Used to Design Novel Virus Blueprints",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
+    },
+    {
+      "url": "wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes",
+      "title": "AI's Current Limitations in Decoding Complex Genomes",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes"
+    },
+    {
+      "url": "wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me",
+      "title": "Concerns Raised Over Chatbots Using 'I' and 'Me'",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’"
+    },
+    {
+      "url": "wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content",
+      "title": "AI-Generated Models Accused of Ripping Off Comedians for Content",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00",
+      "rss_title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content"
+    },
+    {
+      "url": "theverge.com/ai/2026/10/16/ai-agents-blocked-web",
+      "title": "Websites Block AI Agents Amid Privacy and Security Concerns",
+      "first_seen": "2026-10-18T04:31:50.253429+00:00"
     }
   ]
 }
