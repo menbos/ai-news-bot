@@ -1,121 +1,6 @@
 {
-  "updated": "2026-10-18T04:31:50.253429+00:00",
+  "updated": "2026-10-19T04:31:41.883308+00:00",
   "entries": [
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock",
-      "title": "Postman Scales AI Agent Mode to 40 Million Developers on Amazon Bedrock",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock"
-    },
-    {
-      "url": "huggingface.co/blog/allenai/impactful-scheduling",
-      "title": "Hugging Face Blog Explores Impactful Scheduling for GPU Clusters",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "Impactful scheduling for GPU clusters"
-    },
-    {
-      "url": "github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build",
-      "title": "GitHub Blog Highlights Hackathons as Premier Learning Ground for Builders",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "Hack the World: Why hackathons are still the best place to learn to build"
-    },
-    {
-      "url": "status.openai.com//incidents/01M4H7FKXDA425TDNP2CRGEYA3",
-      "title": "OpenAI Status Reports Resolved Incident Affecting ChatGPT Content on Android",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "Some ChatGPT content may be unavailable on Android"
-    },
-    {
-      "url": "status.openai.com//incidents/01M4GV1M2A3K38T73JCVCD9G0R",
-      "title": "OpenAI Compliance API Experiencing Delayed Costs Data Amidst Monitoring",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "Delayed Costs data in the Compliance API"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwJBVV95cUxQODFiMHhaUF9CVmNZZENjZ0VRQ0dYRFRuVkliQlcwZXVxM2pkWEdueXV YT1ZUeVcxNnBrWlRkRmcxbDE4ZTdYeDllNnJMVjllanhsT1RZYWNEWmctVEhaUUQ1ZF9kMG5lRFZ1c20zUU00Y2c0M0FZT2twbGthLU5HQUc3Q1NDN3gxazRCWmlUME1qS0pYaXhNY3R4TkVvX2JtLUI4QXo4VGxrMmNPWXZwVUNTWVJVY1JmLUdubVlfR2ZTSGRNbk1kdnBuQ0c4VTRncDJFVXFETXI1Vm1xNXQ2RHhyNlpjOHZuRnRCcEJNX0hFQ1QtS2JOV1BCLUttcDZSSUVzMS15X2lHVTN3SU1KUGNBTC0wRE0",
-      "title": "Senator Schiff Discusses AI Guardrails and US-China Tech Competition",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxOMkJ0SndTeEFxNDVjQ1pCOGxZX19nOXY2d29VUWNSUFdRaV9RZ0lid2J2YWg0TkpZRlEyR2M4LUFMTEtRbl90T19oamI2dnZDOWt3NHNvektDUU4xN3ltM0lnbmg1WHJmX1BoSG5pUWZmQy1YMllZeDY2dzAzWGVMejBMMEZHSFVyRGJrUmZTY2FrZkFoaG1YWkQ1ZEJldThoQk9HWG9MUW5jdl9DTmNXdm8wRU44M2k2OGpacFJjNmh3Rm5wUHc",
-      "title": "ByteDance Researchers Uncover Root Cause of Long-Context Retrieval Issues in DeepSeek Models",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "ByteDance researchers identify cause of inconsistent long-context retrieval in DeepSeek models - TechNode"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxNMVFtM2J1QUpoUW84Tjc0cE1OSmFtTVVtNGhjQm5ZX1RsVGRKVmtqcFVEWko5MTBRTnRCc3lpTndDbmx4UFNJTWlVRHhEdkJwam5hcjZCa2FGMWZMN3FjQ3RZQ3Z4bmNUX05Jb0E1QkczNXFGMl9JUVBoTjIxUUFSdVZJZTJOR21oMnNQN0NIM184T1psZ0xpSDBjVVV0cEcyX0xuTWFpNmg",
-      "title": "Mathematician Claims OpenAI Eliminated Research Programs Abruptly",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxQWlEwdWh3UlBnVFNxWEtNemNtUzI4eXppbzRTV1E5eTFkVmMyYXAxcVdXd2ZXLUtIcHhpWkRNUlFuQUd5TjE0T21MY2E4UG9xOG0wbDBDemFoMXRpQVRrYWJjU0hVN0N0eTFCd0hnc21CbTF2NURqWllxZzF6RmZXZkExX1JxZVk5cGczRG16dktMRE5sTk1vTDQ1YVdDTWI5TnR5Mm93UndTWDBZZDM1aTlHdWdoZw",
-      "title": "Trump Proposes AI Liability Framework, Opening Debate on Model Responsibility",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR",
-      "title": "Anthropic Agents Attempted to Complete Visa Applications on State Department Website",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4",
-      "title": "Anthropic Reports Rogue AI Incidents, Including False Police Tip",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "Anthropic discloses fake tip to police among new rogue AI incidents - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M",
-      "title": "Super Micro Contractor Pleads Guilty in Scheme to Divert AI Servers to China",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxOM3hfVEZGdld3RW9ZMFEwQXBIVzhLRndhajVkYm1xZXFnbGhaZ0VjQ1VfaGNwWWl2MThudzZPY2Nzem5QZWNvVG03U09wQ2tIdldKcThKN3pRenViMVVjUno4ZFAyVmZNaldNQ0d2QjQ3RmxYa2xZcUMwNkFVcjV4NmxKOTE1Rkw1QzNWRmV6Y2JZb0NsZUtDX2h6V3NVWkpHemtFck16bw",
-      "title": "India's Ambition to Lead in AI Faces Resident Pushback",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "Modi wants India to power the AI age. Residents are pushing back - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
-      "title": "Microsoft CEO Calls for 'Emergency Brake' on Advanced AI Development",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video",
-      "title": "Race for AGI Sparks Safety Concerns Amidst Concentrated Control",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "The Race for AI Supremacy Raises Safety Concerns"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPSmdMU0RnR2ZKMjcyckU0andTM3BtOV92NTQxZndtVjVva0JsUzRSRkR4a0JaRUZUTVlGNTBxa3k4N1pfU2kyRlQ3aGFrbHhpVTNlRVd5d213RThxbUV1OThHRFJVLXdNMWgtWE9waGs4UXpPRFRfVlQ4V3FiVmd2RVVzcDM",
-      "title": "AI Borrowing Slows as Investors Express Wariness Over Debt Binge",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi4gFBVV95cUxQbnpidFBsektkNnhGX1ZqSDFjOUF4Z01Ga3hma0w3TkJPeHh0VTY4SnBKWThFZTkxZFdmeXQ3b0szaGMzTWNQVmc0bXctVnVyWm84TFM5NWh5RFdVNUxvTzc3Y2NsQmpaZ2w2N1BCX21pV3dyOWJQSWFCaWxHazhGS2J5eTZOcGN1VWRMdnBjVkFSbFRnUkhYanRPNVhJQWJic0NodS15NXk1UHBOa1Mwb1hLNWNwUG9zYzlteUU5ZmJzWEYya2JWbnh0c3JLMl9tUnRNRmZONFNEN3FrVjJnTTl3",
-      "title": "Hackers Leverage Chinese AI Tool to Attack South Korean Banks, Exposing New Risks",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "The Morning Risk Report: Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxOcmRmSzBtSkZNNUdzbkJoOThxUHFJNlhXVDQ3aUhtQklNTTlCN2lyckhrSGxJY2d2OGV3QnFlYzdXYTltUmdvb01Kd3Uwa0ZGYnJ3VnE2OFkxUzRpSWpLUURoX2hkVVhcS056UXAxTEdrR0k3S3A1U3RUOUhjMlVjNk5WM1JXazV6VFpBY2lZeUpPa0E4YVBmZEFQVzhuWUZCNWc",
-      "title": "U.S. Stocks Mixed as Oil Prices Rise and AI Profit Doubts Impact Tech Sector",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMib0FVX3lxTE1qZldrQnF2aGJCM0dfaUFOcHBKUmVVUE5NYjRBSS1PWWlYMHV3RTRYN3BBTU5lanN4OFpqRnhwNG5JQVpCNURobkZSVlhsR29sdkhlMVlXNVktMmh2ZFhTQ3VObldsVk9mYXMwUkhBYw",
-      "title": "Silicon Valley Faces Disruption Amidst Fierce Competition for AI Computing Power",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "The Desperate Hunt for AI Computing Power Is Upending Silicon Valley - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNSDVHWUxEbzFjQm1keEJON1NZMy1tWjFBdl8zcmw4T3JpcWNMelRjNkZzSUk3aW80VGItaUN4VmRBU0VIYTRHVUIwV1U1eExLMzNLb2paQXpOV09JNzJFU25sd1hUQWdRXzRwbEpMckl6X0JjY3FTMXJYcjlDdW51UThFUkI",
-      "title": "Big Tech's $700 Billion AI Bet Hinges on Healthcare's Success",
-      "first_seen": "2026-10-11T04:31:37.544210+00:00",
-      "rss_title": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off - Fortune"
-    },
     {
       "url": "news.google.com/rss/articles/CBMitgFBVV95cUxQWlEwdWh3UlBnVFNxWEtNemNtUzI4eXppbzRTV1E5eTFkVmMyYXAxcVdXd2ZXLUtIcHhpWkRNUlFuQUd5TjE0T21MY2E4UG9xOG0wbDBDemFoMXRpQVRrYWJjU0hVN0N0eTFCd0Rnc21CbTF2NURqWllxZzF6RmZXZkExX1JxZVk5cGczRG16dktMRE5sTk1vTDQ1YVdDTWI5TnR5Mm93UndTWDBZZDM1aTlHdWdoZw",
       "title": "Trump Administration Proposes New AI Liability Framework",
@@ -946,6 +831,126 @@
       "url": "theverge.com/ai/2026/10/16/ai-agents-blocked-web",
       "title": "Websites Block AI Agents Amid Privacy and Security Concerns",
       "first_seen": "2026-10-18T04:31:50.253429+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-10-19/cornell-university-s-basu-on-us-china-ai-race-video",
+      "title": "Cornell Economist Discusses US-China AI Race Impact on Global Economy",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Cornell University’s Basu on US-China AI Race"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNQUlwOUY2SXQzRy00SDBweWtyS0hkQ3I1ak5XNlBnNXlPbmktcDJCZ2N4MGdlVGhScmRoWGZRZWl1aGlpVjIxZVVENVB2blExdnpENzNrZkk1Z2xPcXlOakFxYVBXYlE5NkRWamdqZU9nZkg1SF9PNTJkXzFwQUJTdUViT0c",
+      "title": "US AI Infrastructure Boom Faces Growing Strains",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "America’s $10tn AI infrastructure boom is starting to fray - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOVmFlM0p6TV9oV3pMdGVaZ3ZVWkpDaU1oZV9JMEVGdkk4dXZoSVhiX2dERjhYRUJjQ252bW9VeVliam5Kemd5YzZjQXVqMlVsRlc2RkM2QUZELWdPTFJSTjk3MkxvUWg1STdiSkVIQWd2ZFU0ZXhhdWI4RGNLTm4yYzVER2c",
+      "title": "Anthropic Leverages Legal Expertise for AI Agent Deal-Making",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Anthropic turns to lawyers to help AI agents strike deals - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPek5iaXFoTHVyNTRqTXQzcW5JMldUdU85LXV1eEkzQ3JQSVRLOXNndmkxOW5JWmxjZld0UjZfRzBVemYzZ3ppNmFYd1ZpcXcwN0ZmaG9nME55elQ0Wk5rdmhQU0dKWTNKZXhxV2gwcXhtajZiM3ZiUHVBcy1qMlNFWVVzZVk",
+      "title": "Global Economy Poised for AI-Driven Surge, FT Survey Indicates",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Global economy set for AI-driven surge, FT survey suggests - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQb3dEdEZHLVdhOEotV3NGWmtfVEFvZ1lmSUdqay1VdHM5eGdlUEJBSjRTSEp2RkFadER6WWxpRnNiYkJ0ZkpWSmRwQ2htQ3hCMTFOWW51Y0ZxLWhzWm1BOUxRMXVtOTc3ektMOG4zWEMwOHgwRXVaQnFLT3dlblVCbElzUEg",
+      "title": "European Industrial Giants Navigate Divergent AI Adoption Paths",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Europe’s industrial giants take diverging paths as they ride AI boom - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTFBOcXc3N1lvLXRGUkxRVHVWekRPLWozNnc3SVlKLUZvWEV0dDFlX1B2VWZxd0ZLeUxmMUx6M1J2V21SaVVxeE1uWTF5aDhmMjNvX1dv",
+      "title": "Anthropic Reports AI Agents Exceed Human Work Output, Entering 'Meta-Work Era'",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Anthropic Unveils Internal Employment Report: AI Agents Work 6x Longer Than Humans, Ushering in the \"Meta-Work Era\" - 36Kr"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE1ldi1odjJCSEJvLUdWNk5LaHd6R2RoRjMtcGxHWE5YRHVyck9LcUdCMl9DcUoxNm1xR0dvSFp2VnBicVNFYjBwUndjbGQ4Q0ZDSFA4",
+      "title": "Anthropic Announces $320 Billion Donation for Direct Public Distribution",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Breaking News: Anthropic Officially Announces 320 Billion Donation to Distribute Directly to Ordinary People - 36Kr"
+    },
+    {
+      "url": "theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "title": "Meta Removes Ambiguous Language Regarding News Site Data Scraping for AI Training",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Meta removes language that may have allowed it to scrape news sites"
+    },
+    {
+      "url": "theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "title": "Meta's Revised Terms Raise Concerns Over Free AI Training on News Content",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Meta’s new terms may allow it to train AI on news sites for free"
+    },
+    {
+      "url": "finextra.com/newsarticle/48602/world-takes-on-ai-driven-impersonations-with-new-suite-for-banking-and-finance",
+      "title": "World Project Launches Suite to Combat AI-Driven Impersonation in Finance",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "World takes on AI-driven impersonations with new suite for banking and finance"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiX0FVX3lxTE9hcW1LLVJsZElBWGJQV0ZEN1MwdUdNQk5lMi1PSTVpd2R6a0FYanhsMDBFY1FKZEF2ckRoRER0S05XVlJ4bU5fdzh4VDBLeVo0VUJNdm9GME9KOGFaMVg4",
+      "title": "Review Highlights Bias in Large AI Models for Medicine and Healthcare",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "A scoping review of bias in large AI models for medicine and healthcare - Nature"
+    },
+    {
+      "url": "arxiv.org/abs/2610.22379",
+      "title": "Physics-Informed LLMs Show Promise for Efficient Engineering Simulator Calibration",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration"
+    },
+    {
+      "url": "arxiv.org/abs/2610.22380",
+      "title": "New Diffusion Model Enhances Trust in Context for Text Generation",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Trust but Verify: Designing Region-Inhomogeneous Forward Dynamics for Discrete Diffusion"
+    },
+    {
+      "url": "arxiv.org/abs/2610.22381",
+      "title": "Test-Time Continual Learning Shows Relearning Savings in Language Models",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Binding-Specific Relearning Savings for Test-Time Continual Learning"
+    },
+    {
+      "url": "arxiv.org/abs/2610.22444",
+      "title": "Event-STVG Benchmark Introduced for Long-Form Event Reasoning in Videos",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Event-STVG: Spatio-Temporal Video Grounding for Long-Form Event Reasoning"
+    },
+    {
+      "url": "arxiv.org/abs/2610.22474",
+      "title": "Multimodal Models Tested on Astronomy VQA Dataset with Mixed Results",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Star Light, Star Bright: Can Multimodal Models Parse an Astronomy Visual Question Answering Dataset Right?"
+    },
+    {
+      "url": "arxiv.org/abs/2610.22499",
+      "title": "JAVIS: End-to-End Framework for Real-Time Audio-Visual Conversational Agents",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "JAVIS: Joint Audio-Visual Interaction and Streaming for Real-Time Conversational Agents"
+    },
+    {
+      "url": "arxiv.org/abs/2610.22428",
+      "title": "Frozen Vocabulary Offers Efficiency Gains for Small and Ternary Language Models",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models"
+    },
+    {
+      "url": "arxiv.org/abs/2610.22454",
+      "title": "Expert Reduction in MoE Models Found to Hurt Short-Answer F1 Loss at Prompt Ends",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "Where Prefill Expert Reduction Hurts MoE Models: A Few Prompt Tokens Carry Most of the Short-Answer F1 Loss"
+    },
+    {
+      "url": "arxiv.org/abs/2610.22468",
+      "title": "Language Models Show Typological Parallels and Divergences in Action Nominal Construction Learning",
+      "first_seen": "2026-10-19T04:31:41.883308+00:00",
+      "rss_title": "From Parallels to Divergence: Language Models' Learning of Action Nominal Constructions"
     }
   ]
 }
