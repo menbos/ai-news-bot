@@ -1,123 +1,6 @@
 {
-  "updated": "2026-10-21T04:32:03.537768+00:00",
+  "updated": "2026-10-22T04:31:38.110725+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/higgsfield-longer-videos-voice",
-      "title": "Higgsfield Enhances AI Video Capabilities with Longer Formats and Voice Integration",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Higgsfield takes AI video from 1 minute to over 10"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
-      "title": "Google Launches Gemini 4 Argon Frontier Model for Complex Problem-Solving",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Gemini 4 Argon: Built to solve your hardest problems"
-    },
-    {
-      "url": "deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "title": "Google DeepMind and Singapore Government Partner on AI Scam Detection",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
-      "title": "NVIDIA RTX Spark Reimagines PC as an AI Supercomputer for Gaming and Creation",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments",
-      "title": "AWS Introduces Agent Payments for Secure Autonomous Transactions",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Building agents that transact with Anchor Browser and AgentCore payments"
-    },
-    {
-      "url": "huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "title": "Hugging Face Releases LFM2.5-24B-A2B for Private On-Device AI Agents",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Run fast, private agents on-device with LFM2.5-24B-A2B"
-    },
-    {
-      "url": "github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
-      "title": "GitHub Improves Secret Detection with Context-Aware AI Model",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "GitHub’s model for secret detection: Finding more secrets with less noise"
-    },
-    {
-      "url": "apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home",
-      "title": "Apple Introduces HomeView for Integrated Entertainment and Home Management",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home"
-    },
-    {
-      "url": "apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k",
-      "title": "Apple TV 4K Gets Supercharged with New Siri AI Features",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN7ocM2pzM2NnTT9ocA",
-      "title": "xAI Launches 'The X Subscription' Amidst Evolving AI Service Landscape",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxOYWVqemVLdThXMGhqbFNrdkZ1NDUtWjNkdEVfenp5RUp6RXNwNjhlV0JRS3BJcEl0eHl3ZVZBY09HSl80RVV2RHhueXZzTUZQUUlpWnlDVFFTNkZGa1BqQlBxQUl3WlNudDlwNVNFYjVJNFZ1ajRNU0MxODlrWmhTV3Nha3dGQnhSUzNtamNicDR3ekVHRmpRRnZEbDJhV1pHb1Y2TUdac0VtTUE",
-      "title": "Meta Releases Muse Wonder AI Models to Compete with OpenAI and Anthropic",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxPTTBKc3NhTHJyMWp0Y3dSak93eEFTc0FuaUpLWklHOGp1UERTRDZ3YmtERkFFb3M3dmEyX2FRa3pxc3l1R3BjaHpUUHVNcXFpMWEzX1dBTEtlLXY1dERvdElHbzVIQnJULWViZ3RNa1ItSHdnSk5IWVBDdWRBM185R3VwWV92SjlCdzhPX2lBbG5QNjlvTW1XTk1MT3dwaUd1aERrRTEwdjdEeHl3X3hEdWVaNmJZVDdyemhNSmZuQnFFTmc0",
-      "title": "Meta's New AI Model Family Boosts Stock Performance",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMickFVX3lxTE9iTFZ0YmNOLXFxS3pxWDdPSGx0bjBrdDE2OXFTZmJELThrSU5LWHZlYXcxQ2swUmZUWHhNRjc4Znh1bDZQVU4xMjQ4ZTAySHNQMWRSZjRlaVF3T3F0MDRIU2l4T3A3V3NNYy1pdGJqZWR3Z9IBd0FVX3lxTE9UQjBLY1Jza0hRNlRoYXdYYmN6QU9jT01YUlUwTllZWUp3bGxpTC1RWmJzSlREX09xR0lzdkJVejlpV2FFWVdYRVNJZFV6cXM0Y0hyQ0kxdGhlcmd0Y0pTRE1qVTZXUVNJeHpVUVQyVVcwbUNvTXRz",
-      "title": "Anthropic Prepares to Disclose Revenue as AI Lab Financials Gain Prominence",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNeFQxWUlwYkFrOUtucEdHUTByWVp6Wmo4YmtMUF8zWnM3VHBpcUNaTmxfeE9mWGpfcG9yT2VudURUUXNLczlqOXFDWnpwQkl5M2dLNnMxd3UtLVZaWV8zWHBlVGtjN3NsM0pncl9IdE0zLUFRbHpEU2s3d3oyYTRZTmhXOVNfZkZ6SmdKVGMwcDhFcEZtN3RGMURmUWVwSFVEOUxTVWNVOHVhZ1U",
-      "title": "Moderna Founder Advocates for Urgent Regulation of AI Agents",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Moderna Founder Calls for Urgent Regulation of AI Agents - Bloomberg.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI",
-      "title": "Nvidia Invests in French Tech Startups Doctolib and Genesis AI",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Nvidia buys stakes in French tech startups Doctolib, Genesis AI - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNUnFfeURETmxJbjhUUjBib3BFZmRrQ2JyU09MZkIzVGJncnQ1bWMxME95c3p3a2d6c1pTZDJobkhXX1hPc204SElBUC1xQXE3S2JvMDV3RW5Lemxnb09TTkxuakpFeS1lUUk3aXZBWE5xQzFvdkV2cnVhM3hXeWhRSjg4SVg3SUdNc1VrbExfdzBaeUpzNWJuQlBxZFg1T2pNTHBkTVIxUkFmdkk",
-      "title": "Scientists Urge International Body for Advanced AI Oversight",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Scientists call for international body to oversee advanced AI - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw",
-      "title": "Anthropic Warns of AI Self-Replication Risks and Web Havoc",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxOU3V4aHFMSTR2WVhYZVU4NEN4WXZVYmo3WW1YWmZ1MTd1MGFjc3VyMTgwTjdiZGxPdXcyRllRakc5aWNaNVZkQzZIcVZCbjlLTG1hZUdIYk9SdHJiQkd1ejcxSkRubTZRZ25BbXRsa0xBendNSEdrZDgtTXI5end1anA4T0x4QzA3VUpWbXZCYmhUTG1pMWdpSVA1NWJkQ2lOckk2b3RnbDA1N0VJcEJwZVFrdXUzTUJ5REZvYld0d0JGdw",
-      "title": "Banking Watchdogs Increase AI Scrutiny Amid Stability Fears",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxOOVU5eVA2N0w4anA0WVJMUFFrUU1iMHg3TFVOZkVhRDR3S0ZudXVxVm9mRjFPZDFuUHBhSGUybXRtRmJEWi1uYi1kQlc0V3BWZS1aVlZlZXQxV1JGckgzY3l6U1piY3dkSHM2Ni1LVkFSM194Q3NRN1BmYnlsSWZGQmFyT2t2YVU1UXNsdWNnT2hYN2VsWlhnZHBUYWc1UE5ab2pkT2k5QnBGeUJncGdXVGNRbWxpcHY1Z0pwengxdDk",
-      "title": "Character.AI Files for Bankruptcy, Sells Assets to Disney",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office",
-      "title": "OpenAI Employee Arrested for Hidden Recording Device in Office",
-      "first_seen": "2026-10-14T04:32:02.372437+00:00",
-      "rss_title": "OpenAI Says Staffer Arrested for Hidden Recording Device in Office"
-    },
     {
       "url": "openai.com/index/amp-beyond-coding",
       "title": "Amp Extends AI Agent Capabilities Beyond Coding with New OpenAI Models",
@@ -953,6 +836,126 @@
       "title": "DeepSeek Releases Open-Source Tool to Reduce AI Operating Costs",
       "first_seen": "2026-10-21T04:32:03.537768+00:00",
       "rss_title": "DeepSeek Unveils Open-Source Tool to Cut AI Operating Costs"
+    },
+    {
+      "url": "openai.com/index/att-legal",
+      "title": "AT&T Leverages OpenAI for Enhanced Legal Knowledge Management and Judgment Scaling",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "How AT&T is rethinking in-house legal work with OpenAI"
+    },
+    {
+      "url": "openai.com/index/openai-models-google-cloud",
+      "title": "OpenAI's Frontier Models Integrated into Google Cloud's Gemini Model Garden",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "OpenAI models are coming to Google Cloud"
+    },
+    {
+      "url": "openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "title": "ChatGPT Ads Expands to 26 New Countries, Surpassing 100,000 Advertisers",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform"
+    },
+    {
+      "url": "openai.com/index/cloudflare-cyber",
+      "title": "Cloudflare Enhances Cybersecurity with OpenAI for Vulnerability Discovery and Defense",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "Cloudflare links vulnerability discovery to defense with OpenAI"
+    },
+    {
+      "url": "openai.com/index/empowering-cyber-defenders",
+      "title": "OpenAI Proposes Blueprint for Empowering Cyber Defenders with Frontier AI",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "Democratic governance of frontier AI, part II: Empowering cyber defenders"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/open-models-europe-industry",
+      "title": "NVIDIA Advances European Sovereign Intelligence with Open Models Across Industries",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing",
+      "title": "European Industrial Leaders Accelerate Innovation with NVIDIA AI and Omniverse",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure",
+      "title": "NVIDIA Confidential Computing Enables Secure Scaling of Frontier Models Globally",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit",
+      "title": "NVIDIA Agent Toolkit Enhanced to Ground Enterprise Agents in Company Data",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink",
+      "title": "AWS PrivateLink Secures Private Access for Amazon QuickSight from Corporate Networks",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "Securing Quick access from corporate networks with AWS PrivateLink"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
+      "title": "Deep Insight Solves Production Challenges for Multi-Agent AI Systems on AWS",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "5 production challenges in multi-agent systems and how Deep Insight solved them"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents",
+      "title": "AWS Strands Agents Framework Enables Adaptive Agentic Intelligence for IoT Monitoring",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "Adaptive agentic intelligence framework using Strands Agents"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock",
+      "title": "Octave Deploys Secure, Multi-Tenant AI Foundation on Amazon Bedrock for Document Analysis",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+      "title": "Java Champions Report Significant Productivity Gains with GitHub Copilot",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "How 3 Java Champions are using GitHub Copilot for increased productivity"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxOYmVlY3NlaE8xWXA4OUdBTUlKOEhtdWh4UEwwVVlfUDczNjczeXV1aUtLek42UjQ4b3I5NHZaRU5xYjFlVVhNWXV3Sm1rRkgxRkR0b1VWazFaT195cG5GUlF4S0FEcERoTzJJVXktUVdYOTN1ZldXREx5ZmllMVgyRG1sT0pRMF9hNF9JLVhTcnA2M3o3Qy1FS0FLS3QyMTFQVXloYU9ibmw2VWVMRzJuT3Z4dkQ1V2VyUTAxclhQdHY",
+      "title": "OpenAI President Advocates for AI Safeguards Amidst Industry Opposition to Regulation",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxNVmZaTHdxeUVfbDk2Y1hGWGwwMW5odTlPRXVvVWJrdEhxcURnOW5QVzZ3QnVIOHRMWlBjbG5TYnNPNGxva3FWWU1QOHVGRFdOaGFiMS1rZ2xSajhFR1R1bkF4aGxPdG9UNm5oWjU1cXJGaHpDZll6SF96dWtPN0xValZXa1hQUUZmMTBDeTg4TzZnNGZJX0xiY24yVFQ1dDFTRnNBMFZXcjZjWUMxVnc",
+      "title": "Major Security Flaw Found Using OpenAI Model Leads to Widespread Internet Chaos",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "A major security flaw found using an OpenAI model is causing internet chaos - Business Insider"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxPQkZFNGVZc2Q2Q3VJYWVFNjFlOUh1NE1aNWFrZHlzOFlEMVpQU0xFQkFDSW4ydXljV1gtRnBBVzZjWi11Z3dMQ0sxdl9EdXdJOWl0TWlYMnl1M1o5S3d4LXRuOW9lLUd3bS1lYkloUnFGVnhqbFNJSGtVRUt4ZnlWSVg1Q01YOHlrWF9tZ0RsQXptUjljR0MxVFVaWW0xTXMweUE",
+      "title": "Anthropic Launches Claude Duet as Competitor to Personal AI Agents",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "Anthropic launches Claude Duet, its answer to Meta and OpenAI's personal agents - Business Insider"
+    },
+    {
+      "url": "status.openai.com//incidents/01M5GPE9C4E19HE461P8JAMYXD",
+      "title": "Degraded Performance and Response Errors Impacting OpenAI Services in Multiple Regions",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "ChatGPT conversion failures in India, Japan and Korea. And Response API errors"
+    },
+    {
+      "url": "status.claude.com/incidents/wj6r4t6mxq1r",
+      "title": "Anthropic Investigates Elevated Errors Affecting Connectors",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "Elevated errors affecting Connectors"
+    },
+    {
+      "url": "status.claude.com/incidents/njk29r81v3wg",
+      "title": "Anthropic Resolves Degraded Performance Issues for Claude Fable 5",
+      "first_seen": "2026-10-22T04:31:38.110725+00:00",
+      "rss_title": "Degraded performance for Claude Fable 5"
     }
   ]
 }
