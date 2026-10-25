@@ -1,244 +1,6 @@
 {
-  "updated": "2026-10-24T04:32:05.315434+00:00",
+  "updated": "2026-10-25T05:31:47.204209+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/itau-generative-ai",
-      "title": "Itaú Deploys Generative AI Across Customer and Employee Base",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "How Itaú is building generative AI for its entire customer base"
-    },
-    {
-      "url": "openai.com/index/stack-overflow-chatgpt-plugin",
-      "title": "Stack Overflow for Agents Sees Surge in Signups Driven by ChatGPT Plugin",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "Stack Overflow for Agents triples signups with ChatGPT plugin"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore",
-      "title": "AWS Unveils Evaluation Framework for Building Trust in AI Agents",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws",
-      "title": "Reflection AI Releases Open-Weight Model for Agentic Coding on AWS",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS"
-    },
-    {
-      "url": "huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "title": "IBM Granite Model 4.1 Unifies Chat, Decisions, and Speech Capabilities",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3",
-      "title": "Mistral AI Introduces Timestral for Time-Series Foundation Models",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "Timestral: Mistral's time-series foundation models - Mistral AI"
-    },
-    {
-      "url": "nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
-      "title": "NIST Develops Chip-Based Light 'Tape Measure' for Enhanced Navigation and Security",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxPWVUydUw1OHZyeFA5VXNWNFoxY1AxcFQ0RTRjR3VUb2NPN0xnQWdENmN5bjBnLUZhd29WMTB1U1E2aFdka1JOZzd6d1lZWjFxTWZTTk15WkxhNjlJbGFRWEpJU0ZUZUF4ZmdXSTFGeU9tTnpPZnhNLUFOUVF3VlBOTjhTMXBjUFpRZGN5TmwtN05yajBpRlI2R21jaS13LXNnSDN2WXpfcUVnZjTSAbABQVVfeXFMTmZtRmpLRTFHSDBXbUVJMUNkQ1RBZGNsRUVBNVpoRVJ4cGg2eE9Pb0ppVTFBaVNuRXVUaExGOEEtV0VrRW9tVF93NUNPejQ1QzZndWVUazR6clh2RS1IWDRuc3VYOGZmWF9ZZGVCQWZsd3NSR25uT3lvdTEzY2RzSTBoWV9BSkhleElkX0hpWjlwYVNSUlJOOUp6d0xiT0E0NnRFZGxxaWhHbURvWHJ4NEw",
-      "title": "SpaceX Faces Scrutiny from NYC Council Over Grok AI Safety Concerns",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxOejlwRzRlN1BnaFhFZ1VYb0ZKSVFmN1NRcFppbWFLdXV3ZzEtdUFpc0RRcFNtTmRVeGhjX0pLVmV1bElvQmpFeVlsYkcwX0h2WDFQaksyZ2JYSng5c3MwbVJ2V20zN0hQYU1vNXc3bWZlWjlSX1ZwTHE2NnRmNzRjX3VodU5ZemRfU2NqaXdPWGVyNzJXWTYyU0I5dFFLSmZq",
-      "title": "CERN and Mistral AI Collaborate on Flare, a New Physics AI Model",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "CERN and Mistral partner to build Flare, a new AI model for physics - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxNUE9DbHl3UklEenZpVjFtNVpCb1RXY0ljWndQMVZudHZGSFRiYk4tT2hsNk5KMjJIVDhjbDVyVXNxSkVXS0JmaTFUSml1XzNsdDdpQjBJNDd1MFlEdmdPNFE5VDMwbEc3dWhUTWdGT2ZzbVdScGJtTkFjNkdMT19KYVRXUTI4b1d0eE9KVHhPWUhFbTFPQlRsVWVTdC1EbEMyODlkc2FR",
-      "title": "Cohere Acquires AI Cybersecurity Startup Aisle",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxQMjh5b1NsdWxQRXNwXzlLSi1pLU8wdlIxVEc0TU1Md0hLM1FUdEVvcnhPa3d6bFBHc2VtY1UtRzZITnI1eVlzWGYyelBocjBsRXpBa1NlVjBwMmplX2Zhd0tUSWJDUmFGQVhIVVQ2UzlxN25ZdUFHbTFXejJqM3NWOXduVDhtdmZ4R0FiM2NoaVRtMzFRZjV3",
-      "title": "China Proposes Export Controls on Key AI Technologies",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "China Proposes Export Controls on AI Technologies - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxNS2IzOWJIRFRrNjFuc3M5M1RRQUNUS1dQcGVaSVhPa2lZVzd2a0JKamxsTFR4dU5QMThydUVyTks4bXhjM29fOE1oVWltNkVKcnk3ZFZEZmlmWXl5UlZDZXRfSmRfRTltdGU5dGdUbF9hSEI1Qi02R05ScVNvZVJ0V0xvelkxTmFsbXVvM1VjNWRCQU5FZUJXbnFQSUgtYlpxclUtbkV3ejNiVGs2V2pQOS1LNTN5TzZVb00xbGlBVQ",
-      "title": "IMF Chief Warns of AI Risks Outweighing Opportunities Without Safeguards",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "IMF chief says AI risks may exceed opportunities without safeguards and ethical framework - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxOZnI4RTM2MDNWV21Ha0tHZjV5c0tzRGNpbW9EMHY5VkxIcnZIR3FEQThVbVRQUEt2d3BQaFFJXzE4Z241RFRuY19WUGtMYWUtTTBRbDctRkNnSzBGMXNYTjh1Yk5sR2FMZXBXOEdPbVB5M1A5MmVvQXNWUXd2SzMtRWtuRWFicUVlUDNRM0o4akYzeGFNVXdWUklrUW1kSGp2djk4QlRydmE",
-      "title": "G7 Nations to Conduct Exercises Against AI-Powered Cyber Attacks",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "G7 to launch exercises to guard against AI cyber attacks - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-16/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says",
-      "title": "Anthropic Proposes AI Safety Bill to US Lawmakers",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "Anthropic Pitches AI Safety Bill to Lawmakers"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-16/openai-poaches-another-spacex-sales-lead-focused-on-ai",
-      "title": "OpenAI Recruits Another Sales Leader from SpaceX for AI Focus",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxORXhPN25OVlBaYlk5SlB4RENMR1FVWU9DOGt0NTZUN0VuWnVKT1NCZjVQbFRndnhmbnlvSUVSeTIxNllQbFJnaHVQOUJxeDlxcE1jMU1rcnhxRGlhXzNZcVFNek9xek13SG1BX3VPcXlUR3JaVVdEQ0drWk0wZTU1NndSQWM",
-      "title": "Meta and Apple Collaborate on AI Model for Mac Computers",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "Meta and Apple team up on AI model tailored for Mac computers - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPRHdvalo1SnpKajBILTdFSDZkMWtESWNqcGdMSFJfVXdvVk9KQzNVWDNqSXBRN2FjUEw4anBwc3paXzBhbHZTODBoTmhualA3aGZ1akxpaVBBb1Q1YjJNcjNUdTZXaGtvT0xhLXNySnM2ZGpSeE4taWc5QTRUdkdZLUx1Nkk",
-      "title": "Citi Restricts AI Agents from Account Access Amid Security Concerns",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "Citi becomes latest US bank to restrict AI agents from accessing accounts - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxNTkJnRW1qeWM1bnB2alVtdjRzT1dkVGlaamNDSzlSdHhBODN2c2ZSSFhXck1oN1NscXdHT3FIZ1Z2WUIza2dYWGRLWjA2emZURlR6R2NWWHlEby1taTBNZmFLdWQ5dTQ1N3ZxMlRjanNjYzB4eUFBMTFqNllSbHlDaWttejZEaUV6c2FvQjBrVW1xTXhvcEQ4RU56QQ",
-      "title": "AI Companies Engage in 'Cat-and-Mouse' Game with Spies Over Secrets",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "AI Companies Play Cat-and-Mouse With Secret-Stealing Spies - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxPYzJ4ZVJOeGdjS0xITnEyMmNUQnhJc2dwZ0V1ZG13VXJzclZrVUF0SXJOREVuVzhqU2ducUVhZ0JidE1HOXNrQURWWElEMGFZeklvOFI1N0pRY3cwWnZpcWRwakM0R1hIb29veGtvN2s1WHFkd3d4YlBOdlN6YTRoaUtTR3BkbkdrUmRKalVjZWN1WjkzcktOai11RTJOd1RpNE5jVjBtTEVKcG4xSzA0a05NX3dQQQ",
-      "title": "AstraZeneca Partners with Insitro for Up to $1.5 Billion AI Drug Discovery Deal",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "AstraZeneca Strikes Up to $1.5 Billion AI Drug Discovery Deal With Insitro - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxQbEM2SmlXTWpVU0JubVJBQ2NrVzc3RVNmM3h4ZmFjeUtzcWdBQUcyTDVuRnp1VXZPQnVXM253a0RPeGsxMjRxODVnOVVmRzFqRFh6N2FBX1VWaVFoX3NfYWtOOVkxTmpFb0hQaFFRaXZZblZkTmJxSHhBQmg0YlpmcUswdDlOTW03bUpjTWNoM1J2NXgyUzdVa1VLRQ",
-      "title": "FTC Subpoenas OpenAI and Anthropic Over AI Safety Failures",
-      "first_seen": "2026-10-17T04:31:50.278959+00:00",
-      "rss_title": "FTC Subpoenas OpenAI And Anthropic Following Safety Failures - Engadget"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
-      "title": "NVIDIA RTX Spark Laptops Bring Advanced AI Capabilities to Premium Windows PCs",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPc0E1SUN6NEYtdFpZZEd5UGJNaVdtLVkyc0RpMUE2VndsRGJLS1U4eWJTUUpLSjVRTjdkalJHazVSMzJpU283amxudFJUaGlZN1RxYnEteG05TTlUWUNJSFA0RXBDOGU1YlpvMUdUbHdNNUx3WVFMMkxVMG0ydHZuTmQ3MVZCSVRzT3R2ZERzdTZrMl82VFJpUGc5TUJmTlBkU2tzR0xPV1RzcFJOWFA3eHJESUptUnFk",
-      "title": "Google Cloud Enhances Reflection's Beam Performance with LLM-D and NVIDIA Dynamo",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo - Google Cloud"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi1AFBVV95cUxOd0x1RGVkZFl3dDgteFlzSGt1cS1xei1XMndzX0lxNHBiSzdvclVtdTNwSkFzdkgwQnVFRFZDT191WTBLMDNvSURDdmRWU2dyOXgtYlo5SUREenhSSVVvUGRVWGtxQ2M1bGk2OHIxRjBIYm9nTTJGQTZmSS1DWE9sbzhOckdDdXFMeHdGQmNjVTRaN2FveWZQU2dyT2R1T2psZG5QRFIyY2ZzaDBfd2lFamk3MFFzX213MmZyaWFsYmtwUFJtenlkVjR3N3AtTXRPelNZbg",
-      "title": "OpenAI-Hugging Face Breach Highlights Potency of AI Models, Says Cohere CEO",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "OpenAI–Hugging Face breach is a great example of how 'potent' these AI models are, says Cohere CEO - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxNd0JqQlRDd3JxZG9sWmUyLU03cFkwSDJLbkhOc0tpa2NUS24zby1jU0JQX242dEdFYWtRSXNNbUJOM2hwdDFJX3VKc1E4UFN1VVVsYi1ncl9qNkg4ZnhhcERDMkc1ZkhXUlRxUy1BdW9JTC1wYmV5YVlTZmYtUWlLRnNJQ2ZUWEw3UHNXMkdNMUdVLXJGR2M1YXRYcFFacFNmSWJCLVNxNkZ4bTZ4UXVpOXNR",
-      "title": "DeepSeek Releases Faster, Leaner AI Model",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner - Bloomberg.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxPTERMaGFSLU1xOHRlNmoxUlZrbU9rTm5iXzlhaDdMb1F4c29kc1QyYjRKUzNFenh3QUo2REd5SlVRMm1NMUdCZWVTWndhdHdKWGxUZmY3Y1c2Z3dfektYZ1dodDhmOHlYVkc1NWI3TzZXTnFINGxNY0dGSy02cEVyZldCcFJLNllrU2hhazdvR014YjVKeU5PWFlVZWdfWDZVSFpOUUt3NGJfV1BmS09sQQ",
-      "title": "China Plans Export Curbs on AI Technology Amid Security Concerns",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "China Plans AI Tech Export Curbs to Manage Security Risks - Bloomberg.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ",
-      "title": "Beijing Seeks Tighter Grip on AI Exports Amid US Rivalry",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "Beijing seeks tighter grip on AI exports amid US rivalry - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNOFhxVEl6YXFpRm9YZDJ5akl5YjBZQ0lnSzNrZ2xvRXVpQ1JvR2NybkMzRk4zdnRjQzNHNGFpZk0yZzBPM25wbDdYdWZuVGRSanNfdzM2STZxQ2hNbndENWtBd1lQemVEcVljSUJCbVU0ZEhBZVdKN2hQRkg4WUpVSjFIdlg2TlkwLXdDUzR1ZG04Z1VzVkloSHpvb2p4Z0JUeDg1MUZYd2NuQzlvWk43emh3Y184RDQ",
-      "title": "Germany to Finalize NVIDIA AI Agreement",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "Germany to unveil Nvidia AI agreement next week, government sources say - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxOYTh0MnBUY0FSUC1FdGM2REw2OFBSOVYyd2ZHb212YTFrUmdIRXc3enJINnFqOFRyOEJFN2dCS0wweEhPODlMMGY1dTM5WHM2MlF6Vk1aaEJIZmVEY0hmdkhlaHFJcm1HS3I1NU1xZTZjWDdIdGVFR0s5TWRhRU90bUZGYzNsdXdzSWFsTkxkUjk3aUdiTHJrakhqby1JbVE1bDFZY1N0U1hzdw",
-      "title": "North Korea Tests New AI-Equipped Torpedo",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "North Korea tests new AI-equipped torpedo, KCNA says - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks",
-      "title": "AI Trade Reversal Impacts Asia's Tech Supply Chain Stocks",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-10-17/ai-selloff-tests-investor-confidence-video",
-      "title": "AI Selloff Tests Investor Confidence Amid Financing and Valuation Concerns",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "AI Selloff Tests Investor Confidence"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee",
-      "title": "OpenAI Engineer Arrested, Seeks Bail, Denies Flight Plan",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "Arrested OpenAI Engineer Seeks Bail, Denies Planning to Flee"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPTjJaT2FZQmE1YTNad0FoUzJtNjFDS3VCWkNNZGFBOUNVR1l6VHdvb1dfdkRDbTNmVHZZME1tMzAwMnBMT3c3czhxMnhPSUNUcElXeUtITlI0Y0haOUk0alpqbXNTQU05MzJqYzV1S3hubEZET0FhUXpHR0QzenAzTGR1YVc",
-      "title": "Bank of England Governor Urges Addressing AI Agent Concerns",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOYmFpNlpUSHlsQlNoUVJMUVlfMXN1MjlOcElmRzVOT3RlbC1haEJNY3hsSXFpeUNrZDFHQ3FCeVZITjJaRV9BcUZsQlZ4MFlieEVjVTN2UEYxSDB5MUlPM1NrUWx6NjVOQ1NzMXpBMGo4bWRjdTMxc0t2UWRyQjFhOHlFWWE",
-      "title": "Anthropic Secures Chip Financing from Blackstone with Double-Digit Yield",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "Anthropic offers Blackstone double-digit yield in latest chip financing - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNMVBhWjloaE1TTzI5U3dIMjdzejZzY0NmMTBVVGp1cllZLUF0X2o2eldaa0dIYXVOOGZOZkM5a0ktNVVtRUhudkFoS1BObGQzeXZJclFuTFlCWkdHblFyQ05abjU0Wm1jM1BXbWtSeVV5d3oyX0RURm5jN3JBVFdYVWVTV1k",
-      "title": "G7 Economies to Simulate AI Attacks on Banks Amid Rising Cyber Fears",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "G7 economies plan simulated AI attacks on banks as cyber fears rise - Financial Times"
-    },
-    {
-      "url": "thenextweb.com/news/apple-meta-muse-spark-open-mac-studio",
-      "title": "Apple and Meta Collaborate for Meta's Muse Spark Open Model on Macs",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "Apple and Meta team up to run Meta’s Muse Spark Open model on Macs"
-    },
-    {
-      "url": "technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
-      "title": "AI Used to Design Novel Virus Blueprints",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
-    },
-    {
-      "url": "wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes",
-      "title": "AI's Current Limitations in Decoding Complex Genomes",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes"
-    },
-    {
-      "url": "wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me",
-      "title": "Concerns Raised Over Chatbots Using 'I' and 'Me'",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’"
-    },
-    {
-      "url": "wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content",
-      "title": "AI-Generated Models Accused of Ripping Off Comedians for Content",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00",
-      "rss_title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content"
-    },
-    {
-      "url": "theverge.com/ai/2026/10/16/ai-agents-blocked-web",
-      "title": "Websites Block AI Agents Amid Privacy and Security Concerns",
-      "first_seen": "2026-10-18T04:31:50.253429+00:00"
-    },
     {
       "url": "bloomberg.com/news/videos/2026-10-19/cornell-university-s-basu-on-us-china-ai-race-video",
       "title": "Cornell Economist Discusses US-China AI Race Impact on Global Economy",
@@ -955,6 +717,125 @@
       "title": "Canva Craft: New AI Image Model Plans Designs Before Generating Them",
       "first_seen": "2026-10-24T04:32:05.315434+00:00",
       "rss_title": "Canva’s first AI image model plans designs before generating them"
+    },
+    {
+      "url": "openai.com/index/scaling-storage-one-billion-users-part-two",
+      "title": "OpenAI Scales Habitat for Over 1 Billion ChatGPT Users",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
+      "title": "AWS SageMaker Enables Multi-Turn Reinforcement Learning for Complex Tasks",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
+      "title": "AWS CDK Simplifies SageMaker AI Endpoint Auto Scaling Management",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw",
+      "title": "NVIDIA GTC Berlin Highlights Future AI Advancements",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "NVIDIA GTC Berlin: Live Updates on What’s Next in AI - NVIDIA Blog"
+    },
+    {
+      "url": "status.openai.com//incidents/01M5NFF94XCJ6CGTD4S78A9BEB",
+      "title": "ChatGPT App Connections Experience Degradation",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "Degraded experience with ChatGPT app connections using CIMD"
+    },
+    {
+      "url": "status.claude.com/incidents/0ns5clsk8p2x",
+      "title": "Anthropic Reports Elevated Errors for Claude Fable Models",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "Elevated errors for Claude Fable 5 and Claude Fable 5.1"
+    },
+    {
+      "url": "githubstatus.com/incidents/khv5nj9qy2kk",
+      "title": "GitHub Copilot AI Model Providers Face Service Issues",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "Grok 4.6 and Grok 4.7 Service Issues"
+    },
+    {
+      "url": "githubstatus.com/incidents/71y513kjvbzh",
+      "title": "GitHub Dependabot Alerts Experience Delays",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "Disruption with Dependabot Alerts"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi1gFBVV95cUxOUDVGa0hCU3ppVlo3amtaT1l4T18zcHNWWlFkV3Nveks4TDI5RGxkMzE1TFpEZjIxWFBZNl9ILU9SRVdzMEtCX2JKai1FbXlYTTFFX1Y0U3NfRGZuRGttQ0ZKYVhRS3NaUTlEWldxNzVIQUdzamNVMTE1cVg0N1VpLUlweVZlU3lpOGFRajJ6eHItM3NHTGlLVldsVWxnbTcwQncxekJITDJfWUxWUGt1OWx1Zm4zLXdEdm5ja0VPbXNlNmFxWWstT0lfVkZOQXNTNlRYcktB",
+      "title": "China's MiniMax Completes AI Model Export Registration",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "China's MiniMax completes export registration for open-source, overseas AI model licensing - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxOMzdaX2lJMXc1MkhwREhYTTFqUmZ2eEFtZmZrVVBtUGs1TmlhQ3g2T0k5MlZOeEJrVGxBbUVPNURRMDQxS1lnOVB0RmQ2Zzd0Nm1pMXlBeDdUUXR3YTFUV01DY3p1czExaHNWSmhDX3RndDlvVVJ3b3diOGR6WGhXY3QtWjUyOGw1V0pON19uZU5qeHdVTlNsdWlodFdsQW9nTVJlcDN4R2F0M0VGZHZuVDU0blpGY3Qz",
+      "title": "HKEX Launches AI and Semiconductor Indexes, Licenses AI Index in China",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "HKEX launches AI and semiconductor indexes, licenses AI index in China - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi2AFBVV95cUxPUkFmbWpMV3VyOS0wWUNFVjQtOWlqM29COWc3eTVzRlhTWERBNXQ4emJfS1BZNU14NjY5WmxRN3dVLWVoZ3pJeTRDbUR3ZVVTRUpQSDQtTGRFUTA4Y3NGOXhmaEpzd2h0MVh6Z0ZQSFNHZTVFbVdCWVpxaDkyUVBHRFN6Zzc3WWRSd05ETldhZWszR29pT0I1YXhYb01iRU5HWmJkeWdLM1NSdV94Y2stS2hCQ2RpMHJ6bXZzejVCYTgtVVd5S2lUQnc3ODQ4c3NjdjNHQWpDTk8",
+      "title": "Mark Cuban on AI Hack Agents: 'Cockroaches' but Controllable",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "Mark Cuban says AI hack agents are like cockroaches, but can be controlled - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxQTDJseUNYVnJGcWZWUjlPR0RUSXJHTVItRmh1dkdnNTFiZ2tmTFhUM1p3YnI1T2RGdlpFZ1JWN3BGR2dCajk3Y1pBMlBCYjNFX2dnbjJzZnNJb1BONkNGREFYamNWT1FLRFJXdjdVeEdMUFZnM3FQRXE2VFBIbFdWUVItWEJwd3F4dmFRbHpKTzE4RWpXSGRnTzY4QVdISFJj",
+      "title": "UK Government Allocates $800 Million for AI Security Funding",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "UK government sets out $800 million of AI security funding - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-10-24/ai-boom-faces-a-growing-public-backlash-video",
+      "title": "AI Boom Faces Growing Public Backlash Amidst Economic Disconnect",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "AI Boom Faces a Growing Public Backlash"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPLXhCYmc3SVp3VkVxRUNFVGU5WTkwVzZBX3FtZ0QxUEhOSjJ6MGVLYjV6OXpxaTNaeTcwUGtuZXNMclcwSzNUOTJpM2xhd2lLTWEyTTRHnl9y elk4NFp6R0FIZExUT1ZsOE11dnZic25QSW53NzRERW5PSVNrSnYtbDM5ZG4",
+      "title": "Pegasus Spyware Founder Urges Ditching US AI for His Technology",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxPTUNnR1RPd3VXa0hoTW1USmVib3RXRVNMbjI3R2NwNDhtYkV4YU10azF5U0VVUEZWQXFRdFdlaUg1eWFDRkZTZi04UUJ6MmtEem5YdUhra0lCX2trOEtSWGIydnpjQXotNDBZVHdXT2lOeWlKenNnWC1CS3NBNVhQOW9KNmJWZTNoTlZkUEd0c01XTWs1M3dTbkstZVpCNjVROE5r",
+      "title": "AI Hacks Proliferate, Overwhelming Internet Security",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMie0FVX3lxTE8wek12YTUyUzgzdUdPSVM0dks4SVJuZklBdjBoR2h3aVRLNm5PaDBpZWhOWWhHdGtnOElrMWUxZzEzNy1vd2JwVmYwS2xmN0ZDVWlSN24yMWxzRzVLSXNIcXRWWEpiQUhhMFE4S1I4UEtycmR4QzB1Zks3SQ",
+      "title": "US Government Advises AI Executives to Exercise Caution",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "Washington's message to AI execs: Please shut up - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxORmRWNG03VTF0d0tXaThKVTQ0cThQQkYyR29wNGt1RmxiVm5fSmV6bnlnUkJENXIzYlNCS1AtdGROZnpaanQzZnlMQlVGOWlyZklMMFJGNWZTUlRMWTZhMlM4YnVwb0F0RnJLUWZoT3JaeTJtTlNNR2RCc2FiNnhUeDFGQ0wyU1JFZWtOVzFuZkRLNk1DQzZ3alZadTg2bzMxYjVPdWpHZEJpWFE",
+      "title": "Robots with Vacuum-Powered Fingers to Pick Apples in Washington",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "Washington's next apple pickers could be robots with vacuum-powered fingers - Axios"
+    },
+    {
+      "url": "wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable",
+      "title": "PHP Meltdown Illustrates AI's Role in Exploiting Software Bugs",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "title": "Pennsylvania Enacts Law Requiring Labels on AI-Generated Ads",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "Pennsylvania will require labels on AI-generated ads"
+    },
+    {
+      "url": "thenextweb.com/news/openai-frontier-training-no-live-internet",
+      "title": "OpenAI Excludes Live Internet from Frontier Model Training",
+      "first_seen": "2026-10-25T05:31:47.204209+00:00",
+      "rss_title": "OpenAI cuts live internet from all frontier model training"
     }
   ]
 }
