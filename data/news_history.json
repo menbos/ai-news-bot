@@ -1,126 +1,6 @@
 {
-  "updated": "2026-10-25T05:31:47.204209+00:00",
+  "updated": "2026-10-26T05:31:37.282698+00:00",
   "entries": [
-    {
-      "url": "bloomberg.com/news/videos/2026-10-19/cornell-university-s-basu-on-us-china-ai-race-video",
-      "title": "Cornell Economist Discusses US-China AI Race Impact on Global Economy",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Cornell University’s Basu on US-China AI Race"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNQUlwOUY2SXQzRy00SDBweWtyS0hkQ3I1ak5XNlBnNXlPbmktcDJCZ2N4MGdlVGhScmRoWGZRZWl1aGlpVjIxZVVENVB2blExdnpENzNrZkk1Z2xPcXlOakFxYVBXYlE5NkRWamdqZU9nZkg1SF9PNTJkXzFwQUJTdUViT0c",
-      "title": "US AI Infrastructure Boom Faces Growing Strains",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "America’s $10tn AI infrastructure boom is starting to fray - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOVmFlM0p6TV9oV3pMdGVaZ3ZVWkpDaU1oZV9JMEVGdkk4dXZoSVhiX2dERjhYRUJjQ252bW9VeVliam5Kemd5YzZjQXVqMlVsRlc2RkM2QUZELWdPTFJSTjk3MkxvUWg1STdiSkVIQWd2ZFU0ZXhhdWI4RGNLTm4yYzVER2c",
-      "title": "Anthropic Leverages Legal Expertise for AI Agent Deal-Making",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Anthropic turns to lawyers to help AI agents strike deals - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPek5iaXFoTHVyNTRqTXQzcW5JMldUdU85LXV1eEkzQ3JQSVRLOXNndmkxOW5JWmxjZld0UjZfRzBVemYzZ3ppNmFYd1ZpcXcwN0ZmaG9nME55elQ0Wk5rdmhQU0dKWTNKZXhxV2gwcXhtajZiM3ZiUHVBcy1qMlNFWVVzZVk",
-      "title": "Global Economy Poised for AI-Driven Surge, FT Survey Indicates",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Global economy set for AI-driven surge, FT survey suggests - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQb3dEdEZHLVdhOEotV3NGWmtfVEFvZ1lmSUdqay1VdHM5eGdlUEJBSjRTSEp2RkFadER6WWxpRnNiYkJ0ZkpWSmRwQ2htQ3hCMTFOWW51Y0ZxLWhzWm1BOUxRMXVtOTc3ektMOG4zWEMwOHgwRXVaQnFLT3dlblVCbElzUEg",
-      "title": "European Industrial Giants Navigate Divergent AI Adoption Paths",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Europe’s industrial giants take diverging paths as they ride AI boom - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTFBOcXc3N1lvLXRGUkxRVHVWekRPLWozNnc3SVlKLUZvWEV0dDFlX1B2VWZxd0ZLeUxmMUx6M1J2V21SaVVxeE1uWTF5aDhmMjNvX1dv",
-      "title": "Anthropic Reports AI Agents Exceed Human Work Output, Entering 'Meta-Work Era'",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Anthropic Unveils Internal Employment Report: AI Agents Work 6x Longer Than Humans, Ushering in the \"Meta-Work Era\" - 36Kr"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiU0FVX3lxTE1ldi1odjJCSEJvLUdWNk5LaHd6R2RoRjMtcGxHWE5YRHVyck9LcUdCMl9DcUoxNm1xR0dvSFp2VnBicVNFYjBwUndjbGQ4Q0ZDSFA4",
-      "title": "Anthropic Announces $320 Billion Donation for Direct Public Distribution",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Breaking News: Anthropic Officially Announces 320 Billion Donation to Distribute Directly to Ordinary People - 36Kr"
-    },
-    {
-      "url": "theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "title": "Meta Removes Ambiguous Language Regarding News Site Data Scraping for AI Training",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Meta removes language that may have allowed it to scrape news sites"
-    },
-    {
-      "url": "theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "title": "Meta's Revised Terms Raise Concerns Over Free AI Training on News Content",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Meta’s new terms may allow it to train AI on news sites for free"
-    },
-    {
-      "url": "finextra.com/newsarticle/48602/world-takes-on-ai-driven-impersonations-with-new-suite-for-banking-and-finance",
-      "title": "World Project Launches Suite to Combat AI-Driven Impersonation in Finance",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "World takes on AI-driven impersonations with new suite for banking and finance"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiX0FVX3lxTE9hcW1LLVJsZElBWGJQV0ZEN1MwdUdNQk5lMi1PSTVpd2R6a0FYanhsMDBFY1FKZEF2ckRoRER0S05XVlJ4bU5fdzh4VDBLeVo0VUJNdm9GME9KOGFaMVg4",
-      "title": "Review Highlights Bias in Large AI Models for Medicine and Healthcare",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "A scoping review of bias in large AI models for medicine and healthcare - Nature"
-    },
-    {
-      "url": "arxiv.org/abs/2610.22379",
-      "title": "Physics-Informed LLMs Show Promise for Efficient Engineering Simulator Calibration",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration"
-    },
-    {
-      "url": "arxiv.org/abs/2610.22380",
-      "title": "New Diffusion Model Enhances Trust in Context for Text Generation",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Trust but Verify: Designing Region-Inhomogeneous Forward Dynamics for Discrete Diffusion"
-    },
-    {
-      "url": "arxiv.org/abs/2610.22381",
-      "title": "Test-Time Continual Learning Shows Relearning Savings in Language Models",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Binding-Specific Relearning Savings for Test-Time Continual Learning"
-    },
-    {
-      "url": "arxiv.org/abs/2610.22444",
-      "title": "Event-STVG Benchmark Introduced for Long-Form Event Reasoning in Videos",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Event-STVG: Spatio-Temporal Video Grounding for Long-Form Event Reasoning"
-    },
-    {
-      "url": "arxiv.org/abs/2610.22474",
-      "title": "Multimodal Models Tested on Astronomy VQA Dataset with Mixed Results",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Star Light, Star Bright: Can Multimodal Models Parse an Astronomy Visual Question Answering Dataset Right?"
-    },
-    {
-      "url": "arxiv.org/abs/2610.22499",
-      "title": "JAVIS: End-to-End Framework for Real-Time Audio-Visual Conversational Agents",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "JAVIS: Joint Audio-Visual Interaction and Streaming for Real-Time Conversational Agents"
-    },
-    {
-      "url": "arxiv.org/abs/2610.22428",
-      "title": "Frozen Vocabulary Offers Efficiency Gains for Small and Ternary Language Models",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models"
-    },
-    {
-      "url": "arxiv.org/abs/2610.22454",
-      "title": "Expert Reduction in MoE Models Found to Hurt Short-Answer F1 Loss at Prompt Ends",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "Where Prefill Expert Reduction Hurts MoE Models: A Few Prompt Tokens Carry Most of the Short-Answer F1 Loss"
-    },
-    {
-      "url": "arxiv.org/abs/2610.22468",
-      "title": "Language Models Show Typological Parallels and Divergences in Action Nominal Construction Learning",
-      "first_seen": "2026-10-19T04:31:41.883308+00:00",
-      "rss_title": "From Parallels to Divergence: Language Models' Learning of Action Nominal Constructions"
-    },
     {
       "url": "openai.com/index/low-resource-programming-languages",
       "title": "OpenAI Enhances ChatGPT for Low-Resource Programming Languages",
@@ -836,6 +716,120 @@
       "title": "OpenAI Excludes Live Internet from Frontier Model Training",
       "first_seen": "2026-10-25T05:31:47.204209+00:00",
       "rss_title": "OpenAI cuts live internet from all frontier model training"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi4AFBVV95cUxNUDhKY05RNmdWcC1qQU9sRE93R09fUjdJVEMwbmNpZ2l1QXRBMTIzYXE4Qmdtd0NzWTZWbGxEdlJmZGNCSGtsTkh3RVEwWFJ3SmZHM0paVzA4QjlKZWd3dzJpLTA3RU90X09JZG9wOTJyekhha05QZGZvVFZTN1BRTzBNcXlkRlBPaVd1cWo4WWM4YTZVdkhEZjVabjhiVENkVEFMRGZfeEVBNG1CQ3ZFNWE0UE1LOVp1cE1xRWY2UkU5ZFJqeHRtQ19OODJ1YnBTaS1na3pqWHJHMXZIMmFhRQ",
+      "title": "AI Regulation Seen Benefiting Public and Investors Alike",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "How AI Regulation Could Help the Public—and Investors Too - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR",
+      "title": "SpaceX Secures $40 Billion Debt, Predicting Neocloud Shakeout",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNX2RHNFI2M0VmLTVfUGwyWjBzTFZwcHBoNlFwZEttM3NHOHBVQzJmZmp0YV81V1lyX2VCWFZGMENVZzRhV3lPbVYzQWE1cHIwejVtbzlGR1hmMWpPTUlhM2pObDMyM1ZBMmEtbm14QXVnMUkzRnZvY25sTHlXM0hmTnNwbGx4SjNGaVhseGNHUVVQb0VzaVFVWTdVTUVMWkRVMS1JaFZWbDkzNmF5UEtWWWs2TEZxdjA",
+      "title": "Anthropic's IPO Stands Alone Amidst AI Market Volatility",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "Anthropic IPO stands alone as AI market jitters sideline others - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report",
+      "title": "SK Hynix Shares Outperform Amidst AI Selloff Due to Kioxia Dividend Prospects",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "SK Hynix Shares Defy AI Selloff With Help From Kioxia Gains"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-26/sk-hynix-leveraged-funds-to-be-delisted-in-us-as-ai-rally-cools",
+      "title": "SK Hynix Leveraged Funds Face Delisting as AI Rally Moderates",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "SK Hynix Leveraged Funds to Be Delisted in US as AI Rally Cools"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-26/japan-s-takaichi-to-hold-cybersecurity-meeting-as-attacks-grow",
+      "title": "Japan Convenes Cybersecurity Meeting Amid Rising Data Breach Concerns",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "Japan’s Takaichi to Hold Cybersecurity Meeting as Attacks Grow"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds",
+      "title": "SpaceX Debt Deal Closure Disputed Amid Ongoing Pricing Talks",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "Musk Claims $40 Billion Chips Debt Closed, Yet Talks Ongoing"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing",
+      "title": "Chinese PCB Maker Dongshan Secures $1.3 Billion in Hong Kong Listing Amid Volatile AI Market",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "Chinese PCB Maker Dongshan Raises $1.3 Billion in HK Listing"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings",
+      "title": "AI Spending Fears Loom Over Big Tech Earnings Despite Expected Strong Growth",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video",
+      "title": "Markets Await Big Tech Earnings for AI Investment Payoff Confirmation",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "Markets Look to Big Tech for AI Payoff"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU",
+      "title": "Toyota Enters Humanoid Robot Race, Challenging Tesla and China",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "Toyota takes on Tesla and China in humanoid robot race - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPMXJ1b29qMXVnY2hUcmM3Tmo4Und2Zm9BeV9sOHQwVWJZd3VOUDlOYTdtQi1iWlV0amw2a1c2a2J6MGVtOU1ublFXYl9qNTYyTFEzeE9kQVA4QVZQRkxzTmtvMlhjNDV4dm1NcFNUZ092RS1sa0wyS3Y2SFhPUTc5aDdOTWU",
+      "title": "Students Express Growing Concerns Over AI's Impact on Future Prospects",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "Students fear AI is about to ruin their future - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQaHhLUi1IeDVOLXZPSmlYYVpxRnZDUVBiMDRTTUdtMnQxRE5DcEUyenlyaWhZWXdfVno3ZU5FUzZUYkg4ODVlY0VDV0hneFdYUG1nX090Wml0dmk4b2NBM2k2QzA2VV9FNUVtM2lVczJGbjc2c3EyVmN2LVVGeUh0ZXllRnMxaUFfcVIyQmVuYXVPVGROeEk4akxUbmxKcElHUXU4eE42TFBwdkVj",
+      "title": "Two AI Chipmakers Drive Significant Portion of US Earnings Growth",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "Two AI Chipmakers Make Up 34% of America’s Earnings Boom - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxNM1FUNXNYbUQ4NDMxOTNhQmtMS0J5cmxXakloQlRfa1NaTkwtOV9pRldOMldOXzk0VUczZm9FbkhKV250cTlrWjVMZXhvMG9pdWhHc0daelhvRkNjVGxGY3JjLXhuT3hiSjYxV0xhZDhYazAzY3hwTnNzcEZ2OURVaUV2Ylh0bE03WWprYkRPV2NUZVdF",
+      "title": "AI Fuels Record Growth in the Information Technology Sector",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "AI Drives Record Growth in Information Technology - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxPRTJaSVEwZnRJVGsxeTg2ZmFoNVdobHp6eVdoTFpBYjRjVDFkaGtzT29DdXZKXzJYNk9tWDJvQUROdDVTdUZBV0FBRG5LYlFWVjBvQzlSSlAxRXI1R1FGZ0JUYm16a3BjcTBfaDV5SUFzUnI5MkhXQUtuY3JKY19ack10bWtFQy1XT0Fia2RqYktTclR2a0hWbFNDWWRieEh1LXc",
+      "title": "Grok Releases First Seven Minutes of AI-Generated 'Odyssey'",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’ - TechCrunch"
+    },
+    {
+      "url": "thenextweb.com/news/us-treasury-outbound-investment-rule-china-ai-biotech",
+      "title": "US Treasury Proposes Curbs on Investments in China and Russia for AI and Chip Sectors",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "US Treasury moves to curb AI, chip and biotech deals in China and Russia"
+    },
+    {
+      "url": "thenextweb.com/news/western-australia-deloitte-refund-ai-university-report",
+      "title": "Western Australia Seeks Refund from Deloitte Over Flawed AI-Aided Report",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "Western Australia seeks refund from Deloitte over flawed AI-aided report"
+    },
+    {
+      "url": "thenextweb.com/news/openai-funding-round-1-25tn-uae-coatue",
+      "title": "OpenAI Lowers Valuation Target to $1.25 Trillion for $30 Billion Funding Round",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "OpenAI cuts its valuation target to $1.25tn as it nears a $30bn round"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "title": "r/opensource Bans AI, Non-English Speakers, and Other Content",
+      "first_seen": "2026-10-26T05:31:37.282698+00:00",
+      "rss_title": "r/opensource just banned AI, non-English speakers, and more"
     }
   ]
 }
