@@ -1,126 +1,6 @@
 {
-  "updated": "2026-10-27T05:31:46.197431+00:00",
+  "updated": "2026-10-28T05:31:44.856457+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/ted-taylor-restaurant",
-      "title": "Franchisee Achieves Significant Time Savings in Menu Repricing with ChatGPT Work",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Franchisee reconciles cash in 94% less time with ChatGPT Work"
-    },
-    {
-      "url": "openai.com/index/terminal-x",
-      "title": "Terminal X Enhances Investment Analysis with GPT-6.1, Matching Senior Investor Judgment",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1"
-    },
-    {
-      "url": "openai.com/index/openai-to-acquire-orchestra-bio",
-      "title": "OpenAI Acquires Orchestra Bio to Accelerate Life Sciences R&D with AI",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "OpenAI acquires Orchestra Bio"
-    },
-    {
-      "url": "blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-      "title": "Southeast Asia's Digital Economy Projected to Reach $368 Billion Fueled by AI Adoption",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Southeast Asia’s digital economy to hit $368 billion"
-    },
-    {
-      "url": "blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice",
-      "title": "Microsoft Emphasizes Digital Sovereignty for Governments Utilizing Advanced AI",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Advancing digital sovereignty with greater control and choice"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch",
-      "title": "i14 Trains and Serves Linear Attention Model Laplace 3B on AWS Trainium2",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws",
-      "title": "Smartsheet MCP Server Enhances AI Agent Capabilities for Work Management on AWS",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Work management context for AI agents with Smartsheet MCP on AWS"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore",
-      "title": "Conversational Supply Chain Intelligence Achieved with Amazon Bedrock AgentCore and Quick",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod",
-      "title": "GPT-OSS-20B Fine-Tuned for Multilingual Reasoning on Amazon SageMaker HyperPod",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore",
-      "title": "Eon Streamlines Multi-Cloud Investigation with Unified AgentCore Gateway",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference",
-      "title": "OpenAI GPT Models Now Accessible on Amazon Bedrock in Canada via Cross-Region Inference",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry",
-      "title": "AWS Agent Registry Enables Runtime Tool Discovery for AI Agents",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Discover tools at runtime with AWS Agent Registry"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws",
-      "title": "Securing AI Agent Identity with X.509 PKI on AWS",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Securing AI agent identity with X.509 PKI on AWS"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore",
-      "title": "Denodo and Amazon Bedrock AgentCore Create Semantic Layer for Agentic AI",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "status.openai.com//incidents/01M5E4G39TD1BW1QWHZG6RFA5H",
-      "title": "OpenAI Services Recovered After Widespread Performance Degradation",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Degraded performance in ChatGPT, Codex, and APIs"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz",
-      "title": "Meta's AI Spending and Muse Assistant Adoption Under Scrutiny in Quarterly Results",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxOYTNIaC1PeVF1T1ZCRmJadzc4X3gwUkNiYmN6Mk82M1daeEV4OG5WTDIwbVVwdnpaREw5dk1uUXNjSElBRC1QR09XT0ctUFVyVG10RjNQTkN1VkNNdlFIM3dVdG5pN0t2bUd0VTctbWNNc2J1bjZTNDVMVGdUbDVYcXo2U21kUm45bkgwTjRPOUw3Uk5nWkVNZkdXUlJ3czl4OGNhUm5B",
-      "title": "Rehearsals Launches Human Behavior Benchmark with Google DeepMind and Kaggle",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Rehearsals Launches Human Behavior Bench With Google DeepMind and Kaggle to Measure How Well AI Models Understand Humanity - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMingFBVV95cUxNWjR1SjBuOXZkbzFpSXdTZHpVc0R5bVhDZlJGNWNEVkZOX3RCeDhSSEg4UkJUWlg0ZWkxNFhIb0VfdExYQWpRblJKSnZaY28tdDEtcU9wSk9xcy1CWTYxal9YRXRqV29FcTdFTlNPLVdpdGJ6VEFOX3Bfb1hGb0J0MUtUVE5LMm1hZ2RWQmdsOUJzTlVuYllaNWs1aE91QQ",
-      "title": "AI Startup ASI Valued at $3 Billion in Latest Funding Round",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "AI startup ASI valued at $3 billion in latest funding round - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxPbVhkM1J5N0IzOXhOUDREMjd2N3J4eHJaNUREaWhaSWhISlNxMnBmWDZRXzYtczB3ME1xT0N2Z0hxWEdHU1MtSDdjVXBTMlBYdmd4NmFNNk9GRl9McmE3c2lQaFFoSG9KbEtiUnp0MGlqbVlOekpva3BUalZZUDgxc21KeGhCaFNGckszZ2k1anR4d2NQNmhwaklreTh3cHpwM3B5VQ",
-      "title": "Governments and Regulators Increase Scrutiny of China's DeepSeek",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "Governments, regulators increase scrutiny of China's DeepSeek - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
-      "title": "DeepSeek Releases Open-Source Tool to Reduce AI Operating Costs",
-      "first_seen": "2026-10-21T04:32:03.537768+00:00",
-      "rss_title": "DeepSeek Unveils Open-Source Tool to Cut AI Operating Costs"
-    },
     {
       "url": "openai.com/index/att-legal",
       "title": "AT&T Leverages OpenAI for Enhanced Legal Knowledge Management and Judgment Scaling",
@@ -830,6 +710,126 @@
       "title": "Banks and Blackstone Form $63 Billion Financing Vehicle for Broadcom AI Tech",
       "first_seen": "2026-10-27T05:31:46.197431+00:00",
       "rss_title": "Banks, Blackstone Form $63 Billion Financing Vehicle for Broadcom AI Tech - WSJ"
+    },
+    {
+      "url": "openai.com/index/oracle-apps-in-chatgpt",
+      "title": "OpenAI and Oracle Expand Partnership to Integrate Business Apps into ChatGPT",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT"
+    },
+    {
+      "url": "deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+      "title": "Google DeepMind Unveils Genie 4 for Unprecedented Realism in World Simulation",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "Genie 4: A new generation of world simulation"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia",
+      "title": "NVIDIA Highlights AI's Role in Accelerating Dementia Discovery",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs",
+      "title": "AWS SageMaker Introduces SOCI Indexing for Faster AI Training Jobs",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "Announcing SOCI-indexed images for faster SageMaker AI jobs"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock",
+      "title": "Property Finder Achieves 86% Cost Reduction on Amazon Bedrock by Fixing Evaluation Bias",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "Fix evaluation bias to unlock better models on Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization",
+      "title": "Exowatt Achieves Superior Accuracy and Lower Costs with SageMaker Serverless Customization",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization"
+    },
+    {
+      "url": "apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+      "title": "Apple Launches New MacBook Pro with M6 Chip, Enhancing Performance",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "Apple introduces the new 14-inch MacBook Pro with M6"
+    },
+    {
+      "url": "apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools",
+      "title": "Apple Creator Studio Gains Powerful New AI Features",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "Apple Creator Studio adds powerful new AI features and even more creative tools"
+    },
+    {
+      "url": "nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+      "title": "NIST Releases Guidelines for Transition to Post-Quantum Cryptography Standards",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxOWWVJZlJtQjJkZTMyWV9zMXNqV3RxZERPOE1CZlliQTVqR3VaTFk5anp5bHViM0pVTlVlc3lmMTU2YzVkb01hRXVsYU9yWUVFWjJxVHlrbW5TRVZoMWw3SzM1VUZ3UmpZN1NRODBhZmpHQXI4OXFCZDI5dWpMOGlTcGlWblREUUhmWHRCLWtZeW9zcnNUMVlRa2JTN0pwZ2dkSXBKQS14emotVmM1LWMtb2RxMEF5Y3RqNHBFZndn",
+      "title": "Meta Plans Up to $95 Billion in Financing for AI Growth",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "Meta Plans up to $95 Billion in Financing to Power Its AI Growth - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ",
+      "title": "Meta Eyes Record $97.5 Billion Equity Raise for AI Expansion",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "Meta eyes record $97.5 billion equity raise to fund AI expansion - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikwJBVV95cUxQeXhrQ2htTGxhdUNZRVdaN1lqTTNUcWlNUXQ3MkZJVlVmNGh0dDVoM1dCMk8tWUhpbHRnZmpKMFdlT1djOTdTbVY2YmhhVV9lcFdMQXc5VkY4QnlObXhwVWxpNlphQzFxbVBKclFTRFhfbk11c2xwTTJiUHdBMEYzc2xtZTJ6OW83S3ROMTlmVjhEQ0V5TFRPUGM4dWwzMFBKYVdaVjdoc0ExVDhQdlB3TGdVNW8wcjh4MmgwMFV1NTZHbnlGOXFYQWcxbjR0eGN1b3FydnZ1RjNXeW51amFoRU1pZkNqMFJBdnlrRnJ5TXh6VjRfOElfOUMxSDdpMS1YMzdtdGZRYzhBZVVsVmVyV2JJaw",
+      "title": "DealGround Enhances Commercial Real Estate Deal Sourcing with Claude Connector",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "DealGround Launches Claude Connector and Expanded Browser Extension to Support Off-Market Commercial Real Estate Deal Sourcing - markets.businessinsider.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxQNktoSFRZdVpSNnp3Yi1rVG9CSDhHZHBlZW9oMmcxVzJBMEl5ZDNWem5ZMzVXbVk0UHhhTkNJZ2UydmdyRUI3SE5xUnJXaExBYzJwYzdkaXo3eUtVNmplb3hoTC03amRWbmhXWFJHUW44Rmp3LXJhQVRnNjZyMU8xNmZVSnVaWmtiWWd5eERsLVpGaFBFRlh4WjZn",
+      "title": "Oracle and OpenAI Expand Collaboration to Enhance Enterprise AI Solutions",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "Oracle announces expanded collaboration with OpenAI - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxQWjdLMFpXUmh5WjlTQUxaOExSbmM0bTV2bGRRY05iSnNfT1BnZ3l6OWFON2hYMlh0MnNyeDV3c2NGN2dHUl9xbVo0SHJzdkFHUWFfNHdNU2g0RktoYnZPdXc4ZEcxNW5SRzU3Njg4VzhscE14ODk3T0tONHBSYnFMNk5IYXdvSDktY2FNZDR2Tnd0dG82NHBuQUV0d3lVWVBoYkpNM1dwcjJCVDRseTVwQkxZWEpFNkhHOUFTRA",
+      "title": "Anthropic Develops Governance Plan for Long-Term AI Control",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "Who controls powerful AI? Anthropic has a plan for long after its leaders depart - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxObm12QjZxeC1PN01KWWNFeWZ3Yjh5ay1sUS1DRkZHZ0ZOajIxMFFwYWVDOTBKc0JJV2Q3UVVSc0xaR1RxLTBwVk10ZXFUVjd2ZkVKdWJzNE9nV1lCWC1kem1YVll3SDQyMzlNQ3d0YS1KNnk3YjF0ZGowSWVqNHRSWURLTFVuMEYyRjYxdk9fcnd1SnR4RFBrRnl6TS1Fb19NdHNmNEZmdlJUakZDTFBjempkQkN5VHI5YTR2bnk2UFRCcWpQZlRUcA",
+      "title": "Guidewire to Acquire UK Insurance AI Firm Hyperexponential for up to $2.1 Billion",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "Guidewire to buy UK insurance AI firm hyperexponential in deal worth up to $2.1 billion - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-28/nvidia-backed-firm-launches-3-1-billion-gpu-loan-into-market",
+      "title": "Nvidia-Backed Firm Launches $3.1 Billion GPU Loan to Fund Asia's AI Buildout",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "Nvidia-Backed Firm Launches $3.1 Billion GPU Loan in Market"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-28/china-set-to-lead-in-ai-models-other-key-areas-by-2030-bi-says",
+      "title": "China Poised to Lead in AI Models and Key Technologies by 2030, Bloomberg Intelligence Reports",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "China Set to Lead in AI Models, Other Key Areas by 2030, BI Says"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-27/sk-hynix-profit-jumps-seven-fold-to-soothe-doubts-over-ai-rush",
+      "title": "SK Hynix Profit Surges Sevenfold, Fueling AI Rally with $45 Billion Payout",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "SK Hynix’s Profit Surge, $45 Billion Payout Fuel AI Rally"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-28/openai-plans-to-buy-google-s-chips-as-part-of-its-ai-build-out",
+      "title": "OpenAI Plans to Purchase Google's AI Chips for Infrastructure Build-Out",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxQdFhmMDEtV2dqellwNWNSVm1DRC1uNXBPR1Z2Q1d5cFMxUmxCX0dpVkIxYkFoWlN5aVdPXzNqME9RVFFRc0k4bjdpU2pKc3ZGMUF2dVJCcGNGQ2tTdXYteTBQYWJSaG44SlNWUkZtSHJBNHRmNklleEdhOVNWMi1ZdjJrSk5nR0dINkl3XzEyMVp0RFQ2VDhMdEljQ01fWThFaUM0UFRNaWMzZlJHUEx3",
+      "title": "RBC to Block AI Agents Citing 'Unacceptable' Client Risk",
+      "first_seen": "2026-10-28T05:31:44.856457+00:00",
+      "rss_title": "RBC to Block AI Agents, Calling Out ‘Unacceptable’ Client Risk - Bloomberg"
     }
   ]
 }
