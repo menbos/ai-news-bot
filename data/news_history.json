@@ -1,126 +1,6 @@
 {
-  "updated": "2026-10-28T05:31:44.856457+00:00",
+  "updated": "2026-10-29T05:31:54.164421+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/att-legal",
-      "title": "AT&T Leverages OpenAI for Enhanced Legal Knowledge Management and Judgment Scaling",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "How AT&T is rethinking in-house legal work with OpenAI"
-    },
-    {
-      "url": "openai.com/index/openai-models-google-cloud",
-      "title": "OpenAI's Frontier Models Integrated into Google Cloud's Gemini Model Garden",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "OpenAI models are coming to Google Cloud"
-    },
-    {
-      "url": "openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "title": "ChatGPT Ads Expands to 26 New Countries, Surpassing 100,000 Advertisers",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform"
-    },
-    {
-      "url": "openai.com/index/cloudflare-cyber",
-      "title": "Cloudflare Enhances Cybersecurity with OpenAI for Vulnerability Discovery and Defense",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "Cloudflare links vulnerability discovery to defense with OpenAI"
-    },
-    {
-      "url": "openai.com/index/empowering-cyber-defenders",
-      "title": "OpenAI Proposes Blueprint for Empowering Cyber Defenders with Frontier AI",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "Democratic governance of frontier AI, part II: Empowering cyber defenders"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/open-models-europe-industry",
-      "title": "NVIDIA Advances European Sovereign Intelligence with Open Models Across Industries",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing",
-      "title": "European Industrial Leaders Accelerate Innovation with NVIDIA AI and Omniverse",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure",
-      "title": "NVIDIA Confidential Computing Enables Secure Scaling of Frontier Models Globally",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit",
-      "title": "NVIDIA Agent Toolkit Enhanced to Ground Enterprise Agents in Company Data",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink",
-      "title": "AWS PrivateLink Secures Private Access for Amazon QuickSight from Corporate Networks",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "Securing Quick access from corporate networks with AWS PrivateLink"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
-      "title": "Deep Insight Solves Production Challenges for Multi-Agent AI Systems on AWS",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "5 production challenges in multi-agent systems and how Deep Insight solved them"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents",
-      "title": "AWS Strands Agents Framework Enables Adaptive Agentic Intelligence for IoT Monitoring",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "Adaptive agentic intelligence framework using Strands Agents"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock",
-      "title": "Octave Deploys Secure, Multi-Tenant AI Foundation on Amazon Bedrock for Document Analysis",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
-      "title": "Java Champions Report Significant Productivity Gains with GitHub Copilot",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "How 3 Java Champions are using GitHub Copilot for increased productivity"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxOYmVlY3NlaE8xWXA4OUdBTUlKOEhtdWh4UEwwVVlfUDczNjczeXV1aUtLek42UjQ4b3I5NHZaRU5xYjFlVVhNWXV3Sm1rRkgxRkR0b1VWazFaT195cG5GUlF4S0FEcERoTzJJVXktUVdYOTN1ZldXREx5ZmllMVgyRG1sT0pRMF9hNF9JLVhTcnA2M3o3Qy1FS0FLS3QyMTFQVXloYU9ibmw2VWVMRzJuT3Z4dkQ1V2VyUTAxclhQdHY",
-      "title": "OpenAI President Advocates for AI Safeguards Amidst Industry Opposition to Regulation",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxNVmZaTHdxeUVfbDk2Y1hGWGwwMW5odTlPRXVvVWJrdEhxcURnOW5QVzZ3QnVIOHRMWlBjbG5TYnNPNGxva3FWWU1QOHVGRFdOaGFiMS1rZ2xSajhFR1R1bkF4aGxPdG9UNm5oWjU1cXJGaHpDZll6SF96dWtPN0xValZXa1hQUUZmMTBDeTg4TzZnNGZJX0xiY24yVFQ1dDFTRnNBMFZXcjZjWUMxVnc",
-      "title": "Major Security Flaw Found Using OpenAI Model Leads to Widespread Internet Chaos",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "A major security flaw found using an OpenAI model is causing internet chaos - Business Insider"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxPQkZFNGVZc2Q2Q3VJYWVFNjFlOUh1NE1aNWFrZHlzOFlEMVpQU0xFQkFDSW4ydXljV1gtRnBBVzZjWi11Z3dMQ0sxdl9EdXdJOWl0TWlYMnl1M1o5S3d4LXRuOW9lLUd3bS1lYkloUnFGVnhqbFNJSGtVRUt4ZnlWSVg1Q01YOHlrWF9tZ0RsQXptUjljR0MxVFVaWW0xTXMweUE",
-      "title": "Anthropic Launches Claude Duet as Competitor to Personal AI Agents",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "Anthropic launches Claude Duet, its answer to Meta and OpenAI's personal agents - Business Insider"
-    },
-    {
-      "url": "status.openai.com//incidents/01M5GPE9C4E19HE461P8JAMYXD",
-      "title": "Degraded Performance and Response Errors Impacting OpenAI Services in Multiple Regions",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "ChatGPT conversion failures in India, Japan and Korea. And Response API errors"
-    },
-    {
-      "url": "status.claude.com/incidents/wj6r4t6mxq1r",
-      "title": "Anthropic Investigates Elevated Errors Affecting Connectors",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "Elevated errors affecting Connectors"
-    },
-    {
-      "url": "status.claude.com/incidents/njk29r81v3wg",
-      "title": "Anthropic Resolves Degraded Performance Issues for Claude Fable 5",
-      "first_seen": "2026-10-22T04:31:38.110725+00:00",
-      "rss_title": "Degraded performance for Claude Fable 5"
-    },
     {
       "url": "openai.com/index/decisions-api",
       "title": "OpenAI Launches Decisions API for Faster, Focused AI Outputs",
@@ -830,6 +710,125 @@
       "title": "RBC to Block AI Agents Citing 'Unacceptable' Client Risk",
       "first_seen": "2026-10-28T05:31:44.856457+00:00",
       "rss_title": "RBC to Block AI Agents, Calling Out ‘Unacceptable’ Client Risk - Bloomberg"
+    },
+    {
+      "url": "openai.com/index/openai-servicenow-partnership-expansion",
+      "title": "OpenAI and ServiceNow Deepen Partnership to Integrate AI Agents into Enterprise Workflows",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "OpenAI and ServiceNow expand partnership across enterprise workflows"
+    },
+    {
+      "url": "openai.com/index/legora",
+      "title": "Legora Leverages OpenAI for Agentic AI Solutions in the Legal Sector",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "Legora is building the agentic operating system for legal work"
+    },
+    {
+      "url": "deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "title": "Google DeepMind Unveils Gemini 4 Carbon, Signaling Next Frontier in AI Model Development",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "Gemini 4 Carbon: Our next frontier model"
+    },
+    {
+      "url": "blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
+      "title": "Microsoft Introduces Copilot Harness for Advanced Multi-Model Agentic Work",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
+      "title": "NVIDIA RTX Spark Laptops Feature New Models and Agent Tools for Enhanced Performance",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore",
+      "title": "AWS Launches AgentCore for Building Governed, Multi-Account Agentic AI Platforms",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
+      "title": "GitHub Universe 2026: Evolving the Software Development Stack with AI",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "GitHub Universe 2026: Evolving every layer of the stack"
+    },
+    {
+      "url": "github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+      "title": "GitHub's Octoverse Report 2026 Highlights Record Growth Driven by Developer Adoption of Agents",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents"
+    },
+    {
+      "url": "apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display",
+      "title": "Apple Unveils New MacBook Pro with Advanced PROLED XDR Display",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiUEFVX3lxTE51WlcwaHBVUVpnOWppQTBOYXJNVU9adDJaTHRBaXNnQnp3a0xNVHRDUVBjWVdtSHhrMjNRWUtlMTZ4UTBmSWJPUURONXEtdHVS",
+      "title": "Department of War Case Study Highlights Google Cloud's Role in CDAO Operations",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "CDAO, Department of War case study - Google Cloud"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMidEFVX3lxTE5IbmplZ01nQUt5R0hldklCR3FRMlVWZy1ScFZlc1VpRDhVNk00Vzd0Mm5QdlNXb1NncmxTX1ZFZTl4Xzl5bkpqUU56OGVxWjlZWmN6SjM4cVFLX3dkU0RUNWJVQ1JZTUswTk1iSzJ1MGwyUldn",
+      "title": "Anthropic Reports Early Progress in Accelerating Drug Development with Claude AI",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxPQWVpYzhsV25TZ3FVNUJONVNQbkt0T2l2WV85YUVNalZJZUlBZURlNG4tSDBfR2JpUkdBUnpVY1lKRGIxd04tNkJUVldha0RMeWNJLWdqelU3RGZnbXJrQlRUR1dUenNBUU9SRjdsLU5UYnB0ODUyanlvSkwwU0h1dVZmOUZsQnNIRFpCbnJQX052YkEycld4d0JNZlFnV1pCUGZ0UXpjRDRiVjZLZDFCNVg5cw",
+      "title": "Ben Goertzel Discusses AI Regulation in Washington Post Briefing",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "AI & Tech Brief: Ben Goertzel on AI regulation - The Washington Post"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxNaFAwNmlkeWR3Y0w5cUZrREpNQzV3QkpLaTctd3EtTkRnMjBxS09oa2E1R3JwbC1QMERnVkJJZS0xaWJ1S1N3VUd3OTRiNGZGbkw5cnpCNW9sb1RQWXRzQUVFS090c19oYVdpQWNsT2tXV0RfNkFmN2JvemNPOFQ0VEVOanBidXY0OHZoZFJSTUhMek0zT1pj",
+      "title": "Malaysia Intercepts $12.2 Million AI Chip Server Shipment for Export Control Violations",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "Malaysia intercepted $12.2 million shipment of servers with AI chips suspected of violating export controls - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxNQi1pQlpXMFg0djlmZFhkcGFlc3hJWmxKNXIzeFlTOWRxSXd5YWtCX1FRdUdlWWM1NEZxQVpOWktKbVkyWWR1aFRhbFd3SnRRcW5SZTJ0YXRvQTZ6MjlmVmFMVThhSldFTUpseWRtblVrel8tM0VISmVOVmdVend5UTFOTHhKazBXalpIOHVUdkVmcm5YdTI4UWk3MUJObk9GMzRYOEpkeEFXVnhwZXc",
+      "title": "US DOJ Investigates Nvidia's Potential Acquisition of Hugging Face",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxNVkJOM2pFRE9nVHZubFRxVXQxa0NNTWRublIxQS1kOGt6OGd1VUFTems0QjZMWDFMbTF4dDVtTEMtbTh4VVkxLUdnMnZXa25fX0VLczRBU25feWtGNDM0MVBKMlFVWTFfQk94R0pDZVdzOXVxbXBIdzhaRlV3SFNQb0xPYjh6U2JfdE1waFBDY0FxWHpqaTdiY0paekF5OXRnT2pULXdsdURDZzhMajVqakNiWkZuUQ",
+      "title": "AI Giants' Ambitious Funding Goals Challenge Investor Risk Appetite on Wall Street",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "AI giants' funding ambitions test Wall Street's appetite for risk - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxQQ0NpSE52aDNEemJLcUMyWmxhQUxGY01IZjd6Wlg3c3k5azJZNzdJcHR4UXl4QktGX1hFQ0IzUnlNa243S0FYRy05dnJyWm1MRHF4TDhwTV9NVzhIdkw2dWZycjhLOGI0UHJyTlo4UlZHZVhMa1c4N3lZZWRuWk9zUE5LYVkyTTZVVEZJT1NYZlA3Smo1RDk0VkZnWFRsOEJWSDMwMDFMWDhLUDRWaElMWkN6dw",
+      "title": "Researchers Warn of Rising Law Firm Cyber Attacks Fueled by AI",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "Researchers warn of surging law firm cyber attacks fueled by AI - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope",
+      "title": "Samsung to Increase Spending as AI Chips Sell Out Through 2027",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "Samsung Hikes Spending After AI Chips Sold Out for 2027"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOZl9WdEtYNDlnR0RGaTdRamlqOTkxVGlsMUMyV0EzMFJvY1FpR3NzdldFc3lGaGNwVzhYbkRjMmF6NlBPQVRvRlltUmh6TWhua1NYY3pRSVhUUDAzZlFtdF9wNVppRVhGNW4wNUJYSzV3eVJlNzlsT2NBRFhrNGxfVW93ZU4",
+      "title": "AI Advancements Raise Concerns Over Global Encryption Security",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "AI maths advances raise fears over security of global encryption - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNZFpfdm5ucU1pTmJEQ0l6bDliR09sZTFzV1lKVjZaWldRanU2cUFjVG1iY1hhZHFBcFpQZkh2S1VWaGpxc1M5Y1pvUGhsZnQ3SE4yTkZHT0dyQTNoR1Npb043NW1tRUlST0NEdE5qSVB2T1BiRGFiZFFpVzNXa1RVZXJCbWU",
+      "title": "Google Shares Decline Following $51 Billion AI Investment, Deepening Cash Burn",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxOeVBNdzlMTTN3TWNmZmkyRFNZREhOcThOQWhMRk14VWlReXF4LW5DR2hsSjJneG1JeEdQM0VmX2tPNHJrVXdrdHhZbURadXZMdXczRkxjakpQbWFGQzBGX0lMN09mc0hQamNGX21PUnFNNDliVHZuQi02YWhucmE1SEVPcG5nSGc2aktVRUo5T1hpaEZtSnJyQTZDdHFGaXVTN1FyeU04U0YyaU5rcEZKbkhvTVdoMXFNMVE",
+      "title": "Nvidia to Invest $3 Billion in Meta's Equity Offering Amid Expanded AI Partnership",
+      "first_seen": "2026-10-29T05:31:54.164421+00:00",
+      "rss_title": "Nvidia to Invest $3 Billion in Meta’s Equity Offering as They Expand AI Partnership - WSJ"
     }
   ]
 }
