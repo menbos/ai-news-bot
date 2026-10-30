@@ -1,125 +1,6 @@
 {
-  "updated": "2026-10-29T05:31:54.164421+00:00",
+  "updated": "2026-10-30T05:31:33.274935+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/decisions-api",
-      "title": "OpenAI Launches Decisions API for Faster, Focused AI Outputs",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "Build more responsive apps with the Decisions API"
-    },
-    {
-      "url": "openai.com/index/uber-chatgpt-work-rollout",
-      "title": "Uber Rolls Out ChatGPT Work to 30,000+ Employees",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "Uber brings ChatGPT Work to all employees with OpenAI"
-    },
-    {
-      "url": "openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "title": "AI Agents Accelerate Biological Data Discovery",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "Using thousands of AI agents to uncover new leads in biological data"
-    },
-    {
-      "url": "deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-      "title": "Google DeepMind Maps Global Forest Types with High-Resolution AI",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "Beyond tree cover: mapping the world’s forest types"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/minerva-platform-infrastructure",
-      "title": "NVIDIA Launches Minerva for AI Factory Observability",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence",
-      "title": "European Financial Firms Adopt Open Models with NVIDIA for Proprietary AI",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models",
-      "title": "NVIDIA Cosmos Enhances World Model Development",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/dsx-power",
-      "title": "NVIDIA DSX Platform Addresses Power Bottlenecks in AI Factories",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction",
-      "title": "NVIDIA Earth-2 Empowers European Weather and Climate Prediction with Open Models",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/european-public-sector-open-models",
-      "title": "NVIDIA Open Models Drive European Public Sector AI Projects",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine",
-      "title": "Amazon Polly Generative Engine Receives Major Expressiveness and Accuracy Upgrade",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "Amazon Polly delivers a major upgrade to its Generative engine"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus",
-      "title": "SageMaker AI Enables Serverless Model Customization Without GPU Management",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick",
-      "title": "Amazon Quick Facilitates HIPAA-Eligible AI Deployment in Healthcare",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc",
-      "title": "Rescale Builds AI Triage Agent in Weeks Using AWS Strands Agents and AI-DLC",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "How Rescale built an AI triage agent with Strands Agents and AI-DLC"
-    },
-    {
-      "url": "huggingface.co/blog/microsoft/thinkingbox-training",
-      "title": "Hugging Face Hosts Microsoft's ThinkingBox for RL Training",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
-    },
-    {
-      "url": "huggingface.co/blog/allenai/olmoearth-v1-3",
-      "title": "Allen Institute Releases OlmoEarth v1.3 for Global Earth Embeddings",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet"
-    },
-    {
-      "url": "huggingface.co/blog/nvidia/kumo-relational",
-      "title": "NVIDIA Kumo Relational Outperforms ML on Relational Data Without Training",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQNXE5X05yTGVVbDd6U2g3S0xzMU1uOHlXNS1ISlBjbVlzeE9Mdkd4UEVUeEt0Ty03X1NYaDAzWllZd1lUSm8zWD0wVHJ3bHpMOFZNVFZlVHVncjFUWGxWSy1nbzA2Y1dJUDYyUmVJc005M1U0cDNfcmVrV2Y0cGZKRmpfcEtVOVd6WHlPRGRCdWpxVVl3SVdvNURHMzNuYXNndHpfOEQ1UFNVVVBjQ09HUGFMUU51NVJH",
-      "title": "Google Cloud Introduces Agent Compute Engine and Expands Governance",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9US2kzdWs5bHhuMThHOEpkbFZ4VTh6UEdodGJRVWJ0OXJBYlVsZk5lbnRKT3FQVUxXRFNJbDNCS3hlTVFDcTJSSm9nUzJ6R2FGWVAwRHhORm16NjdySHNleTBKMTRzWnNvejZRZGtfSXo0WWtKdFlYbURhX2haZXFRTlhvdUtrV3U1UFBiY0RMQlFsQTVpRDl5RWk1RDBnazYtbUM4Z0I",
-      "title": "Google Cloud Expands Model Choice, Integrating OpenAI Models",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "Google Cloud expands model choice and flexibility, bringing OpenAI models to customers - Google Cloud"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihwFBVV95cUxQWEZqR3VpT3d6blh3ZTBGR3VIaHhlc0FGOUJYV0hib3JsSHo3X0RYbUNucVFsUVpUMmM5dzlWSDY3UXJjbHpWQ1JqeEdETGRuRHM0VXhjcmhwRUhTd051cXA5MURtd1l4SmdoY2FXNGRYUVplc19DMS1ZUGVoUllwNE5feERNcFE",
-      "title": "Tesla Cuts Capex, Meta Hikes AI Spending Amid Market Shifts",
-      "first_seen": "2026-10-23T04:31:52.323135+00:00",
-      "rss_title": "Watch Tesla Cuts Capex Guidance, Meta Hikes AI Spending Outlook, Announces New Stock Class - Bloomberg.com"
-    },
     {
       "url": "openai.com/index/securing-our-frontier-model-training-environment",
       "title": "OpenAI Enhances Frontier Model Training Security with Offline Environments and Red-Teaming",
@@ -829,6 +710,125 @@
       "title": "Nvidia to Invest $3 Billion in Meta's Equity Offering Amid Expanded AI Partnership",
       "first_seen": "2026-10-29T05:31:54.164421+00:00",
       "rss_title": "Nvidia to Invest $3 Billion in Meta’s Equity Offering as They Expand AI Partnership - WSJ"
+    },
+    {
+      "url": "openai.com/index/updated-model-spec",
+      "title": "OpenAI Updates Model Spec to Guide Capable and Beneficial AI",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "An updated Model Spec for more capable and beneficial AI"
+    },
+    {
+      "url": "openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "OpenAI Details Frontier Model Misalignment Detection Methods",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "How we detect frontier model misalignment"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "title": "NVIDIA Omniverse Integrates Frontier AI Agents for Simulation Development",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026",
+      "title": "UK Amazon Quick User Group Reports Growth and Agentic AI Adoption",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "How the UK Amazon Quick User Group grew in 2026"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act",
+      "title": "Amazon Nova Act Powers Intent-Driven UI Testing as a Managed Service",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Building intent-driven UI testing with Amazon Nova Act"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks",
+      "title": "NVIDIA Nemotron Models Accelerated on Amazon EKS and SageMaker HyperPod",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS"
+    },
+    {
+      "url": "huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "title": "Hugging Face Releases IBM Granite Switch 4.1.1 Model Update",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Granite Switch 4.1.1 — Update models like you update software"
+    },
+    {
+      "url": "huggingface.co/blog/announcing-project-protostar",
+      "title": "Project ProtoStar Launched to Make Publicly Funded Science AI-Ready",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready"
+    },
+    {
+      "url": "huggingface.co/blog/mistral-large4",
+      "title": "Mistral Large 4 Model Now Available on Hugging Face",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face"
+    },
+    {
+      "url": "huggingface.co/blog/anydecisionmodel",
+      "title": "Hugging Face Introduces Open Models for Speech and Decisions on Apple Platforms",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigAFBVV95cUxNbUxZTHRJbTVoc3lseWZiMXdURXhicjVLRkdtZjJBYk9IM3YxdXpWbWdjcXpyY0JxQ1RtRldIOUhTeGs2TDZ2b0dHWnhvQ085TGhzRFYxbzdSeW5LZVpuQnJMNGl2ZkpSUVVtQklNaFl2MDRLeWZXemlhRlVtMGdvdw",
+      "title": "Democrats Introduce Resolution Opposing 'AI Bubble Bailout' for Big Tech",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBwZWxWci1qNVEzOTlGaWt0TjRfWlBTSDNtTm96SkJxelpvekpMQVVsRE9GVmFVLW83eUlCdUZkdmlEXzB3RW1DUkQ2RFVxajY2MWoydHcwaDlvMldUVXE0NDRmVzhodjI1dDRrdDlvVDRVSlJhNjBSdVNvYWloV1ZtbVpYUFBsbnFPUS15cUVjSHhkVHJwUTNBcmRpdXZiQS1LMk5PWDAxZ3NhQ1dfVTVyTmtuQURsdEhrOUtKdTVKb1U2SVNMY25BV25mRzdqT2ZPMWRiZWE",
+      "title": "Xmind Integrates AI Agent and Opens Platform to ChatGPT and Claude",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Xmind Launches AI Agent for Mind Maps and Opens Its Platform to ChatGPT and Claude - markets.businessinsider.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxORGVVeXl0bmw1cnBiUkdkU2VRT2VPcWtxSHdNTmQxQ2xlOUxiSW1aY0J5eVd2T2RPYXJQdlEwdWpSSzBuRlZmcHlHU1F3LTVCVmo3ZzZqbXRDZ1pmaDdEMkd0OFIycWhkWXhydlQ4Z0UzZ3FHbUdaaXJOMGVSRFhwSkZRYmFGcWoxeUlQUWtBUVBlZXM3NkgtRGN0dE81LWxkMTRGVnFSSnJWUU83SXRONUJPQm84a0pl",
+      "title": "Mistral AI Releases Large 4 Model with Cybersecurity Focus",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Mistral AI publicly releases Large 4, targets cybersecurity users - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3",
+      "title": "Google Launches Gemini 4 Carbon AI Model with Cybersecurity Focus",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxNWjJqOV9oaHdTLUVZYldJcGVLNF9Wb1JyUl8yWWVhVUVaNE8xR2VzZ0hjMnZBblltZEFVODMtSXJUVlRpTHpqR19iYnlib19vM0hxTVV1b0x5WjBzOF9WS21qaXBTcnlrN2lfQnA0aWRhNzNHWURsSDdZQkRwWTVkcnNOSHlZOGtKNDdJVGFyZnNISVB0UmdsWExrNnFyeDItVnRlTmhPeHp5UQ",
+      "title": "New York Enacts Ban on 'Unsafe' Chatbot Behavior with Children",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries - AP News"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxQWGsxVlVwdm94YVFRbXJ6eWNIXzRuWkZqVkZwNm5QUnkyc0EyUHFyY21WTE9LRFNRSVpEbHg5b0UxaGJsbEYtdVRuTWxHN0xFVnkwa1kya1I4S0ZadXhGQmZmZWtQdGJvbDVrQXI1UVhjLU1zWTdPQWlpLW5ubEdEMWhrczRhbGNHUVRxVTJBZVZtVmpiT0UtWlYwZEZMRjN3NW1LSFhYR1pfc1lLS0lBaGdnc1pLazVyT0dJ",
+      "title": "Serval Triples Valuation to $3 Billion Amid AI Workflow Automation Adoption",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Rib1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx",
+      "title": "Chinese AI Model Exhibits Complex Cyberattack Capabilities in Tests",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-30/murata-boosts-mlcc-output-investment-to-keep-pace-with-ai-demand",
+      "title": "Murata Manufacturing Invests $6.4 Billion to Meet AI Demand",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Murata Invests $6.4 Billion to Double Output and Meet AI Demand"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth",
+      "title": "Big Tech's $750 Billion AI Bet Faces Slowing Core Business Growth",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Big Tech’s $750 Billion AI Bet Collides With Slowing Core Growth"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order",
+      "title": "Indian AI Firm Seeks $3 Billion Financing for Nvidia Chip Order",
+      "first_seen": "2026-10-30T05:31:33.274935+00:00",
+      "rss_title": "Indian AI Firm Seeks $3 Billion Financing for Nvidia Chips Order"
     }
   ]
 }
