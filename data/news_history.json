@@ -1,124 +1,6 @@
 {
-  "updated": "2026-10-30T05:31:33.274935+00:00",
+  "updated": "2026-10-31T05:31:57.899442+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/securing-our-frontier-model-training-environment",
-      "title": "OpenAI Enhances Frontier Model Training Security with Offline Environments and Red-Teaming",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "Securing our frontier model training environment"
-    },
-    {
-      "url": "openai.com/index/openai-nask-ai-safety-security-partnership",
-      "title": "OpenAI and Poland's NASK Partner on AI Safety and Security Research",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "OpenAI and Poland’s NASK partner to advance AI safety and security"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
-      "title": "Kazakhstan Accelerates AI Development with Expanded Compute Capacity",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "Kazakhstan Expands Compute for Its AI Future"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/european-retail-open-models-robotics",
-      "title": "European Retailers Leverage Open Models and Physical Intelligence for Operational Transformation",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentagentcore-with-aws-unified-operations",
-      "title": "Bayer Crop Science Deploys Agentic Decision Engine on Amazon Bedrock AgentCore",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions",
-      "title": "Amazon SageMaker Training Session APIs Enable GPU-Free Custom LLM Training Loops",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai",
-      "title": "Amazon SageMaker AI Enables Low-Latency Speech Streaming for AI Agents",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI"
-    },
-    {
-      "url": "huggingface.co/blog/allenai/litpivot",
-      "title": "Hugging Face Showcases LitPivot for Dynamic Research Idea Development",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQdnZydGY4cEdLMHdFVVJ2R2kwaG1yOVZuQi1XNzk2SEw5T3lWQkZHZl9UYXhfazU2bFRQU0VabnlCdTBDMDhyQ2ZfUGNSODkxOWc4ZFBQOUVndEs5QmxtREZJQVlVY0RjLUVoUVh5ZWZIcWpuY3ExeUZGcGNuNzF5TGNBUy0",
-      "title": "Anthropic Establishes European Consultancy to Drive AI Adoption",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "Anthropic strikes deal to launch European consultancy - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxQYmktYzhnbk9rRktmb0pOaE1ORnQyWDNtU1RldG8wNHJiMzh1UlVUYl8tOFZUdlRmbmtLNl9STTVKRzV5SF9aVXlRd1RBZ1hhdHFSY0kxUDJrcDZ1WVlXUm9mcWdtNElwblJWTW11WVltWDNYMlN1ZDltWG85WmMxd3EwUEtuMWFTbHRINS1SbzRreFJyM1VxLVNjd0lYbEd4MjRweXZhMzN1RVYtMVRFeXliaWs",
-      "title": "Wall Street Regulator to Intensify Focus on AI and Private Assets in Corporate Oversight",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "Wall Street regulator to focus on AI, private assets in corporate exams - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxQV05wYl91MmowMUlxMjZkLXZBU25XR1h4ZWE5dnptMktPMDdkUnpWMkxpUFZrUUl6ajg2NjNlcVBaOTYwWEtqUkRTVlVIUGc1a3FoZjVwendXdm1DUTZxN05fNWkzblg2TEVFRkpKNnlTdjlpaWIzYkljMFFSYkRVa29uQkFWZWJOaWpFRV9ZWUJhSXBUa1NaLS1WZjJxcDQ4NmpHaXpFT2xLb1VYZWtSWElyT2xmTEg1V1FnMjE3NE5wQQ",
-      "title": "AI-Discovered Bugs Expected to Trigger Fresh Cyber Disruptions, Experts Warn",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV",
-      "title": "Government Websites Offline Amidst AI-Discovered Flaw Security Scramble",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "Government websites go dark after AI-discovered flaw sparks security scramble - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxOMlVIUEhSdHd1VnZ4dUN2RE1iODlDNUs4YWJyTklNajFoYnhjSzNveTQtcmo3SDNhem5vSi1VNng0Y2YtdzlEM3JhcEZQM3U5elN5RWZHTFBwdFZ4UklWdzZkTEdvdkVhM21DTW1oMUdKYzloVnNiaE1LcEs1Z21rRXVkeHI3aldFM21RbEhmMzdDU3BQRm5HSWRaUkNMNkQ0V0lDZDU4VVVYRm1SSnJLQkhiQ0FkbGJzRmdv",
-      "title": "China Directs Government Agencies to Mitigate AI-Driven Job Displacement",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "China urges government agencies to mitigate AI job displacement - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxPd1NjUkxxaEV0Q0I5WTZmX1h5LW45dko5TlAxMmRKRW9BTDNtLU5KeThPY3U1eGZfOUVoSXU1SVRoano0aWgycFRsY0t2TkhQVFh4LVh0VHN2ZTY0VHNTNXJRRmY1WlpRRzNxT1FURElhTFZDbzZoQ1M5ZU1IV0JLUldUSzFrSnpJN7JOOElnUnNFUTFqUUljRXNfSkJMZi1IbURPR2VoNkNEc0ZMSDRfbnlHWnBPV18tSm5QT0ljRQ",
-      "title": "Louisiana Court Adopts AI Servers to Streamline Judicial Workload",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0FFZnl0NzhvUHNkTEpENjNIeTlMNktuSk5DRUlZX21yUk9ZTGFhOWNZRGMwRXBrRkV3dmpKMDFUdGZYMlQyYmR0Tm55aUtCSXVWZ0FCZkI5SUQtUGFCXzFRaF9nNW5JU2czZUJmZURDR21VX3FWRXV3a01xMHdZcHlyWDVGNW1MZlBKTkJJNzk3MzBHNXBXcmdFeFVTdS15NG9GSW1jR05Kdw",
-      "title": "IMF and OECD Warn AI Could Exacerbate Global Rich-Poor Country Divide",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "IMF, OECD warn AI could widen rich-poor country divide - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiywFBVV95cUxPQm0wN2VGQnFGRURWQVB6dUlMTkxmdGZ5cW1ST0ZYY25hUzMwSkpWbkRndUtqc2hoRlR0bDFuUUhUdEk3bGNMU21hYS1ZUDFsZ0JZRHhfa3V6MVoxakZMRURzTTZrWXRubTRIaEpDNk50ZUc0NDZyWXZGcHowRnIxUFJpRms1SzFwTEdRRmE3UmduQVdVbk1rSnBrZU9PcVQ1WF9oOERmY3JLTzg0ek9Qdlc1cE0ySWNoMGlyTVM4eURJamh1NEdfaXpUNA",
-      "title": "Poland Joins Global Healthcare AI Network as Second EU Member",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "Poland to become second EU member of global healthcare AI network - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic",
-      "title": "UK Invests £100 Million in AI Biosecurity Lab with Major AI Firm Support",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxPWVJpY0VOc2tLVk9kZTE4bEZHaWJBbEFmaUFqbTBPcHhBODc3SUdwdnJBU2NuanRVVmk0NDNlZElOZWlTM1ZIOUpoekE2aVlvUmlra1N3dndiZWVTZVFGUXI2QXhnWWF4eHg2RFhlOC1hWDF4dzc5a2dIcDhvQWVGZkRSYU9nNlpkNVlRS0RYNUpDQ19lUnl4X1dYaGFGRWpoTXpFbkVHb3h0QUFzYXZF",
-      "title": "AstraZeneca Partners With Oracle to Enhance Clinical Research Using AI",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "AstraZeneca Partners With Oracle to Refine Clinical Research With AI - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxPcEFxNjAweHdoQ0ZaOWpUTGdVNWRkTXJ2Z08zeG1wOG03ZklKSW9WbTFBbGJWUVZVb211eFN4UFpjTG83aHBtMTViQ21fQmxBd2U0b2JTLXNHcjBReXRpMDl3am82SUVqVU1ndmRxejczTVZaWFlCMVZQSGNwWEQ0NXcyLWt0dlduZ2VUbjNyTUdyRUVndWEzV041cVQ1Mk1uV21vNGZBTUpaQ0tkVk1sOElNZW5NQThVZm9SemdUbXY",
-      "title": "US Banks Block Third-Party AI Agents from Customer Accounts Amid Security Concerns",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "US banks are blocking third-party AI agents access to customer accounts, sources say - Reuters"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "title": "Canva Craft: New AI Image Model Plans Designs Before Generating Them",
-      "first_seen": "2026-10-24T04:32:05.315434+00:00",
-      "rss_title": "Canva’s first AI image model plans designs before generating them"
-    },
     {
       "url": "openai.com/index/scaling-storage-one-billion-users-part-two",
       "title": "OpenAI Scales Habitat for Over 1 Billion ChatGPT Users",
@@ -829,6 +711,125 @@
       "title": "Indian AI Firm Seeks $3 Billion Financing for Nvidia Chip Order",
       "first_seen": "2026-10-30T05:31:33.274935+00:00",
       "rss_title": "Indian AI Firm Seeks $3 Billion Financing for Nvidia Chips Order"
+    },
+    {
+      "url": "openai.com/index/helping-websites-express-ai-training-preferences",
+      "title": "OpenAI Introduces robots.txt for AI Training Preference Signaling",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Making it easier for websites to express AI training preferences"
+    },
+    {
+      "url": "openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "title": "OpenAI Enhances ChatGPT Safety with New Protections for Teens",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Community safety report and new protections for teens"
+    },
+    {
+      "url": "openai.com/index/fair-use-benefits-everyone",
+      "title": "OpenAI Advocates for Fair Use in AI Training",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Fair use benefits everyone"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+      "title": "AI Agents Join the Search for Extraterrestrial Intelligence Signals",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
+      "title": "AWS Publishes Playbook for Managing Amazon Bedrock Costs",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime",
+      "title": "Amazon Bedrock AgentCore Runtime Enables Live Web App Previews",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock",
+      "title": "Worldwide Express Automates Freight Exceptions with Amazon Bedrock",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "How Worldwide Express automated freight exceptions with Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us",
+      "title": "ChatGPT Desktop App Now Integrable with Amazon Bedrock in AWS GovCloud",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
+      "title": "AWS Batch Enhances SageMaker Training Job Resource Management",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway",
+      "title": "MoEngage Transforms APIs into Agent Tools with Amazon Bedrock AgentCore Gateway",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxQeEJLWXRCYmZVWWdnRnoyMUh4dWktaWJEV1NJenBuRTNfMWQyd1RXTkx0V0wycnJFbmxxNHFnZFBsWFZKdl9SN1dXUjFTbVJ4Q1VYbjZCM0ZPMWNDcmRoM3R3ZmZNTUt4TE9vdHpEQTZFSF9oUXg5aXVZWEZhTGVJeURWOXBJaHF4MzE0N21TMW0tZmNTTUtXT19MUl8",
+      "title": "Google Cloud Highlights AI Infrastructure and Orchestration Advancements in October",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "What’s new in AI infrastructure and orchestration in October - Google Cloud"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxNZXZlRGxMZ3BzTFB6M2kxdWMtZDNTQUZqRmRSRTVUTnN5OUxycXdjSFNveEEwR3ZNVnFqZzlsVWhQbVB6emVRT29mUEhyd0g1am1zb1VGTTFGeXItRklfUVphc19JcTlsVFNWWmxhaHQzcUQxMkRXUFNNMW9ObFhFbER3VUg5UmxZSWthbUo4MVF2akIxcUQwZWNXUEoxU1IxSnVkNm5B0gGrAUFVX3lxTE1OR0kySFBiZEQ4eTZPTDR2MEpmMXlVbmVqVVFGbWpBTXBWM252d2wtWFRBYUE3M3dvWHloWHF5bU9penBtQkVkYXVFaTRSb0dtaTdQSTEzT2dtcUJyaktfYk55VU5aT0VSVFRSYlZVWF9oLU5yUDFfb1ZoUW0yVXk1elpWQnU2NTR0Y2E2MnBQWTFjYlN1cERNOUdiQU9Gc0thdkpMYWFMOWlRYw",
+      "title": "Tech Leaders Rebrand AI as 'Super Intelligence' Amidst Policy Discussions",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxPb3U1ZHFUb0Y5cU9QOHF6OU1IUjA1MDFIMFptU1ZsUWlabHVfakNhaUdKRjZFNDBwUHZPc2w4NWdNdkJJMk8ydXlGSFhpb1ZSdU1Sclc2aGw2Rm5Xd2ZTNURNRkpadHdtVGFNZlMwR19UX1ljcWx2V2FpU3ZxUDYxdXM2ZWZ4MFlUYnY4OTF1Q2Y0eGRtbjNHNTd6OUx3cFNqWmRoa3hiTmRqRG5G",
+      "title": "Article Argues AI Regulation Risks Unrestrained Government Control",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxONzVucjcwZFNveGxHdm5KS1M5UEotQXQyVDJNNmNCY211QXpxNTJFc0ZQcXhkbzlXNTAySlZlQWFvRzl2bnBrd2d1UXZ2eXZCU0Q4WW1ZQVdWWXBaWkxvOV9zY0lYdkxaSU1kRWEtMHdEMXFpZ2ZSQ0xDYm5RUEg3cEhfT3NnTllHcU1ZRUtaNFZ5N042elFCYkoxNHk4NXJzVmRBOFloajNWd0Z4RjUzcnpvRQ",
+      "title": "Foxconn Exploring New Partnership with OpenAI Amidst No AI Bubble Claims",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNRkQ0Yk1sYXhtUVJUYmt6NzlmMTBMUmhURDNGbjVWTkctZF9wZ0dmZENrVUJhZHdpaWE5QVQyNDRRRTJWVjlDMzRhNER0eFQwRDIzeHpIN1d5OEhPT1RGUXZ5OE9NZ3pCREgzclV6VGFMMTNwc3R0bnVEUkpaRFRJSm8xU0FPYjdWbEZiTjVXN1ZwekJqcXd4emlndmZxMURwTTdpdFJwOFVLXzdxcXdwNXEzZmtTbnM",
+      "title": "Commentary: AI's Transformative Impact on US Warfare Discussed",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxPMEM3SHF5UUZnYkdJSE5hMWJaY1RQTWRpUG90YjhhWHhZcGtXT2FlcXpfdElleFRGbjdlVVZaR0J1cFpKRTJ3Vzc3ZFg4bG1rNDNvMG8zcVBxSTBPd1NxTTROemttQkN3clc0VUlIUElpenVHY2h3R2N2MXZoYlRXVkhIOUhRYU1YSzFxQXBlSXBiYXpTU0Z1Q0xEN2lQVnE5MDNQckNsYVFvQm9XdnVfMw",
+      "title": "Artificial Intelligence Reaches its 'Napster Moment,' Suggests Commentary",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Breakingviews - COMMENTARY: Artificial intelligence reaches its Napster moment - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxOM2pwTHBXOHJnamJiM25nX1RtYW9palh0cms2Uk5uTHRyV2xwYTR1OUFNVUM1MU1RTGVOazIxUzB5NVZBSk9VRmg5TUJOLXdYNkdVRml6WlJ6STRkcXlwOHY1MjFOajdTTmszLUhvSW1Wc2hzUTFDYllWTmZLb0RZN0NMTklMRnd1cHF5aVdqOTNKbWJ4S0tCYS03R3M0eFc0aUluWWs3R3dSRE1fekw2WFFWRjBlZw",
+      "title": "Character.AI Proceeds with Asset Sale Amidst State Objections",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Character.AI moves ahead with asset sale over states' objections - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p",
+      "title": "S&P Downgrades Meta's Rating Outlook to Negative Due to AI Spending",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Meta’s Rating Outlook Cut to Negative by S&P on AI Spending"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding",
+      "title": "AI Startup Baseten Poised for Significant Funding Round, Valuing at $30 Billion",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Baseten to Raise Funding That Would Double Value to $30 Billion"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-10-30/fuelcell-energy-ceo-ai-race-won-t-be-won-by-pausing-video",
+      "title": "FuelCell Energy CEO Calls for Rethinking AI Infrastructure Power Sources",
+      "first_seen": "2026-10-31T05:31:57.899442+00:00",
+      "rss_title": "Need To Rethink How AI Infrastructure Is Powered: FuelCell Energy CEO"
     }
   ]
 }
