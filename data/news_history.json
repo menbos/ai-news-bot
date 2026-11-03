@@ -1,120 +1,6 @@
 {
-  "updated": "2026-11-02T05:32:37.281931+00:00",
+  "updated": "2026-11-03T05:32:09.679229+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMi4AFBVV95cUxNUDhKY05RNmdWcC1qQU9sRE93R09fUjdJVEMwbmNpZ2l1QXRBMTIzYXE4Qmdtd0NzWTZWbGxEdlJmZGNCSGtsTkh3RVEwWFJ3SmZHM0paVzA4QjlKZWd3dzJpLTA3RU90X09JZG9wOTJyekhha05QZGZvVFZTN1BRTzBNcXlkRlBPaVd1cWo4WWM4YTZVdkhEZjVabjhiVENkVEFMRGZfeEVBNG1CQ3ZFNWE0UE1LOVp1cE1xRWY2UkU5ZFJqeHRtQ19OODJ1YnBTaS1na3pqWHJHMXZIMmFhRQ",
-      "title": "AI Regulation Seen Benefiting Public and Investors Alike",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "How AI Regulation Could Help the Public—and Investors Too - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR",
-      "title": "SpaceX Secures $40 Billion Debt, Predicting Neocloud Shakeout",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNX2RHNFI2M0VmLTVfUGwyWjBzTFZwcHBoNlFwZEttM3NHOHBVQzJmZmp0YV81V1lyX2VCWFZGMENVZzRhV3lPbVYzQWE1cHIwejVtbzlGR1hmMWpPTUlhM2pObDMyM1ZBMmEtbm14QXVnMUkzRnZvY25sTHlXM0hmTnNwbGx4SjNGaVhseGNHUVVQb0VzaVFVWTdVTUVMWkRVMS1JaFZWbDkzNmF5UEtWWWs2TEZxdjA",
-      "title": "Anthropic's IPO Stands Alone Amidst AI Market Volatility",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "Anthropic IPO stands alone as AI market jitters sideline others - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report",
-      "title": "SK Hynix Shares Outperform Amidst AI Selloff Due to Kioxia Dividend Prospects",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "SK Hynix Shares Defy AI Selloff With Help From Kioxia Gains"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-26/sk-hynix-leveraged-funds-to-be-delisted-in-us-as-ai-rally-cools",
-      "title": "SK Hynix Leveraged Funds Face Delisting as AI Rally Moderates",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "SK Hynix Leveraged Funds to Be Delisted in US as AI Rally Cools"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-26/japan-s-takaichi-to-hold-cybersecurity-meeting-as-attacks-grow",
-      "title": "Japan Convenes Cybersecurity Meeting Amid Rising Data Breach Concerns",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "Japan’s Takaichi to Hold Cybersecurity Meeting as Attacks Grow"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds",
-      "title": "SpaceX Debt Deal Closure Disputed Amid Ongoing Pricing Talks",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "Musk Claims $40 Billion Chips Debt Closed, Yet Talks Ongoing"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing",
-      "title": "Chinese PCB Maker Dongshan Secures $1.3 Billion in Hong Kong Listing Amid Volatile AI Market",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "Chinese PCB Maker Dongshan Raises $1.3 Billion in HK Listing"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings",
-      "title": "AI Spending Fears Loom Over Big Tech Earnings Despite Expected Strong Growth",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video",
-      "title": "Markets Await Big Tech Earnings for AI Investment Payoff Confirmation",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "Markets Look to Big Tech for AI Payoff"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU",
-      "title": "Toyota Enters Humanoid Robot Race, Challenging Tesla and China",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "Toyota takes on Tesla and China in humanoid robot race - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPMXJ1b29qMXVnY2hUcmM3Tmo4Und2Zm9BeV9sOHQwVWJZd3VOUDlOYTdtQi1iWlV0amw2a1c2a2J6MGVtOU1ublFXYl9qNTYyTFEzeE9kQVA4QVZQRkxzTmtvMlhjNDV4dm1NcFNUZ092RS1sa0wyS3Y2SFhPUTc5aDdOTWU",
-      "title": "Students Express Growing Concerns Over AI's Impact on Future Prospects",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "Students fear AI is about to ruin their future - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQaHhLUi1IeDVOLXZPSmlYYVpxRnZDUVBiMDRTTUdtMnQxRE5DcEUyenlyaWhZWXdfVno3ZU5FUzZUYkg4ODVlY0VDV0hneFdYUG1nX090Wml0dmk4b2NBM2k2QzA2VV9FNUVtM2lVczJGbjc2c3EyVmN2LVVGeUh0ZXllRnMxaUFfcVIyQmVuYXVPVGROeEk4akxUbmxKcElHUXU4eE42TFBwdkVj",
-      "title": "Two AI Chipmakers Drive Significant Portion of US Earnings Growth",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "Two AI Chipmakers Make Up 34% of America’s Earnings Boom - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxNM1FUNXNYbUQ4NDMxOTNhQmtMS0J5cmxXakloQlRfa1NaTkwtOV9pRldOMldOXzk0VUczZm9FbkhKV250cTlrWjVMZXhvMG9pdWhHc0daelhvRkNjVGxGY3JjLXhuT3hiSjYxV0xhZDhYazAzY3hwTnNzcEZ2OURVaUV2Ylh0bE03WWprYkRPV2NUZVdF",
-      "title": "AI Fuels Record Growth in the Information Technology Sector",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "AI Drives Record Growth in Information Technology - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxPRTJaSVEwZnRJVGsxeTg2ZmFoNVdobHp6eVdoTFpBYjRjVDFkaGtzT29DdXZKXzJYNk9tWDJvQUROdDVTdUZBV0FBRG5LYlFWVjBvQzlSSlAxRXI1R1FGZ0JUYm16a3BjcTBfaDV5SUFzUnI5MkhXQUtuY3JKY19ack10bWtFQy1XT0Fia2RqYktTclR2a0hWbFNDWWRieEh1LXc",
-      "title": "Grok Releases First Seven Minutes of AI-Generated 'Odyssey'",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’ - TechCrunch"
-    },
-    {
-      "url": "thenextweb.com/news/us-treasury-outbound-investment-rule-china-ai-biotech",
-      "title": "US Treasury Proposes Curbs on Investments in China and Russia for AI and Chip Sectors",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "US Treasury moves to curb AI, chip and biotech deals in China and Russia"
-    },
-    {
-      "url": "thenextweb.com/news/western-australia-deloitte-refund-ai-university-report",
-      "title": "Western Australia Seeks Refund from Deloitte Over Flawed AI-Aided Report",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "Western Australia seeks refund from Deloitte over flawed AI-aided report"
-    },
-    {
-      "url": "thenextweb.com/news/openai-funding-round-1-25tn-uae-coatue",
-      "title": "OpenAI Lowers Valuation Target to $1.25 Trillion for $30 Billion Funding Round",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "OpenAI cuts its valuation target to $1.25tn as it nears a $30bn round"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "title": "r/opensource Bans AI, Non-English Speakers, and Other Content",
-      "first_seen": "2026-10-26T05:31:37.282698+00:00",
-      "rss_title": "r/opensource just banned AI, non-English speakers, and more"
-    },
     {
       "url": "openai.com/index/building-scientific-understanding-with-academic-communities",
       "title": "OpenAI Collaborates with Academia on Scientific Discovery",
@@ -950,6 +836,125 @@
       "title": "AI Bubble in China Shows Signs of Deflation, Valuations Shrink",
       "first_seen": "2026-11-02T05:32:37.281931+00:00",
       "rss_title": "AI Balloon in China Deflates by Half a Trillion Dollars"
+    },
+    {
+      "url": "openai.com/index/scaling-git-at-openai",
+      "title": "OpenAI Develops Pando to Scale Git for Advanced AI Development",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "Scaling Git at OpenAI"
+    },
+    {
+      "url": "openai.com/index/grid-protectors-program",
+      "title": "OpenAI Launches Grid Protectors Program for Sustainable Compute Campus Development",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "Introducing the Grid Protectors Program"
+    },
+    {
+      "url": "openai.com/index/lifeval",
+      "title": "OpenAI Unveils LifeVal Benchmark for Assessing AI's Everyday Task Assistance",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "LifeVal"
+    },
+    {
+      "url": "openai.com/index/dan-driscoll-joins-openai",
+      "title": "OpenAI Appoints Senior Counselor for National Security Modernization",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai",
+      "title": "AWS Introduces Crawl4AI for Enhanced Web Content Preparation on Amazon Bedrock",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai",
+      "title": "Amazon SageMaker AI Enables Efficient Agentic Development with Knowledge Distillation",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "Build efficient agents with knowledge distillation on Amazon SageMaker AI"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore",
+      "title": "Amazon Bedrock and Nova Embeddings Power Agentic Engineering Intelligence",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock",
+      "title": "Circle K Accelerates DevOps Incident Triage with Amazon Bedrock Agentic System",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxORmJ2VVhPbGtGcWJHSGJKcV9UUHU1NzJrdWxPYndXeFNhSDdtaWtZWFl0NFJuQjFYM3pJbVlDR2J6eDdIejBQazh3RDhHYTgweGdvUHllajQyenl2UDB4dVIyZEdzd3Q0RXRHT2xDWEFzcVJlUERFRmkzZkQ4aTd2bEpEQnl2M1NfbHRxQXlONTdTaDg0S3o1aw",
+      "title": "Google Cloud Disrupts XCPE Botnet with AI-Powered Security Measures",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "Shutting the Door on the XCPE Botnet - Google Cloud"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMifkFVX3lxTE4ydDVnYVkzYzk0NlJUZXdoaWtFMkEtRDRmQk5qTTI2N0JhQzA1M0k0S0FRS2hmdEVqMkd5Qm5RVmcxclN5ZUxNOU0tcVJmUVlBN2hvVDFoZDVBWjZKN1ZrdlJ2WEJ5RDJaNUJhcTV6LTZjWnM4WjZzS2Z0bTRpd9IBgwFBVV95cUxPT2hEMEdnakVCU2tPNkRIeXpiMmFGalFrT25NR0lxWkE0S012bUZyVmVaN0pQUmRudzJWYVJOYjdJbV9zU0VIc1pYVl90RGlLSlRxVXJ6a0ZLeUhpaWh6TmRTSHJYMFczMGZ1dk54bVBVcV9LNE9jTDNsbDUxek1oZS02cw",
+      "title": "Anthropic Reports Strong Q3 Performance with Significant Purchase Commitments in IPO Filing",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1 - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxPdzN3SjJ4TW80RjJSendoQnBrN0FwazUyWTI5Ukk0X25NdkdSM19BZndZSDJxUm1ZZU1ER1phZGJ4SFh1ZXBoSnNGR1RqRjU1MDMzLWdxVGQwYTEwbnBBX3FMSzVJRHR5a01OQUNRM1l0X0laQkZ2bi1fTDVoMHlCMWNGUWk4a0Q5RThjOU00ODRFdGFOWjZLX0hSRU55NmhjbHhjcXlRd0lzV0kwTWU2QXg5b1g",
+      "title": "Anthropic Updates IPO Prospectus with Q3 Financials Amidst High Growth",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "Anthropic releases amended IPO prospectus with third-quarter financials - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxORzVaRWF3M05XNENCeWdkX1lJWGRjck8yWGh5SkZuR2N0WlFpYldkMXZCU2pXNWJ4WXgwQWl1aEJwYzhGbUJidkxic3lHQWtHMzFyUGtSTE1CamhlV19nQW5QUEtWUG13ZGFBZ0xaSDBjVjBlbGFSUzZocEdvZnRuWDhSbHBaN3lnUlNLZmNWTGh4ekRoTG5RVUpfamRQZ25nejJvVm9TQ0R1dE9lbWFScU5jWFg",
+      "title": "White House Maintains Secrecy on AI Security Threat Vetting Procedures",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "White House refuses to disclose how it vets AI security threats - The Washington Post"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD",
+      "title": "OpenAI Establishes Partnership with UAE's ADNOC and G42",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
+      "title": "China Proposes Comprehensive AI Safety Guardrails",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "China Plans Broad AI Guardrails After Global Security Lapses"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-03/morgan-stanley-ceo-sees-up-to-15t-ai-investment-wave-video",
+      "title": "Morgan Stanley CEO Predicts $10-$15 Trillion AI Investment Wave",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "Morgan Stanley CEO Sees Up to $15T AI Investment Wave"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMicEFVX3lxTFA0MzV4WGtzeTlmbkFtWXN2bUVQaEN4NHhsbjQxSmtPSHdJRmxyZHgyM0FWZk1CVF9vSkhTZzhaWGFOSnhnbWcwTlFhX1QtaHJtZ3ZfX0x4ZzlNaWVIZ3VKV2dNMzVhNV8wS1B6LTRDc0Y",
+      "title": "Marvell to Acquire Lumentum for $11.5 Billion in AI-Driven Data Center Expansion",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPdVIwNmtWSjgyZ3BiQUV2akNTSzVrQnQyeTVVSEtua3BBVXpiQURSQmsyVzVwY2R3QTdOTWZER24xTTBPay0ybXl6RzBPdmtzOVdPbnR4dmtDOEliZWtyQUZwVjhtN1h4VVo4c09iVTMweVVYUmdSdjUyeEtNZXpOYXdFTk4",
+      "title": "OpenAI Hires Former US Army Secretary Amidst Military AI Expansion",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "OpenAI hires former US Army secretary as military seeks to expand AI use - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPS1lpUVNCSFh2d3RRMzZsWktaTndnSjBBMDBxZFBYcXJVaUVwMWVubXczTjV5WGZaUTAwcjg1WGxpOVN2WXNDRzdOUzFObmREUi1FMnBfVk5FSHkteHplVU5uTU5NQ3FsSUZSMVhFcE5kYzc2RUkwZDF0eE4wQUNEcTlUdVU",
+      "title": "GCHQ Warns of Routine Chinese and Russian AI-Powered Cyber Attacks by 2028",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "Chinese and Russian AI cyber attacks will be routine by 2028, says GCHQ - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxNOHhRVEJlYlluMGRWVGJtdDdjRTRwYjJWNVFDanFIYnVsd1hCYy11R0V6Uks3bEtYY0tHX051Z2pwdnNIaDNsREE4Q1Byb1h1YkZLQzlVY0Jva3lPbXA2TXpjMG9RVmxGUmswT0piZzF2TXdBaWxwcWFJRi11MWMzdTAxSnRTM3xuYVIxeVZicW5ndWk2",
+      "title": "Oracle Plans $20 Billion Debt Offering to Fund AI Initiatives",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxPQVljaGY5R3BZWkk4MnZTNDRqX194WXRiUVlkUmF3aXRNaWhRSzhnQWlBOTJGQ1I5Zk83SHpUWXFDSGlZRU92cWxBbUladnJNZF9rdF9ualpVb1Iwa3ZGc0VTWExqamFOMW9adW1OaEpadktBWEZmWUNvbE5hYVd4MklFdGRHMkdMLVk3S3l6NU5ZVnQxU3JaM2M5SnNGVGlpbFJLY1dUMmNObE0yTDVrRVdiRGNPTk9aZ3ptQWJYMkVYWW9fU2c",
+      "title": "Healthcare Poised to Become Major AI Beneficiary, Analysts Suggest",
+      "first_seen": "2026-11-03T05:32:09.679229+00:00",
+      "rss_title": "COMMENTARY: Healthcare could be the next big AI winner - Reuters"
     }
   ]
 }
