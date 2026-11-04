@@ -1,126 +1,6 @@
 {
-  "updated": "2026-11-03T05:32:09.679229+00:00",
+  "updated": "2026-11-04T05:31:28.586764+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/building-scientific-understanding-with-academic-communities",
-      "title": "OpenAI Collaborates with Academia on Scientific Discovery",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Working with academic communities to build scientific understanding"
-    },
-    {
-      "url": "openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "title": "GPT-6.1 Sol Enhances Code Security for CodeRabbit",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases"
-    },
-    {
-      "url": "openai.com/index/chatgpt-expanding-world-of-work",
-      "title": "ChatGPT Usage in the Global Workforce Expands",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "ChatGPT’s expanding world of work"
-    },
-    {
-      "url": "openai.com/index/openai-cut-incident-investigation",
-      "title": "Ultrafast AI Tool Drastically Reduces Incident Investigation Time at OpenAI",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI"
-    },
-    {
-      "url": "openai.com/index/introducing-gpt-6-1-terra",
-      "title": "OpenAI Introduces GPT-6.1 Terra for Enhanced Computer Use",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Introducing GPT-6.1 Terra"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3",
-      "title": "AWS SageMaker SDK v3 Enables Scalable Edge Computer Vision",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock",
-      "title": "Prompt Caching Optimizes OpenAI Model Usage on Amazon Bedrock",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk",
-      "title": "AWS CDK Deploys Agentic Retrieval on Bedrock Knowledge Base",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK"
-    },
-    {
-      "url": "apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today",
-      "title": "Siri AI Expands Language Support Globally",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Siri AI is available in more languages starting today"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQaUtNaHFNcWhwbXByd1BLYTlMcjgxN1A4M1RpVHQtT0JJTWp5SG9sZm5uQlJIaURJME1ZOVY5ZThyTVdPcW5TbTlRWXhNcU0yb3hXMjl6dzRMMnZXNm9sOUluMFdaY19rNlFMVWRmNEQ5WUs2ZDlNSDAzUnZ5S1Z3V0g2aDI",
-      "title": "Meta Plans Massive $95 Billion Stock Offering for AI Expansion",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Meta plans $95bn stock offering to bankroll AI expansion - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxQcHVNeUo5OThtcHVOdE1HTHhlQjV0TXR0RkVpMEk2Qm1hQjdPNzlkaXZaZU5oX1Y3eFoyUW1FZGZ5YmJOX0d0eGRHUUtRaEtvbzRvcWtOenFzSWowam1ZMlQyTmJleGN3dU1JbVhiemduMnZRY0E0a3U4V1N2bUZhLXBRTXNySFdNeE92S3pPeWRmUDRRd0VLYWRCNklpZ2c2NDhOckpzTE5tbnItcXV5VVE2ajJwRG9UeHFOcWpsNmRqbUh0bVpR",
-      "title": "Alibaba AI Model's Test Attempt to Reach Beijing Server Raises Security Concerns",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxPU0V1TF9Dd0ZIU0VSSC1UQzZPTkx4TnNXTXlHb3N6TWx1UHZCc2N1bGYtZDNMUnlNZmpRbEtXbW5CTHB0WHozTTcxZlBwSkhfdEpuVDdGd0ZhdERUYUtubTFua2o2M1R4VEdDeldCQnVLd210NmdfdF9fSHY3bmJHYjIxVHN0Rks1VVZHWUNyOE9QczN6Y2YwRV85d3VFc2pF",
-      "title": "HSBC Adjusts Global Equities Strategy Amid Middle East and AI Risks",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "HSBC cuts global equities to 'neutral' on Middle East, AI risks - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxOYm9SNzlHcHlNZGVySms0MHdXeEgwM3g3cjNkRmdWNEhnRjNoTzVwQTJ1aG5wOUhYc0gzdWhGanV2S2Z2WWtHd3lOSjhnV0ExbjJGcExlQ3NDZWJRTGNFdU1RWENsdWFBeWtFSElqenBBQW1DdnQ5ZXNaNTQzUFJ2T25BdHZwUGJhLW9Qai1B",
-      "title": "The Economist Argues Against Unfettered AI Development",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "The “let-it-rip” camp is wrong on AI - The Economist"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOenNBLVpMZlhpa3NSeG03QXlQY0VEaVhkTllnTGwxVG9TS3l5MXBtTGt4dW9oQ3NVTVFsbGgyNTI2eDJGSG1iSmpvWGJ6U3FoY3doQnVBSS01LTVqNTZtQng4SHNFMDIxQmxHRTZOUEZzNFBjTEQwQVhQd2FEa2ZsNC1XQQ",
-      "title": "Experts Weigh In on Proposed AI Company Regulations",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "What Should the Rules for A.I. Companies Actually Be? We Asked the Experts. - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxNZ0MzWm5aTnVXVkhBQ2lxYVFWOGlTWmQtUXZnbEZrZ01aVS1oZVQ3ci0ySkNubUtybEJRTkRvbmRjaUJJRThaSHZPTjlteUYweS1PUE90VGJTeDF3M0ZsNmJNejBRdkctOXFXQ2NDODVBd29VUHZiMlRWaVF5YWxrTDlES2lUZ1dmajMySTdCQnVLMVdWUDBheGdzbERMWnp0NG9FSFN1TWNUa1hOSy1ucEZKNGs1T0V0U1daYkxJNC15N0FsQTdj",
-      "title": "Bank of Korea Warns of $100 Billion Chip Export Drop if AI Spending Slows",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf",
-      "title": "China's AI Market Faces Significant Downturn, Reuters Reports",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "In China, the AI bubble has already burst - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-10-26/anthropic-s-ipo-sets-up-defining-moment-for-wall-street-and-ai-boom",
-      "title": "Anthropic IPO Signals High Stakes for AI Boom on Wall Street",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Anthropic’s IPO Sets Up Defining Moment for Wall Street and AI Boom"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxQU1FHdFMxQmVxandsdXFSYTBuVzBGUklybTJrbUpRZ3JaOHRoSmFKNFFxMTJJdTFmc1h2SmU0YzRweGszTm4takFQMmo2WWNpZkQzNlo1dHItQW9tOEFfMFFCcXI1aUFTcG5ENEVxSlRLUmVlUXFEUFp4TGxEQjFSQmFwaFNJSzAwdXdPTUpTQUN2a3pVWW5Kd1NkTFlRN1c4aXJqai1KQjFaWnFYck4wYV9DQjdhYVRVTDNEdU9fSmx6ZWc",
-      "title": "Unconventional AI Acquires Israeli Chip Startup NeuReality",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Unconventional AI buys Israeli chip startup NeuReality to speed product development - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQc3ZCV0ppc2hHcjBodnk5VVZ4bXBPOE1RVGM1eGZkMEQwUTRYUTNpT3hWRExqTjZYdDc4ZW1uSVYtb0VWUEVvTjl2aVRCQjl1UDNxUmdUNVVNUHhFbnlVVTd4MGNHQktWdGE1RXlnWkZrejg3NnU0bWVad3p1a3p3dkpiNEQ",
-      "title": "US Lawmakers Challenge Plans for AI Agents to Run Companies",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Plan for AI ‘agents’ to run US companies challenged by lawmakers - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQbVdSNm1IZjFYTGtZVDZuYnEtb0JwZkpaTjFkbVBRR09WQ18teW9GdkVfZUVab1dSWmV3a3VnbERxdTJGQXg3eGRJVWZKblNtZFg5bEZJaHdza2dpbDMtUHFqNU41a2dBZVBORk1mT0o3VWJsVTRYekJFWnQ4UENrdmFEZlc4Z3FsUU5sTU93NlNFMC1zSE1COHh5eXhqOFM3cmhXS2xpTlhPcXln",
-      "title": "Banks and Blackstone Form $63 Billion Financing Vehicle for Broadcom AI Tech",
-      "first_seen": "2026-10-27T05:31:46.197431+00:00",
-      "rss_title": "Banks, Blackstone Form $63 Billion Financing Vehicle for Broadcom AI Tech - WSJ"
-    },
     {
       "url": "openai.com/index/oracle-apps-in-chatgpt",
       "title": "OpenAI and Oracle Expand Partnership to Integrate Business Apps into ChatGPT",
@@ -955,6 +835,124 @@
       "title": "Healthcare Poised to Become Major AI Beneficiary, Analysts Suggest",
       "first_seen": "2026-11-03T05:32:09.679229+00:00",
       "rss_title": "COMMENTARY: Healthcare could be the next big AI winner - Reuters"
+    },
+    {
+      "url": "openai.com/index/accelerating-engineering-for-the-physical-world",
+      "title": "OpenAI Technologies Accelerate Engineering Workflows Across Physical Industries",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Accelerating engineering for the physical world"
+    },
+    {
+      "url": "openai.com/index/cisco-cyber",
+      "title": "Cisco Enhances Cybersecurity Defenses with OpenAI Integration for Machine-Speed Response",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "How Cisco defends at machine speed with OpenAI"
+    },
+    {
+      "url": "openai.com/index/heimstaden",
+      "title": "Heimstaden Leverages OpenAI for Transformative Residential Real Estate Management",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Heimstaden is changing residential real estate management with AI"
+    },
+    {
+      "url": "openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "title": "OpenAI Conducts Internal Security Sprint to Fortify Defenses with AI",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Preparing our next security sprint to harden OpenAI"
+    },
+    {
+      "url": "deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+      "title": "Google DeepMind Accelerates Drug Discovery with Agentic Cheminformatics",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Agentic cheminformatics with Google Antigravity"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/ai-semiconductor-fabs",
+      "title": "AI Revolutionizes Semiconductor Manufacturing Processes, Boosting Engineer Efficiency",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/cities-physical-agentic-ai-applications",
+      "title": "NVIDIA AI Empowers Global Cities to Scale Services Through Physical and Agentic AI",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick",
+      "title": "Amazon Quick Unifies Structured and Unstructured Data for Conversational AI Agents",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Bring structured and unstructured data together with Amazon Quick"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway",
+      "title": "ServiceNow Integrates with Amazon Bedrock AgentCore for Secure API Access",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search",
+      "title": "Gen Digital Powers Norton Revamp's AI News Engine with Amazon Bedrock and Web Search",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore",
+      "title": "EDB Postgres AI and Amazon Bedrock Enable Governed Semantic Layers for Agentic AI",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws",
+      "title": "Cartesia Achieves Ultra-Low-Latency Voice AI on AWS Infrastructure",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Building ultra-low-latency voice AI applications on AWS"
+    },
+    {
+      "url": "huggingface.com/blog/allenai/statebench",
+      "title": "StateBench Released to Evaluate Language Models' Ability to Track State Changes",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00"
+    },
+    {
+      "url": "huggingface.com/blog/ibm-research/palette-deck-building",
+      "title": "Palette AI Model Learns Design Languages for Automated Deck Creation",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00"
+    },
+    {
+      "url": "github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world",
+      "title": "GitHub Copilot Assists Development of 'Arnis' World-Generation Tool",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Arnis turns any place on Earth into a Minecraft world"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z",
+      "title": "EU Court Advisor Cautions Google's AI Chatbot May Violate Copyright",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto",
+      "title": "US Election Results Impact AI Stocks, Triggering Market Volatility",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Democrats’ Win Rattles Trump Trades From AI Stocks to Crypto"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
+      "title": "Nvidia Faces Supply Constraints as Chinese Clients Receive Minimal RTX Chip Orders",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-03/canva-announces-layoffs-job-changes-for-about-22-of-workforce",
+      "title": "Canva Undergoes Major Workforce Restructuring Amid AI-Driven Industry Shifts",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Canva Announces Layoffs, Job Changes for About 22% of Workforce"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-03/super-micro-gives-outlook-that-tops-estimates-on-server-demand",
+      "title": "Super Micro Computer Raises Forecasts Amid Robust AI Server Demand",
+      "first_seen": "2026-11-04T05:31:28.586764+00:00",
+      "rss_title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand"
     }
   ]
 }
