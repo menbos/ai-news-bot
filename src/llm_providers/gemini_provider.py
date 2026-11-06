@@ -67,8 +67,13 @@ class GeminiProvider(BaseLLMProvider):
 
         super().__init__(api_key=api_key, model=model or self.default_model)
 
-        # Configure Gemini API client (google-genai SDK)
-        self.client = genai.Client(api_key=self.api_key)
+        # Configure Gemini API client (google-genai SDK). Pin the API version:
+        # google-genai 3.0 switched the default from v1beta to v1, and v1
+        # rejects thinking_config ("Thinking is not enabled for api version v1").
+        self.client = genai.Client(
+            api_key=self.api_key,
+            http_options=types.HttpOptions(api_version="v1beta"),
+        )
         logger.info(f"Gemini provider initialized with model: {self.model}")
 
     @property
