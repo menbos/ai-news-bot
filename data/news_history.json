@@ -1,125 +1,6 @@
 {
-  "updated": "2026-11-09T05:31:47.457101+00:00",
+  "updated": "2026-11-10T05:31:38.397540+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxNYmlUM050M0RzRW9uN2VCN1k4cFZFM1VrVjBnQU0ycHo0U3JLUExLOE9CNUlnS29IMGd5U2oweXE3Y0lTakNLQmgwYlNBU3VsdzJCa2h2MFV2SnVSckVlcnRQMnp4V2FGNVVUTTF3WjJJa1BlaHR3M3c2XzJkU3pDeGl2OGdxWllMOWtZR044d18tZFFWYjlDbEJuOEJCajhENEJHRG50aWdLcTk4S3c",
-      "title": "China's Robot Manufacturers Focus on AI for Enhanced Capabilities",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "China's robot makers have mastered the moves. Now comes the race for brains - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxNTE1kYlJEMnRVMXZkLWtCZ05nbkFaTGJCUlRCOWdqMGl2MURoT1lMNEdwMXBhdUZCWlB6NDc3YnQycU1oaGROVm1UeExjT0hDR1N6dU9PRkUtX1JBVGpuSlYyVGt2LVlMLTVWQU9rZ3pCcjFaRmk1dzNxUDlXS2xVd1liQ0Y1eldXSjgyVHJvaTNvU18wU3lLNTNkUEJHdTF3OW1xclozaTVocFNILTlSc00zMU8wdDFmQWJ2SFNQWGlhdmxtTWNhVEN2eFRYUQ",
-      "title": "Argentina's Milei Proposes Deregulated AI Environment",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Argentina’s Milei pitches a regulation-free AI haven at the end of the world - AP News"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNbll4VGlsal9aSG5UR3h5ZjZobjJGSHV4UVJXZDNrSEV4M3lTQXRnaWRaemVBZjRzMk4wVU5lTG1tMDFQLTdweklqemdlQkhoS3JBOWZFVHFxbG1yMXltcnl0LThzNm15R1Q3ZS1 temp1TWJqOXBCM1J6UjhSRHBsNGQ0VnVLelFERjJZeW5oM3U3eGVpSWxSUUFrU0VHcUVvSXBsRDF5NTdReGVWaXZYQlJkbTUtSUp6Tkhj",
-      "title": "South Korea Pledges Significant AI Investment in Budget Expansion",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-02/where-do-you-hide-from-an-ai-bubble-video",
-      "title": "Investor Skepticism Grows Amidst AI Bubble Concerns",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Where Do You Hide From an AI Bubble?"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-02/kioxia-shares-tumble-after-outlook-suggests-demand-leveling-off",
-      "title": "Kioxia's Cautious Outlook Signals Potential AI Demand Slowdown",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Kioxia Shares Sink After Outlook Shows Demand Leveling Off"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism",
-      "title": "Howard Marks Notes Increased Skepticism Following AI Market Setbacks",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-02/singapore-s-sttgdc-eyes-2-4-billion-loan-adds-to-ai-debt-binge",
-      "title": "Singapore Data Center Operator Seeks Large Loan Amid AI Infrastructure Boom",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Singapore’s STTGDC Eyes $2.4 Billion Loan, Adds to AI Debt Binge"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxNb0JSYUVTbWFDbVNEek5LbEFJckNNWEQ5THF0R1VVbnk3RHU5Q3RUeV9LT19Bdm9QZXBBMkR2cUNoVHhuN1dUcGFabnZoVmd0eUl6dHhrbGdYNHJRUnBGZF9QRTZZTFZXNGg1NlZRTmoxS1NsRVRWVzU2UmRyeFhReE13UnZBRE95UVVEN2pkaVZ6aWVic3dmVDBrQWFuZ1Q2QXkzdjRwUzJIVzJJVVBqMm1qTDFLZ1llbXdtcjdn",
-      "title": "AI Investors Seek Insurance Amidst High-Stakes Market Environment",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc",
-      "title": "Chinese Executive Linked to Nvidia CEO Suspected of Leaking Information",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE4zX3dLYjZ1SXVkdVhxSjh0WlEzRnBBUkFBdEJVOXdKNUFkTGkzak9JVjE2X3dNeUpvaDhELXVjOFJycHpYWmFqeWFlYVFtX3hlYW9HVnFaM2VLajdhVXhueEo4NUlaX3FWcTV1VXEwelg",
-      "title": "AI's Potential to Fragment Educational Learning Models",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Opinion | Don’t Let AI Split Learning - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMifkFVX3lxTE8xNVJ6alNGTS00b0R3MVc5TzZnd0hKckZwam5RcnNwMFIweEE5c0FmcDVhZGQ1Q01TRk12dzFyQS1OdlFxSFVodlZ6aGZFSzNpVGtlelZNdG1LNmFmeGUzN3F5NFhUcmRCdWdtRW5FRkJkbGl2SlN1T29GQVFNQQ",
-      "title": "AI-Powered Shopping Bots Poised to Disrupt Amazon's Dominance",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "The Shopping Bots Are Coming for Amazon - WSJ"
-    },
-    {
-      "url": "wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences",
-      "title": "AI Chatbots Leading Hikers Off-Course with Dangerous Outcomes",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences"
-    },
-    {
-      "url": "wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
-      "title": "New AI-Powered Infostealer Malware 'Volta-Autodoxer' Targets Victims",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims"
-    },
-    {
-      "url": "wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet",
-      "title": "Meta's AI Agent 'Muse' Yet to Transform Businesses Despite Hype",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet"
-    },
-    {
-      "url": "theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "title": "DIY AI Tamagotchi Created Ahead of Meta's Muse Charm Launch",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "I built an AI Tamagotchi before Meta could"
-    },
-    {
-      "url": "engadget.com/2300320/ai-glasses-replace-prescription-should-they",
-      "title": "AI-Integrated Prescription Glasses Offer New Vision Solutions",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "AI glasses can replace your prescription glasses, but should they?"
-    },
-    {
-      "url": "thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
-      "title": "Google's Satellite Runs AI in Orbit, Transmits Haiku",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home"
-    },
-    {
-      "url": "thenextweb.com/news/xai-naacp-lawsuit-gas-turbines-motion-to-dismiss-denied",
-      "title": "Judge Denies xAI's Motion to Dismiss NAACP Lawsuit Over Gas Turbines",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Judge rejects xAI’s bid to dismiss NAACP lawsuit over its gas turbines"
-    },
-    {
-      "url": "thenextweb.com/news/salesforce-rune-technologies-acquisition-missionforce-defence",
-      "title": "Salesforce Acquires Rune Technologies for Defense Sector AI Expansion",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "Salesforce to buy Rune in its most significant national security deal"
-    },
-    {
-      "url": "cleantechnica.com/2026/11/01/ai-balloon-in-china-deflates-by-half-a-trillion-dollars",
-      "title": "AI Bubble in China Shows Signs of Deflation, Valuations Shrink",
-      "first_seen": "2026-11-02T05:32:37.281931+00:00",
-      "rss_title": "AI Balloon in China Deflates by Half a Trillion Dollars"
-    },
     {
       "url": "openai.com/index/scaling-git-at-openai",
       "title": "OpenAI Develops Pando to Scale Git for Advanced AI Development",
@@ -948,6 +829,126 @@
       "title": "World Models Poised for Widespread Integration in AI Applications",
       "first_seen": "2026-11-09T05:31:47.457101+00:00",
       "rss_title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know"
+    },
+    {
+      "url": "openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "title": "ChatGPT Enterprise Expands Availability Through AWS Marketplace",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "ChatGPT Enterprise now available in AWS Marketplace"
+    },
+    {
+      "url": "openai.com/index/control-room",
+      "title": "OpenAI's Control Room Enhances Safety for AI Research Infrastructure",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Control Room: A central system to track and stop model workloads across our research infrastructure"
+    },
+    {
+      "url": "openai.com/index/coderabbit-codex-daybreak",
+      "title": "CodeRabbit Achieves 20x Software Output Using OpenAI Models",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "CodeRabbit scales agentic software development and ships 20x more"
+    },
+    {
+      "url": "openai.com/index/kuken",
+      "title": "Kuken Industries Accelerates Drawing Searches with OpenAI API",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Kuken Industries searches 70 years of drawings in minutes"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/robotics-simulation-advancements-corl",
+      "title": "NVIDIA and Partners Advance Robot Dexterity Through Simulation",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/korean-startup-investments-msit",
+      "title": "NVIDIA Invests in Korean AI Startups at Partnership Forum",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/korea-secure-agentic-ai",
+      "title": "Korea Enhances Agentic AI Security with NVIDIA Technologies",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick",
+      "title": "AWS Quick Introduces Skills and Agents for Workflow Automation",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "How skills and agents work in AWS Quick"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base",
+      "title": "Amazon Bedrock Managed Knowledge Base Enhances Agentic Retrieval",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws",
+      "title": "Claude Fable 5.2 and Mythos 5.2 Now Available on AWS",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Introducing Claude Fable 5.2 on AWS"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart",
+      "title": "NVIDIA Nemotron 3.5 Super VL Deployed on Amazon SageMaker JumpStart",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore",
+      "title": "CrossnoKaye Integrates Physical AI with Amazon Bedrock AgentCore",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNbDluRWk0RzZlUkdHX2JINmF3NmVPNm4zZHJBMi1uZkxOaFJQOXZEUWpiajVJSFV2aGhDaGpMa3M4NHkzUEVfYzl6SzJhTUkta2UzMFVIY0N6OFV0MFg1VXFNbktrbnZNYjk0cm9neU1ON0pwOFVpSU1yVWNTUUQ4N3ZLeVZieVc5R2xORVVsWnpWb0l2TFF4M2FaSnk1U0QxWUJocWlIel9KUEtEQjRCbWhFSFJ2R1U",
+      "title": "Google Cloud Introduces TPU Sync for Faster Inference and RL",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Introducing TPU Sync: Fast KV cache and weight transfer for inference and RL on TPU - Google Cloud"
+    },
+    {
+      "url": "status.openai.com//incidents/01M71W79MAGEXEX93QTVTBYJ4K",
+      "title": "OpenAI Addresses Incorrect Cost Data in Costs API Exports",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Incorrect cost data in Costs API exports"
+    },
+    {
+      "url": "status.openai.com//incidents/01M7193DWYRFWQM5W6E3VZ7TM7",
+      "title": "OpenAI Resolves Elevated Errors on API Services",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Elevated Errors On API"
+    },
+    {
+      "url": "githubstatus.com/incidents/6jm5k16vyhfg",
+      "title": "Degraded Availability for GPT-5.3 Codex and GPT-5.6 Models in Copilot",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxONUFPLXl4U3VtZUpHSmVuRkpTTVV3SHNBNmpnTkl6OTk5YXRhZTVFb3lwcEhqa2N3eng3TWdkYlBNV1VvTXFIa2dhQTFfWDJmOThTT3o2anBxakt6N3dBQVh6WmF4V29FQld1d1A2VFFMUTVxdENFRTRVX0t2bDFEUVhTRFZHbldoX3FzNzdmQlY4S09qUV9tWGxpelpBRDNiWk5R",
+      "title": "Enterprises Confident AI Regulation Won't Hinder Innovation",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Enterprises Say AI Regulation Won’t Stop Corporate Innovation - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxPQnNsYzdpaDRKS3c2Yi1LdVdWczlkM3QwSEJPMUowOUxxeTZZMUZodGt5SGxucEFkcVkybHhsOTFfWjVyeGdYcTNxbGR1VmNVNHRFc19fMUVoVGJTS1FBS2NaV3pKbzBJZWZOdnBVcXV3ZW55dWZ3WkhSVlBNSlpNc0hBNXBnTlJ0Y3dOQzhoUlJ2TkNBdlM0THVXMDVUcVFxZFFLeEN3",
+      "title": "Nvidia Faces Renewed Export Control Push Amid Spy Scandal",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Nvidia’s Next Headache: New Push For Export Controls in Wake of Spy Scandal - The Information"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules",
+      "title": "Australia Establishes AI Safety Regulator with Enforcement Powers",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "Australia to Create AI Safety Regulator, Mandatory Rules"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPbFFRQWRkVjczS1ZIelZTc0pKUVhEVzFLaWFDSS1GcnNCMEZld21WVEM3UDJ5U2h5MDhwdDVPLTliSnhjX1lfUi1XR3VhQ0tJS3hscF9PbXpLMjY5dm1FWDhiOGtnUERDNUZ4NjdEZXI1bEszeFpPVThMQTJiRkRRQzNpWGpQcjBMZFJVY2FFTUFwajFlbWZOX2MwNTZXWmNQRGFiV0F1RUVnRmo0eWdTdzF2MUVzSkxhUlBweXZJZC1WMkZwRkZRSQ",
+      "title": "AI Demand Fuels Data Centers' Hunt for Used Turbines and Jet Engines",
+      "first_seen": "2026-11-10T05:31:38.397540+00:00",
+      "rss_title": "AI power rush sends data centres hunting for used turbines and jet engines - Reuters"
     }
   ]
 }
