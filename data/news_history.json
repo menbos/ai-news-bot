@@ -1,125 +1,6 @@
 {
-  "updated": "2026-11-10T05:31:38.397540+00:00",
+  "updated": "2026-11-11T05:31:51.048853+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/scaling-git-at-openai",
-      "title": "OpenAI Develops Pando to Scale Git for Advanced AI Development",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "Scaling Git at OpenAI"
-    },
-    {
-      "url": "openai.com/index/grid-protectors-program",
-      "title": "OpenAI Launches Grid Protectors Program for Sustainable Compute Campus Development",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "Introducing the Grid Protectors Program"
-    },
-    {
-      "url": "openai.com/index/lifeval",
-      "title": "OpenAI Unveils LifeVal Benchmark for Assessing AI's Everyday Task Assistance",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "LifeVal"
-    },
-    {
-      "url": "openai.com/index/dan-driscoll-joins-openai",
-      "title": "OpenAI Appoints Senior Counselor for National Security Modernization",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai",
-      "title": "AWS Introduces Crawl4AI for Enhanced Web Content Preparation on Amazon Bedrock",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai",
-      "title": "Amazon SageMaker AI Enables Efficient Agentic Development with Knowledge Distillation",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "Build efficient agents with knowledge distillation on Amazon SageMaker AI"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore",
-      "title": "Amazon Bedrock and Nova Embeddings Power Agentic Engineering Intelligence",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock",
-      "title": "Circle K Accelerates DevOps Incident Triage with Amazon Bedrock Agentic System",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxORmJ2VVhPbGtGcWJHSGJKcV9UUHU1NzJrdWxPYndXeFNhSDdtaWtZWFl0NFJuQjFYM3pJbVlDR2J6eDdIejBQazh3RDhHYTgweGdvUHllajQyenl2UDB4dVIyZEdzd3Q0RXRHT2xDWEFzcVJlUERFRmkzZkQ4aTd2bEpEQnl2M1NfbHRxQXlONTdTaDg0S3o1aw",
-      "title": "Google Cloud Disrupts XCPE Botnet with AI-Powered Security Measures",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "Shutting the Door on the XCPE Botnet - Google Cloud"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMifkFVX3lxTE4ydDVnYVkzYzk0NlJUZXdoaWtFMkEtRDRmQk5qTTI2N0JhQzA1M0k0S0FRS2hmdEVqMkd5Qm5RVmcxclN5ZUxNOU0tcVJmUVlBN2hvVDFoZDVBWjZKN1ZrdlJ2WEJ5RDJaNUJhcTV6LTZjWnM4WjZzS2Z0bTRpd9IBgwFBVV95cUxPT2hEMEdnakVCU2tPNkRIeXpiMmFGalFrT25NR0lxWkE0S012bUZyVmVaN0pQUmRudzJWYVJOYjdJbV9zU0VIc1pYVl90RGlLSlRxVXJ6a0ZLeUhpaWh6TmRTSHJYMFczMGZ1dk54bVBVcV9LNE9jTDNsbDUxek1oZS02cw",
-      "title": "Anthropic Reports Strong Q3 Performance with Significant Purchase Commitments in IPO Filing",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1 - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxPdzN3SjJ4TW80RjJSendoQnBrN0FwazUyWTI5Ukk0X25NdkdSM19BZndZSDJxUm1ZZU1ER1phZGJ4SFh1ZXBoSnNGR1RqRjU1MDMzLWdxVGQwYTEwbnBBX3FMSzVJRHR5a01OQUNRM1l0X0laQkZ2bi1fTDVoMHlCMWNGUWk4a0Q5RThjOU00ODRFdGFOWjZLX0hSRU55NmhjbHhjcXlRd0lzV0kwTWU2QXg5b1g",
-      "title": "Anthropic Updates IPO Prospectus with Q3 Financials Amidst High Growth",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "Anthropic releases amended IPO prospectus with third-quarter financials - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitAFBVV95cUxORzVaRWF3M05XNENCeWdkX1lJWGRjck8yWGh5SkZuR2N0WlFpYldkMXZCU2pXNWJ4WXgwQWl1aEJwYzhGbUJidkxic3lHQWtHMzFyUGtSTE1CamhlV19nQW5QUEtWUG13ZGFBZ0xaSDBjVjBlbGFSUzZocEdvZnRuWDhSbHBaN3lnUlNLZmNWTGh4ekRoTG5RVUpfamRQZ25nejJvVm9TQ0R1dE9lbWFScU5jWFg",
-      "title": "White House Maintains Secrecy on AI Security Threat Vetting Procedures",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "White House refuses to disclose how it vets AI security threats - The Washington Post"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD",
-      "title": "OpenAI Establishes Partnership with UAE's ADNOC and G42",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
-      "title": "China Proposes Comprehensive AI Safety Guardrails",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "China Plans Broad AI Guardrails After Global Security Lapses"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-03/morgan-stanley-ceo-sees-up-to-15t-ai-investment-wave-video",
-      "title": "Morgan Stanley CEO Predicts $10-$15 Trillion AI Investment Wave",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "Morgan Stanley CEO Sees Up to $15T AI Investment Wave"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMicEFVX3lxTFA0MzV4WGtzeTlmbkFtWXN2bUVQaEN4NHhsbjQxSmtPSHdJRmxyZHgyM0FWZk1CVF9vSkhTZzhaWGFOSnhnbWcwTlFhX1QtaHJtZ3ZfX0x4ZzlNaWVIZ3VKV2dNMzVhNV8wS1B6LTRDc0Y",
-      "title": "Marvell to Acquire Lumentum for $11.5 Billion in AI-Driven Data Center Expansion",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPdVIwNmtWSjgyZ3BiQUV2akNTSzVrQnQyeTVVSEtua3BBVXpiQURSQmsyVzVwY2R3QTdOTWZER24xTTBPay0ybXl6RzBPdmtzOVdPbnR4dmtDOEliZWtyQUZwVjhtN1h4VVo4c09iVTMweVVYUmdSdjUyeEtNZXpOYXdFTk4",
-      "title": "OpenAI Hires Former US Army Secretary Amidst Military AI Expansion",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "OpenAI hires former US Army secretary as military seeks to expand AI use - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPS1lpUVNCSFh2d3RRMzZsWktaTndnSjBBMDBxZFBYcXJVaUVwMWVubXczTjV5WGZaUTAwcjg1WGxpOVN2WXNDRzdOUzFObmREUi1FMnBfVk5FSHkteHplVU5uTU5NQ3FsSUZSMVhFcE5kYzc2RUkwZDF0eE4wQUNEcTlUdVU",
-      "title": "GCHQ Warns of Routine Chinese and Russian AI-Powered Cyber Attacks by 2028",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "Chinese and Russian AI cyber attacks will be routine by 2028, says GCHQ - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxNOHhRVEJlYlluMGRWVGJtdDdjRTRwYjJWNVFDanFIYnVsd1hCYy11R0V6Uks3bEtYY0tHX051Z2pwdnNIaDNsREE4Q1Byb1h1YkZLQzlVY0Jva3lPbXA2TXpjMG9RVmxGUmswT0piZzF2TXdBaWxwcWFJRi11MWMzdTAxSnRTM3xuYVIxeVZicW5ndWk2",
-      "title": "Oracle Plans $20 Billion Debt Offering to Fund AI Initiatives",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxPQVljaGY5R3BZWkk4MnZTNDRqX194WXRiUVlkUmF3aXRNaWhRSzhnQWlBOTJGQ1I5Zk83SHpUWXFDSGlZRU92cWxBbUladnJNZF9rdF9ualpVb1Iwa3ZGc0VTWExqamFOMW9adW1OaEpadktBWEZmWUNvbE5hYVd4MklFdGRHMkdMLVk3S3l6NU5ZVnQxU3JaM2M5SnNGVGlpbFJLY1dUMmNObE0yTDVrRVdiRGNPTk9aZ3ptQWJYMkVYWW9fU2c",
-      "title": "Healthcare Poised to Become Major AI Beneficiary, Analysts Suggest",
-      "first_seen": "2026-11-03T05:32:09.679229+00:00",
-      "rss_title": "COMMENTARY: Healthcare could be the next big AI winner - Reuters"
-    },
     {
       "url": "openai.com/index/accelerating-engineering-for-the-physical-world",
       "title": "OpenAI Technologies Accelerate Engineering Workflows Across Physical Industries",
@@ -949,6 +830,126 @@
       "title": "AI Demand Fuels Data Centers' Hunt for Used Turbines and Jet Engines",
       "first_seen": "2026-11-10T05:31:38.397540+00:00",
       "rss_title": "AI power rush sends data centres hunting for used turbines and jet engines - Reuters"
+    },
+    {
+      "url": "openai.com/index/gilbert-tobin-sam-nickless",
+      "title": "Gilbert + Tobin Leverages OpenAI for Legal Business Transformation",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Gilbert + Tobin rethinks the business of law with AI"
+    },
+    {
+      "url": "openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "title": "OpenAI Academy Empowers Caregivers with ChatGPT Skills",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Helping caregivers use AI in everyday life"
+    },
+    {
+      "url": "openai.com/index/introducing-businesses-chatgpt",
+      "title": "ChatGPT Introduces 'Businesses' Feature for Enhanced Insights and Engagement",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Introducing Businesses in ChatGPT"
+    },
+    {
+      "url": "openai.com/index/ai-effect-on-freelance-work",
+      "title": "AI's Impact on Freelance Work: Shifting Demand and Increased Budgets Identified",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Work at the Frontier: AI’s effect on freelance work"
+    },
+    {
+      "url": "blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "title": "Google's Gemini Intelligence Expands Across More Devices with Enhanced Capabilities",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Gemini Intelligence: New features, on more devices"
+    },
+    {
+      "url": "blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "title": "Google and Adobe Forge Partnership, Integrating Creative and Productivity Tools",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps."
+    },
+    {
+      "url": "blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "title": "Google Cloud Launches Gemini for Healthcare to Streamline Clinical Workflows",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Google Cloud launches Gemini for healthcare."
+    },
+    {
+      "url": "deepmind.google/blog/introducing-alphaproof-code",
+      "title": "AlphaProof Code Achieves Breakthrough in Verifying Complex Software with AI",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
+    },
+    {
+      "url": "deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "title": "Gemini Robotics 2.5 Enhances Robot Dexterity and Real-World Performance",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Gemini Robotics 2.5 accelerates real-world general dexterity"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/ai-recycling-startups",
+      "title": "NVIDIA's Vision AI and Robotics Transform Recycling Efficiency",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/open-source-openshell-infrastructure",
+      "title": "NVIDIA Deepens Open Source Commitment with OpenShell Donation and AI Infrastructure Focus",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake",
+      "title": "AWS Introduces Tokenomics Data Lake for Amazon Bedrock Observability",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Amazon Bedrock tokenomics data lake"
+    },
+    {
+      "url": "huggingface.co/blog/qvac/botpsy",
+      "title": "Hugging Face Unveils BotPsy: On-Device Personal Assistant with Small-Parameter LLM",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
+    },
+    {
+      "url": "github.blog/open-source/git/git-security-vulnerabilities-announced-7",
+      "title": "GitHub Addresses Critical Security Vulnerabilities in Git",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Git security vulnerabilities announced"
+    },
+    {
+      "url": "apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature",
+      "title": "Apple TV Introduces New Sign Language Interpretation Feature",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Apple TV introduces new Sign Language interpretation feature"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi1gFBVV95cUxOa05ybjl6MUh6R2ctNVI0ODN6SVRMb3FIcE1ER2tXU1dBd0FOUGRscG1Fam96Um93elZ2VERacWVwMEFwTjUtZlgta3d1cUhLR0NmNFM4MVMtcXFSeHAxMDZZZ1JRSU5fQ3JKTlBEQ0VDUEU0c0d6SG5rdFlhMDBzOHhkWFVmS2pKMTRScUplMUNISkkyQ29lV1VTX3BhSXJxaFpfSUxhYnVDLU4za1JiSDg4Sm1LV1hBZ3NWNTN6UUQ2LThjN0xmLVNYN1Y4UWJhSTUtT3BR",
+      "title": "AI Startup Uses Gig Workers for Robot Training Data Collection",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Exclusive: In the race for robot training data, ex-Meta researchers’ startup turns to gig workers with cameras - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOU3JDTlRpUnJBd3B5dFpHcU1KX0RmWE5HN3d4TEN5b3JaZjlLQjBGWmYtcGQ2cF9hbjBLR0Q1X3VRQ2J2c3JCQm90c1kzbk1VcGxxOU1ITkJRYkZLbmpOd2o4QzZ2ZEFSc2NRbGZtSXJDQ3IwNTVaTThJRDAtWUdUd0RLWQ",
+      "title": "Anthropic Seeks Australian Retail IPO Amidst Intensifying AI Scrutiny",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxQa0R5YUh3ZWFLeEFIWkZaOWRqdUJTVWRveTdmMmpIWDR6enhRam9OX3FzUEpJMkJhUFhHclBKMHFqQldFbW4xRm9seERZNGVpOVVtcW85dWtmckM5czBtcmhzd0hDc1FyV3dmb3luank2MFhHRXNuTkRLU3k5bUFVSU1iRU01b0x3aEMyQm1BcGtmbDg5UXQwWVl0WQ",
+      "title": "Anthropic's Journey from Startup to Industry-Defining IPO Explored",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Anthropic's path from AI startup to industry-defining IPO - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxPNlhCX21hbUtQSkR5SExrZVI2c09icmNlRkJ3bDlON3B1UUVpbkx2VnAwcXhzbzI5Z3lJUGlnUG1SUVFlczFUd0RHZG0wclNNNEp4MmgzZGtYVEJ4UDJrY3dJblRXMFFFOGI1T2VaZzFqWXRoMHVfTEctSE5wVEhLcVk5ZkdIRUpvMVAtZjV2NzMzTWxjUlVWRzRheDNQYTdCYWRUaA",
+      "title": "Anthropic Launches AI Office Productivity Tools Ahead of IPO",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Anthropic launches new suits of AI office productivity tools in run up to IPO - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc",
+      "title": "Australia Mandates AI Breach Reporting and Establishes Regulator Post-OpenAI Incident",
+      "first_seen": "2026-11-11T05:31:51.048853+00:00",
+      "rss_title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach - Reuters"
     }
   ]
 }
