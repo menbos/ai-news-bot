@@ -1,124 +1,6 @@
 {
-  "updated": "2026-11-11T05:31:51.048853+00:00",
+  "updated": "2026-11-12T05:31:42.513438+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/accelerating-engineering-for-the-physical-world",
-      "title": "OpenAI Technologies Accelerate Engineering Workflows Across Physical Industries",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Accelerating engineering for the physical world"
-    },
-    {
-      "url": "openai.com/index/cisco-cyber",
-      "title": "Cisco Enhances Cybersecurity Defenses with OpenAI Integration for Machine-Speed Response",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "How Cisco defends at machine speed with OpenAI"
-    },
-    {
-      "url": "openai.com/index/heimstaden",
-      "title": "Heimstaden Leverages OpenAI for Transformative Residential Real Estate Management",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Heimstaden is changing residential real estate management with AI"
-    },
-    {
-      "url": "openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "title": "OpenAI Conducts Internal Security Sprint to Fortify Defenses with AI",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Preparing our next security sprint to harden OpenAI"
-    },
-    {
-      "url": "deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-      "title": "Google DeepMind Accelerates Drug Discovery with Agentic Cheminformatics",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Agentic cheminformatics with Google Antigravity"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/ai-semiconductor-fabs",
-      "title": "AI Revolutionizes Semiconductor Manufacturing Processes, Boosting Engineer Efficiency",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/cities-physical-agentic-ai-applications",
-      "title": "NVIDIA AI Empowers Global Cities to Scale Services Through Physical and Agentic AI",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick",
-      "title": "Amazon Quick Unifies Structured and Unstructured Data for Conversational AI Agents",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Bring structured and unstructured data together with Amazon Quick"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway",
-      "title": "ServiceNow Integrates with Amazon Bedrock AgentCore for Secure API Access",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search",
-      "title": "Gen Digital Powers Norton Revamp's AI News Engine with Amazon Bedrock and Web Search",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore",
-      "title": "EDB Postgres AI and Amazon Bedrock Enable Governed Semantic Layers for Agentic AI",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws",
-      "title": "Cartesia Achieves Ultra-Low-Latency Voice AI on AWS Infrastructure",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Building ultra-low-latency voice AI applications on AWS"
-    },
-    {
-      "url": "huggingface.com/blog/allenai/statebench",
-      "title": "StateBench Released to Evaluate Language Models' Ability to Track State Changes",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00"
-    },
-    {
-      "url": "huggingface.com/blog/ibm-research/palette-deck-building",
-      "title": "Palette AI Model Learns Design Languages for Automated Deck Creation",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00"
-    },
-    {
-      "url": "github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world",
-      "title": "GitHub Copilot Assists Development of 'Arnis' World-Generation Tool",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Arnis turns any place on Earth into a Minecraft world"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z",
-      "title": "EU Court Advisor Cautions Google's AI Chatbot May Violate Copyright",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto",
-      "title": "US Election Results Impact AI Stocks, Triggering Market Volatility",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Democrats’ Win Rattles Trump Trades From AI Stocks to Crypto"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
-      "title": "Nvidia Faces Supply Constraints as Chinese Clients Receive Minimal RTX Chip Orders",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-03/canva-announces-layoffs-job-changes-for-about-22-of-workforce",
-      "title": "Canva Undergoes Major Workforce Restructuring Amid AI-Driven Industry Shifts",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Canva Announces Layoffs, Job Changes for About 22% of Workforce"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-03/super-micro-gives-outlook-that-tops-estimates-on-server-demand",
-      "title": "Super Micro Computer Raises Forecasts Amid Robust AI Server Demand",
-      "first_seen": "2026-11-04T05:31:28.586764+00:00",
-      "rss_title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand"
-    },
     {
       "url": "openai.com/index/openai-to-acquire-pierre",
       "title": "OpenAI Enhances Code Development Capabilities with Acquisition of Pierre Computer Company",
@@ -950,6 +832,126 @@
       "title": "Australia Mandates AI Breach Reporting and Establishes Regulator Post-OpenAI Incident",
       "first_seen": "2026-11-11T05:31:51.048853+00:00",
       "rss_title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach - Reuters"
+    },
+    {
+      "url": "openai.com/index/singapore-airlines-travel-work",
+      "title": "Singapore Airlines Enhances Customer Experience and Productivity with OpenAI",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Singapore Airlines elevates travel & work with OpenAI technology"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "title": "Google Introduces Gemini Decisions API for Rapid Multimodal Inference",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Gemini Decisions API: Fast, calibrated multimodal decisions"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+      "title": "Google Labs Launches Tabletop for Collaborative Group Planning",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together."
+    },
+    {
+      "url": "deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+      "title": "Google DeepMind's AlphaGenome 2 Advances Disease Understanding Through DNA Analysis",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
+    },
+    {
+      "url": "deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "title": "Google DeepMind Releases Gemini 4 Carbon Model",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Gemini 4 Carbon is now available"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock",
+      "title": "DXC Technology Builds Multi-Model AI Substrate on Amazon Bedrock",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification",
+      "title": "AWS Machine Learning Introduces Semantic Diffing for Formal Policies",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Semantic diffing of formal policies with anti-unification"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026",
+      "title": "AWS Bedrock and Agent Updates for October 2026",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "ICYMI: What landed for AI builders in October 2026"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track",
+      "title": "AWS re:Invent 2026 AI/ML Track Guide Released",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets",
+      "title": "AWS Generative AI Innovation Center Offers Reusable Assets",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Accelerating generative AI delivery with reusable assets"
+    },
+    {
+      "url": "status.openai.com//incidents/01M76CW2D7FM7K7F8NJ4W0G08N",
+      "title": "OpenAI Reports Outage Affecting Workspace Agent Runs",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Unable to start new Workspace Agent runs"
+    },
+    {
+      "url": "githubstatus.com/incidents/dvy0t3mvh1lg",
+      "title": "GitHub Services Including Actions, Pages, and Copilot Experience Disruptions",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Impact across multiple GitHub products including Actions, Pages, and Copilot products."
+    },
+    {
+      "url": "githubstatus.com/incidents/1h2wbly1y72t",
+      "title": "GitHub Investigates and Resolves Webhooks Performance Incident",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Incident with Webhooks"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxNX3pBVmNFNV81WUtYNDZTXzExR0NfX3lEU3hHMklmNWExc2Z0VWo5dU5xSnB2Vk0zMGlobDNnc1owTXdIeERRNkh2NGJsdGk4VzhZYkp2a0E4eEJuamxuZkhBNTA3SlFMSF90bFNNZlZGQ1dmcmVHTWlBYjFodmhiUHNRdDlKQ0pnMkgwNHJqZGpsZw",
+      "title": "Google Staff Testing New Gemini AI Model Codenamed 'Hydrogen'",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Google is letting staff test a 'fast' new Gemini AI model named Hydrogen - Business Insider"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-12/nvidia-to-decide-on-jensen-huang-s-fate-video",
+      "title": "Nvidia CEO Jensen Huang's Position Under Board Review",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Nvidia to Decide on Jensen Huang’s Fate"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli",
+      "title": "Chinese University Acquires Nvidia H200 Chips Despite US Export Controls",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxQSWgwbFNYa2Z4R1pzeU83WUhSVTUwSG9vTC1tT0lfV0FMZk1oWGlNellpU083T2M2VGJDV19fLXhJY3N4dHJUUnUxMTNSeU1XdVdtd3YxNWZ6RWxlcTE1RTRyZDB5UDAweUhFTk9wRjVmNGlzSFUxOEpZTkc0TEdJY05DN3VNRDlidmJnVlJHTEY5dTJaakVFX0x3Mkl2TEZFTDBfN3dBTXhZVkxVRG41X2lyMENmWVFJQ2hHbWs0bHdzem5NSER6d0xhMjl0dw",
+      "title": "OpenAI Reports Significant Losses Amidst Rising Revenue",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxPWlk5SWg5U2ZDeExQOUMycHJsMWoycHpLYWY2S2Ntc3RhZllRcTBFTnpQSlU1eF96emQ3S1VRRFoybFdBaHZvR1k4TmFDd19uT3huaElhUzhmaUtlTW1LaEZjSmZCbENrenRkNzJjMlZwcDN6QW1zc2hHUFYtbHJJYTZWV09yRHllSWtmZ1ZNa1FEZ1NyYVdiRFdibi1OOURTLWpXSGhNRnE",
+      "title": "Banks Aim to Control Escalating AI Agent Costs, McKinsey Reports",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Banks seek to rein in soaring AI agent costs, McKinsey says - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxPYXoxT3FYWjJHMDlHckQ0b0d4Z2ZYUnpRUjhzcFFLalFuYXdaV0hwLWJYOWh3U0FTTVJkNXFOcWpNSkRfc1lkT0preHVMN2JkdEJVUDJoaVhVV1lGdUNjdkNqY2xGeHBob1dCXzl2azhKX2U4UmtxejVuZTl1aUhGaHRYTTh1bGFaWVRPWTNZckdiTXhfSUVSb3hxWXhoaVBGdjRGT1hjTEprZUZPbmUxUmFZMlFHX3IzQmIyVg",
+      "title": "AI Security Startup Sentra Raises $150 Million for Autonomous Agent Monitoring",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "Exclusive | AI Security Startup Sentra Raises $150 Million to Police Autonomous Agents - WSJ"
+    },
+    {
+      "url": "openai.com/index/chatgpt-plus-for-veterans",
+      "title": "Veterans and Servicemembers Utilize Free ChatGPT Plus for Career Transition",
+      "first_seen": "2026-11-12T05:31:42.513438+00:00",
+      "rss_title": "ChatGPT Plus for veterans and servicemembers"
     }
   ]
 }
