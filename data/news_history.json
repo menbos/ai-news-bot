@@ -1,125 +1,6 @@
 {
-  "updated": "2026-11-12T05:31:42.513438+00:00",
+  "updated": "2026-11-13T05:32:37.530463+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/openai-to-acquire-pierre",
-      "title": "OpenAI Enhances Code Development Capabilities with Acquisition of Pierre Computer Company",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "OpenAI to acquire Pierre Computer Company, Inc."
-    },
-    {
-      "url": "openai.com/index/daybreak-red-aws-govcloud",
-      "title": "OpenAI's GPT-5.6 Cyber Now Available in AWS GovCloud via Amazon Bedrock",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "Daybreak Red is now available in AWS GovCloud (US-East)"
-    },
-    {
-      "url": "openai.com/index/a-thousand-fewer-paths-to-root",
-      "title": "OpenAI Discovers and Patches Nearly a Thousand Linux Kernel Vulnerabilities Autonomously",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "A thousand fewer paths to root"
-    },
-    {
-      "url": "openai.com/index/introducing-images-2-6",
-      "title": "OpenAI Unveils Images 2.6 with Enhanced Speed, Editing, and API Controls",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "Introducing Images 2.6"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore",
-      "title": "U Mobile Achieves Significant Operational Efficiencies with Amazon Bedrock AgentCore",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code",
-      "title": "Deep Insight Implements Advanced Context Engineering Framework for Production AI Agents",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code"
-    },
-    {
-      "url": "huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "title": "Hugging Face Introduces Dharma Field Extractor for Document Data Structuring",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out"
-    },
-    {
-      "url": "huggingface.co/blog/ibm-research/palette-deck-building",
-      "title": "IBM Research Develops Palette for Small Model-Driven Design Language Adherence",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "Palette: teaching a small model to build decks in your design language"
-    },
-    {
-      "url": "apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support",
-      "title": "Apple's Health App Redesign Expands Language Support",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "Redesigned Health app expands language support"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxQLTlTcHU4TGF0MU1hc295WDJGYUg1R0ZWelhGUlpCbkpYUmFpeURrMjF6OGQ5NDhQV0RsR3VSSjJtUmkyM00wc25XZ2drM0dJbXJ5RlYxZVMwd1RnTnNuOHRRZU9GZGUxcTU3eXk3M2hHNVRZc2xyRnZOZzNjOGJUUC1SOE9QU2VJVHB6dDUyaHRHenhfei1FV2drUFFELXNhc3pRelp3",
-      "title": "Google Cloud Unveils Monthly AI Advancements for Enhanced User Capabilities",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "What Google Cloud announced in AI this month – and how it helps you - Google Cloud"
-    },
-    {
-      "url": "status.openai.com//incidents/01M6MBCX427A7113A3T4FJ1N6Y",
-      "title": "OpenAI Resolves Elevated Error Rates Affecting Paid ChatGPT Plans",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "Elevated error rates across paid ChatGPT plans"
-    },
-    {
-      "url": "status.openai.com//incidents/01M6FDZ89W4PKDS19K496J307G",
-      "title": "OpenAI Addresses and Resolves ChatGPT File Upload Errors",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "File upload errors in ChatGPT"
-    },
-    {
-      "url": "githubstatus.com/incidents/h02n9572mx9y",
-      "title": "GitHub Actions Experiences Brief Outage, Mitigation Underway",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "Incident with Actions"
-    },
-    {
-      "url": "githubstatus.com/incidents/smtdswd1h2w4",
-      "title": "GitHub Addresses Widespread Service Degradation Impacting Core Features",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "Incident with Pull Requests, Git Operations and Issues"
-    },
-    {
-      "url": "githubstatus.com/incidents/tc28c0wzrnpz",
-      "title": "GitHub Copilot Mission Control Faces Task-Related Errors, Resolved",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "Increased task-related errors for Copilot Mission Control"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxQRDhGOEtSczV1bVRuMGFNX0cyZ20zMVI3ZWc2MnNSUWFWNkJ1Z2NheVZ6MmJ0Z0NJUVFjNXB6bXBvV1lqUzBWZTNFNENOeXhqTXBVQUhYQ05TbHNmcml0TlBjZUw2WUxVSUJPSEc5aFFTY0ZRT2tfUHlnR0dVTzUwQ1c1bHN3aTA1ZmV3YkVqMnh3QVZKaFlPdE8wbGR5TEh3RkVfeXZyWUlQUGhy",
-      "title": "Tencent's Latest AI Model Positions It Among China's Top AI Developers",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "Tencent Declares Latest AI Model Ranks Among China’s Best - Bloomberg.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMifAFBVV95cUxPYVlJZTNQdjRVeEJpNlFXY2hEVmt4T2xsbmdtTEVxRUtmeXBQUXlCZ3E2UmlrMVZseDZYTVdrN2VvZk1CaXVjdzA1UFQ0LTVIMDhMY0RmdlAxZjlOQVFhTGpWTFNfM2tvMWhremlya3VObHJQRGtQS0RTZFBwckxqQV83M2otdXV0Z2JiNW9qMVV3bFNEdVlfV1ZtWnFXTEVUVkNUeDR6MTVNY1U3",
-      "title": "US Midterm Elections Shift AI Policy Landscape, Indicating a Changing Tide",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiwFBVV95cUxNZjR4N2llNWpUYVpwMlJNTGpMX1JpOHNaMW15eUhNRXkwaVlqWGhaMkRXTy13MlU4a3MzT2U5aVh6ZFlKVUpFZVlwTG1rQm1WSnNiY0p5M2NMdE9pT25TTHZmX3JRRW9DR2NoNFdfRUJIQzBHTlJWUWRSUnhxd2ZYVzA1VXhEODljVFdj",
-      "title": "Democratic Gains in Midterms Reshape AI Policy Discussions",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "Democratic Wave Changes AI Policy Calculus - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxQUkFBZFNmUmkyWnBoUmgtbjBGeWFPMlU5SDNUZ19saThaWFZUVzd6ZWFWMnhNUXNYd1JDTnFoLXJTdWJZQzN6YUk0cHV1enM3ZjY3MmZYa2REY2Y2RVpIMDBJRkxJTU5TSmN5bTZNZ3JqUi0xZ29wRVlVS2xSZzkySUd4SHJzdENTbk9HZktlcFBBZXpOVGFNOXpFcmZWM3l0eFN2bk1nSFRnREdZR2c",
-      "title": "India's Cybercrime Agency Warns Financial Sector of AI-Driven Cyberattacks",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "India cybercrime agency warns financial firms of AI-driven cyberattacks - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxNXzJNWm5iUUp0bUVhSUJOR0FZZHVBbjJwb3BqbW5yYUJTZlpYYTNlVEU5ZXBORnhZQUpyVnNYeWlnaXFkdmZQa2h1YjVEVk92aEpkcUhueTRsTjRMU3NPekZMLWRxdGFyOUFvNWlHNmhCSFZmcTBLbVNiU1Zlb0hHeDZyLVVORnRUMDNLZ3VTZTBOd2pyajVCSnlqWXZuOEpzUkdEa01VRF9aYnpOemlz",
-      "title": "US Bank Regulator Issues First-Ever AI Guidance for Examiners",
-      "first_seen": "2026-11-05T05:32:19.658557+00:00",
-      "rss_title": "US bank regulator issues first-ever AI guidance for examiners - Reuters"
-    },
     {
       "url": "openai.com/index/introducing-gpt-6-cyber",
       "title": "OpenAI Unveils GPT-6 Cyber for Advanced Cybersecurity Vulnerability Detection",
@@ -952,6 +833,126 @@
       "title": "Veterans and Servicemembers Utilize Free ChatGPT Plus for Career Transition",
       "first_seen": "2026-11-12T05:31:42.513438+00:00",
       "rss_title": "ChatGPT Plus for veterans and servicemembers"
+    },
+    {
+      "url": "openai.com/business/customer-stories/amplitude",
+      "title": "Amplitude Accelerates Product Development Cycles with OpenAI's Agentic AI",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "How Amplitude ships product improvements in 1–2 days with OpenAI"
+    },
+    {
+      "url": "openai.com/business/customer-stories/gondola",
+      "title": "Gondola Reports Significant Revenue Growth Fueled by OpenAI Codex Integration",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Gondola doubles revenue as its team builds more with Codex"
+    },
+    {
+      "url": "openai.com/business/customer-stories/holidays-extras-codex",
+      "title": "Holiday Extras Reimagines Business Offerings with OpenAI Codex",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Holiday Extras is rethinking what it can build with Codex"
+    },
+    {
+      "url": "openai.com/index/children-first-declaration",
+      "title": "OpenAI Commits $2 Million to AI Safety Research for Children",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Supporting research on AI and children’s safety"
+    },
+    {
+      "url": "blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "title": "Google Search Enhanced with Gemini 4 Hydrogen for More Intuitive Responses",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Google Search gets a major upgrade with Gemini 4 Hydrogen"
+    },
+    {
+      "url": "blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact",
+      "title": "Microsoft Addresses Business AI Adoption Challenges with 'Frontier'",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "From AI ambition to business impact"
+    },
+    {
+      "url": "blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms",
+      "title": "Microsoft Identifies Key Lessons for Scaling AI Value in Frontier Firms",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Scaling AI value without losing control: Lessons from Frontier Firms"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore",
+      "title": "Natera Deploys Agentic AI for Lab Operations, Achieving Dramatic Efficiency Gains",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime",
+      "title": "AWS Enhances AgentCore Runtime for Secure and Efficient AI Agent Operations",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Run agents securely and efficiently with the next generation AgentCore runtime"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws",
+      "title": "AWS Introduces A2A Protocol for Composable, Interoperable Multi-Agent Systems",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Build composable, interoperable multi-agent systems with A2A on AWS"
+    },
+    {
+      "url": "github.blog/news-insights/company-news/github-availability-report-october-2026",
+      "title": "GitHub Availability Report Details October 2026 Incidents",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "GitHub availability report: October 2026"
+    },
+    {
+      "url": "github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+      "title": "GitHub Introduces Practical Guide to Reusable Agent Skills",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Build once, run on any agent: A practical guide to agent skills"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw",
+      "title": "Lawsuit Filed Seeking to Halt Frontier AI Development by Major Labs",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxQRERObVhKZklNOEliOFhfQmhqMmZaQWktbkVWTXlxZU8zbUtxQ1cwZnZpaGJwZ1djUHFFVVlydTFsQUd3UUJEV0NOdUliUGY1ZGNKN1ZPWG1zYkpxcEgtNGJlSFVrTi1EVm84MnFFbWxmeXR1YmotNUdzVFBtUVU1VmhPR3ZGTHFUcHlSUnRQQmU0WUYyRi1fdnNHOHc3QUh2OWVsQURUb3BwVTVaMm9NRUdnbw",
+      "title": "Potential for Stricter AI Chip Sales Curbs to China Following Nvidia CEO's Resignation",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Explainer: Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxQNlJiazNmNldsT18xR0xkNXFCQ1QzeFJJeWhMVHRLQU83LTU1UHBvbWQ4WHVDMFJHY2VOYmlSWm9UcFVOVWt5OUdFeDBEWWQya25sYi1XOG9wOW5oUlM5Z0huRHVCV3F5M2xxLS0xd0hSZ1JVb2hGdmtmcW5OMXRrX19MVklYZnA0dmlvOTFFenFaMnlUUU9GTnFINllwQlJCU2xmbEZxMmZPRGFwMUhDTVl0aDI5dDJVU1NJYVItMnQ1Yzct",
+      "title": "Federal Reserve Official Warns of Significant AI-Driven Job Disruption and Inequality",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Fed's Barr: US should prepare for 'serious' AI job disruption, widening inequality - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3",
+      "title": "Anthropic and OpenAI Sued for Alleged Patent Infringement in Neural Network Development",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-13/nvidia-sees-record-open-retail-buy-after-ceo-ousted-vanda-says",
+      "title": "Retail Investors Show Strong Buying Interest in Nvidia Post-CEO Ouster",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Nvidia Sees Record Open Retail Buy After CEO Ousted, Vanda Says"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-13/singapore-charges-5th-person-linked-to-nvidia-chip-case-st-says",
+      "title": "Fifth Person Charged in Singapore Linked to Nvidia Chip Export Case",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Singapore Charges 5th Person Linked to Nvidia Case, ST Says"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage",
+      "title": "Microsoft Grapples with Prolonged Outage Affecting Outlook and Copilot Services",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Microsoft Tries to Fix Outlook and Copilot Hours Into Outage"
+    },
+    {
+      "url": "wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang",
+      "title": "Colette Kress Appointed Interim CEO of Nvidia Following Huang's Resignation",
+      "first_seen": "2026-11-13T05:32:37.530463+00:00",
+      "rss_title": "Meet Colette Kress, Nvidia’s New Interim CEO"
     }
   ]
 }
