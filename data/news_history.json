@@ -1,125 +1,6 @@
 {
-  "updated": "2026-11-13T05:32:37.530463+00:00",
+  "updated": "2026-11-14T05:32:10.643650+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/introducing-gpt-6-cyber",
-      "title": "OpenAI Unveils GPT-6 Cyber for Advanced Cybersecurity Vulnerability Detection",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents"
-    },
-    {
-      "url": "openai.com/index/merge-builds-with-openai",
-      "title": "Merge Leverages OpenAI Technologies for Product and Business Operations",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "Merge builds product and business tools with OpenAI technology"
-    },
-    {
-      "url": "openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "title": "OpenAI Sets Standards for Responsible AI Infrastructure Development",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "Setting a new standard for responsible AI infrastructure"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-      "title": "Google's Gemini Omni 1.2 Flash Enhances Video Generation with Lower Costs",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
-      "title": "NVIDIA Vera CPU Boosts AI Agent Performance and Throughput",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/memory-full-stack-codesign",
-      "title": "NVIDIA Addresses AI Memory Challenges with Full-Stack Codesign Approach",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations",
-      "title": "AWS Bedrock AgentCore Enhances Evaluation with Decision Models",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "Use decision models with Amazon Bedrock AgentCore Evaluations"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai",
-      "title": "Amazon Marketplace Uses SageMaker AI for Content Quality Evaluation",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences",
-      "title": "Indegene Scales Data Quality in Life Sciences with LLM-Powered Agent on AWS",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "How Indegene is modernizing and scaling enterprise data quality in life sciences"
-    },
-    {
-      "url": "github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
-      "title": "GitHub's New Git Architecture Supports Thousands of Simultaneous Agent Pushes",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "Inside GitHub’s new Git storage architecture"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxOdzdfa2NNWTVnNDd4OHQyUmZIN2RIRXVLbDJ3U2RJUHNXeHNiUzhpWU9NWTh2VEJ4SmNEUnRIQW5DTGZJM01WMGhGc2pSRjQ3QnpiWHR5Y3p5YW4wZ0w4c3F0WXlEZjM4RS1hNWVFV0U5U0NERUVGU3RWczR2aXJxdHpnaUI4Ty1HaGZ2WVNUM2NxNzdIVllXQTVvY0Q",
-      "title": "Anthropic's Claude Adds Personal Finance Feature",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "Anthropic rolls out personal finance feature for Claude - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMif0FVX3lxTFBUc0JXdFFrNXJHSkxKclVRQkdfMXZNbmk5akFqZDA2dWFQbXV2MUd1d2V1TFhfVW9uT2F5WXJJVHZoNUZUUEtLVFF2aIotaHBVTk9kcFpvZkFucXppMlp3YzZvaWdXVmZ3ZUZJdzFsV3kzaXBMWnpiSjJ4aUhxcVHSAYQBQVVfeXFMTXVzSHktMk1IYUR5bm45MWpEQmRpZkkwbS1LSVNZZm02Q05uZE56ekhLZjBKV0RLWlVhdVoteHFra2hPOFdMNXEweDc4eUhvWTlqQWxwcXpMdURoMzVmUnBaMFRBc0RtTG1FQXhSekFZeDhSM25Yc3o2THdGckl0cEtLSG9q",
-      "title": "Chinese AI Lab Seeks NVIDIA Blackwell Access via Europe Amid US Curbs",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxOLWVWcEdwa01zWHFZQmJMalhFQUJiLUlxR2tNUF9Qcy02VzNYdmRPUnM5N0RpbTMzY3Y5cEN2dUU1ZjdFSVpvc0dVYWJlTEwzVThuYlVYQ1Z4d0JadnFRbTl5cDhPaDRrTEp1T3VOR2FQdVp1Z0xQVmZNbkVMSFdEQkpGdkE5anhQQ1ZiVkZtekRVd09ybENYZ2VyOFRPbWUycFhpU1RTREUydXFo",
-      "title": "AI Companies Anticipate New Challenges Following Democratic Election Wins",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "AI Companies Brace for New Challenges After Democrats’ Win - Bloomberg.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxQTWVkN29DQ3RzdVJEWDZTU0JvTXZCSldfNVROUHNLMzFsTF9mSTN1Z1FCV2VQSE16MHR5YU1lR1lhVUgxdkhYQ2VpT0prNktfT3IybFhJTE0zbWZ4U3h5aWUzSTMxZm1JRTVDUkJXeHRGaHBpM1dUYnhDSzhqbVNkVlJMZmJMTS1nRC1vZzBDZDZlMjlzdUZINzZuMFpFM0VnOVRhUEdBZEEzSFRSUHBIX21QTEktTmdCYTFUTjZTUk5qeHpxU2RVdQ",
-      "title": "India Identifies Chinese-Linked AI Tools in Financial Sector Cyberattacks",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "India flags Chinese-linked AI tools in hacking campaign against financial firms - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxPckw5Yml2X0hxNU5DcnBqSGtkRjM1UHVEc2JzU3ZPYXc1MGVWSF9kTXFMeGZXeXNvVk05U0Z3VWdWZkJtemhreDlOY21Fclc3YlBXbHB6bGgxLUdMOVBqMnJOZFVXVXA2YmFSWGU2bkJaYTBRY2NHc1lFdVRVZi0za2IxMFprc0RGS2FwUHhZSEZjYUNSd1B2LVdEdVdjN3hSVW9jalhvZEJ2TDZoTW1TTzg2TlE1YjdubGpUMUtISTNTOXRmVFZr",
-      "title": "AI Chip Demand Fuels Growth for Chemical and Industrial Gas Producers",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "AI chip demand powers third-quarter growth at chemical, industrial gas makers - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxNdXBCdXJGdnN1M0xnMmZpdGo5T0ZhSF9GYmh0OVNiYTlSNXJuVm52bTVNUnRxc1F5eHNpNzlUVUE3UEdhaUt0emRWc0Vwa29MSURrRmZ6TjJKeU05Y1lvQk1HZi1JT2c3N2hNcW9oYnhmR05WQ0dBY1JPZHZJd09wMkJ1U1lpOWtYcGY3T3JYR0RVMnV0VWRpZGVXRVRwZV9pLU14Z19sU0UwYTRDY2hLMkdrMmZCLUU4SG1xUjJndE1ZU0cwLXNB",
-      "title": "AI-Powered Insurance Startup Kalepa Valued at $470 Million",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "AI-powered insurance startup Kalepa valued at $470 million in new funding round - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-06/indian-stocks-gain-haven-appeal-as-investors-flee-ai-trade",
-      "title": "Indian Stocks Gain Haven Appeal as Investors Exit AI Trade",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "Indian Stocks Gain Haven Appeal as Investors Flee AI Trade"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-06/asia-hedge-funds-rich-investors-face-steep-losses-in-ai-selloff",
-      "title": "Asia Hedge Funds and Investors Face Steep Losses in AI Selloff",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "Asia Hedge Funds, Rich Investors Face Steep Losses in AI Selloff"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-06/niles-ai-revenue-slowdown-demands-stock-picking-video",
-      "title": "Tech Investor Dan Niles Advises Stock Picking Amid AI Revenue Slowdown",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "Tech Investor Dan Niles: AI Revenue Slowdown Demands Stock Picking"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
-      "title": "OpenAI Modifies Data Center Policies After Public Criticism",
-      "first_seen": "2026-11-06T05:52:56.030047+00:00",
-      "rss_title": "OpenAI to Change How It Handles Data Centers After Outcry"
-    },
     {
       "url": "openai.com/index/partnering-with-hacktron",
       "title": "OpenAI Enhances System Security via Collaboration with Hacktron",
@@ -953,6 +834,125 @@
       "title": "Colette Kress Appointed Interim CEO of Nvidia Following Huang's Resignation",
       "first_seen": "2026-11-13T05:32:37.530463+00:00",
       "rss_title": "Meet Colette Kress, Nvidia’s New Interim CEO"
+    },
+    {
+      "url": "openai.com/index/introducing-chatgpt-wallet",
+      "title": "OpenAI Introduces ChatGPT Wallet for Secure Agent Transactions",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Introducing ChatGPT Wallet"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOOUI2N2tMVm9aU2d4SWNfV1RPbEN1R21pOVI5Vnh6UmlETjUwT3ZLTUY5amxTTW5sNXpKTjd5ZE9mcU5BdVllUDVXN1pMZk5QN0l3MVRTUFcwYWlURlJkZ1Q1UW9wVWNoNEtLQ2ptRXMxWTJmaFVsYjFTV3VLZjRFMUNMNA",
+      "title": "Gemini 4 Hydrogen Integrated into GitHub Copilot",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Gemini 4 Hydrogen in GitHub Copilot - The GitHub Blog"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
+      "title": "GS Caltex Achieves Faster MLOps Production with Amazon SageMaker Canvas",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
+      "title": "Amazon Bedrock Enhances Coding Agent Efficiency with NVIDIA NeMo Switchyard",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures",
+      "title": "OpenFold3 Deployed on Amazon SageMaker JumpStart for Biomolecular Structure Prediction",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock",
+      "title": "Amazon Bedrock Introduces Cost Controls for AI Developer Tools",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron",
+      "title": "Deploying Frontier AI Models on AWS Trainium with SGLang-Neuron",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost",
+      "title": "Key Inference Choices Impacting Amazon Bedrock Costs Revealed",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Four Amazon Bedrock inference choices that affect cost"
+    },
+    {
+      "url": "huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "title": "llama.cpp v1.0.0 Released, Strengthening Local AI Ecosystem",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxQRnR2MHh2N1dqYVljRm44MklWcFJ1QXppTERpYnpCSUdDc2hIdTRUSTJuUTNVZTJSTmMxemUxdjlWQVp1OU4weHpwc2lveS1sbi1DazdUZUpSVGFMMUFBdGMwVnNYNV84aXdGVmdneFJlQlNaNmtnWWN0aGpVdkdaMXVMVlJsWXdfWU5kRHVsMGhBRGhoTEo5dUJEU2xuMy1GaFgtb01BZktjR2szUlZONjBR",
+      "title": "White House Advocates for Eased Liability to Boost AI Disclosure",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "White House Urges Easing Liability to Encourage AI Disclosure - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxOSTMxZ0ZpeTBfbVZEb3dFbFRpM0xYcU9ta3ZRVnRzc040LUlmWU9IN05La0xrSnBKYzlVVUF3amZuaTJHZGZYa05ObFpJcERkajJiajhVV2RBVzJDVzc0Uzk4NVVfeGhWOG5SSnUtQlRTV1M3MnNON29WZzZZYVlnbGVCVE1LTkpUcm8zOHlmOTdaWGo0dGZJT2Eyb2NqNlB2VWk1bmRCcXdIS3JjRDQ0aTRn",
+      "title": "Trump's AI Task Force Discusses AI-Powered Cyberattacks",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQ1amNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ",
+      "title": "AI Emerges as Top Concern for Financial System in Latest Fed Survey",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc",
+      "title": "US Scrutiny and Huang's Exit Jeopardize $3 Billion in Chinese AI Projects Relying on Nvidia",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxOMy10dU5kazRqbk9PSWxUbGRiUm53LU9sLXBHVnBNUW0xbElWLVVoUG9udExuMGlYZ2xldnlOQUJpMzNpNjEzN0N2TllYaUJkQzFDZG5QSXRKZWQwZlF5cUVTWlI3NVZUWkpra0diZGNtT2F3WnRFZ3ZKd3VvQ250c2tOM2VHOFlFMlRYTm5jbGZ4R0ZWaDNQc1ljR2R4SVU4Umo0NQ",
+      "title": "EU Leaders Convene at First AI Summit to Address Challenges",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "EU leaders seek to tackle challenges at first ever AI summit - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc",
+      "title": "Chinese AI Firms Scramble for Nvidia Chips Amid Fear of US Curbs",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxOd1ZhbGw3QVB1NDhidHA1aEFOMnJFd0hTelBxaXp5dHdGU2V0aDVmSDRqOHUwQ0l1SjNBWDVVMnVsUFJpZDl2dHpQOF93VVdKNTJ2MWVneUZEdWt1S0JOWjJabDVjYXVWeWVZa1NyWGhFekttNnhtcGxZYnpxWUwxY1dlc1NBcGRZakJVT2hXRlpDRW9IRTRKWlNtbjE4TTY3bVhMN3UycDNVYXhJbjln",
+      "title": "Nvidia Fallout Puts Southeast Asia's AI Boom in Focus",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Nvidia fallout throws spotlight on Southeast Asia's AI boom - Reuters"
+    },
+    {
+      "url": "status.claude.com/incidents/qrpz8k79qm7x",
+      "title": "Anthropic Reports Elevated Purchasing Errors on Claude.ai, Now Resolved",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Elevated purchasing errors on claude.ai"
+    },
+    {
+      "url": "githubstatus.com/incidents/51drrqvsv66g",
+      "title": "GitHub Copilot Experiences Degraded Availability for GPT Models",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Copilot experiencing degraded model availability for some GPT models"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-13/match-group-keeping-ai-out-of-dating-video",
+      "title": "Match Group CEO Emphasizes Human-Only Zone for Dating Apps, Limits AI Usage",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Match Group Keeping AI Out of Dating"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxQTTExQ3Y3Q3JBV2Z1WGtJbmpzZWdJbTV1UjlDZ21BenEzUWhOTW1pc2doRlhDRktWZFNDT1lhWjROcE9UZUQzQmQxRFBYZW9kYTBockNoUEtzWFhVbDBTb2pZNXFpSnAtU2tMRVdySzA5Y2d4bmY1WFhvQV9Fd3dTbHVmTFhNNXVxcEN2UXFrenhpUy1jdVJ0UHVUUTRpS2djV3lZZ185MXB3QQ",
+      "title": "AI Startup LangChain Doubles Valuation to $3 Billion",
+      "first_seen": "2026-11-14T05:32:10.643650+00:00",
+      "rss_title": "Exclusive | AI Startup LangChain More Than Doubles Its Valuation to $3 Billion - WSJ"
     }
   ]
 }
