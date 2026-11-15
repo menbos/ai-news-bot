@@ -1,120 +1,6 @@
 {
-  "updated": "2026-11-14T05:32:10.643650+00:00",
+  "updated": "2026-11-15T05:31:50.041652+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/partnering-with-hacktron",
-      "title": "OpenAI Enhances System Security via Collaboration with Hacktron",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
-    },
-    {
-      "url": "openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "title": "OpenAI Benchmarks AI Agents in Wet-Lab Scientific Scenarios",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "Measuring how AI agents handle everyday wet-lab science"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
-      "title": "NVIDIA's Open Source Tools Accelerate 6G Network Development",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints",
-      "title": "SageMaker Inference Enhances GPU Utilization with Multi-Instance GPU Support",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick",
-      "title": "AWS Unveils Taxonomy for Agentic Primitives in Amazon Quick",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "Taxonomy of agentic primitives in Amazon Quick"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw",
-      "title": "Democrats Plan Extensive AI Legislation Following Congressional Control",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "Democrats planning flood of AI bills when they take control of Congress - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxPa3ZsZFE5UUJOOXZLUllPa2dzNEllRjhqUWdfRHlsYkY0emFGNEN3ZUxJRHluSXFfUHQxTFBmdEpXREZKNHEwRDBaSXluNFBubklGYzNjVVZVak1ubjQ4TU1pMGpURWFLRzJJOFFJdlRoNlp6bEdrRGthM182RVVWa1hRMHd1R1JVWktEN3NsbUttaklrRWtia1ZuUGFtNWNZUUk0aFo5bEQ5ZEpZdXRR",
-      "title": "Representative Liccardo Advocates for 'Sensible' AI Regulation",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "Watch Time to Move Forward With 'Sensible' AI Regulation, Says Rep. Liccardo - Bloomberg.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxOVTRsRWo5SjhUM1lPV19Xc1ZKUjNWWEx1eTFkZEZLYmpjVG1FNFltZDRRdVBwZ3RBVnk0NlQtbDZmaWdmaFhSY0NFT3Rpa2YzZVRzNl8zSHNzcVdhR3RZdEpFeVNkMW93SDFrbTY5SE9NM3NneHpZOFYxN1FGOVU1ekxjSF9aZ2FyZnRXLU5aY2pFT0gtYTVwMEhfUmU2a2lOaURTeURqcDQ0M185ekd4ZWJwVHdiVWEwanduVElR",
-      "title": "Chip Packaging Emerges as Critical Battleground in AI Semiconductor Race",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "AI boom turns chip packaging into the next battleground for semiconductors - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-06/ai-selloff-exposes-data-center-boom-risks-video",
-      "title": "AI Selloff Highlights Risks in Data Center Expansion",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "AI Selloff Exposes Data Center Boom Risks"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
-      "title": "OpenAI Secures $11 Billion in Funding at $1.25 Trillion Valuation",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-06/brookfield-ceo-says-infrastructure-is-growing-fastest-video",
-      "title": "Brookfield CEO Identifies Infrastructure as Fastest-Growing Investment Area",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "Brookfield CEO Says Infrastructure Is Growing Fastest"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQZC1ETzJ1LWF3ODU0Z0J4VjJUX0JnRmV5b1NTRXoyckptSEFBbGpYTDJGUHBIZEVKWkMxcF94YmJGV1U5ZzZXdTRaVEZ0ZzJJQ3FWZVQ5TWFJWnFuTjdOb3MwLVdWbXBCSC1sMXdpR0ctbWlvcGJRZ0czQmtZLWhSNjlwZnM",
-      "title": "Democrats May Hinder AI Boom with Proposed Legislation",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "Will Democrats stall the AI boom? - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPUDUxR1VfRlBmczlIS0V3dDNGc2RHcEhWTE1CNWFYRTlpNnZDcnZnbGcwbFVPVGFqU3NRbzZxSEhfMGNueFQ4UmFHamp1S2doZ3ZnXzRnV3JPQnBHUmdzNzh2ZlNzXzJpcUs1aUU2NFFsU0NDWGRfWjljY0FNdGp6ZzVpQU0",
-      "title": "Consultancies Indicate AI Benefits for Graduates",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "Consultancies show that graduates can actually benefit from the rise of AI - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQTGxjR2k2WC16UFZ4ZGJxR3NlS2lWNXltTWxZVklpWTZWSmUtLUgxN0lPQVllT3VBUjlWNjlCVkcyWVNrX3pkd3pxTy05ZmFmQzI3aXVXNEg2MjgxQmhZTGVTOEliOUFhQ0VvRUxkajZDeFZCVnRBVWJucTNyQVVHOVg3QTY",
-      "title": "China Blocks SoftBank Robot Deal, Escalating Global Tech Competition",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "China’s block on SoftBank deal fires the starting gun on the robot wars - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ",
-      "title": "China's Block on SoftBank Robot Deal Signals Increased AI Tech Control",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxPNVlmZWpuTHFFVDktVG9OaXlnVl9xSFliZFl4YXFRemVUZDFRRFFaajdEcnQ0b01sQTNJNDVDUkRaQXpLdEY3dGhVUjloVS16UHZIQ0cwUG5wQnpxaDcyX3lvX3A0VFZTb0xjMFBObUJKR3N5cVU2WFhqNzRMcEtjN09HQ3VKcnNIcy15V3VJUTdFRkk1OXhQYlNjMFpELUV0Y2o1MnNNa2dPd3lSN3JJdGM2Z0wzdw",
-      "title": "Major Investors Skeptical of Anthropic's $1.5 Trillion IPO Valuation",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation - WSJ"
-    },
-    {
-      "url": "wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking",
-      "title": "Chinese AI Models Demonstrate Advanced Hacking Capabilities",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "Free Chinese AI Models Are Getting Scary Good at Hacking"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
-      "title": "GitHub Copilot Evolves Beyond Code Generation to Agentic Engineering",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "Beyond code generation: A developer’s guide to agentic engineering"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2",
-      "title": "AWS Bedrock AgentCore Facilitates Governed AI Agent Access with Okta Integration",
-      "first_seen": "2026-11-07T05:31:49.140606+00:00",
-      "rss_title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2"
-    },
     {
       "url": "aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore",
       "title": "Greenlight Financial Achieves 90% Automation in SOC Operations with Amazon Bedrock AgentCore",
@@ -953,6 +839,125 @@
       "title": "AI Startup LangChain Doubles Valuation to $3 Billion",
       "first_seen": "2026-11-14T05:32:10.643650+00:00",
       "rss_title": "Exclusive | AI Startup LangChain More Than Doubles Its Valuation to $3 Billion - WSJ"
+    },
+    {
+      "url": "openai.com/business/customer-stories/shield",
+      "title": "Shield Leverages OpenAI Agents for Legacy System Modernization",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "Shield helps technicians hand off legacy portal work with OpenAI"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
+      "title": "NVIDIA AI Accelerates Healthcare Delivery and Patient Care",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime",
+      "title": "AWS Bedrock AgentCore V2 Enhances Session Startup Performance",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
+      "title": "AssemblyAI Achieves 70% Cost Savings on Speech-to-Text with AWS EC2 Spot",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture",
+      "title": "SageMaker HyperPod Fuels Model Improvement Flywheel with Data Capture",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture"
+    },
+    {
+      "url": "apple.com/newsroom/2026/11/apple-homeview-available-today",
+      "title": "Apple HomeView Now Available",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "Apple HomeView available today"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ",
+      "title": "OpenAI Launches ChatGPT Wallet for AI Agent Purchases",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxQV0NfMEZnVHV5NzFVSkNHU1M4OFQyMnF1VFVMQy13aWpVdGpnLWFEZjlvVU1lNlRmd21CWkluNGVSVE5oOFRvSjZWNU04amx3NWt1ckJWZWlDMHRnVGRYc3ZJakYzQ1RzaS13RjVsbHVaX3BxM1h2a3dmb0RLYzBPWElWaTlYMnFEUXpBX3pxYkt6YWJObG5Pd1dkLUZlXzhMbTdhNmlmQjFVWksxQ1ZPaW9pbjFFN1ZpNlNXektqV1FaNFVvMkJ1Ng",
+      "title": "White House AI Task Force Addresses Cyber Threats and Critical Infrastructure",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "White House AI Task Force Discussed Cyber Threats, Critical Infrastructure at Second Meeting - The Information"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiiwFBVV95cUxNTTdnOVVNWjZfZ2kydUwtRE9DbEFjTUJUTVc4aGw1WEZGbHJWM1YyRzIzdlpYa3RnZTQtX3IxZTdYcG8tLWNmQzNncTc2T0Z5Yjd0M21QT191bkRmYUU4b2c4MUZoZ1BFdElzN3FyUFN1bEx2b0pkcmJ2b0EtQVdaakRrc1VNZ0U1d3Q4",
+      "title": "Alliance Between Donald Trump and Jensen Huang Explored",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "How Donald Trump and Jensen Huang Forged Their Powerful Alliance - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0",
+      "title": "Dario Amodei of Anthropic Clashes with OpenAI and Peers",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMingFBVV95cUxQcDZGSEFLYUF2RGJVQ1BsbWlFaTllc2pqRW0wbGQ4bkppVndUOUEyTUhWeHBHcGJpZTFKdGY3SEFlN1NMTS1BZTZJOVRFekVuQ09INmxBMmszUHRZbTB3MEhILWstT1pYNlc0NDFteHluRTc3YjF4MThudVhQckhZeDRhazlfVllWWl9jaFBlTnZya29zWDF6SWdUU3paQQ",
+      "title": "Nvidia Faces Scrutiny Over AI Risks and Corruption Allegations",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "The case of Nvidia and the growing risk of AI and corruption - Fortune"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQ1M2NhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ",
+      "title": "AI Emerges as Top Concern in Latest Federal Reserve Financial System Survey",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
+      "title": "Nvidia Faces Succession Challenges Amidst CEO Jensen Huang's Potential Departure",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "Nvidia Looks for a New Era After Huang"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc",
+      "title": "Former Nvidia CEO Allegedly Misled Lawyer Regarding Affair",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-15/india-stock-market-rebounds-as-ai-trade-unwinds-foreign-funds-return",
+      "title": "India's Stock Market Rebounds as AI Trade Unwinds, Foreign Capital Returns",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-13/my-husband-and-his-chatbot-video",
+      "title": "The Psychological Impact of AI Chatbots in Marriages Explored",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "My Husband and His Chatbot"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
+      "title": "Anthropic IPO Signals Investor Appetite for AI Amid Market Volatility",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "Anthropic IPO Tests Investor Appetite for AI"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-14/couples-are-bringing-ai-into-their-arguments-video",
+      "title": "AI Chatbots Increasingly Used in Couple's Arguments for Mediation",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "Couples Are Bringing AI Into Their Arguments"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-14/-bigger-than-a-business-story-nvidia-shakeup-video",
+      "title": "Nvidia Shakeup: National Security Implications Highlighted Amidst Leadership Turmoil",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "“Bigger Than a Business Story”: Nvidia Shakeup"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMifEFVX3lxTFBTOWx1RVRSMnpqWGxidkpWU1V2RWRhUXJEMlBqX3k2alR5bmpUQ1lRTFlZMER0R3M0LXlYTHRKMjYzOUd1bVRtQkVaVFpPaEIyN2pKT09yUGUxMDl0c19jMF9YaTFxcnFKZlNUS2MtM283QTVLOGt5dHhoVXo",
+      "title": "Chinese Spying Network Linked to Nvidia Affair Allegations",
+      "first_seen": "2026-11-15T05:31:50.041652+00:00",
+      "rss_title": "Behind the Nvidia Affair Sits a Vast Chinese Spying Machine - WSJ"
     }
   ]
 }
