@@ -1,126 +1,6 @@
 {
-  "updated": "2026-11-15T05:31:50.041652+00:00",
+  "updated": "2026-11-16T05:31:48.957375+00:00",
   "entries": [
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore",
-      "title": "Greenlight Financial Achieves 90% Automation in SOC Operations with Amazon Bedrock AgentCore",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore",
-      "title": "Taxbit Assist Enhances Enterprise Dashboard with Grounded, Role-Aware AI on Bedrock AgentCore",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls",
-      "title": "Amazon Bedrock AgentCore Enables Secure Remote Execution of Claude Code for Developers",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls"
-    },
-    {
-      "url": "huggingface.co/blog/allenai/toyblocks",
-      "title": "Allen Institute for AI Introduces ToyBlocks for Advanced Robot Learning and Evaluation",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "ToyBlocks: A controlled world for robot learning and evaluation"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxQSmxyU3I5VWJjVjhxTjhobWVHa2MwT3p3NlliNUZsVG14VkVsMHI4cGhsOXNfY1Q3TDRoQ09Hc3RwR0xNaUZvejFKLWU0dUtzelVaeEtucU9Sa3JOVUhKcDNqcFpxZ2tnZms0cEFuM0hqUzM0SC1lTXdIM1EzX09lRE0wd3pkYVVqYXFYaE5iOFVoV0R2aWhGM3hIM3ZnR2lNQjhJVDBxSWJpbFFORkpISGh2SmgyZE1SRmhjcXFn",
-      "title": "Environmental Groups Navigate AI Adoption Amidst Data Center Impact Concerns",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "Environmental groups embrace AI, even as they warn of data center impacts - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxQWlBqNDNLWm53eHI0c0JoT0pQRWhQTFZ0LU12MEFzNmV2YVNqaEdkbWNPOGl0MG93VFlfUUluLXVoV1JFMnk4OFA0dVdoNm9hU044UjNyTnBfMDdHZmlCbC1QeGZqNFk1VF9ZQ2dLRW9keVNLWl9QX0NrZE55cFU4MXJZaDRZLWJjMFI4QVoxekwybVlydDcwc01UaFJuY1RQLXNienI3eFlPSXpVZHBJX09sMnZRRktxQ2hWNFk2UmtDaGRQbndF",
-      "title": "Data Center Protests Escalate in Europe Amidst Growing AI Backlash",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "Activists breach Microsoft data centre construction site as protests spread in Europe - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw",
-      "title": "OpenAI Secures $11 Billion Funding Round at $1.25 Trillion Valuation",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "OpenAI gets $11 billion funding at $1.25 trillion valuation, source says - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-07/coreweave-asks-texas-governor-elect-for-data-center-cooperation",
-      "title": "CoreWeave Seeks Partnership with Texas Governor-Elect for Data Center Development",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests",
-      "title": "AI Backlash Intensifies Across Europe with Widespread Data Center Protests",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "AI Backlash Spreads Across Europe With Data Center Protests"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOcHo3eTNwbl9OX25ycmZfZ21DWjNEbTlxZ0w5UTk5RW9KZW5hZ1FUS3ZWblFCVHQ5S0EtVU8tbW94SERsbV8tb1A2NzFrN0htdjBoMzVyM1NHMXd1Wnk1OWJoQk1ORnFna0hMUFRhb2VKQVZGTzBPYWdRRDhrOC1VRjVwZUU",
-      "title": "US Investigates Potential Security Risks Involving Nvidia CEO and Alleged Chinese Spy",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPVlVaZU1LeDhwOFdtY2ltb2ZHRV9mSHdENXZDYm83Nl92dUF2UWpJSU5TbWVzV2RvNXVBNGV4bkVIYmpMNE1LclE4ampWYXRnWkpuUVhrdS1VVE5tcFptakxSYzNGMWpqTkY0Z3BzVFk1WldlenFVcWJhU09WcWlwTUQ0MFY",
-      "title": "Tesla Shifts Focus from Cybertruck to Robotics and AI, Signaling Strategic Pivot",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxONnZzUUZ2WFZaN0MtQjVkT1dTamxxcmY5QnBWUkFyeEZKUDRpSEhSemhqVlJmWFQ2YW1UcDRhSF9LOVFnVlZfdlFSZzFHVlAxRFE4RXYwSWhNVWdfamJ2RzNJUnN6YnQ4T0dnWGU0bTFPdjMzQWZrNzBWbkstU2VFVklSNW0",
-      "title": "Ex-OpenAI Employee Accused of Espionage Pleads Not Guilty",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "Ex-OpenAI employee accused of spying pleads not guilty - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxQWmRFM0NiT29ENURKdXhSMjBHaU9MS25FUGd2dnJHeXh6Q2lPd1FpUXpJWHBUU0FpRVdqcnh3QzhuLWZDRlVqRmVVQVIyaWhKdVZ2MFFXU0t5U2EteGNwamMxV0FEUU83WTZpQnFhODA5M3JsdldoaEI4Wjk2dDdpV1owY3lPUU1JS0RuUmJmNUFCa3Q5TE1RLTExX1lKOUpXQlhmTFY2cjVGSDIyWEszWkZOMU5HTW81Q1ktdzhKTktUVU0",
-      "title": "OpenAI Strengthens Cybersecurity with Hire of Former Army Secretary Dan Driscoll",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "OpenAI Hires Former Army Secretary Dan Driscoll to Cybersecurity Role - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxQX0xzbkZDSktlNl9LTFZWNENQTXgxT0gtVEVNclBXMmVTVnFuVU9BeTBwc3h0UWtXU3RkTzF2dUVzQmF5UXFzS1BDQWlmZHBMbzVhakZfRTZYSExTcEJqVjhFTWlwYkRyNFFxME82WmJLQ21jSHFfenFBc0RFemJ5VHMxMVhSYXY5SkRDRkQxRzcxano1OWZpUDFKQXhkMUhGQ0ZjbU0zNEt2OXRDTzQxcnhlRzMwV1Z3WFF3",
-      "title": "Nvidia-Backed Cohere Faces IPO Uncertainty Despite Rapid Revenue Growth",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "Nvidia-Backed Cohere Says IPO Timing Uncertain Despite Surging Revenue - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxOcmp1Rm9XbGFTcnExVl9GRzh3aWJabXprcU5lVzRFYzYwNzR1V3p3VV84M3F0RC13SUMyanlGNElDSDlnTDUxUm8xSW5uSWs4VzdQbzRiOGg0VDI3Y2J6dHFhaTMtTU5zY0Nzc2Flb01ZWkI0SDJDV3l6ZFFMbE9qemRJd0E5TmpCbGhTakU5UDI2YVVhVGFudThlbXEzZmRMUTVWaGRQd0Frcy1oSkhzQzV3UEpLVms",
-      "title": "Datadog Growth Affected by Reduced Usage from Major AI Customer",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "Datadog Says Lower Usage From Major AI Customer Is Weighing on Growth - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxNQk4zQ05hUzZ3R3E2WnVielpTdElGLWxBUnFKWUJRUndKemJINUotQnRPTDF6ZmxDbGFwVFdVWkdwWmtWZktvR0Y5clNhY3lSbG9QUVNMTDl5NW14U1JVemZZZDQ4OHY4OG1PdTFWQmFRd0hxSGctcEtFY0NaSGIxVjhaZ1JpMy12RVpWTkxkamZLX005VzliaW5aYXdnMUVNTXltSWxyYzNoWG8",
-      "title": "BDO Report Indicates Near-Universal AI Adoption in Finance, Here to Stay",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "AI’s Role in Finance Is Here to Stay—and Adoption Near Universal: BDO - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMidkFVX3lxTE4yTl96WG92c29IdFAtUW9FWXhGRDNRaFhyVXVEb1ZWMHNTTzRpcTk4cVBYbGJQSGc4S1R0c0RXSnVuUVA4LUJZc19IeGlzb3dlZFo2TWFxb3JNd0I1Q29mcXpKQ3hLS3Jka1VIRFp0aE1rTzlMN0E",
-      "title": "Anthropic's Lowered IPO Valuation Raises Stakes for AI Market",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "Anthropic's falling IPO valuation raises stakes for broader AI trade - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilAFBVV95cUxQbHFWLXl1blBjeWJUMy1IZmFPNlJsaDFOeUhoX3lxSG9ONEVpZ0ZEbFdwYWZZakpYZ0ROaGVyMm9VSXpMNEJMS2wwWmpibWVwbzdSbWFoNkNpV1E4LUdPQkxBdUEwS25xS2hTT0VQTE9NU2Fmc1ktbF80NTg2ZjBhWFU4SzViV3JGV1QzdUhHVlZMbGhp",
-      "title": "Akron Beacon Journal Journalists Protest Use of AI Tool",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "Akron Beacon Journal journalists protest AI tool - Axios"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxNU1F6Q0pvSXExVmdVVzBIeF80aGJ4Uzl0enctM3N6cWpVbFl6ejUyMG1YM29lR01ja1ozMTdKYVIxajRqb1dXdExnVjZVaVFBN1FvYnpmTnpBV2MtR2FLZ3pQMUVWVHZIV0RCZlJBMW5ZWGZiUnUzanlIb21iVk5MY3JJazd6UFR6bVdtY2JSWGxrQ3ByYmUwZUFSOTJGcVAtd3dfUkxkTWFqU0QyT0dhcjZBcGpRbVQxOElWNnp5alBJd1k3WHp0TXhuVDBoUQ",
-      "title": "Thinking Machines Launches Inkling 2 Small, Offering Near-Frontier Performance on Enterprise Benchmarks",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "Thinking Machines launches Inkling 2 Small with near-frontier performance on enterprise benchmarks - VentureBeat"
-    },
-    {
-      "url": "wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails",
-      "title": "Data Brokers Amassing Corporate Data for AI Training Amidst Privacy Concerns",
-      "first_seen": "2026-11-08T05:31:55.857235+00:00",
-      "rss_title": "AI Companies Really, Really Want to Buy Your Work Files and Emails"
-    },
     {
       "url": "blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
       "title": "NVIDIA Fuels Korea's Physical AI Advancement Across Key Industries",
@@ -958,6 +838,126 @@
       "title": "Chinese Spying Network Linked to Nvidia Affair Allegations",
       "first_seen": "2026-11-15T05:31:50.041652+00:00",
       "rss_title": "Behind the Nvidia Affair Sits a Vast Chinese Spying Machine - WSJ"
+    },
+    {
+      "url": "openai.com/index/step-toward-defining-the-standard-model",
+      "title": "OpenAI Advances Physics with GPT-6 Astra's Lattice Standard Model Definition",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "A step toward defining the Standard Model on a lattice"
+    },
+    {
+      "url": "apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health",
+      "title": "Apple Initiates AI Health Research Study",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "Apple launches research study to explore the use of AI for health"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/ai-day-seoul-wrapup",
+      "title": "AI Day Seoul Unites Korean Tech Leaders and Startups",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals",
+      "title": "Alibaba Launches New AI Model to Challenge US Rivals",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "Alibaba Unveils New Flagship AI Model in Riposte to US Rivals"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizwFBVV95cUxPbzFERGNkd2ZLODdReVZtV3pnNVdJT3RyNDdpbUZQRXZHUEgzbVYtZTBwelhfV1hRbVVfOGsxeDJURWd2bEJubFlFUjFXZC1HM2Z4U3l2TXVhTXR3OTFPZ2xUaDhOVlBDWF93dDE0V2lsOEI3bGFGWXlmbnVldjNCQkJKQlFNbDVfaWR6cGpJdktZWlJXcEdNQkZnWWsxSlZGX19tQTIxYW5NVWQxb2NQclEza1JHaHBma3lmaFNzQWRtQld0UkRwT01IZEY0eUk",
+      "title": "Trump Administration to Designate Nvidia as 'National Champion' Firm",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPTWpRX0ZtbmdtRXVWTG1IaXlkS21ZLVA5VUlmdV9faENwVWFIcVpOb0ZLVzMyUWZTUUxYdkZVelpEaGM0bmFVSWNIUlpzbklwcWV2M0Foa2tqVlQ1T1NFaEl1Q0JzcUNUYjRiZ0tlVWFPZ0lJc0ZyMHFuRUIzdUtCSjA0UTg",
+      "title": "AI Cheating Scandal Rocks South Korean Accounting Exams",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "Accounting student’s AI cheating sparks South Korean exam furore - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxQUS1qMHhiR1ozLTIyenNWclR0dVZYNnBsSG01eHJkN0VMSGFnSnIxNjc5Q01HNFJma2JEazF2aWh2U3VlWnNwYm82NUFWZGM1ME5CVTZaTWxseU5nRmppbWVDalBPODdzVWJBUDNEemdteXhFbXNXdEVvNnZiZ1FSRWIyS1JNSVBFUkxGVEoyaUNZTDNHQndZ",
+      "title": "US and Russia Oppose Talks on Limiting Autonomous Weapons",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "US and Russia to oppose talks on limiting autonomous weapons - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-16/how-dual-class-stock-entrenches-founder-control-at-anthropic-spacex-google",
+      "title": "Dual-Class Stock Structures Entrench Founder Control at AI Giants",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "How Dual-Class Stock Entrenches Founder Control at Anthropic, SpaceX, Google"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-16/india-to-benefit-from-unwinding-of-ai-trade-top-official-says",
+      "title": "India Poised to Benefit from AI-Driven Global Market Correction",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "India to Benefit From Unwinding of AI Trade, Top Official Says"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-16/morgan-stanley-max-overweight-global-stocks-on-intact-ai-cycle",
+      "title": "Morgan Stanley Recommends 'Max Overweight' Global Stocks on AI Cycle",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "Morgan Stanley ‘Max Overweight’ Global Stocks on AI Cycle"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-16/kakao-prepares-for-historic-split-of-internet-empire-in-ai-chase",
+      "title": "Kakao to Split Internet Empire Amid AI Transformation",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "Kakao Prepares for Historic Split of Internet Empire in AI Chase"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPeVM3Y2hkVkZKUTFFcUhkRUJlX3pWbFBGZlZ6QW1tMjJTUUZ5WUgtS0lWMmh5V3YweURabUtma0pDeTBNM0M1cTYtUkQwcDhrODFmM0RPdmoxYzNZYldpdmxKN0ROTVNmMFhOZ3dpVFpnQ2VSUkRyOWtnaG9udTNpbTdRemg",
+      "title": "US and Allies Forge Accord to Shield AI Supply Chains from China",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "US and allies sign accord to protect AI supply chains from China - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNcDlQQXRRTW1SQk1YR1Rfd1ZZQkhfZVF2SEpfMUJLSEk3d21tWE5telBvb0VmOFpjTG1mdzd0cmFMZE1JeGRNRkU1ZmxxaUp5eGdUZXNXRTg1enlkU0tSS2RKeUhjbFBaeF9EVGhhTWd0ZHdrWE1jT0p2S0Fka2hVWExfZzA",
+      "title": "Anthropic IPO Expected to Intensify AI Market Dynamics",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "Anthropic IPO to further fuel the AI news cycle - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOczFJMEhqM3AwdHNCUF9ZU3QyNkUtbWtuLVF5dUxHSkpuR0Y2VWx6WXNxQUJ1Vm5iTDN6V0c0YUR4QUpXZl9ubklZVHlDbGlDREVoM3N1a1pMNWlZdmpfTDNWZG5RSXVuU2o3M3Z5Yld2VEtpSDE0NjZ6Y1NZekd1NUxLUGw",
+      "title": "Data Center Construction Stocks Plummet as AI Boom Unravels",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxQSmJIUXk3T0VkT1dRYXdlSmFyaVAxanY4N2dZd01uVS1Sc2ZJbzQyeVlvbUhOdENhMnNIY1BCR19lZmY0R1JaUUtTQWhsa2lpS096blNHUm15bFYtVzBXY1JjQ3ZtOWNWdVRBcklRT21ESkVJaGFicFVvdmZjeUc4YXhrbTRPc1RGbkZudS13",
+      "title": "China's Moonshot AI Restructures for IPO Aspirations",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "Exclusive | China’s Moonshot AI Restructures to Pave Way for IPO - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxQdXRsejdndmRqaEQtdlRCZE1mc19mWVdObHdta0hXcHBSbVo1N09pa3NHT1VpbVFoSjBjYnd4S1VaZDR5WVdnQVdOOGl3X2pFdHVOT01VQnBfVXVyLWV0dGFGbEtsYk1XaTNmMHdrTGhUM0pSTHhnTlhqVGVneUl2bnNDV1ZtdFFHZExBenBGa05DdWZRZTBPYzUtMXpORDU4M2dKVg",
+      "title": "Nvidia's Dominance in AI Economy Faces Potential Shift",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered - WSJ"
+    },
+    {
+      "url": "wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets",
+      "title": "AI Tamagotchi Transforms Everyday Objects into Interactive Pets",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets"
+    },
+    {
+      "url": "wired.com/story/beware-the-new-ai-fueled-ransomware-boom",
+      "title": "AI-Fueled Ransomware Threat on the Rise",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "Beware the New AI-Fueled Ransomware Boom"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "title": "Congress Seeks Tighter AI Chip Export Rules Post-Nvidia Spy Scandal",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal"
+    },
+    {
+      "url": "cleantechnica.com/2026/11/14/3-4-billion-anthropic-order-for-gas-power-plants",
+      "title": "Anthropic Secures $3.4 Billion Gas Power Plant Deal",
+      "first_seen": "2026-11-16T05:31:48.957375+00:00",
+      "rss_title": "$3.4 Billion — Anthropic Order for Gas Power Plants!"
     }
   ]
 }
