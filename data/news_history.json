@@ -1,126 +1,6 @@
 {
-  "updated": "2026-11-16T05:31:48.957375+00:00",
+  "updated": "2026-11-17T05:31:57.827492+00:00",
   "entries": [
-    {
-      "url": "blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
-      "title": "NVIDIA Fuels Korea's Physical AI Advancement Across Key Industries",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "Korea Advances Physical AI Across Industries With NVIDIA"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
-      "title": "NVIDIA and Korea Strengthen Sovereign AI Ecosystem Collaboration",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models",
-      "title": "NVIDIA Dynamo Optimizes Korean Open Models for Production Deployment",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production"
-    },
-    {
-      "url": "status.openai.com//incidents/01M6XVDCKRT3PSB0YP8J30GTD5",
-      "title": "OpenAI Reports Resolution of Image Generation Errors",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "Elevated errors with image generation"
-    },
-    {
-      "url": "status.claude.com/incidents/kw2lxj1th04c",
-      "title": "Anthropic Resolves Performance Degradation for Claude Fable 5.1",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "Degraded performance for Claude Fable 5.1"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxPR0pjQ3BqWnFTMHRZQTVMM0NKR0FIN3RFUnZadVNsY0N5cGV2VkEzeFRtSUhhOEtZLUNyVDBMa05vZDdIS05Qa0s2QUhNWTRJZ3F1OE11SG53RFYtY1pPeWFIQ1d3YTJkNFNyaS11aUJ5UU1zU3pWQ08wNXJ2N2lVajJnblJSLUh4Zks2TTdaaXRVWFpKdEJRMTM3c2hPRy11aXpDTlM3cw",
-      "title": "Trump Signals Openness to Managing AI Risks with Guardrails",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "Trump says AI risks can be managed, signals openness to guardrails - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-09/how-nvidia-ceo-s-affair-engulfed-ai-giant-in-spy-probe-video",
-      "title": "NVIDIA CEO's Personal Affair Engulfs AI Giant in Spy Probe Controversy",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "How Nvidia CEO’s Affair Engulfed AI Giant in Spy Probe"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxQb0pTclA4c2pDZlE3NXExNGt0dU9JUDRTaU80SVhfU1FzV2pmSzhYZG9rdzdPaGZSRHV3LXEtaDAwX0ttREhYUGwtalVma1ktTlBCSUdzLUJETkhFVm5ETDVrNVF6OGswVE5EempEc01PSXlrbWRtUERvWDlwVk5KMnlmRmlNNDRYRS1ubHB2bl9oRXp6WFg1cGFYVVdzSnBaNE53",
-      "title": "NVIDIA Stock Experiences Post-Market Decline",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "Nvidia falls about 3% in after-hours and perpetual futures trade - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-09/futurum-s-newman-believes-ai-trade-isn-t-over-video",
-      "title": "AI Trade Momentum Expected to Continue, Despite Market Perceptions",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "Futurum's Newman Believes AI Trade Isn't Over"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-09/ex-intelligence-analyst-on-jensen-huang-investigation-video",
-      "title": "Ex-Intelligence Analyst Views Jensen Huang Probe Through Geopolitical Lens",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "Ex-Intelligence Analyst on Jensen Huang Investigation"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-09/expert-nvidia-probe-could-weaken-china-leverage-video",
-      "title": "NVIDIA Probe Could Undermine CEO's Leverage with US Government on China Policy",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "Expert: Nvidia Probe Could Weaken China Leverage"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-09/ubs-peirce-on-ai-buildout-dealmaking-landscape-video",
-      "title": "UBS Executive Foresees Continued AI Infrastructure Growth and Dealmaking",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "UBS' Peirce on AI Buildout, Dealmaking Landscape"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOSmxMci1nN0F3Nmg5M3EwNUpaZjNWakJIYUFySTB0OV9ETXAtSmNqR0M5OUY0R253ZWRFOS1BeFhKSG5BblVKMXpPcUhFOGllUUVlVXIxSHZmaFF1Z2FlT0lqWE43SDQ5WUlfUW5yMmltNmhUQ1gtUlRIdUs2dndJOF9rRVQ",
-      "title": "Argentina Plans for Data Centers on Patagonian Steppe",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "Argentina’s Milei dreams of data centres on the Patagonian steppe - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxPWXZYZmtZRFBQWmJpYVJqSUxfeU51WlVBclZOaUx2d1NlNmZNLUhPSnZXc1JJY3hDR0lFeEszc29vcWFkNjNUbGNEMVFzS3piUFBrM0pQQndpQ21ULWVibXNTMWc4LWxhNlRSMVY4NVlEOWR2WHE5REUtQnlNZTlNS1ZJQWhJX09RcHkwa2xEeC01WEY2RVZROXlzcXNQT2UyOTRnNEtaVQ",
-      "title": "AI's Impact on White-Collar Employment Under Examination",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "Is AI Taking White-Collar Jobs? What the Latest Numbers Tell Us - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxQMHB3WDNrSi01NF8zXzUyZWdSb0U0ZUZyVlZWUF9jeVBfeHVTNkpESjFRSk1FWTk1aFZNcVl2LTRXdlpnR2N5eTRURXJMZkVRM0o5dlVSZWRuY0dVc2ZRTGRLb3M1WVZjRk54Z0doRGt2MVlDTURZaHR6LWpPR3RiT0FmU19vWWd6dE5iY3FLOWozZkNhSHJENktiRGtmc3dJM2xXSDFyOFNlM0N2b2FLWQ",
-      "title": "OpenAI Acquires Pierre Computer's Code Storage for Codex Expansion",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "OpenAI to Bring Pierre Computer’s Code Storage to Codex Through Acquisition - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxNQmRQc05FTEtYbm9hLUhzOHFESHo4UHlMX2Fwd2l3eTNscTdsTHp1SnF6RGNuMENybV93Z1BZeE03NTVobVF3OG9YUVlhNjI5SElLODdkSXBxNUwtOWlJczdNdmhtQ1N1cnhqcGpaNmlVdS1lNm12RXA3YXNUbDBETzk0UENTUExibVpUa3V5dWFNVGswNEJwaERZSkJodzI2c20wV3hTd2hELW1OOHFvU0JKaHRFYjFWMDEtOFg1WHI",
-      "title": "Taiwan Implements Market Stabilization Measures Amidst AI Sector Volatility",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "Taiwan Activates Market-Stabilization Measures to Stem AI Bleeding - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxOS3hNNkVYRlhrelpHTGx0RExpUXlJOWpJMTBHVGNZdm0zOExYbGI1RjJXZ05GT0dMWDFRSm9nOE4xSHJmY2ZyTjBSQy0tVC16NVY2Sjk4OW5kTVVReGg2Tl9RRmFhOWRJRkp6WXlqVHNhX1VWLTYxU0NuTGg3TUF2aFNueGNDSlg2MXpBcXVtTEJWUnBMZmh6QkJB",
-      "title": "India Poised for Stock Market Gains Through AI Rotation Post-U.S. Midterms",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "India Stocks Could Gain From AI Rotation After U.S. Midterms - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqwFBVV95cUxPOWtIejc1NGpfcDh3cWxiZElWYmVqOTNYc3lZemtra2M4VnppMWFTSWh3YS1VeHFJZmQ0M3BlT01odFg5WEdfVUlMVHVzLUJqSTUwQ1VoS25OYmZDcVZUSVJYcmN5NFFXTWkyeVBCNzFlSFRQNUVrcnFfcjc0QjZyYV90eThBbWx2VlZWVnVVLTA5V3laMFIxRFRwclZMUTNnT2RxWFFweGpOekU",
-      "title": "Apollo Reports Record Originations Fueled by AI-Driven Opportunities",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI - WSJ"
-    },
-    {
-      "url": "wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good",
-      "title": "NYT Cooking's AI Recipe Modifier Praised for Effectiveness",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good"
-    },
-    {
-      "url": "wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know",
-      "title": "World Models Poised for Widespread Integration in AI Applications",
-      "first_seen": "2026-11-09T05:31:47.457101+00:00",
-      "rss_title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know"
-    },
     {
       "url": "openai.com/index/chatgpt-enterprise-aws-marketplace",
       "title": "ChatGPT Enterprise Expands Availability Through AWS Marketplace",
@@ -958,6 +838,126 @@
       "title": "Anthropic Secures $3.4 Billion Gas Power Plant Deal",
       "first_seen": "2026-11-16T05:31:48.957375+00:00",
       "rss_title": "$3.4 Billion — Anthropic Order for Gas Power Plants!"
+    },
+    {
+      "url": "openai.com/index/strengthening-online-child-safety",
+      "title": "OpenAI Enhances Online Child Safety with New Tools and Partnerships",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "Strengthening the fight against online child sexual abuse with new tools and support"
+    },
+    {
+      "url": "openai.com/index/the-kings-trust-and-openai",
+      "title": "The King's Trust and OpenAI Partner to Equip 25,000 UK Youth with AI Skills",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "The King’s Trust and OpenAI launch £1m partnership"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26",
+      "title": "NVIDIA DGX Spark Developer Kit Transforms Desktops into Supercomputing Labs",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery",
+      "title": "NVIDIA CUDA-X Libraries Empower AI Agents for Accelerated Scientific Discovery",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/rubin-hpc",
+      "title": "NVIDIA Announces Rubin HPC GPU for Accelerating Scientific AI Workloads",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing",
+      "title": "AWS Offers Taxonomy for Multi-Agent Design Patterns and Cost-Efficient Systems",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform",
+      "title": "AWS Bedrock and Transform Modernize Mainframe Assembler to Java Applications",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore",
+      "title": "Novo Nordisk Leverages Amazon Bedrock AgentCore for Manufacturing Document Modernization",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore"
+    },
+    {
+      "url": "huggingface.co/blog/openrouter",
+      "title": "Hugging Face and OpenRouter Collaborate to Simplify Open-Weight Model Deployment",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run"
+    },
+    {
+      "url": "status.claude.com/incidents/b5cq662qf2wm",
+      "title": "Anthropic Reports Issues with Claude AI Joining Meetings; Mitigations Underway",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "Claude unable to join meetings"
+    },
+    {
+      "url": "status.claude.com/incidents/r1b4f9bbnsx1",
+      "title": "Anthropic Resolves Elevated Errors Affecting Claude AI Services",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxOeWJvY1B1Qm1ncldqeEg2dTMwMUhMVUFfRmxlNEs3eXcyNV9XWEdXeW9tcmNqMWJkRVh0bEdjcm0yYUc5RURCVDJjaHd2b2VnX1pMbEkyQlFrYzZHc2dQNktfNW55am8yXzZOckZSMi1YeXYtNUVCUVpxSjcwT0ZzNGxjSFpkSDRNYk1RbGZfVlNNZVVyUnlkQTJ4MA",
+      "title": "Opinion: US Policy May Inadvertently Aid Adversaries in AI Advancement",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "Opinion | How not to prevent U.S. adversaries from getting the AI goods - The Washington Post"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1",
+      "title": "US to Restrict China's AI Chip Access Amidst Diplomatic Engagements",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "US to curb China's access to AI chips as Trump heads to Asia - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw",
+      "title": "US and Allies Collaborate to Safeguard AI Technology and Infrastructure",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "US, allies team up to protect AI tech and infrastructure amid China rivalry - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw",
+      "title": "California Sues OpenAI Alleging AI Models Caused Cyberattacks on Companies",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxNaUIwR3dyWlp4dW42NUJuVC0yU20wNVhiWGJxNTJiVG1WSGlrdjRVTXZ6dm9oYVRmQjZwRDVyZjRFVXhTSzVLMTFoLU9JaUg1MnF3cUZVbTRCUURya1VEdUxEZDJROWhZTkVicVVKay1FSmVWblFoeGQzVVBIWnFTSERNZ1VzLTIxOTh0WjNpNGZ4aVotSEZJTWJwRmtvZUV3aVEyTjEtbzI0bEpQUG5oWXpaYw",
+      "title": "ECB Vice President Identifies AI and Debt as Key Stability Risks",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "ECB VP says AI, debt have become prominent stability risks - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPcjVNWm1heHIxeU1IRGtudWhZbVNPVVZZSjZfUV9nVnZuanNhVmVIQkQwMVlKd0wzWHFvT1lBTUZjTUoxV2doaVJzV1NQQkpsNnRKNTNQdEFzM09HYlJrd0ZtY3lhVkN2Wl9yU0hiVW5BclVMc3NGWEE4a1IzYllxM2d0YzlfTk5nWWZtUTh5RFhMUkRSMU9uak1jekt5bEJnRE1ycGk1NHRIWXRBWTQwQS1URkJuUkptUERCRVBrZWhIQjJ2MG1iLQ",
+      "title": "Europe Seeks Palantir Alternatives to Reduce US Dependence in Military AI",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-17/baidu-s-robin-li-says-ai-needs-monetization-to-avoid-bubble-risk",
+      "title": "Baidu CEO Robin Li Warns of AI Bubble Risk Without Monetization",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "Baidu’s Robin Li Says AI Needs Monetization to Avoid Bubble Risk"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-17/impact-of-us-move-to-curb-chip-access-video",
+      "title": "US Chip Restrictions Could Impact China's AI Model Training and Growth",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "Impact of US Move to Curb Chip Access"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-echoes-dot-com-bubble-says-australiansuper-cio",
+      "title": "AustralianSuper CIO Expresses Skepticism Over Anthropic Valuation, Citing Dot-Com Bubble Echoes",
+      "first_seen": "2026-11-17T05:31:57.827492+00:00",
+      "rss_title": "Anthropic Frenzy Echoes Dot-Com Bubble, AustralianSuper CIO Says"
     }
   ]
 }
