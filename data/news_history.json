@@ -1,126 +1,6 @@
 {
-  "updated": "2026-11-18T05:32:22.353783+00:00",
+  "updated": "2026-11-19T05:31:33.905016+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/gilbert-tobin-sam-nickless",
-      "title": "Gilbert + Tobin Leverages OpenAI for Legal Business Transformation",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Gilbert + Tobin rethinks the business of law with AI"
-    },
-    {
-      "url": "openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "title": "OpenAI Academy Empowers Caregivers with ChatGPT Skills",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Helping caregivers use AI in everyday life"
-    },
-    {
-      "url": "openai.com/index/introducing-businesses-chatgpt",
-      "title": "ChatGPT Introduces 'Businesses' Feature for Enhanced Insights and Engagement",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Introducing Businesses in ChatGPT"
-    },
-    {
-      "url": "openai.com/index/ai-effect-on-freelance-work",
-      "title": "AI's Impact on Freelance Work: Shifting Demand and Increased Budgets Identified",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Work at the Frontier: AI’s effect on freelance work"
-    },
-    {
-      "url": "blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-      "title": "Google's Gemini Intelligence Expands Across More Devices with Enhanced Capabilities",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Gemini Intelligence: New features, on more devices"
-    },
-    {
-      "url": "blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-      "title": "Google and Adobe Forge Partnership, Integrating Creative and Productivity Tools",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps."
-    },
-    {
-      "url": "blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "title": "Google Cloud Launches Gemini for Healthcare to Streamline Clinical Workflows",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Google Cloud launches Gemini for healthcare."
-    },
-    {
-      "url": "deepmind.google/blog/introducing-alphaproof-code",
-      "title": "AlphaProof Code Achieves Breakthrough in Verifying Complex Software with AI",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
-    },
-    {
-      "url": "deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
-      "title": "Gemini Robotics 2.5 Enhances Robot Dexterity and Real-World Performance",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Gemini Robotics 2.5 accelerates real-world general dexterity"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/ai-recycling-startups",
-      "title": "NVIDIA's Vision AI and Robotics Transform Recycling Efficiency",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/open-source-openshell-infrastructure",
-      "title": "NVIDIA Deepens Open Source Commitment with OpenShell Donation and AI Infrastructure Focus",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake",
-      "title": "AWS Introduces Tokenomics Data Lake for Amazon Bedrock Observability",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Amazon Bedrock tokenomics data lake"
-    },
-    {
-      "url": "huggingface.co/blog/qvac/botpsy",
-      "title": "Hugging Face Unveils BotPsy: On-Device Personal Assistant with Small-Parameter LLM",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
-    },
-    {
-      "url": "github.blog/open-source/git/git-security-vulnerabilities-announced-7",
-      "title": "GitHub Addresses Critical Security Vulnerabilities in Git",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Git security vulnerabilities announced"
-    },
-    {
-      "url": "apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature",
-      "title": "Apple TV Introduces New Sign Language Interpretation Feature",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Apple TV introduces new Sign Language interpretation feature"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMi1gFBVV95cUxOa05ybjl6MUh6R2ctNVI0ODN6SVRMb3FIcE1ER2tXU1dBd0FOUGRscG1Fam96Um93elZ2VERacWVwMEFwTjUtZlgta3d1cUhLR0NmNFM4MVMtcXFSeHAxMDZZZ1JRSU5fQ3JKTlBEQ0VDUEU0c0d6SG5rdFlhMDBzOHhkWFVmS2pKMTRScUplMUNISkkyQ29lV1VTX3BhSXJxaFpfSUxhYnVDLU4za1JiSDg4Sm1LV1hBZ3NWNTN6UUQ2LThjN0xmLVNYN1Y4UWJhSTUtT3BR",
-      "title": "AI Startup Uses Gig Workers for Robot Training Data Collection",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Exclusive: In the race for robot training data, ex-Meta researchers’ startup turns to gig workers with cameras - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOU3JDTlRpUnJBd3B5dFpHcU1KX0RmWE5HN3d4TEN5b3JaZjlLQjBGWmYtcGQ2cF9hbjBLR0Q1X3VRQ2J2c3JCQm90c1kzbk1VcGxxOU1ITkJRYkZLbmpOd2o4QzZ2ZEFSc2NRbGZtSXJDQ3IwNTVaTThJRDAtWUdUd0RLWQ",
-      "title": "Anthropic Seeks Australian Retail IPO Amidst Intensifying AI Scrutiny",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxQa0R5YUh3ZWFLeEFIWkZaOWRqdUJTVWRveTdmMmpIWDR6enhRam9OX3FzUEpJMkJhUFhHclBKMHFqQldFbW4xRm9seERZNGVpOVVtcW85dWtmckM5czBtcmhzd0hDc1FyV3dmb3luank2MFhHRXNuTkRLU3k5bUFVSU1iRU01b0x3aEMyQm1BcGtmbDg5UXQwWVl0WQ",
-      "title": "Anthropic's Journey from Startup to Industry-Defining IPO Explored",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Anthropic's path from AI startup to industry-defining IPO - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxPNlhCX21hbUtQSkR5SExrZVI2c09icmNlRkJ3bDlON3B1UUVpbkx2VnAwcXhzbzI5Z3lJUGlnUG1SUVFlczFUd0RHZG0wclNNNEp4MmgzZGtYVEJ4UDJrY3dJblRXMFFFOGI1T2VaZzFqWXRoMHVfTEctSE5wVEhLcVk5ZkdIRUpvMVAtZjV2NzMzTWxjUlVWRzRheDNQYTdCYWRUaA",
-      "title": "Anthropic Launches AI Office Productivity Tools Ahead of IPO",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Anthropic launches new suits of AI office productivity tools in run up to IPO - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc",
-      "title": "Australia Mandates AI Breach Reporting and Establishes Regulator Post-OpenAI Incident",
-      "first_seen": "2026-11-11T05:31:51.048853+00:00",
-      "rss_title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach - Reuters"
-    },
     {
       "url": "openai.com/index/singapore-airlines-travel-work",
       "title": "Singapore Airlines Enhances Customer Experience and Productivity with OpenAI",
@@ -957,6 +837,126 @@
       "title": "California Sues OpenAI Over Allegations of Rogue AI Agents and Cyberattacks",
       "first_seen": "2026-11-18T05:32:22.353783+00:00",
       "rss_title": "California sues OpenAI over rogue AI agents and cyberattacks - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimAJBVV95cUxOSTExb21JRlBpZTFvNUlRZFhncGQzNzdSYUR5WWdpSmFzbTlYMnp3M25qVGhjUk1nTXJJdThUMmVpMmpLVWdmZ296R2xxckVlYTJoRjY5ZHBRUXNybGxaN2xTWVA4X2FIZGh4cTB6NTlieHBMb3gwbGh6b2xLbHRmamJZcnlDZmxsRGgtcDB0dzJpRGRYdXVRVGhnSzN5Rlg1TU5FRjJFbTJtbTZMTFlpSXE5MjVOSkJhSXE3MHVaOTFtMFV1ZVNaT2hHSjg1ZlIzbF9hbDNlYkpFSDZVOTdnY0pVeXF1OTdRWFItdGdSTUJKTTVudjVRcGtCakxraFJxbWFWRGlqZi0tbjg4TnZmU0EzX0pZQTc1",
+      "title": "California Enhances AI Safety Framework with New Mandatory Standards",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "Governor Newsom’s nation-leading AI safety framework is getting even stronger as California releases next steps on mandatory safety standards and oversight - California State Portal | CA.gov"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMizwFBVV95cUxPeWlhZGtUbEFjczdrQzZ5YnM2MEJiSkdwYUx3YTB2SkhQUVV0WnBBNU51aHM4ZFFvaXBEMzRWY1hGVmZtbGVYVmV0ZGtLbWFHaWt4Yk1kWWx4blBVTjVNUC1Ld1JpVXdHcWlfek1ickphT3M5Q1FYRE1LV2NkZDRXYWRBcmlnOVQ0QjVtTm5CS3FYUFVSMXotdkdzX0JkVGNJQTYtenA3eHdqTE9PYjNPR1RuZk52dTR5anp0RkdTYm5rMHNpVk8zVTNFMGtWcG8",
+      "title": "Arizona Investigates OpenAI and Others Over Potential 'Rogue Agents'",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "Arizona says it is investigating OpenAI, other firms over possible rogue agents - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMid0FVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA",
+      "title": "Anthropic's Record-Breaking $81 Billion IPO Fuels AI Market Expansion",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX - CNBC"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand",
+      "title": "Lenovo Exceeds Sales Expectations Driven by Robust AI Hardware Demand",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "Lenovo Sales Beat Estimates Due to Solid AI Hardware Demand"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now",
+      "title": "NVIDIA RTX Spark Compact Desktops Bring Local AI Capabilities to Windows PCs",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "NVIDIA RTX Spark Compact Desktops Out Now"
+    },
+    {
+      "url": "openai.com/index/research-acceleration-jagged-frontier",
+      "title": "OpenAI Explores Recursive Self-Improvement with Coding Agent Research",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "Research acceleration: The jagged frontier"
+    },
+    {
+      "url": "openai.com/index/the-silent-consensus",
+      "title": "OpenAI Discusses Societal Control Amidst Advanced AI Capabilities",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "The Silent Consensus"
+    },
+    {
+      "url": "openai.com/index/managing-frontier-ai-risk",
+      "title": "OpenAI Details Frontier AI Risk Management from Training to Deployment",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "Managing frontier AI risk: From training to deployment"
+    },
+    {
+      "url": "openai.com/business/customer-stories/sumitomo-life",
+      "title": "Sumitomo Life Leverages ChatGPT Enterprise for Enhanced Operations",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise"
+    },
+    {
+      "url": "openai.com/index/advancing-chip-design-with-our-models",
+      "title": "OpenAI Models Accelerate Chip Design with GPT-6 Astra",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "Advancing chip design with OpenAI models"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
+      "title": "Google Gemini App Expands to Lower-Memory Android Devices",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "The Gemini app is now available on lower-memory Android devices."
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization",
+      "title": "AWS SageMaker Serverless Enhances Model Customization with Full Fine-Tuning",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips",
+      "title": "Exa Achieves 50% Embedding Throughput Boost on AWS AI Chips",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock",
+      "title": "Airbnb Optimizes Coding Agent Costs on Amazon Bedrock Using Cost-Per-Task Metrics",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql",
+      "title": "AWS Aurora PostgreSQL Enhances RAG Chatbot Traceability with Responsible AI Controls",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "Design responsible AI controls for Amazon Aurora PostgreSQL"
+    },
+    {
+      "url": "huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "title": "Hugging Face Introduces DaisyRose-27B for Post-Training Efficiency",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency"
+    },
+    {
+      "url": "huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "title": "Hugging Face Blog Explores Time-Series Models in Streamhouse Architecture",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
+    },
+    {
+      "url": "huggingface.co/blog/moe-expert-streaming",
+      "title": "Expert Streaming Pushes Mixture-of-Experts Inference Limits with 180B Parameters",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-19/mas-warns-ai-agents-could-move-money-faster-raise-finance-risks",
+      "title": "Singapore Central Bank Warns of Increased Financial Risks from AI Agents",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "MAS Warns AI Agents Could Move Money Faster, Raise Finance Risks"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc",
+      "title": "Microsoft Unveils New AI Models for Coding and Cybersecurity",
+      "first_seen": "2026-11-19T05:31:33.905016+00:00",
+      "rss_title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI - Reuters"
     }
   ]
 }
