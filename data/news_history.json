@@ -1,126 +1,6 @@
 {
-  "updated": "2026-11-19T05:31:33.905016+00:00",
+  "updated": "2026-11-20T05:31:41.450030+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/singapore-airlines-travel-work",
-      "title": "Singapore Airlines Enhances Customer Experience and Productivity with OpenAI",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Singapore Airlines elevates travel & work with OpenAI technology"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-      "title": "Google Introduces Gemini Decisions API for Rapid Multimodal Inference",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Gemini Decisions API: Fast, calibrated multimodal decisions"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-      "title": "Google Labs Launches Tabletop for Collaborative Group Planning",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together."
-    },
-    {
-      "url": "deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-      "title": "Google DeepMind's AlphaGenome 2 Advances Disease Understanding Through DNA Analysis",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
-    },
-    {
-      "url": "deepmind.google/blog/gemini-4-carbon-is-now-available",
-      "title": "Google DeepMind Releases Gemini 4 Carbon Model",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Gemini 4 Carbon is now available"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock",
-      "title": "DXC Technology Builds Multi-Model AI Substrate on Amazon Bedrock",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification",
-      "title": "AWS Machine Learning Introduces Semantic Diffing for Formal Policies",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Semantic diffing of formal policies with anti-unification"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026",
-      "title": "AWS Bedrock and Agent Updates for October 2026",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "ICYMI: What landed for AI builders in October 2026"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track",
-      "title": "AWS re:Invent 2026 AI/ML Track Guide Released",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets",
-      "title": "AWS Generative AI Innovation Center Offers Reusable Assets",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Accelerating generative AI delivery with reusable assets"
-    },
-    {
-      "url": "status.openai.com//incidents/01M76CW2D7FM7K7F8NJ4W0G08N",
-      "title": "OpenAI Reports Outage Affecting Workspace Agent Runs",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Unable to start new Workspace Agent runs"
-    },
-    {
-      "url": "githubstatus.com/incidents/dvy0t3mvh1lg",
-      "title": "GitHub Services Including Actions, Pages, and Copilot Experience Disruptions",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Impact across multiple GitHub products including Actions, Pages, and Copilot products."
-    },
-    {
-      "url": "githubstatus.com/incidents/1h2wbly1y72t",
-      "title": "GitHub Investigates and Resolves Webhooks Performance Incident",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Incident with Webhooks"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikgFBVV95cUxNX3pBVmNFNV81WUtYNDZTXzExR0NfX3lEU3hHMklmNWExc2Z0VWo5dU5xSnB2Vk0zMGlobDNnc1owTXdIeERRNkh2NGJsdGk4VzhZYkp2a0E4eEJuamxuZkhBNTA3SlFMSF90bFNNZlZGQ1dmcmVHTWlBYjFodmhiUHNRdDlKQ0pnMkgwNHJqZGpsZw",
-      "title": "Google Staff Testing New Gemini AI Model Codenamed 'Hydrogen'",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Google is letting staff test a 'fast' new Gemini AI model named Hydrogen - Business Insider"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-12/nvidia-to-decide-on-jensen-huang-s-fate-video",
-      "title": "Nvidia CEO Jensen Huang's Position Under Board Review",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Nvidia to Decide on Jensen Huang’s Fate"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli",
-      "title": "Chinese University Acquires Nvidia H200 Chips Despite US Export Controls",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizgFBVV95cUxQSWgwbFNYa2Z4R1pzeU83WUhSVTUwSG9vTC1tT0lfV0FMZk1oWGlNellpU083T2M2VGJDV19fLXhJY3N4dHJUUnUxMTNSeU1XdVdtd3YxNWZ6RWxlcTE1RTRyZDB5UDAweUhFTk9wRjVmNGlzSFUxOEpZTkc0TEdJY05DN3VNRDlidmJnVlJHTEY5dTJaakVFX0x3Mkl2TEZFTDBfN3dBTXhZVkxVRG41X2lyMENmWVFJQ2hHbWs0bHdzem5NSER6d0xhMjl0dw",
-      "title": "OpenAI Reports Significant Losses Amidst Rising Revenue",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxPWlk5SWg5U2ZDeExQOUMycHJsMWoycHpLYWY2S2Ntc3RhZllRcTBFTnpQSlU1eF96emQ3S1VRRFoybFdBaHZvR1k4TmFDd19uT3huaElhUzhmaUtlTW1LaEZjSmZCbENrenRkNzJjMlZwcDN6QW1zc2hHUFYtbHJJYTZWV09yRHllSWtmZ1ZNa1FEZ1NyYVdiRFdibi1OOURTLWpXSGhNRnE",
-      "title": "Banks Aim to Control Escalating AI Agent Costs, McKinsey Reports",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Banks seek to rein in soaring AI agent costs, McKinsey says - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxPYXoxT3FYWjJHMDlHckQ0b0d4Z2ZYUnpRUjhzcFFLalFuYXdaV0hwLWJYOWh3U0FTTVJkNXFOcWpNSkRfc1lkT0preHVMN2JkdEJVUDJoaVhVV1lGdUNjdkNqY2xGeHBob1dCXzl2azhKX2U4UmtxejVuZTl1aUhGaHRYTTh1bGFaWVRPWTNZckdiTXhfSUVSb3hxWXhoaVBGdjRGT1hjTEprZUZPbmUxUmFZMlFHX3IzQmIyVg",
-      "title": "AI Security Startup Sentra Raises $150 Million for Autonomous Agent Monitoring",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "Exclusive | AI Security Startup Sentra Raises $150 Million to Police Autonomous Agents - WSJ"
-    },
-    {
-      "url": "openai.com/index/chatgpt-plus-for-veterans",
-      "title": "Veterans and Servicemembers Utilize Free ChatGPT Plus for Career Transition",
-      "first_seen": "2026-11-12T05:31:42.513438+00:00",
-      "rss_title": "ChatGPT Plus for veterans and servicemembers"
-    },
     {
       "url": "openai.com/business/customer-stories/amplitude",
       "title": "Amplitude Accelerates Product Development Cycles with OpenAI's Agentic AI",
@@ -957,6 +837,126 @@
       "title": "Microsoft Unveils New AI Models for Coding and Cybersecurity",
       "first_seen": "2026-11-19T05:31:33.905016+00:00",
       "rss_title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI - Reuters"
+    },
+    {
+      "url": "openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "title": "OpenAI's Performance Factory Accelerates ChatGPT Speed",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "How OpenAI’s Performance Factory keeps ChatGPT fast"
+    },
+    {
+      "url": "blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "title": "Gemini API Introduces Tool Retrieval for Enhanced Agent Capabilities",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Introducing Tool Retrieval in the Gemini API"
+    },
+    {
+      "url": "deepmind.google/blog/genie-4-is-now-available",
+      "title": "Google DeepMind Releases Genie 4",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Genie 4 is now available"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs",
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing to Windows PCs",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2",
+      "title": "Amazon SageMaker Inference Sees Numerous 2026 Updates",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Amazon SageMaker Inference: 2026 launches in review, part 2"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments",
+      "title": "Amazon Bedrock AgentCore Payments Enable AWS Marketplace Transactions",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers",
+      "title": "BMW Group Implements Robust Governance for AI Agents",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "How the BMW Group governs hundreds of agents across thousands of developers"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints",
+      "title": "Amazon SageMaker AI Detects Inference Endpoint Issues",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand",
+      "title": "Amazon Polly Launches Voice Cloning for Branded Audio",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Amazon Polly launches voice cloning: A unique voice for your brand"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach",
+      "title": "Accenture Offers Sequenced Approach to Optimize Bedrock AI Economics",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach"
+    },
+    {
+      "url": "github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together",
+      "title": "GitHub Launches Replica and Open Source Accessibility Framework",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "The best things in open source are built together"
+    },
+    {
+      "url": "status.claude.com/incidents/c1kmrkmv5f3d",
+      "title": "Anthropic Reports Elevated Errors for Claude Mythos and Fable Models",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Elevated errors for Claude Mythos 5.2 and Claude Fable 5.2"
+    },
+    {
+      "url": "nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption",
+      "title": "NIST Project to Accelerate Mobile Driver's License Adoption",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "NIST Project Aims to Accelerate Mobile Driver’s License Adoption"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA",
+      "title": "Anthropic's IPO Tests Investor Faith Amid AI Boom",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
+      "title": "Anthropic Shares Decline on Second Trading Day Amid AI Sector Fears",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Anthropic Set for Second-Day Drop as AI Fears Eclipse Record IPO"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-19/alibaba-s-revenue-beats-estimates-during-china-s-ai-boom",
+      "title": "Alibaba Anticipates Growth Rebound Driven by In-House AI Chips",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Alibaba Expects Growth Rebound as Its Chips Offset US Curbs"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQVFY3aERKeGE0QmV1OVY5akNDaDhaVDJ2NEJjS3FZb2U4UWNMVl9tRmdYWllCaEhYVXZXUGhZTUVkcTdySzMzNktNZnE5bTc1cm1tR3JPbXA0OS0xS3V2a2VRd3M3NVVQOHVjR3I1dXEyOTAzUm91S0ZVQmgtWjVXM0NleHo",
+      "title": "ECB Warns of Subprime Bubble Parallels in AI Borrowing",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxNYzJMRVRpMDh6UlVrLWNaa0JYTmZhMkUxWWdweFJuWDdJZWE2NmVsSFczcFMwT3FVYzRxVV93TXlrSVhfWDBnRTBsSTNRcjMxUF9KMnp5UVNYOTRKSlJPa0tRMC1Mc2FTN3I4RGpZRVJxZ3FCOUVkaEZkQTlDUzNpZ1V2VS1UOXZRdEkyODVCMTJuMC1pSWd2QnN1Skw1eTFWS0Z3dzd1enk",
+      "title": "Palo Alto Networks Acquires AI Startup Applied Compute for $4.5 Billion",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPb1dQS0xwaGdEa3NFS3B0NzlPZnJyUC01VjFHU0s1TkJnZkEycHpwUm1uQTBfYUYzRE1zUjJsQ05xelp2SGlYbWl3aklQdWdlOXFXbF9aRTc4Sk50dW5MQWZsRnVULUVaaFBMTmpmai1Fb3RsenBWWHBOTEt5MmNrZTlwSFY",
+      "title": "Anthropic Completes Largest IPO in History with $81 Billion Raise",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Anthropic Raises $81 Billion in Biggest IPO Ever - WSJ"
+    },
+    {
+      "url": "thenextweb.com/news/google-gemini-mac-computer-use-multi-step-tasks",
+      "title": "Google Gemini for Mac Gains Task Automation Capabilities",
+      "first_seen": "2026-11-20T05:31:41.450030+00:00",
+      "rss_title": "Google’s Gemini can now take over tasks on your Mac"
     }
   ]
 }
