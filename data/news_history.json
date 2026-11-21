@@ -1,126 +1,6 @@
 {
-  "updated": "2026-11-20T05:31:41.450030+00:00",
+  "updated": "2026-11-21T05:31:53.198505+00:00",
   "entries": [
-    {
-      "url": "openai.com/business/customer-stories/amplitude",
-      "title": "Amplitude Accelerates Product Development Cycles with OpenAI's Agentic AI",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "How Amplitude ships product improvements in 1–2 days with OpenAI"
-    },
-    {
-      "url": "openai.com/business/customer-stories/gondola",
-      "title": "Gondola Reports Significant Revenue Growth Fueled by OpenAI Codex Integration",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Gondola doubles revenue as its team builds more with Codex"
-    },
-    {
-      "url": "openai.com/business/customer-stories/holidays-extras-codex",
-      "title": "Holiday Extras Reimagines Business Offerings with OpenAI Codex",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Holiday Extras is rethinking what it can build with Codex"
-    },
-    {
-      "url": "openai.com/index/children-first-declaration",
-      "title": "OpenAI Commits $2 Million to AI Safety Research for Children",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Supporting research on AI and children’s safety"
-    },
-    {
-      "url": "blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "title": "Google Search Enhanced with Gemini 4 Hydrogen for More Intuitive Responses",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Google Search gets a major upgrade with Gemini 4 Hydrogen"
-    },
-    {
-      "url": "blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact",
-      "title": "Microsoft Addresses Business AI Adoption Challenges with 'Frontier'",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "From AI ambition to business impact"
-    },
-    {
-      "url": "blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms",
-      "title": "Microsoft Identifies Key Lessons for Scaling AI Value in Frontier Firms",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Scaling AI value without losing control: Lessons from Frontier Firms"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore",
-      "title": "Natera Deploys Agentic AI for Lab Operations, Achieving Dramatic Efficiency Gains",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime",
-      "title": "AWS Enhances AgentCore Runtime for Secure and Efficient AI Agent Operations",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Run agents securely and efficiently with the next generation AgentCore runtime"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws",
-      "title": "AWS Introduces A2A Protocol for Composable, Interoperable Multi-Agent Systems",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Build composable, interoperable multi-agent systems with A2A on AWS"
-    },
-    {
-      "url": "github.blog/news-insights/company-news/github-availability-report-october-2026",
-      "title": "GitHub Availability Report Details October 2026 Incidents",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "GitHub availability report: October 2026"
-    },
-    {
-      "url": "github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
-      "title": "GitHub Introduces Practical Guide to Reusable Agent Skills",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Build once, run on any agent: A practical guide to agent skills"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw",
-      "title": "Lawsuit Filed Seeking to Halt Frontier AI Development by Major Labs",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxQRERObVhKZklNOEliOFhfQmhqMmZaQWktbkVWTXlxZU8zbUtxQ1cwZnZpaGJwZ1djUHFFVVlydTFsQUd3UUJEV0NOdUliUGY1ZGNKN1ZPWG1zYkpxcEgtNGJlSFVrTi1EVm84MnFFbWxmeXR1YmotNUdzVFBtUVU1VmhPR3ZGTHFUcHlSUnRQQmU0WUYyRi1fdnNHOHc3QUh2OWVsQURUb3BwVTVaMm9NRUdnbw",
-      "title": "Potential for Stricter AI Chip Sales Curbs to China Following Nvidia CEO's Resignation",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Explainer: Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxQNlJiazNmNldsT18xR0xkNXFCQ1QzeFJJeWhMVHRLQU83LTU1UHBvbWQ4WHVDMFJHY2VOYmlSWm9UcFVOVWt5OUdFeDBEWWQya25sYi1XOG9wOW5oUlM5Z0huRHVCV3F5M2xxLS0xd0hSZ1JVb2hGdmtmcW5OMXRrX19MVklYZnA0dmlvOTFFenFaMnlUUU9GTnFINllwQlJCU2xmbEZxMmZPRGFwMUhDTVl0aDI5dDJVU1NJYVItMnQ1Yzct",
-      "title": "Federal Reserve Official Warns of Significant AI-Driven Job Disruption and Inequality",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Fed's Barr: US should prepare for 'serious' AI job disruption, widening inequality - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3",
-      "title": "Anthropic and OpenAI Sued for Alleged Patent Infringement in Neural Network Development",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-13/nvidia-sees-record-open-retail-buy-after-ceo-ousted-vanda-says",
-      "title": "Retail Investors Show Strong Buying Interest in Nvidia Post-CEO Ouster",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Nvidia Sees Record Open Retail Buy After CEO Ousted, Vanda Says"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-13/singapore-charges-5th-person-linked-to-nvidia-chip-case-st-says",
-      "title": "Fifth Person Charged in Singapore Linked to Nvidia Chip Export Case",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Singapore Charges 5th Person Linked to Nvidia Case, ST Says"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage",
-      "title": "Microsoft Grapples with Prolonged Outage Affecting Outlook and Copilot Services",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Microsoft Tries to Fix Outlook and Copilot Hours Into Outage"
-    },
-    {
-      "url": "wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang",
-      "title": "Colette Kress Appointed Interim CEO of Nvidia Following Huang's Resignation",
-      "first_seen": "2026-11-13T05:32:37.530463+00:00",
-      "rss_title": "Meet Colette Kress, Nvidia’s New Interim CEO"
-    },
     {
       "url": "openai.com/index/introducing-chatgpt-wallet",
       "title": "OpenAI Introduces ChatGPT Wallet for Secure Agent Transactions",
@@ -957,6 +837,126 @@
       "title": "Google Gemini for Mac Gains Task Automation Capabilities",
       "first_seen": "2026-11-20T05:31:41.450030+00:00",
       "rss_title": "Google’s Gemini can now take over tasks on your Mac"
+    },
+    {
+      "url": "openai.com/business/customer-stories/hebbia",
+      "title": "Hebbia Reports Significant Gains in Financial Research with GPT-6 Astra",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Hebbia sees improvements in financial research with GPT-6 Astra"
+    },
+    {
+      "url": "openai.com/index/introducing-medchembench",
+      "title": "MedChemBench Evaluates AI's Role in Accelerating Drug Discovery",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Can AI help scientists identify promising drug candidates?"
+    },
+    {
+      "url": "blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "title": "NVIDIA Omniverse Integrates Frontier AI Agents for Advanced Simulation Development",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill",
+      "title": "AWS Introduces Distributed KV Caching to Reduce LLM Cost and Latency",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai",
+      "title": "Standard Bank Group Automates Generative AI Risk Assessment with AWS",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "How Standard Bank Group automates AI risk assessment for generative AI"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents",
+      "title": "Amazon Textract Insights Launches Verifiable Generative AI for Document Analysis",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents"
+    },
+    {
+      "url": "huggingface.co/blog/inkling2mini",
+      "title": "Hugging Face Releases Inkling 2 Mini for Localized, High-Performance AI",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup"
+    },
+    {
+      "url": "huggingface.co/blog/harness-adapters-at-scale",
+      "title": "Hugging Face Introduces Harness Adapters for Model Performance Optimization",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxPMEM5RkVEODBRZVc3QXVEdl8tZWhnemZ4RENJZEZsUkRhS1djSUVUU25IRjdIeHhEaWhkWHFnejBFejRodXk1SW5IdXl4WHZZcm5SQ2JDbDN5NWVpVjV3RUNjcl9DTXZHZVZjc0FjcUJkeDRDR3ItNzh0UnBBNGhoY09nQVJFVXZ0c2c5VmtXT3lYWklfS29EdmZmdlJhaFEtWlNtZ2JzRm5VTnJKQUd6SmJjZmJHOWZFN0N3",
+      "title": "Rahm Emanuel Discusses U.S. AI Chip Export Controls and Economic Strategy",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Rahm Emanuel on U.S. AI chip export controls and details of his economic plan - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxQSnJIY2MzcUJjNVY3MzNYaGxKYUIySGw3TzNnVjltNDBIS2JPOHV4Y1BTaDRTRTRxSWp3R0M4Z3VSeU1IWmdoTGl6SU15bHh6UkZobTZ3aWpxUmU5c2dsODBPTjI3V0NQTEhjMWZBWE1fZnNQVHdYcjdONk43LVhleEdaUEs2d0hsV3dqMURGRUcyQzZnTFduVGZuTmJMU0taYzNreTJ4c2ZqeWV6b0l2X1FCQm5SQllFa09PZFRIcGJ5aGs",
+      "title": "Trump and Xi Reportedly Agreed on Human Oversight for Military AI Decisions",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixwFBVV95cUxORlJGWE45RkVJTGJ1UXJxWFlaMlNfcnQ4bkNxRlIyV2VYVm0yRVQyeS1UQW5ldEZybjQzOFlRUmRzNlRxaGMzR3FWVlc1NVZMNnJzeGlyeXJvdVFxaXJPOVhjY0J4OUdEbWg5X0Rza1owcllpM1ZaME9LSDlpS0JfcFhTZ29acnV3a3M3Z1dGVW1FRHZjdmNqZGQyeDc2S25sbTQ1TGNEdFdLVDRtU25lU3JVaXFVMXAzT0xkYU5LSEY1dExkRnNR",
+      "title": "Big Pharma Reports Accelerated Drug Discovery Timelines Driven by AI",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipgFBVV95cUxNRHI2aWRzcEgxVVM4TVNuQWFOMVpVZ2cwb19XUEo2ZlhhYjJQXzJlMXdZVFlRVFdicHlrYmoxRE9GZ1NZUFF0R09CeFZ4SV80dWh5M0YxUzFyUEVqMXJLUDBGR0Q5NEhNMkhDYWRRVHZMVWZYZ05UczcyT1hvMkdJLW5jSDZyQU9lUloza1hhQ2EzZWl1cldEaXdmUE50aWJZVGoxYmF3",
+      "title": "Federal Reserve Monitors AI Industry Financing Amidst Rapid Growth",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Fed's Cook says central bank watching AI industry financing - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNcVk2clRUVFZnTGJTcG1qOWpTRmlSQmRjTXdoVFhIMGQ1cU1idU5RTVFqOVhob2NMQXYyWlVTeEhpU2N2cEk5d0pJSlhic2NSaHJ2M0V1b3N2WW9BalFiZ3VnQnpuY1VKV3Fwd1pkMWw0N1FnRlNPZmdXRFVudkhGOHA5OHNsVzBPWnRWaWNnTmRTNFBQQTVKSEF1WndCeVhnSmZ3S1ZCVzBtcDBWSk9VS3ViTnY5UThFaHFz",
+      "title": "Anthropic's $1.5 Trillion Debut Rewrites Venture Capital Playbook",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Anthropic's $1.5 trillion debut rewrites venture capital's playbook - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
+      "title": "Anthropic Researcher Claims Solution to Riemann Problem Using Claude AI",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Anthropic Researcher Claims to Solve Riemann Problem With Claude"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
+      "title": "AI Coding Startup Cognition in Talks for $75 Billion Valuation",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Cognition in Talks for $75 Billion Value With New Funding"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimAFBVV95cUxOY1h6VEhXUGRDcE9hX25QQllJOF9uSmhUNERBSVdBNjRkU0gyaGRySGN0MXVXZERzUmhmdXJIUms2cFJJU2ZvdkVjUlB0RjRxSTQ4RFBiYTV0T0MyUFB5cWw0RWtuZzZrQXFwLUJqb3VsZGhacHR0NF9wTVMwc0tYUW1obFhUNHNVX0JEQnFKX2pRc1RWRGsxVw",
+      "title": "U.S. Stocks Plunge as AI Boom Shows Signs of Reversal",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxNeHpsUWpRNHV2N1B5QVI4LUdwb1VMWjB1aXRnV2I0YkowdGZDRnBLeGJWYWx3UERrRXNWWmh4QV9wQkd0UlUydEp6WDVYMVJBMHNSOXJUMHhHUUMtbjUzUFp1aXdlX283dWt1aDlUaWhYQW5oNkozeGY2dUVSbkxiZjQ2Nkd0QjBfVjVLRW44YktRbTMtdEx5ZWZuTGl6LVVvRWpWS1hfZU9pR0RVVkRYUUh3",
+      "title": "China's AI Firms Grapple with Nvidia Chip Dependency Amidst Sanctions",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "China’s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal. - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxPa0NnR1VsbEdzLV9fN3JKVkRtQjdpc2JzNGk4OVA2M3F4UmZkZGxkbGR0dWdMVENDT1p1Sjd6ZjBtc3VtTks1UFNFTXBGcGJCTjlTMFAzMmlPZUhWY2RkM21KS0JVNHl1ZU13X0tRUFIzNGlXbFRidGdDbUVha05MWW9pcHpQWm10a24ySmlTNDMtUFg0anlNOFlZck8",
+      "title": "Anthropic Shares Positioned as a Rational Bet on AI's Next Phase",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxQSG8ya2w3RG9vaHBtS3o5UDRHcTlaamlNZHZMV1R0R3YydzBfQkdkeUJPQXZMUlRSOWlXRXNRQ2VadEVLVzRqUTRlazIxQUNEVi1lWFpGejZwd3Z5NUtxczNfcndxd2JjR0h1dUxRTVpHWVluX05rNkxqQ1d2bFJGSjdJTQ",
+      "title": "Portland Considers Freezing New AI Contract Awards Amidst Concerns",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "Portland leaders consider freezing new AI contracts - Axios"
+    },
+    {
+      "url": "technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+      "title": "AI Capability Growth Trajectory Updated, Highlights Judgmental Task Deficiencies",
+      "first_seen": "2026-11-21T05:31:53.198505+00:00",
+      "rss_title": "The most misunderstood graph in AI just got a major update"
     }
   ]
 }
