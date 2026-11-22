@@ -1,125 +1,6 @@
 {
-  "updated": "2026-11-21T05:31:53.198505+00:00",
+  "updated": "2026-11-22T05:31:40.174562+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/introducing-chatgpt-wallet",
-      "title": "OpenAI Introduces ChatGPT Wallet for Secure Agent Transactions",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Introducing ChatGPT Wallet"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMigwFBVV95cUxOOUI2N2tMVm9aU2d4SWNfV1RPbEN1R21pOVI5Vnh6UmlETjUwT3ZLTUY5amxTTW5sNXpKTjd5ZE9mcU5BdVllUDVXN1pMZk5QN0l3MVRTUFcwYWlURlJkZ1Q1UW9wVWNoNEtLQ2ptRXMxWTJmaFVsYjFTV3VLZjRFMUNMNA",
-      "title": "Gemini 4 Hydrogen Integrated into GitHub Copilot",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Gemini 4 Hydrogen in GitHub Copilot - The GitHub Blog"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
-      "title": "GS Caltex Achieves Faster MLOps Production with Amazon SageMaker Canvas",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
-      "title": "Amazon Bedrock Enhances Coding Agent Efficiency with NVIDIA NeMo Switchyard",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures",
-      "title": "OpenFold3 Deployed on Amazon SageMaker JumpStart for Biomolecular Structure Prediction",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock",
-      "title": "Amazon Bedrock Introduces Cost Controls for AI Developer Tools",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron",
-      "title": "Deploying Frontier AI Models on AWS Trainium with SGLang-Neuron",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost",
-      "title": "Key Inference Choices Impacting Amazon Bedrock Costs Revealed",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Four Amazon Bedrock inference choices that affect cost"
-    },
-    {
-      "url": "huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "title": "llama.cpp v1.0.0 Released, Strengthening Local AI Ecosystem",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxQRnR2MHh2N1dqYVljRm44MklWcFJ1QXppTERpYnpCSUdDc2hIdTRUSTJuUTNVZTJSTmMxemUxdjlWQVp1OU4weHpwc2lveS1sbi1DazdUZUpSVGFMMUFBdGMwVnNYNV84aXdGVmdneFJlQlNaNmtnWWN0aGpVdkdaMXVMVlJsWXdfWU5kRHVsMGhBRGhoTEo5dUJEU2xuMy1GaFgtb01BZktjR2szUlZONjBR",
-      "title": "White House Advocates for Eased Liability to Boost AI Disclosure",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "White House Urges Easing Liability to Encourage AI Disclosure - Bloomberg.com"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMisgFBVV95cUxOSTMxZ0ZpeTBfbVZEb3dFbFRpM0xYcU9ta3ZRVnRzc040LUlmWU9IN05La0xrSnBKYzlVVUF3amZuaTJHZGZYa05ObFpJcERkajJiajhVV2RBVzJDVzc0Uzk4NVVfeGhWOG5SSnUtQlRTV1M3MnNON29WZzZZYVlnbGVCVE1LTkpUcm8zOHlmOTdaWGo0dGZJT2Eyb2NqNlB2VWk1bmRCcXdIS3JjRDQ0aTRn",
-      "title": "Trump's AI Task Force Discusses AI-Powered Cyberattacks",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQ1amNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ",
-      "title": "AI Emerges as Top Concern for Financial System in Latest Fed Survey",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc",
-      "title": "US Scrutiny and Huang's Exit Jeopardize $3 Billion in Chinese AI Projects Relying on Nvidia",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxOMy10dU5kazRqbk9PSWxUbGRiUm53LU9sLXBHVnBNUW0xbElWLVVoUG9udExuMGlYZ2xldnlOQUJpMzNpNjEzN0N2TllYaUJkQzFDZG5QSXRKZWQwZlF5cUVTWlI3NVZUWkpra0diZGNtT2F3WnRFZ3ZKd3VvQ250c2tOM2VHOFlFMlRYTm5jbGZ4R0ZWaDNQc1ljR2R4SVU4Umo0NQ",
-      "title": "EU Leaders Convene at First AI Summit to Address Challenges",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "EU leaders seek to tackle challenges at first ever AI summit - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc",
-      "title": "Chinese AI Firms Scramble for Nvidia Chips Amid Fear of US Curbs",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxOd1ZhbGw3QVB1NDhidHA1aEFOMnJFd0hTelBxaXp5dHdGU2V0aDVmSDRqOHUwQ0l1SjNBWDVVMnVsUFJpZDl2dHpQOF93VVdKNTJ2MWVneUZEdWt1S0JOWjJabDVjYXVWeWVZa1NyWGhFekttNnhtcGxZYnpxWUwxY1dlc1NBcGRZakJVT2hXRlpDRW9IRTRKWlNtbjE4TTY3bVhMN3UycDNVYXhJbjln",
-      "title": "Nvidia Fallout Puts Southeast Asia's AI Boom in Focus",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Nvidia fallout throws spotlight on Southeast Asia's AI boom - Reuters"
-    },
-    {
-      "url": "status.claude.com/incidents/qrpz8k79qm7x",
-      "title": "Anthropic Reports Elevated Purchasing Errors on Claude.ai, Now Resolved",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Elevated purchasing errors on claude.ai"
-    },
-    {
-      "url": "githubstatus.com/incidents/51drrqvsv66g",
-      "title": "GitHub Copilot Experiences Degraded Availability for GPT Models",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Copilot experiencing degraded model availability for some GPT models"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-13/match-group-keeping-ai-out-of-dating-video",
-      "title": "Match Group CEO Emphasizes Human-Only Zone for Dating Apps, Limits AI Usage",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Match Group Keeping AI Out of Dating"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqgFBVV95cUxQTTExQ3Y3Q3JBV2Z1WGtJbmpzZWdJbTV1UjlDZ21BenEzUWhOTW1pc2doRlhDRktWZFNDT1lhWjROcE9UZUQzQmQxRFBYZW9kYTBockNoUEtzWFhVbDBTb2pZNXFpSnAtU2tMRVdySzA5Y2d4bmY1WFhvQV9Fd3dTbHVmTFhNNXVxcEN2UXFrenhpUy1jdVJ0UHVUUTRpS2djV3lZZ185MXB3QQ",
-      "title": "AI Startup LangChain Doubles Valuation to $3 Billion",
-      "first_seen": "2026-11-14T05:32:10.643650+00:00",
-      "rss_title": "Exclusive | AI Startup LangChain More Than Doubles Its Valuation to $3 Billion - WSJ"
-    },
     {
       "url": "openai.com/business/customer-stories/shield",
       "title": "Shield Leverages OpenAI Agents for Legacy System Modernization",
@@ -957,6 +838,126 @@
       "title": "AI Capability Growth Trajectory Updated, Highlights Judgmental Task Deficiencies",
       "first_seen": "2026-11-21T05:31:53.198505+00:00",
       "rss_title": "The most misunderstood graph in AI just got a major update"
+    },
+    {
+      "url": "architectlabs.com/blog/frostbite",
+      "title": "AI Designs Novel CPU Architecture: Frostbite",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "Frostbite: A new CPU architecture discovered, designed and verified by AI"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together",
+      "title": "AWS Quick Enhances AI Workspace with Collaborative Agents and Meta Ads Integration",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick",
+      "title": "Meta Ads Integration Enhances AWS Quick for Campaign Management",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "Meta ads is now available in AWS Quick"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm",
+      "title": "SageMaker HyperPod Introduces Managed Extensions for Enhanced Cluster Management",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxPWUs4V2lwTldXRmMtY3dlUTVINmNEV3d6ZDViNEJDN2lXUUEtNDhpQWp1QjNxZ2pMWDFWd20zOE92eVVWOXZSWVN6MnRqSHhvSGZyZXFlYTFYYUg3eVpqUlFRLWowY3BlVnZrQUplMlkxeURvUFE0OFp4aDBqNjZqNzB4eEVoYUdmUFVRVGluVGs0cTgtNzhjc3VadE5jZU5iNHR4M2VUMXZRYW51RkZxcUZHQQ",
+      "title": "Google Cloud Enhances Managed Airflow with AI Agent Scaling",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "Scaling Airflow pipelines with AI agents on Managed Airflow - Google Cloud"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxNWDk1R0xPRW1RdFNWaE9SV0hRNnZUSkY3RU1IX1NGUGd6bnhqLURwM05XQm1VQWtuMk1VTEh1bGxpaFJkMDJQcGRrNlVSbmtHUnkzMmlHX0g5RUQ3dG1WNWpQbzA3VFhSVl9ESWwwS0FMYjhPMmhMTmZkdkFjZW9qRXJJQkNYQzB3NTVtSTY1UGxuWWVqVjJ4QXVJVVdiT3hnVEJkc2xJNlU4VTYz",
+      "title": "ECB President Highlights AI-Fueled Cyber Threats as Top Concern",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "ECB's Lagarde: cyber threat boosted by AI is my top worry - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports",
+      "title": "Australia's Spy Chief Warns of AI and Data Center Vulnerabilities to Foreign Interference",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "Australia Spy Chief Warns of Data Center, AI Risks, Age Reports"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
+      "title": "AI-Driven Consolidation Accelerates in Cybersecurity Market",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "Crowdstrike’s Talks With Zscaler Show AI-Led Cyber Consolidation"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+      "title": "California Investigates Nvidia for Potential Criminal Violations in Chip Sales to China",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "California Nvidia Probe Covers Potential Criminal Law Violations"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push",
+      "title": "China Moves to Standardize AI Token Measurement for Computing Industry Growth",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "China Plans to Strengthen AI Token Standards in Computing Push"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video",
+      "title": "China's Industrial Policy Adapts to AI, Balancing Self-Reliance and Global Competition",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "How AI Is Reshaping China's Industrial Policy"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNTEFvVDlwcmNmNEl1WGpwZ3A3TzF3ZkNLSDFrUHA3XzY3REJxa3Jyc3pjUnVLdXdydFp3eTBYR1E1elQzVllDV1JQVzJENFNhV3RjVWl1eFB3dWFZS1BQWlRpTC1WZWZ1OV9CZmdhQnNtdmUxb25DWS16SEVodXVlRnBFUFQ",
+      "title": "Amazon Nears $7.5 Billion Acquisition of AI Startup Decart",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOMGk3ZUc5aXZkUkpQS1h0RzBmMXJxQ09aTEI2RTgzVWZzUTc3Y0lLZjNZaEZrR0YyMWtsMFQ1RF84bjJpam1JaGI4T3BjaThBbVVRMlFCemlRaDBEdUFiV3pjMF9GSjd6NG5PdWNFVTRMdVRVVXlOUEZyWG4wS1NscGdzQnI",
+      "title": "AI Cyber Threats Are Already Pervasent and Require Urgent Attention",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "The AI cyber threat is already here - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxQd2R1UU5HMEVNTGhtYWxQaTNBMjVRZnZxZjJVU0U1MVk0U2dIRHh6akhYNV9tNWxXYjNmeU16UzdqZDM3bUpDS1BxOEd2b3oySzVMako4Z25JMmNFUVd5ZlFWNTZ4WmJ6d2NXT0R5Z1JsNVNGMi04MGowVF9CQkl4dEEtXzJNYWRDeHA3Rk1hV250dEZWQjNRLW5RZHZPQ0ZMMlNLSDdkejFKTklvZW1ZNDZZalFOQQ",
+      "title": "Anthropic Mathematician Claims AI Solved Famous Math Problem",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math - WSJ"
+    },
+    {
+      "url": "arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "title": "AI Safety Research Exposes Data Privacy Risks in AI Supply Chains",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced."
+    },
+    {
+      "url": "wired.com/story/brace-yourself-for-years-of-outage-chaos",
+      "title": "AI Accelerates Internet Outage Vulnerabilities, Signaling Period of Instability",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "The Outages Are Just Getting Started"
+    },
+    {
+      "url": "theverge.com/tech/1039554/un-regulations-killer-robots",
+      "title": "UN Fails to Reach Agreement on 'Killer Robots' Regulation",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "The UN fails to agree on rules regulating ‘killer robots’"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "title": "Signal Restricts Screenshots to Prevent AI Agent Surveillance on Mobile Devices",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "Signal is blocking Gemini and Siri AI from reading your screen"
+    },
+    {
+      "url": "theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "title": "Apple Hiring Engineers for In-House AI Agent Development",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "Apple is hiring engineers to build its own AI agent"
+    },
+    {
+      "url": "openai.com/index/combatting-adversarial-distillation",
+      "title": "OpenAI Develops Layered Approach to Combat Adversarial Distillation",
+      "first_seen": "2026-11-22T05:31:40.174562+00:00",
+      "rss_title": "Combatting adversarial distillation"
     }
   ]
 }
