@@ -1,125 +1,6 @@
 {
-  "updated": "2026-11-22T05:31:40.174562+00:00",
+  "updated": "2026-11-23T05:31:51.080056+00:00",
   "entries": [
-    {
-      "url": "openai.com/business/customer-stories/shield",
-      "title": "Shield Leverages OpenAI Agents for Legacy System Modernization",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "Shield helps technicians hand off legacy portal work with OpenAI"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
-      "title": "NVIDIA AI Accelerates Healthcare Delivery and Patient Care",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime",
-      "title": "AWS Bedrock AgentCore V2 Enhances Session Startup Performance",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
-      "title": "AssemblyAI Achieves 70% Cost Savings on Speech-to-Text with AWS EC2 Spot",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture",
-      "title": "SageMaker HyperPod Fuels Model Improvement Flywheel with Data Capture",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture"
-    },
-    {
-      "url": "apple.com/newsroom/2026/11/apple-homeview-available-today",
-      "title": "Apple HomeView Now Available",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "Apple HomeView available today"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ",
-      "title": "OpenAI Launches ChatGPT Wallet for AI Agent Purchases",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxQV0NfMEZnVHV5NzFVSkNHU1M4OFQyMnF1VFVMQy13aWpVdGpnLWFEZjlvVU1lNlRmd21CWkluNGVSVE5oOFRvSjZWNU04amx3NWt1ckJWZWlDMHRnVGRYc3ZJakYzQ1RzaS13RjVsbHVaX3BxM1h2a3dmb0RLYzBPWElWaTlYMnFEUXpBX3pxYkt6YWJObG5Pd1dkLUZlXzhMbTdhNmlmQjFVWksxQ1ZPaW9pbjFFN1ZpNlNXektqV1FaNFVvMkJ1Ng",
-      "title": "White House AI Task Force Addresses Cyber Threats and Critical Infrastructure",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "White House AI Task Force Discussed Cyber Threats, Critical Infrastructure at Second Meeting - The Information"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiwFBVV95cUxNTTdnOVVNWjZfZ2kydUwtRE9DbEFjTUJUTVc4aGw1WEZGbHJWM1YyRzIzdlpYa3RnZTQtX3IxZTdYcG8tLWNmQzNncTc2T0Z5Yjd0M21QT191bkRmYUU4b2c4MUZoZ1BFdElzN3FyUFN1bEx2b0pkcmJ2b0EtQVdaakRrc1VNZ0U1d3Q4",
-      "title": "Alliance Between Donald Trump and Jensen Huang Explored",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "How Donald Trump and Jensen Huang Forged Their Powerful Alliance - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0",
-      "title": "Dario Amodei of Anthropic Clashes with OpenAI and Peers",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers - The New York Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMingFBVV95cUxQcDZGSEFLYUF2RGJVQ1BsbWlFaTllc2pqRW0wbGQ4bkppVndUOUEyTUhWeHBHcGJpZTFKdGY3SEFlN1NMTS1BZTZJOVRFekVuQ09INmxBMmszUHRZbTB3MEhILWstT1pYNlc0NDFteHluRTc3YjF4MThudVhQckhZeDRhazlfVllWWl9jaFBlTnZya29zWDF6SWdUU3paQQ",
-      "title": "Nvidia Faces Scrutiny Over AI Risks and Corruption Allegations",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "The case of Nvidia and the growing risk of AI and corruption - Fortune"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQ1M2NhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ",
-      "title": "AI Emerges as Top Concern in Latest Federal Reserve Financial System Survey",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
-      "title": "Nvidia Faces Succession Challenges Amidst CEO Jensen Huang's Potential Departure",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "Nvidia Looks for a New Era After Huang"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc",
-      "title": "Former Nvidia CEO Allegedly Misled Lawyer Regarding Affair",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-15/india-stock-market-rebounds-as-ai-trade-unwinds-foreign-funds-return",
-      "title": "India's Stock Market Rebounds as AI Trade Unwinds, Foreign Capital Returns",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-13/my-husband-and-his-chatbot-video",
-      "title": "The Psychological Impact of AI Chatbots in Marriages Explored",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "My Husband and His Chatbot"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
-      "title": "Anthropic IPO Signals Investor Appetite for AI Amid Market Volatility",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "Anthropic IPO Tests Investor Appetite for AI"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-14/couples-are-bringing-ai-into-their-arguments-video",
-      "title": "AI Chatbots Increasingly Used in Couple's Arguments for Mediation",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "Couples Are Bringing AI Into Their Arguments"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-14/-bigger-than-a-business-story-nvidia-shakeup-video",
-      "title": "Nvidia Shakeup: National Security Implications Highlighted Amidst Leadership Turmoil",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "“Bigger Than a Business Story”: Nvidia Shakeup"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMifEFVX3lxTFBTOWx1RVRSMnpqWGxidkpWU1V2RWRhUXJEMlBqX3k2alR5bmpUQ1lRTFlZMER0R3M0LXlYTHRKMjYzOUd1bVRtQkVaVFpPaEIyN2pKT09yUGUxMDl0c19jMF9YaTFxcnFKZlNUS2MtM283QTVLOGt5dHhoVXo",
-      "title": "Chinese Spying Network Linked to Nvidia Affair Allegations",
-      "first_seen": "2026-11-15T05:31:50.041652+00:00",
-      "rss_title": "Behind the Nvidia Affair Sits a Vast Chinese Spying Machine - WSJ"
-    },
     {
       "url": "openai.com/index/step-toward-defining-the-standard-model",
       "title": "OpenAI Advances Physics with GPT-6 Astra's Lattice Standard Model Definition",
@@ -958,6 +839,124 @@
       "title": "OpenAI Develops Layered Approach to Combat Adversarial Distillation",
       "first_seen": "2026-11-22T05:31:40.174562+00:00",
       "rss_title": "Combatting adversarial distillation"
+    },
+    {
+      "url": "openai.com/index/perplexity-and-intelligence",
+      "title": "OpenAI Introduces Perplexity as a Metric for AI Intelligence",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "Perplexity and Intelligence"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipwFBVV95cUxNSjZLandHNDJKcTM5WWhtaGlHQ1lwUGJqVTIwN0JEMlhqcXgybnk0UU1laXJLcURHU0cyTEQ3MGFBMThyM3Qwc202UzVfRkEwRTRNRFpmWnl1cm1VTHJiMndzbEdGR0FRRzQzNmE5WGhRczVpQXg4TXpTRFZqZDQ3LVoyV0toeDd0NVJjWTdKY05UYTZWOGRXM1E3eDNTMDBDUjJRdG9QWQ",
+      "title": "US AI Policy Lacks Focus on Semiconductor Manufacturing",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi0gFBVV95cUxPcUFLdUZQYzFtXzVMTHBnR1lTMnhES0gzd2dKY0p5dlVkWUNiX0hFYUZvdGxSaDI0ak5GZkdQZWtpZU41eGpuWHBKX3ZnbE1abnJzME1Xa3RRcVo2dGVKcWJLZ3JLUkNqMHp3RXBOOGF2VzZWYU5oTHZibUlHX3M5VXRGYldyVDMxNzJ2c052VEdpTHRHZU9ucEM5R1dHYk5qNHp5eW9kTDNyZ0RTTE9HUTNOVU1aN1FnajAtczlZUG5aZnhlbElTVWt3ZDVyaDR4a0E",
+      "title": "AI Downturn Impacts Chinese Stocks More Than GDP",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "COMMENTARY: AI bust hurts Chinese stocks far more than GDP - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA",
+      "title": "US Seeks Clarity on Nvidia Chip Sales to China",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "US seeks answers on Nvidia's sale of chips to China, Bessent says - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHJfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ",
+      "title": "Anthropic's IPO Process Sparks Banker Concerns, Similar to SpaceX",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-23/the-bull-case-for-britain-video",
+      "title": "Morgan Stanley Sees Bull Case for UK Economy Fueled by AI",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "The Bull Case for Britain"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-23/ing-s-sareen-asia-ai-chip-demand-unlikely-to-crash-video",
+      "title": "ING Executive Predicts Stable AI Chip Demand in Asia Despite US Controls",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "ING's Sareen: Asia AI Chip Demand Unlikely to Crash"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race",
+      "title": "Ant Group Leads $100 Million Investment in Chinese AI Robotics Startup Simplexity",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "Ant Group Bets on Simplexity in China’s Humanoid Race"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-23/us-ai-chip-curbs-test-southeast-asia-data-center-boom-video",
+      "title": "US AI Chip Curbs May Shift Southeast Asia's Data Center Investments",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "US AI Chip Curbs Test Southeast Asia Data Center Boom"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-23/how-to-find-value-as-the-ai-trade-unravels-video",
+      "title": "UBS Strategist Advises Investors to Seek Value Amid AI Trade Unraveling",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "How to Find Value as the AI Trade Unravels"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-23/emerging-market-stocks-set-to-erase-2026-gains-on-ai-selloff",
+      "title": "Emerging Market Stocks Poised to Lose 2026 Gains Amid AI Selloff",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "Emerging-Market Stocks Set to Erase 2026 Gains on AI Selloff"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-23/ai-investment-adding-to-inflation-jain-video",
+      "title": "AI Investment Contributing to Inflation, Economist Suggests",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "AI Investment Adding to Inflation: Jain"
+    },
+    {
+      "url": "bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia",
+      "title": "US Chip Crackdown Squeezes Southeast Asia's Data Center Boom",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "Trump's AI Chip Crackdown on China After Nvidia Crisis Squeezes Southeast Asia"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMicEFVX3lxTE9uQ3VFV09JeGlqT21ULUV6OUFYZWtVbWUtQVNxVUtnMnozbVg0VU1oZG8xSF8ydklWbzhBMUluUjFrbDVvdUFmNTVRTlctcWpPTDRveUtNWDlCZldqT1lIaVBDcVVsbUxLQlJpc3J3a0U",
+      "title": "Anthropic's IPO Strategy Questioned by Financial Times",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "Did Anthropic and its bankers get a key call wrong after IPO? - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOSERNWnNEZmRfX1pfRGR6ZEdoclc3YzRNTkxrS0xhUGdqUG9sd1ROYlFDVXhjVk9oY2Fhc2JWdEdtSmxoZXlyX29CR3hiUW9LM2lLOE5vRk9NLWVDazd0Y2hncnJDYWRxYW5kempscjA5QVlkQXZla3FMeVBXVUprdnd0dU4",
+      "title": "Nvidia CEO Jensen Huang's Potential Return to Leadership Discussed",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "Scott Bessent refuses to rule out Jensen Huang’s return to Nvidia - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiZ0FVX3lxTE5rYXU0QkVVYWROaHJXX0ozQXduV0hJbWxCUE01TmZ4ZmdBa3AyVmc2VWE5SERuRG1RM19TWUNzNlNUbHctZW9XUmRNaDVEa20wS3FuODhXS3ZuN2ctbFhOeGhEekNRYjg",
+      "title": "Assessing Your AI Literacy Quotient",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "What’s Your AI-Literacy IQ? - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMigAFBVV95cUxNY1JnMEhXZi1IVjZ1SmxTWE5RWThOVFJSLTAxcV9mQ3NWVUYyNm5UNjVaTkhHZDduNnVDclZJWWd4Vi1KOElBS1lrSExJSFVCZGtyWEdMRnpSLW9kZ3hQa2pfMUoyTUJqaWlYSDRyaEdjdlZ2RTlVQk5FS3JkU0czdw",
+      "title": "Is the AI Bubble Bursting?",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "Has the AI Bubble Already Burst? - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMikwFBVV95cUxPTWFFQXhWNzlaWHRMZ2E5dWdTY0pIa2dVci0wa0VETFVvZXRzS2Z3Vm9uenBueTdiNFVpQmxXTHBGUm1IS04tdEJuaTJKY0hoVHhsSWVhOGNFeUcyc09LSlV3aG05bzMycGZDa29JM3hvRFp1bm1UV1ZLblBFdzBMdVdMSzh4Zlk3M1drZm8tNUIyQ00",
+      "title": "Genesis AI Secures $500 Million for Robotics Startup",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiigFBVV95cUxOMldXbGg0UF9xaEtzeVRMMEltSExuOWxmT2tkQmptWlRuRFJMbUNvM0pNY1dmcE9ZT21ESUFUTWpvN3I3V2tBZkNmZ0VJc1ROd3RGZC1TSEc2Tlkydk82MTJnRU9PYVZoS1R5WUlyV0xGVDJBd2hXQ1dYVFRINXNYSUtTRzRVQllmTEE",
+      "title": "European Chip Stocks Rally on Strong Nvidia Performance",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "European Chip Stocks Rise After Strong Nvidia Results - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMifkFVX3lxTE40Q2poVlBNa2F1cVctX3JSck8tNjRNd3VfTkcxeVk3Qzk3Qk9LWFJYeUJxOVJkdFJaX3l2QlRFZVlFQmtIOXJxNV9ZQ05jZkoySnNaQ1F4VGpHcmZJalFFOE0xSW5LLUZxZ2w2Q3FkUmRic1labmF4WVptOWU0dw",
+      "title": "Axios Predicts 'The Reckoning' for AI in 2027",
+      "first_seen": "2026-11-23T05:31:51.080056+00:00",
+      "rss_title": "Behind the Curtain — AI 2027: The reckoning - Axios"
     }
   ]
 }
