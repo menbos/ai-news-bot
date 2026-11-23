@@ -223,7 +223,13 @@ For each news item:
     def max_output_tokens(self) -> int:
         """Max output tokens for the Stage-2 digest. Must be large enough for all
         selected items or the JSON is truncated and rendering falls back to raw text."""
-        return self.config_data.get("news", {}).get("max_output_tokens", 16000)
+        return self.config_data.get("news", {}).get("max_output_tokens", 32000)
+
+    @property
+    def stage1_max_output_tokens(self) -> int:
+        """Max output tokens for Stage-1 selection. The answer is ~20 IDs, but
+        thinking models spend this budget on reasoning before answering."""
+        return int(self.config_data.get("news", {}).get("stage1_max_output_tokens", 16000))
 
     @property
     def lookback_hours(self) -> int:

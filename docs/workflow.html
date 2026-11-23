@@ -172,7 +172,7 @@
     <h2>At a glance</h2>
     <div class="kpi">
       <div class="card"><div class="big">60+ tiered feeds</div><div class="muted">Data source</div></div>
-      <div class="card"><div class="big">Gemini 2.5 Flash&#8209;Lite</div><div class="muted">Active model</div></div>
+      <div class="card"><div class="big">Gemini 4 Hydrogen</div><div class="muted">Active model</div></div>
       <div class="card"><div class="big">2-stage LLM</div><div class="muted">Selection → Summary</div></div>
       <div class="card"><div class="big">~06:30 Zürich</div><div class="muted">Daily run</div></div>
     </div>
@@ -269,7 +269,7 @@
     <details>
       <summary>What model is used?</summary>
       <div class="body">
-        The bot is <strong>provider-agnostic</strong> — it supports Claude, DeepSeek, Gemini, Grok, and OpenAI. This repo is currently configured with <code>provider: gemini</code> and no model override, so it runs on <strong>gemini-2.5-flash-lite</strong> (the Gemini provider's default). Change <code>provider</code> / <code>model</code> in <code>config.yaml</code> (or the <code>LLM_PROVIDER</code> / <code>LLM_MODEL</code> secrets) to switch.
+        The bot is <strong>provider-agnostic</strong> — it supports Claude, DeepSeek, Gemini, Grok, and OpenAI. This repo is currently configured with <code>provider: gemini</code> and no model override, so it runs on <strong>gemini-4-hydrogen</strong> (the Gemini provider's default), falling back to <code>gemini-3.5-flash-lite</code> when overloaded. Change <code>provider</code> / <code>model</code> in <code>config.yaml</code> (or the <code>LLM_PROVIDER</code> / <code>LLM_MODEL</code> secrets) to switch.
       </div>
     </details>
 

@@ -29,9 +29,20 @@ news:
   # fallback) so a clipped digest is never sent. NOTE: this is also a *capacity
   # reservation* — Gemini's free flash-lite tier sheds large-output requests
   # first during demand spikes (503 UNAVAILABLE), so an inflated budget makes the
-  # run more likely to fail. ~15-20 items of 4-6 sentences fit well under 16000;
-  # keep this as low as truncation allows. Default: 16000
-  max_output_tokens: 16000
+  # run more likely to fail. ~15-20 items of 4-6 sentences take ~5000 tokens of
+  # answer, but Gemini 4 Hydrogen also spends ~10000 tokens thinking first (it
+  # used 15554 of 16000 in a 20-item test on 2026-11-23), so the budget is
+  # 32000 to leave headroom. Keep it as low as truncation allows. Default: 32000
+  max_output_tokens: 32000
+
+  # Max output tokens for the Stage-1 selection call. The answer itself is only
+  # ~20 IDs (~150 tokens), but Gemini 3.x+ models "think" before answering and
+  # that reasoning counts against this same budget (it cannot be disabled: 3.5
+  # Flash-Lite rejects thinking_budget=0, 4 Hydrogen ignores it). The old fixed
+  # 4000 truncated 3.6 Flash and 4 Hydrogen on a ~150-item prompt (Hydrogen
+  # used ~4500 thinking tokens). Kept below max_output_tokens since Stage 1 is
+  # far lighter than Stage 2. Default: 16000
+  stage1_max_output_tokens: 16000
 
   # Publishers to drop entirely at fetch time. Entries are either a domain
   # ("example.com" — matched against the item link and the Google News

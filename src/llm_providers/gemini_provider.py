@@ -35,12 +35,14 @@ _SAFETY_SETTINGS = [
 ]
 
 # Sibling model to fall back to when the primary keeps returning a transient
-# (503/429) error after exhausting retries. flash-lite is the lowest-capacity
-# free tier and sheds heavy requests first during demand spikes; flash has a
-# separate capacity pool, so a fallback there often succeeds when lite is
-# overloaded. Pro is paid-only (since 2026-04-01), so it is not a free-tier
-# fallback. The fallback uses the same free tier and works without billing.
+# (503/429) error after exhausting retries. Each model draws from its own
+# free-tier capacity pool, so a fallback often succeeds when the primary is
+# overloaded. All models here are free-tier and work without billing.
+# gemini-2.5-flash is deprecated (requests are rerouted to 3.5 Flash-Lite from
+# 2026-12-01), so the 2.5 pair is kept only for anyone pinning the old model.
 _FALLBACK_MODELS = {
+    "gemini-4-hydrogen": "gemini-3.5-flash-lite",
+    "gemini-3.5-flash-lite": "gemini-3.6-flash",
     "gemini-2.5-flash-lite": "gemini-2.5-flash",
 }
 
@@ -82,7 +84,7 @@ class GeminiProvider(BaseLLMProvider):
 
     @property
     def default_model(self) -> str:
-        return "gemini-2.5-flash-lite"
+        return "gemini-4-hydrogen"
 
     def _build_config(
         self, max_tokens: int, temperature: float, model: str
@@ -95,6 +97,10 @@ class GeminiProvider(BaseLLMProvider):
         (``thinking_budget=0``) gives the whole budget to real output. Pro has a
         non-zero minimum thinking budget, so it is left untouched. Keyed on the
         per-call ``model`` so a flash fallback gets the right config too.
+
+        Gemini 3.x+ models must NOT get ``thinking_budget=0``: 3.5 Flash-Lite
+        rejects it with 400 INVALID_ARGUMENT (it doesn't think by default
+        anyway), and 4 Hydrogen ignores it. Tested live 2026-11-23.
         """
         kwargs: Dict[str, Any] = dict(
             max_output_tokens=max_tokens,
@@ -230,6 +236,13 @@ class GeminiProvider(BaseLLMProvider):
                     contents=prompt,
                     config=config,
                 )
+                usage = getattr(response, "usage_metadata", None)
+                if usage is not None:
+                    logger.info(
+                        f"Gemini '{model}' usage: thinking={getattr(usage, 'thoughts_token_count', None) or 0} "
+                        f"output={getattr(usage, 'candidates_token_count', None) or 0} "
+                        f"(limit {config.max_output_tokens})"
+                    )
                 self._raise_if_truncated(response)
                 if response.text:
                     return response.text

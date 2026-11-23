@@ -127,3 +127,47 @@ def test_generate_does_not_fall_back_on_non_transient_error(monkeypatch):
     with pytest.raises(genai_errors.APIError):
         p.generate([{"role": "user", "content": "hi"}], max_tokens=100)
     assert calls == ["gemini-2.5-flash-lite"]
+
+
+def test_default_model_is_gemini_4_hydrogen():
+    assert GeminiProvider.default_model.fget(None) == "gemini-4-hydrogen"
+
+
+def test_generate_falls_back_from_hydrogen_to_3_5_flash_lite(monkeypatch):
+    p = _bare_provider("gemini-4-hydrogen")
+    calls = []
+
+    def fake(prompt, config, model):
+        calls.append(model)
+        if model == "gemini-4-hydrogen":
+            raise _api_error(503)
+        return "ok from flash-lite"
+
+    monkeypatch.setattr(p, "_generate_with_retries", fake)
+    out = p.generate([{"role": "user", "content": "hi"}], max_tokens=100)
+    assert out == "ok from flash-lite"
+    assert calls == ["gemini-4-hydrogen", "gemini-3.5-flash-lite"]
+
+
+@pytest.mark.parametrize("model", ["gemini-3.5-flash-lite", "gemini-3.6-flash", "gemini-4-hydrogen"])
+def test_build_config_sends_no_thinking_config_to_3x_and_later(model):
+    # 3.5 Flash-Lite rejects thinking_budget=0 with 400 INVALID_ARGUMENT.
+    p = _bare_provider(model)
+    cfg = p._build_config(16000, 1.0, model)
+    assert cfg.thinking_config is None
+
+
+def test_generate_falls_back_from_3_5_flash_lite_to_3_6_flash(monkeypatch):
+    p = _bare_provider("gemini-3.5-flash-lite")
+    calls = []
+
+    def fake(prompt, config, model):
+        calls.append(model)
+        if model == "gemini-3.5-flash-lite":
+            raise _api_error(503)
+        return "ok from 3.6 flash"
+
+    monkeypatch.setattr(p, "_generate_with_retries", fake)
+    out = p.generate([{"role": "user", "content": "hi"}], max_tokens=100)
+    assert out == "ok from 3.6 flash"
+    assert calls == ["gemini-3.5-flash-lite", "gemini-3.6-flash"]

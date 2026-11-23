@@ -107,7 +107,8 @@ def main():
             max_total_items=config.max_total_items,
             stage1_template=config.stage1_prompt_template,
             stage2_template=config.stage2_prompt_template,
-            current_facts=config.current_facts
+            current_facts=config.current_facts,
+            stage1_max_tokens=config.stage1_max_output_tokens
         )
 
         logger.info(f"News digest generated ({len(news_digest)} characters)")

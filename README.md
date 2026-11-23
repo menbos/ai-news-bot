@@ -268,7 +268,7 @@ The bot requires the following configuration. How you set them depends on your d
 
 The `config.yaml` file allows you to customize the news digest behavior:
 
-> 🤖 **Currently configured model**: this repo's `config.yaml` is set to `provider: gemini` with no model override, so it runs on **`gemini-2.5-flash-lite`** (the Gemini provider's default). Change `provider` / `model` below to switch.
+> 🤖 **Currently configured model**: this repo's `config.yaml` is set to `provider: gemini` with no model override, so it runs on **`gemini-4-hydrogen`** (the Gemini provider's default), falling back to `gemini-3.5-flash-lite` when Hydrogen is overloaded. Both are on Gemini's free tier. Change `provider` / `model` below to switch.
 
 **LLM Configuration**:
 
@@ -357,12 +357,14 @@ llm:
 ```yaml
 llm:
   provider: gemini
-  model: gemini-2.5-flash-lite # optional, uses default if not set
+  model: gemini-4-hydrogen # optional, uses default if not set
 ```
 
 **Available Models:**
 
-- `gemini-2.5-flash-lite` - Default - fast and cost-effective, used by this repo
+- `gemini-4-hydrogen` - Default - free tier, used by this repo. Thinks before answering (~10K tokens in Stage 2), hence `max_output_tokens: 32000`; falls back to `gemini-3.5-flash-lite` on overload
+- `gemini-3.5-flash-lite` - Free tier, fastest, no thinking; follows selection rules less reliably (falls back to `gemini-3.6-flash`)
+- `gemini-3.6-flash`, `gemini-3.8-flash` - Other free-tier models; both think before answering
 - `gemini-3-pro-preview` - Gemini 3 Pro - next-gen multimodal AI for higher-quality output
 
 **Pricing:** Free tier available, very cost-effective for production

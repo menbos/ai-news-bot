@@ -347,12 +347,13 @@ class NewsGenerator:
 
     def generate_news_digest_from_sources(
         self,
-        max_tokens: int = 16000,
+        max_tokens: int = 32000,
         max_items_per_source: int = 10,
         max_total_items: Optional[int] = None,
         stage1_template: Optional[str] = None,
         stage2_template: Optional[str] = None,
-        current_facts: Optional[List[str]] = None
+        current_facts: Optional[List[str]] = None,
+        stage1_max_tokens: int = 16000
     ) -> str:
         """
         Fetch real-time news and generate a digest using two-stage prompt chaining:
@@ -366,6 +367,9 @@ class NewsGenerator:
             stage2_template: Optional Stage 2 prompt template (from config)
             current_facts: Authoritative facts injected into the Stage 2 prompt
                 to override stale model knowledge (from config)
+            stage1_max_tokens: Output-token limit for Stage-1 selection. The
+                answer is only ~20 IDs, but thinking models (Gemini 3.x+) spend
+                this same budget on internal reasoning first
 
         Returns:
             Generated news digest as string
@@ -453,7 +457,7 @@ class NewsGenerator:
             messages = [{"role": "user", "content": selection_prompt}]
             selection_response = self.provider.generate(
                 messages=messages,
-                max_tokens=4000 # give enough tokens for selection
+                max_tokens=stage1_max_tokens
             )
 
             # Parse selected IDs
