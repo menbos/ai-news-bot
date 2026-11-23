@@ -1,126 +1,6 @@
 {
-  "updated": "2026-11-23T05:31:51.080056+00:00",
+  "updated": "2026-11-23T12:06:36.772533+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/step-toward-defining-the-standard-model",
-      "title": "OpenAI Advances Physics with GPT-6 Astra's Lattice Standard Model Definition",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "A step toward defining the Standard Model on a lattice"
-    },
-    {
-      "url": "apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health",
-      "title": "Apple Initiates AI Health Research Study",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "Apple launches research study to explore the use of AI for health"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/ai-day-seoul-wrapup",
-      "title": "AI Day Seoul Unites Korean Tech Leaders and Startups",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals",
-      "title": "Alibaba Launches New AI Model to Challenge US Rivals",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "Alibaba Unveils New Flagship AI Model in Riposte to US Rivals"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizwFBVV95cUxPbzFERGNkd2ZLODdReVZtV3pnNVdJT3RyNDdpbUZQRXZHUEgzbVYtZTBwelhfV1hRbVVfOGsxeDJURWd2bEJubFlFUjFXZC1HM2Z4U3l2TXVhTXR3OTFPZ2xUaDhOVlBDWF93dDE0V2lsOEI3bGFGWXlmbnVldjNCQkJKQlFNbDVfaWR6cGpJdktZWlJXcEdNQkZnWWsxSlZGX19tQTIxYW5NVWQxb2NQclEza1JHaHBma3lmaFNzQWRtQld0UkRwT01IZEY0eUk",
-      "title": "Trump Administration to Designate Nvidia as 'National Champion' Firm",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPTWpRX0ZtbmdtRXVWTG1IaXlkS21ZLVA5VUlmdV9faENwVWFIcVpOb0ZLVzMyUWZTUUxYdkZVelpEaGM0bmFVSWNIUlpzbklwcWV2M0Foa2tqVlQ1T1NFaEl1Q0JzcUNUYjRiZ0tlVWFPZ0lJc0ZyMHFuRUIzdUtCSjA0UTg",
-      "title": "AI Cheating Scandal Rocks South Korean Accounting Exams",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "Accounting student’s AI cheating sparks South Korean exam furore - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxQUS1qMHhiR1ozLTIyenNWclR0dVZYNnBsSG01eHJkN0VMSGFnSnIxNjc5Q01HNFJma2JEazF2aWh2U3VlWnNwYm82NUFWZGM1ME5CVTZaTWxseU5nRmppbWVDalBPODdzVWJBUDNEemdteXhFbXNXdEVvNnZiZ1FSRWIyS1JNSVBFUkxGVEoyaUNZTDNHQndZ",
-      "title": "US and Russia Oppose Talks on Limiting Autonomous Weapons",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "US and Russia to oppose talks on limiting autonomous weapons - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-16/how-dual-class-stock-entrenches-founder-control-at-anthropic-spacex-google",
-      "title": "Dual-Class Stock Structures Entrench Founder Control at AI Giants",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "How Dual-Class Stock Entrenches Founder Control at Anthropic, SpaceX, Google"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-16/india-to-benefit-from-unwinding-of-ai-trade-top-official-says",
-      "title": "India Poised to Benefit from AI-Driven Global Market Correction",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "India to Benefit From Unwinding of AI Trade, Top Official Says"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-16/morgan-stanley-max-overweight-global-stocks-on-intact-ai-cycle",
-      "title": "Morgan Stanley Recommends 'Max Overweight' Global Stocks on AI Cycle",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "Morgan Stanley ‘Max Overweight’ Global Stocks on AI Cycle"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-16/kakao-prepares-for-historic-split-of-internet-empire-in-ai-chase",
-      "title": "Kakao to Split Internet Empire Amid AI Transformation",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "Kakao Prepares for Historic Split of Internet Empire in AI Chase"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPeVM3Y2hkVkZKUTFFcUhkRUJlX3pWbFBGZlZ6QW1tMjJTUUZ5WUgtS0lWMmh5V3YweURabUtma0pDeTBNM0M1cTYtUkQwcDhrODFmM0RPdmoxYzNZYldpdmxKN0ROTVNmMFhOZ3dpVFpnQ2VSUkRyOWtnaG9udTNpbTdRemg",
-      "title": "US and Allies Forge Accord to Shield AI Supply Chains from China",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "US and allies sign accord to protect AI supply chains from China - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNcDlQQXRRTW1SQk1YR1Rfd1ZZQkhfZVF2SEpfMUJLSEk3d21tWE5telBvb0VmOFpjTG1mdzd0cmFMZE1JeGRNRkU1ZmxxaUp5eGdUZXNXRTg1enlkU0tSS2RKeUhjbFBaeF9EVGhhTWd0ZHdrWE1jT0p2S0Fka2hVWExfZzA",
-      "title": "Anthropic IPO Expected to Intensify AI Market Dynamics",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "Anthropic IPO to further fuel the AI news cycle - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOczFJMEhqM3AwdHNCUF9ZU3QyNkUtbWtuLVF5dUxHSkpuR0Y2VWx6WXNxQUJ1Vm5iTDN6V0c0YUR4QUpXZl9ubklZVHlDbGlDREVoM3N1a1pMNWlZdmpfTDNWZG5RSXVuU2o3M3Z5Yld2VEtpSDE0NjZ6Y1NZekd1NUxLUGw",
-      "title": "Data Center Construction Stocks Plummet as AI Boom Unravels",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMijgFBVV95cUxQSmJIUXk3T0VkT1dRYXdlSmFyaVAxanY4N2dZd01uVS1Sc2ZJbzQyeVlvbUhOdENhMnNIY1BCR19lZmY0R1JaUUtTQWhsa2lpS096blNHUm15bFYtVzBXY1JjQ3ZtOWNWdVRBcklRT21ESkVJaGFicFVvdmZjeUc4YXhrbTRPc1RGbkZudS13",
-      "title": "China's Moonshot AI Restructures for IPO Aspirations",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "Exclusive | China’s Moonshot AI Restructures to Pave Way for IPO - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMipAFBVV95cUxQdXRsejdndmRqaEQtdlRCZE1mc19mWVdObHdta0hXcHBSbVo1N09pa3NHT1VpbVFoSjBjYnd4S1VaZDR5WVdnQVdOOGl3X2pFdHVOT01VQnBfVXVyLWV0dGFGbEtsYk1XaTNmMHdrTGhUM0pSTHhnTlhqVGVneUl2bnNDV1ZtdFFHZExBenBGa05DdWZRZTBPYzUtMXpORDU4M2dKVg",
-      "title": "Nvidia's Dominance in AI Economy Faces Potential Shift",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered - WSJ"
-    },
-    {
-      "url": "wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets",
-      "title": "AI Tamagotchi Transforms Everyday Objects into Interactive Pets",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets"
-    },
-    {
-      "url": "wired.com/story/beware-the-new-ai-fueled-ransomware-boom",
-      "title": "AI-Fueled Ransomware Threat on the Rise",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "Beware the New AI-Fueled Ransomware Boom"
-    },
-    {
-      "url": "theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "title": "Congress Seeks Tighter AI Chip Export Rules Post-Nvidia Spy Scandal",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal"
-    },
-    {
-      "url": "cleantechnica.com/2026/11/14/3-4-billion-anthropic-order-for-gas-power-plants",
-      "title": "Anthropic Secures $3.4 Billion Gas Power Plant Deal",
-      "first_seen": "2026-11-16T05:31:48.957375+00:00",
-      "rss_title": "$3.4 Billion — Anthropic Order for Gas Power Plants!"
-    },
     {
       "url": "openai.com/index/strengthening-online-child-safety",
       "title": "OpenAI Enhances Online Child Safety with New Tools and Partnerships",
@@ -957,6 +837,120 @@
       "title": "Axios Predicts 'The Reckoning' for AI in 2027",
       "first_seen": "2026-11-23T05:31:51.080056+00:00",
       "rss_title": "Behind the Curtain — AI 2027: The reckoning - Axios"
+    },
+    {
+      "url": "status.claude.com/incidents/yzs0s90d8fm8",
+      "title": "Anthropic Reports Resolution of Elevated Error Issues Across Multiple Claude Model Versions",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "Elevated errors for multiple models"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiogFBVV95cUxNaVFEVlpJVHR2cHRneEFrMmxWUW9UeHlLRlJaMjZYYTFPTVZhbE9RSmtGSUFtbWhpRDNCa3YzRkJudjhSR0VjbVRYV3FXbGFLYVoxekp6UFQ4UThNYkRuS3N4dS1tMmpHeE1qMThsUEdEWVN0cldrbndXMTdJelpfaFdBS2pVMzJYaG1IY1I1cG4ySVRMb1V0RXdGb0JWQVlCZ2c",
+      "title": "AI Slump Exposes Economic Costs of Economic Statecraft",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "The AI Slump Is Exposing the Economic Costs of Economic Statecraft - Bloomberg.com"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxNSHhGdTlDN3hOUVlXUHRLSlVmbWRGTWRQWWdQaDV0a0UyZFhjR0w1RDZtRmZMcHNvTWE1QWJhclVLaHBtVXBMVVo0cU1jemIyc2NzUmQtX2NHU0FRaklZcElORnoxYnBkVE53TEhFQkMydlpULWJFM2pVbHc2UXREal9ENG42SkFqZWg5dEM2eTZLaHVYVUg0b0gtOVpCcDNuLVhPU3cwZjdUTHdST3VHYzhmNjVCQmlI",
+      "title": "South Korean Education Minister Resigns Amidst Exam Cheating Chaos",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "South Korea's education minister quits over exam cheating chaos - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ",
+      "title": "OpenAI Scientist Proposes Industry-Wide AI Limits Tied to Model Intelligence Metrics",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/newsletters/2026-11-23/anthropic-may-find-its-ipo-was-the-easy-part",
+      "title": "Anthropic Faces Post-IPO Challenges Despite Initial Success",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "Anthropic May Find Its IPO Was The Easy Part"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips",
+      "title": "Marlowe Secures $277 Million to Develop Nvidia Chip Alternatives",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "Marlowe Raises $277 Million to Bolster Alternatives to Nvidia Chips"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-23/the-pulse-with-francine-lacqua-11-23-2026-video",
+      "title": "AI Stocks Rebound as S&P 500 Enters Correction Territory",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "AI Stocks Rebound After S&P 500 Enters Correction"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-23/bret-taylor-s-sierra-finalizing-more-than-1-75-billion-round",
+      "title": "Bret Taylor's Sierra Technologies Finalizing $1.75 Billion Funding Round at $30 Billion Valuation",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "Bret Taylor’s Sierra Finalizing More Than $1.75 Billion Round"
+    },
+    {
+      "url": "bloomberg.com/news/newsletters/2026-11-23/jensen-huang-affair-aftermath-could-push-china-further-behind-us-in-ai-race",
+      "title": "Jensen Huang Affair Aftermath Could Impact China's AI Race with the US",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "Jensen Huang Affair Aftermath Could Push China Further Behind US in AI Race"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-23/crowdstrike-to-acquire-zscaler-in-44-billion-deal-video",
+      "title": "CrowdStrike Acquires Zscaler for $44 Billion in Cybersecurity Deal",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "CrowdStrike to Acquire Zscaler in $44 Billion CyberSecurity Deal"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNQ2hFaFNQWmEtS0djdVRPcms0UTZsMi05T19lOEhMN3haeWdVa2p1VFM4bUhHWHFGMEpUcEc1Q0pnRW9lZkhiRzJoMGp4YzdlWXJpcHNyUVl2NmJTM184dC1iaXdxT2lod0diajEyNUFwMXRyZDZzaWV4UmY0OEx0TEhkbXA",
+      "title": "Novartis Rejects Optimism for AI Curing Cancer Within Five to Ten Years",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwAFBVV95cUxPSTFtNllCZ185aGplLW0zamNtUkJpdzBTaGJjeWcwYkctQWNQOEFVOGdtTFk1WFVCTlNZdnNvOU9pOV8yZU81Y1IzNE9nWm9FVDBJWV9CMHBfUFVpcmlwU1poVUZmUzhiLTZnTTJxTC1sRHRsOFFFeG5maHBFRHFoNHZSUlREaEpGSWFHQ1AxMWp5Ti1TNTZDdzBrZ3JyQlVaRTZWLXhaX1EwRmFXRXBuQ2VOS0RnMENrcUJPR04ydFQ",
+      "title": "Anthropic's IPO Success Could Reshape the Venture Capital Landscape",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "Anthropic’s IPO Is a Win for Venture. Its Success Could Reshape the Industry. - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3",
+      "title": "SEC Investigating Nvidia Amid Departure of CEO Jensen Huang",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi3AFBVV95cUxOMHEyLWU1cHVQOEsyMWdfSkhfaV90MldNcl9JVjdtTmdRVXp2dU1xeUN3MF8yeVlnV21Ga01fbGJDWEVTNjR3YUdQcXpoWlBCOThDNjRGNktGaFB4S3BvRXZjcjl1Qkl2OEl4NDlYWWdTSUN3Vm1wOEJPU0dWSlRDN0JWME1vWXE0UXpZUHphcEYzYUNzS2FkY2l3aTNZVEFoLWxIcndrNERMTGN5ckU3NXkzMVRMOEEwMTlaNW90Uk5EZTViWDg4MERnR01zcTNKVk8tSmlBcmpKdlFo",
+      "title": "China's AI Firms Face 'Withdrawal' as Reliance on Nvidia Chips Becomes a Vulnerability",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "The Morning Risk Report: China’s AI Firms Are Hooked on Nvidia Chips. Now Comes the Withdrawal. - WSJ"
+    },
+    {
+      "url": "technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth",
+      "title": "Rock-Based Carbon Removal Methods May Impact Future Crop Growth",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "Why using rocks for carbon removal could eventually reduce crop growth"
+    },
+    {
+      "url": "wired.com/story/livestream-will-anyone-keep-us-safe-from-ai",
+      "title": "Expert Panel to Address AI Safety Concerns in Upcoming Livestream",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "Submit Your Questions: Will Anyone Keep You Safe From AI?"
+    },
+    {
+      "url": "wired.com/story/states-sue-spacex-over-grok-deepfakes",
+      "title": "States Sue SpaceX Over Allegations of Weak Safeguards Against Grok Deepfakes",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "States Sue SpaceX Over Grok Deepfakes"
+    },
+    {
+      "url": "wired.com/story/goodbye-world-the-end-of-programmers",
+      "title": "Wired Article Predicts the 'End of Programmers'",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "Goodbye, World: The End of Programmers"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "title": "Anthropic Mathematician Claims Proof of Riemann Hypothesis with Claude's Assistance",
+      "first_seen": "2026-11-23T12:06:36.772533+00:00",
+      "rss_title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude"
     }
   ]
 }
