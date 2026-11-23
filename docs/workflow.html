@@ -221,7 +221,7 @@
 
       <div class="step">
         <span class="n">7</span><h3>Stage 2 — Summarization (LLM)</h3>
-        <p>The selected items are sent back with the <code>stage2_prompt_template</code>. The LLM returns <strong>structured JSON</strong> per item: category, headline, date, a 4–6 sentence analytical summary, source name, and source URL.</p>
+        <p>The selected items are sent back with the <code>stage2_prompt_template</code>. The LLM returns <strong>structured JSON</strong> per item: category, headline, date, a 4–6 sentence analytical summary, source name, and source URL. The prompt states <strong>today's date</strong> and a short <code>current_facts</code> list (e.g. who holds an office) so the model doesn't fall back on stale training data, and forbids adding roles or titles the source doesn't give. Items with no article text (Google News results, whose description just repeats the headline) are tagged <code>[HEADLINE ONLY]</code> and get 2–3 sentences limited to what the headline says.</p>
       </div>
       <div class="arrow">↓</div>
 
@@ -279,7 +279,7 @@
         In two LLM stages plus code-side guarantees:
         <ul>
           <li><strong>Stage 1</strong> picks 15–20 items by quality, prioritizing breakthroughs, major launches, policy/regulation, big funding/M&amp;A, balanced category coverage, and thematic-investing relevance. It follows the <strong>source-trust hierarchy</strong> (primary &gt; regulator &gt; wire &gt; tech media &gt; research &gt; community), honors an explicit <strong>avoid-list</strong>, skips <code>[COVERED]</code> continuations, and dedupes "same story" items.</li>
-          <li><strong>Stage 2</strong> assigns each item to exactly one category and writes a 4–6 sentence analytical summary.</li>
+          <li><strong>Stage 2</strong> assigns each item to exactly one category and writes a 4–6 sentence analytical summary (2–3 for headline-only items), grounded in today's date and the <code>current_facts</code> list.</li>
           <li><strong>Code</strong> enforces the canonical category order, resolves duplicates toward the most primary source, runs an additional dedup pass, and caps each publisher host at 2 items, so the final digest is consistent regardless of model quirks.</li>
         </ul>
         Both prompts live in <code>config.yaml</code> and are fully editable.

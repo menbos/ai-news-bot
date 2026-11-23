@@ -15,7 +15,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-00D4AA?style=flat-square)](https://telegram.org/)
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/giftedunicorn/ai-news-bot)
-[![Active Model](https://img.shields.io/badge/Active_Model-Gemini_2.5_Flash_Lite-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
+[![Active Model](https://img.shields.io/badge/Active_Model-Gemini_4_Hydrogen-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
 [![Providers](https://img.shields.io/badge/Providers-Claude_·_DeepSeek_·_Gemini_·_Grok_·_OpenAI-FF6B6B?style=flat-square&logo=anthropic&logoColor=white)](#llm-provider-configuration)
 
 </div>
@@ -104,6 +104,12 @@ Add the following secrets:
 | `XAI_API_KEY`          | `xai-...`                                           | Your xAI API key (if using Grok)          |
 | `OPENAI_API_KEY`       | `sk-...`                                            | Your OpenAI API key (if using OpenAI)     |
 | `NOTIFICATION_METHODS` | `email`                                             | Notification channels (comma-separated)   |
+
+#### ⚙️ Optional Secrets
+
+| Secret Name | Example Value      | Description |
+| ----------- | ------------------ | ----------- |
+| `LLM_MODEL` | `gemini-4-hydrogen` | Pins a specific model. **Leave unset to use the provider's default.** When set, it overrides both `config.yaml` and the code default, so a stale value keeps the bot on an old model after the default changes. The Gemini backup model is chosen based on this name, so an unrecognised model gets no fallback. |
 
 #### 📧 Email Secrets (if using email notifications)
 
@@ -207,9 +213,9 @@ NOTIFICATION_METHODS=email,webhook
 The bot turns raw RSS items into a polished digest using a **two-stage prompt pipeline**, both defined in `config.yaml` under `news:`:
 
 - **Stage 1 — Selection** (`stage1_prompt_template`): the LLM reviews every fetched item and returns the IDs of the 15–20 highest-quality stories, with built-in deduplication and balanced category coverage.
-- **Stage 2 — Summarization** (`stage2_prompt_template`): for the selected items the LLM returns structured JSON (category, headline, date, 4–6 sentence analytical summary, source name, source URL). Python then enforces the category order and deduplication when rendering the final digest.
+- **Stage 2 — Summarization** (`stage2_prompt_template`): for the selected items the LLM returns structured JSON (category, headline, date, 4–6 sentence analytical summary, source name, source URL). The prompt includes today's date and a short `current_facts` list so the model doesn't fall back on stale training data (e.g. calling the sitting U.S. President "former President"), and items with no article text are tagged `[HEADLINE ONLY]` and get 2–3 sentences limited to what the headline says. Python then enforces the category order and deduplication when rendering the final digest.
 
-Both templates are plain YAML strings you can edit freely. Stage 1 placeholders: `{total_items}`, `{formatted_news}`. Stage 2 placeholders: `{count}`, `{selected_news}`.
+Both templates are plain YAML strings you can edit freely. Stage 1 placeholders: `{total_items}`, `{formatted_news}`, `{recent_coverage}`. Stage 2 placeholders: `{count}`, `{selected_news}`, `{today}`, `{current_facts}`.
 
 ### 5. Run Locally
 
@@ -280,7 +286,9 @@ The `config.yaml` file allows you to customize the news digest behavior:
 - **max_items_per_source**: Maximum news items fetched per source for the AI to select from (default: 10)
 - **lookback_hours**: How many hours back to keep fetched items (default: 48). Larger values catch primary-source announcements that broke a day or two before the run; items with no parseable publish date are always kept.
 - **history**: Cross-run "already covered" memory. When `enabled` (default), recently covered stories are recorded to `path` (default `data/news_history.json`, committed back by the workflow) and kept for `retention_days` (default 7). Stage 1 marks matching items `[COVERED]` so a continuation isn't re-reported as fresh news.
-- **stage1_prompt_template**: Stage 1 selection prompt (placeholders: `{total_items}`, `{formatted_news}`)
+- **max_output_tokens**: Output-token limit for the Stage 2 digest (default: 32000). Thinking models such as Gemini 4 Hydrogen spend ~10K tokens reasoning before writing ~5K tokens of JSON, and both count against this limit. If it is hit, the run fails rather than sending a clipped digest.
+- **stage1_max_output_tokens**: Output-token limit for Stage 1 selection (default: 16000). The answer is only ~20 IDs, but thinking models use several thousand tokens reasoning first.
+- **stage1_prompt_template**: Stage 1 selection prompt (placeholders: `{total_items}`, `{formatted_news}`, `{recent_coverage}`)
 - **current_facts**: Short, authoritative facts (e.g. who holds an office) injected into the Stage 2 prompt so the model doesn't rely on stale training data, e.g. calling the sitting U.S. President "former President". Review the list when something changes.
 - **stage2_prompt_template**: Stage 2 summarization prompt that returns structured JSON (placeholders: `{count}`, `{selected_news}`, `{today}`, `{current_facts}`; if `{today}` is missing, a date/current-facts block is prepended automatically). Selected items with no article text (e.g. Google News results, whose description just repeats the headline) are tagged `[HEADLINE ONLY]` so the model doesn't pad them from memory.
 
@@ -295,7 +303,11 @@ llm:
 
 news:
   max_items_per_source: 10
+  max_output_tokens: 32000
+  stage1_max_output_tokens: 16000
   lookback_hours: 48
+  current_facts:
+    - "Donald Trump is the current President of the United States (second term began January 20, 2025)."
   history:
     enabled: true
     path: data/news_history.json
@@ -307,7 +319,8 @@ news:
     ...select 15-20 of the highest-quality items...
 
   stage2_prompt_template: |
-    Write a 4-6 sentence analytical summary for each of the {count} items...
+    Write an analytical summary for each of the {count} items...
+    Today's date is {today}... CURRENT FACTS: {current_facts}
     {selected_news}
     ...return a raw JSON array...
 
