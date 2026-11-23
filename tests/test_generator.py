@@ -68,3 +68,72 @@ def test_format_news_with_ids_marks_covered_and_tier():
 
 def test_category_order_is_unique():
     assert len(CATEGORY_ORDER) == len(set(CATEGORY_ORDER))
+
+
+def test_is_headline_only_detects_google_news_title_echo():
+    # Real Google News shape: description is the headline plus the outlet name.
+    item = {
+        "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says - Reuters",
+        "description": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says  Reuters",
+        "publisher": "Reuters",
+        "source": "Reuters (via Google News)",
+    }
+    assert NewsGenerator._is_headline_only(item)
+    assert NewsGenerator._is_headline_only({"title": "Some headline", "description": ""})
+
+
+def test_is_headline_only_false_for_real_article_text():
+    item = {
+        "title": "OpenAI ships GPT-6",
+        "description": "The new model doubles context length to two million tokens, cuts "
+                       "API prices by forty percent, and is rolling out to enterprise customers first.",
+        "source": "OpenAI Blog",
+    }
+    assert not NewsGenerator._is_headline_only(item)
+
+
+def test_format_selected_news_tags_headline_only_items():
+    g = _bare_generator()
+    news_items = {
+        "INT-1": {"title": "Big headline - CNN", "description": "Big headline  CNN",
+                  "publisher": "CNN", "source": "CNN (via Google News)", "link": "u1", "published": ""},
+        "INT-2": {"title": "Model launch", "source": "Vendor Blog", "link": "u2", "published": "",
+                  "description": "A detailed paragraph describing benchmarks, pricing, availability "
+                                 "regions, and the release timeline for developers."},
+    }
+    text = g._format_selected_news(["INT-1", "INT-2"], news_items)
+    assert "### [INT-1] [HEADLINE ONLY] Big headline - CNN" in text
+    assert "only the headline above is known" in text
+    assert "### [INT-2] Model launch" in text
+    assert "A detailed paragraph" in text
+
+
+def test_build_stage2_prompt_fills_date_and_facts():
+    template = "Date: {today}\nFacts:\n{current_facts}\n{count} items:\n{selected_news}\n[{\"k\": 1}]"
+    prompt = NewsGenerator._build_stage2_prompt(
+        template, count=2, selected_news="NEWS", current_facts=["Fact A", "Fact B"],
+        today="November 21, 2026",
+    )
+    assert "Date: November 21, 2026" in prompt
+    assert "- Fact A\n- Fact B" in prompt
+    assert "2 items:\nNEWS" in prompt
+    assert '[{"k": 1}]' in prompt  # literal JSON braces survive
+
+
+def test_build_stage2_prompt_prepends_context_when_template_lacks_today():
+    prompt = NewsGenerator._build_stage2_prompt(
+        "Summarize {count}: {selected_news}", count=1, selected_news="NEWS",
+        current_facts=[], today="November 21, 2026",
+    )
+    assert prompt.startswith("Today's date is November 21, 2026.")
+    assert "- (none provided)" in prompt
+    assert prompt.endswith("Summarize 1: NEWS")
+    assert "{" not in prompt
+
+
+def test_shipped_stage2_template_uses_date_and_facts_placeholders():
+    from src.config import Config
+    config = Config("config.yaml")
+    assert "{today}" in config.stage2_prompt_template
+    assert "{current_facts}" in config.stage2_prompt_template
+    assert any("President" in fact for fact in config.current_facts)

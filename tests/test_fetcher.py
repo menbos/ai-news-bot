@@ -239,3 +239,9 @@ def test_get_with_retry_gives_up_after_max_attempts(monkeypatch):
     calls.clear()
     assert f.fetch_rss_feed("http://feed") == []
     assert len(calls) == NewsFetcher._FETCH_ATTEMPTS
+
+
+def test_clean_html_decodes_entities():
+    f = NewsFetcher()
+    assert f._clean_html("Headline&nbsp;&nbsp;Reuters") == "Headline Reuters"
+    assert f._clean_html("AT&amp;T &lt;AI&gt;") == "AT&T <AI>"

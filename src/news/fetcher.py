@@ -503,12 +503,14 @@ class NewsFetcher:
         return None
 
     def _clean_html(self, text: Optional[str]) -> str:
-        """Remove HTML tags from text (tolerates None / empty elements)."""
+        """Remove HTML tags and decode entities such as &nbsp; (tolerates None / empty elements)."""
         if not text:
             return ''
+        import html
         import re
         clean = re.compile('<.*?>')
-        return re.sub(clean, '', text).strip()
+        text = html.unescape(re.sub(clean, '', text))
+        return re.sub(r'\s+', ' ', text).strip()
 
     # Concurrent feed fetches per group. Bounded so a group of ~60 feeds
     # doesn't open 60 sockets at once (Google News hosts many of the feeds

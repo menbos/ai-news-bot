@@ -237,6 +237,15 @@ For each news item:
         return [str(v) for v in value] if isinstance(value, list) else []
 
     @property
+    def current_facts(self) -> List[str]:
+        """Authoritative facts injected into the Stage-2 prompt to override
+        stale model knowledge (e.g. who currently holds an office)"""
+        value = self.config_data.get("news", {}).get("current_facts", [])
+        if not isinstance(value, list):
+            return []
+        return [str(v).strip() for v in value if str(v).strip()]
+
+    @property
     def history_enabled(self) -> bool:
         """Whether to track already-covered stories across runs"""
         return bool(self.config_data.get("news", {}).get("history", {}).get("enabled", True))

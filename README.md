@@ -281,7 +281,8 @@ The `config.yaml` file allows you to customize the news digest behavior:
 - **lookback_hours**: How many hours back to keep fetched items (default: 48). Larger values catch primary-source announcements that broke a day or two before the run; items with no parseable publish date are always kept.
 - **history**: Cross-run "already covered" memory. When `enabled` (default), recently covered stories are recorded to `path` (default `data/news_history.json`, committed back by the workflow) and kept for `retention_days` (default 7). Stage 1 marks matching items `[COVERED]` so a continuation isn't re-reported as fresh news.
 - **stage1_prompt_template**: Stage 1 selection prompt (placeholders: `{total_items}`, `{formatted_news}`)
-- **stage2_prompt_template**: Stage 2 summarization prompt that returns structured JSON (placeholders: `{count}`, `{selected_news}`)
+- **current_facts**: Short, authoritative facts (e.g. who holds an office) injected into the Stage 2 prompt so the model doesn't rely on stale training data, e.g. calling the sitting U.S. President "former President". Review the list when something changes.
+- **stage2_prompt_template**: Stage 2 summarization prompt that returns structured JSON (placeholders: `{count}`, `{selected_news}`, `{today}`, `{current_facts}`; if `{today}` is missing, a date/current-facts block is prepended automatically). Selected items with no article text (e.g. Google News results, whose description just repeats the headline) are tagged `[HEADLINE ONLY]` so the model doesn't pad them from memory.
 
 **Logging Settings**: Control log verbosity and format
 

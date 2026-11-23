@@ -42,6 +42,15 @@ news:
   blocked_sources:
     - technosports.co.in
 
+  # Authoritative facts injected into the Stage-2 prompt (the {current_facts}
+  # placeholder) to override the model's training data, which can be a year or
+  # more out of date. Without this, a model trained before Jan 2025 calls Trump
+  # "former President". Keep entries short, dated, and limited to facts that
+  # recur in AI news (office-holders, CEOs). Review when something changes.
+  current_facts:
+    - "Donald Trump is the current President of the United States (second term began January 20, 2025)."
+    - "JD Vance is the current Vice President of the United States (since January 20, 2025)."
+
   # How many hours back to keep fetched items. Larger values catch primary-source
   # announcements (e.g. vendor feature launches) that broke a day or two before
   # the run; the cross-run history (below) prevents the same story repeating
@@ -119,10 +128,17 @@ news:
       CRITICAL: Select exactly 15-20 items. No more, no less.
 
   # Stage 2: Summarization prompt template (complete prompt for creating the digest)
-  # Placeholders: {count}, {selected_news}
+  # Placeholders: {count}, {selected_news}, {today}, {current_facts}
   # The Python renderer parses the JSON output and enforces category order and deduplication.
+  # If {today} is absent, a short date/current-facts block is prepended automatically.
   stage2_prompt_template: |
-      You are a senior AI industry analyst. Write a 4-6 sentence analytical summary for each of the {count} news items below, and assign each to exactly ONE category.
+      You are a senior AI industry analyst. Write an analytical summary for each of the {count} news items below, and assign each to exactly ONE category.
+
+      ## DATE AND CURRENT FACTS:
+      Today's date is {today}. Your training data may be out of date: office-holders, job titles, and company facts may have changed since your training cutoff. Treat the source text and the CURRENT FACTS below as authoritative over your own memory.
+
+      CURRENT FACTS (authoritative; override your training data):
+      {current_facts}
 
       {selected_news}
 
@@ -145,13 +161,22 @@ news:
       - Each item must appear in exactly ONE category. Do not repeat any item.
 
       ## SUMMARY REQUIREMENTS (per item):
-      - 4-6 sentences; no shorter, no longer
+      - 4-6 sentences; no shorter, no longer (except [HEADLINE ONLY] items, see below)
       - Sentence 1: what happened (core news and context)
       - Sentence 2: technical details, key specs, or metrics
       - Sentence 3: why it matters (industry significance)
       - Sentence 4-6: implications, competitive landscape, future developments
-      - Professional analytical tone; include specific numbers and data points
+      - Professional analytical tone; include specific numbers and data points from the source
       - Do not invent facts not present in the source
+
+      ## NAMES, ROLES AND TITLES:
+      - Do not state or imply anyone's current role or title (e.g. "former", "current", "CEO of", "President") unless the source text or CURRENT FACTS says it. Otherwise refer to the person by name, or use the exact title the source uses.
+      - Background from your own memory (past events, who leads what, prior figures) may be stale. Leave it out unless the source text or CURRENT FACTS confirms it.
+
+      ## [HEADLINE ONLY] ITEMS:
+      - Items tagged [HEADLINE ONLY] have no article text; only the headline is known.
+      - Write 2-3 sentences: restate what the headline reports, then briefly say why it matters for the AI industry.
+      - Do not add numbers, quotes, dates, names, titles, or details that are not in the headline.
 
       ## OUTPUT FORMAT:
       Return ONLY a raw JSON array — no markdown, no code fences, no explanation. Each element must have these exact keys:
@@ -161,7 +186,7 @@ news:
           "category": "<exact category string from list above>",
           "headline": "<informative headline capturing the key development>",
           "published": "<date from source, e.g. Jun 08, 2025 10:00 UTC, or No date>",
-          "summary": "<4-6 sentence analytical summary>",
+          "summary": "<4-6 sentence analytical summary (2-3 for [HEADLINE ONLY] items)>",
           "source_name": "<publication name>",
           "source_url": "<full URL>"
         }

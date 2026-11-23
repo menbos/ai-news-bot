@@ -30,6 +30,25 @@ CATEGORY_ORDER = [
     "Open Source & Community",
 ]
 
+# An item whose description adds fewer than this many words beyond its own
+# title and publisher name is treated as headline-only. Google News search
+# items are the common case: their <description> is just the headline plus
+# the outlet name, so the model has no article text to summarize.
+HEADLINE_ONLY_MIN_NEW_WORDS = 8
+
+# Prepended to the Stage-2 prompt when the template has no {today}
+# placeholder (e.g. an older custom template), so the date / current-facts
+# grounding is never silently lost. The shipped config.yaml template places
+# these placeholders itself, alongside fuller rules.
+STAGE2_FALLBACK_CONTEXT = """Today's date is {today}. Your training data may be out of date: office-holders, job titles and company facts may have changed since your training cutoff. Treat the source text and the CURRENT FACTS below as authoritative over your own memory.
+
+## CURRENT FACTS (authoritative; override your training data):
+{current_facts}
+
+Do not state or imply anyone's current role or title (e.g. "former", "current", "CEO of") unless the source text or CURRENT FACTS says it; otherwise refer to the person by name or use the exact title the source uses.
+
+"""
+
 
 class NewsGenerator:
     """Generate AI news digest using configurable LLM providers"""
@@ -115,6 +134,64 @@ class NewsGenerator:
             formatted += "\n"
 
         return formatted, news_items
+
+    @staticmethod
+    def _is_headline_only(item: Dict) -> bool:
+        """True when the item's description adds (almost) nothing beyond its
+        title and publisher name, i.e. there is no article text to summarize."""
+        def tokens(text: Optional[str]) -> List[str]:
+            return re.findall(r"[a-z0-9]+", (text or "").lower())
+
+        known = set(tokens(item.get("title"))) | set(tokens(item.get("publisher"))) \
+            | set(tokens(item.get("source"))) | {"nbsp"}
+        new_words = [w for w in tokens(item.get("description")) if w not in known]
+        return len(new_words) < HEADLINE_ONLY_MIN_NEW_WORDS
+
+    def _format_selected_news(self, selected_ids: List[str], news_items: Dict[str, Dict]) -> str:
+        """Format the selected items for Stage 2. Headline-only items are tagged
+        [HEADLINE ONLY] and their (redundant) description is replaced by an
+        explicit note, so the model knows not to pad them from memory."""
+        formatted = "# Selected High-Quality AI News Items\n\n"
+        for news_id in selected_ids:
+            item = news_items[news_id]
+            if self._is_headline_only(item):
+                formatted += f"### [{news_id}] [HEADLINE ONLY] {item['title']}\n"
+                formatted += f"**Source:** {item['source']}\n"
+                formatted += (
+                    "**Content:** (none available; only the headline above is known. "
+                    "Summary must be 2-3 sentences and add no facts, names, titles or "
+                    "numbers beyond the headline.)\n"
+                )
+            else:
+                formatted += f"### [{news_id}] {item['title']}\n"
+                formatted += f"**Source:** {item['source']}\n"
+                formatted += f"**Content:** {item['description']}\n"
+            formatted += f"**Link:** {item['link']}\n"
+            formatted += f"**Published:** {self._format_date(item.get('published', ''))}\n"
+            formatted += "\n"
+        return formatted
+
+    @staticmethod
+    def _build_stage2_prompt(
+        template: str,
+        count: int,
+        selected_news: str,
+        current_facts: Optional[List[str]] = None,
+        today: Optional[str] = None,
+    ) -> str:
+        """Fill the Stage-2 template. Uses str.replace rather than .format()
+        because the template contains literal JSON braces."""
+        today = today or datetime.now(timezone.utc).strftime("%B %d, %Y")
+        facts = "\n".join(f"- {fact}" for fact in (current_facts or [])) or "- (none provided)"
+        if "{today}" not in template:
+            template = STAGE2_FALLBACK_CONTEXT + template
+        return (
+            template
+            .replace("{today}", today)
+            .replace("{current_facts}", facts)
+            .replace("{count}", str(count))
+            .replace("{selected_news}", selected_news)
+        )
 
     def _parse_stage2_items(self, response_text: str) -> list:
         """Parse the Stage-2 JSON array, or raise if it isn't valid JSON.
@@ -274,7 +351,8 @@ class NewsGenerator:
         max_items_per_source: int = 10,
         max_total_items: Optional[int] = None,
         stage1_template: Optional[str] = None,
-        stage2_template: Optional[str] = None
+        stage2_template: Optional[str] = None,
+        current_facts: Optional[List[str]] = None
     ) -> str:
         """
         Fetch real-time news and generate a digest using two-stage prompt chaining:
@@ -286,6 +364,8 @@ class NewsGenerator:
             max_items_per_source: Maximum items to fetch per source
             stage1_template: Optional Stage 1 prompt template (from config)
             stage2_template: Optional Stage 2 prompt template (from config)
+            current_facts: Authoritative facts injected into the Stage 2 prompt
+                to override stale model knowledge (from config)
 
         Returns:
             Generated news digest as string
@@ -410,29 +490,24 @@ class NewsGenerator:
             logger.info(f"Stage 2: Creating detailed summaries for selected items...")
 
             # Format selected news for summarization
-            formatted_selected = "# Selected High-Quality AI News Items\n\n"
-            for news_id in selected_ids:
-                item = news_items[news_id]
-                formatted_selected += f"### [{news_id}] {item['title']}\n"
-                formatted_selected += f"**Source:** {item['source']}\n"
-                if item['description']:
-                    formatted_selected += f"**Content:** {item['description']}\n"
-                formatted_selected += f"**Link:** {item['link']}\n"
-                formatted_selected += f"**Published:** {self._format_date(item.get('published', ''))}\n"
-                formatted_selected += "\n"
+            formatted_selected = self._format_selected_news(selected_ids, news_items)
+            headline_only = sum(1 for nid in selected_ids if self._is_headline_only(news_items[nid]))
+            if headline_only:
+                logger.info(f"Stage 2: {headline_only}/{len(selected_ids)} selected items are headline-only")
 
             # Use provided template or load from config
             if stage2_template is None:
                 from ..config import Config
                 config = Config()
                 stage2_template = config.stage2_prompt_template
+                if current_facts is None:
+                    current_facts = config.current_facts
 
-            # Format Stage 2 prompt with placeholders (avoid .format() — template may contain
-            # literal JSON braces that would be misinterpreted as format specifiers)
-            summarization_prompt = (
-                stage2_template
-                .replace("{count}", str(len(selected_ids)))
-                .replace("{selected_news}", formatted_selected)
+            summarization_prompt = self._build_stage2_prompt(
+                stage2_template,
+                count=len(selected_ids),
+                selected_news=formatted_selected,
+                current_facts=current_facts,
             )
 
             # Execute Stage 2: Generate structured JSON
