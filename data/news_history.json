@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:06:36.772533+00:00",
+  "updated": "2026-11-23T12:12:45.596253+00:00",
   "entries": [
     {
       "url": "openai.com/index/strengthening-online-child-safety",
@@ -951,6 +951,120 @@
       "title": "Anthropic Mathematician Claims Proof of Riemann Hypothesis with Claude's Assistance",
       "first_seen": "2026-11-23T12:06:36.772533+00:00",
       "rss_title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxQNHFQOEdMZm5FNmNuNWo3WHNuNHhBVkprTmplTktaZ1J5Ni0wN0NBdHF5YWg5X2pfc09rZldBYU80NWVCNTRRZDVsb1RfVkRHdFBseWh5VmZieU45WnhMb0JpNEFkZHlCRXp1Y1FMb1M0WjNEWGk0MjBJb3V5eGRtQmVaVzBWaWtPeUhOX1hleHkteHRNN2JUekRTMGpTYmtuMTNKNUdZZG8xWF9iSzYzT3kzaUEzbkYzZ0NsT281aHl6U1FDWUE",
+      "title": "Anthropic Committed to Spend $900 Billion Amid Junk Debt Expectations",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk. - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirgFBVV95cUxPVWwwVkFzZGc1OHVKeHlYQk9la3VVenZPeElyOHcxZ1dQZjJsZl95Q1ZaMG5rYnh2YnM1QlcxSDlES1FxQS12ZXN2UWFkbUtJeWNXemk3WXdLblVGTVdNc3ZuakN5ZTY4eXV3WFo4M0l5V19peEZjejN4X2lLYjcwbjFMeHl3dmg5SU94UV8wOUtyV2hpb1luWWtTN05Wc3dVSEhMZ3BaQ1ZieGZUakE",
+      "title": "Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxObnFTM0xYMzExZjQzQzlXZ2l5dXU1Tml4M0RfQXRfVmlCYW9BUmpWZVJNMFFFX2xXT0Qyc3Z2U096S3hDWVd5a0hNcjRYZVRLQ3J6dG91dFVDalFadENLeW94TW1CdnBsRW1wTzdxQUZOcmI4T0VXU0ktNlo3eEdOQXpyOHhwd3RaTHBqSDdpbVpjSXR2aWUzOWxEbHB3YnVjZzdqYmJLYVlqOGFHTFEyRm90bw",
+      "title": "China's Electric Truck Boom Lifts Demand for Lithium",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "China's electric truck boom lifts demand for lithium - Reuters"
+    },
+    {
+      "url": "wired.com/story/banks-are-cracking-down-on-ai-agents",
+      "title": "Major US Banks Ban Third-Party AI Agents From Customer Accounts",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "Banks Have Had It Up to Here With Your AI Agent"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "title": "Walmart Deploys Agent Gateway to Enable Black Friday Shopping via Meta Muse",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "Meta Muse can now do your Black Friday shopping at Walmart"
+    },
+    {
+      "url": "thenextweb.com/news/zai-glm-5-4-loop-transformer-coding-model",
+      "title": "Z.ai Releases GLM-5.4 Loop Transformer Rivaling 2T- to 3T-Parameter Models",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "Z.ai’s GLM-5.4 runs its layers twice to rival 2T-parameter models"
+    },
+    {
+      "url": "thenextweb.com/news/openrouter-drops-providers-dragos-ai-prompt-theft-canaries",
+      "title": "OpenRouter Drops Three Inference Providers Following Dragos Prompt-Theft Findings",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "OpenRouter drops three AI providers after Dragos catches prompt theft"
+    },
+    {
+      "url": "thenextweb.com/news/governors-ai-principles-federal-state-roles-nga",
+      "title": "Bipartisan US Governors Seek Federal AI Framework That Preserves State Authority",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "Governors want federal AI rules that leave states room to protect residents"
+    },
+    {
+      "url": "esgtoday.com/cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels",
+      "title": "COP31 Climate Talks Collapse After EU and UK Walk Out Over Fossil Fuels",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "COP31 Talks Collapse as EU, UK Walk Over Failure to Address Fossil Fuels"
+    },
+    {
+      "url": "cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries",
+      "title": "Ford Launches In-House LFP Battery Production Using Licensed CATL Technology",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "Ford Begins Producing Its Own LFP Batteries"
+    },
+    {
+      "url": "biopharmadive.com/spons/why-todays-leading-drug-developers-are-fine-tuning-open-models-on-their-ow/875153",
+      "title": "Drug Developers Weigh Open vs. Proprietary AI Models for In-House Fine-Tuning",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "Why today’s leading drug developers are fine-tuning open models on their own data"
+    },
+    {
+      "url": "arxiv.org/abs/2611.26722",
+      "title": "Researchers Release TOUMAII, a 4.5M-Pair Open Tool-Calling Preference Dataset",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator"
+    },
+    {
+      "url": "arxiv.org/abs/2611.26711",
+      "title": "Study Identifies 'Parasite Features' That Mislead Causal Abstraction Interpretability",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "Parasite Features: Causal Abstraction Through Spurious Pathways"
+    },
+    {
+      "url": "arxiv.org/abs/2611.26747",
+      "title": "SkillPrivus Audit Finds Privacy-of-Use Risks in Over Half of Agent Skills Examined",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills"
+    },
+    {
+      "url": "nature.com/articles/s41467-026-79404-w",
+      "title": "Deep-Learning Framework Maps Chromatin Sensitivities Across Transcription Factors",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors"
+    },
+    {
+      "url": "betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+      "title": "Analysis Projects Anthropic Power Mix at 87% Gas and 11% Coal in 2028",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "87% of the Anthropic power will come from gas and 11% from coal in 2028"
+    },
+    {
+      "url": "github.com/HKUDS/CLI-Anything",
+      "title": "HKUDS/CLI-Anything Trends on GitHub With Agent-Native Software Harness Framework",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "HKUDS/CLI-Anything"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMickFVX3lxTE9vcTdVYTZMV0I5RVNQSkszcDNxV2p0emt1VTB4VXFWV0g5TlBzUVFHXzlLOGdDQzNtVnlPSnFwUkxKMUdmTDJPazZQM1lmLWxUYmVHM3NRLXZPZnBpVC1HVm16MXVLRjlmWEtXbjRUb3FnUQ",
+      "title": "Visa Launches Upgraded CLI Agent Wallet for US Users to Verify AI Agents",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "Visa launches upgraded CLI agent wallet for US users to verify AI agents - Crypto Briefing"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi6AFBVV95cUxOY3lXYWhjdlk4eFo5OEllXzdkTDhnYWowOUFSZlNLakdEdXoxeG8xZTZjcWVMYWxxVTJCdEUycHZBdjhyMy1UUU9tcU9lMlFIb0t3cG85X1hNSWJLaGxnNEtSbVkyak0xLTJQVmNjSmwtQW80NVdGWU9sUmh0TGJhdWFLOTFRM1BONnZSOFE2YXpDREpxN2RIdnU0WXBGOTNtZ1dwNUVnTHpCOHdfU3VfVlRSVklsZ096TzBLNFlzUnFQVjJ3c0lJNHl3U0d0cGNPWkFYQTdfV01tRlZqYUJ2aHFGNXQwVlhX",
+      "title": "Anthropic Launches Claude for Manufacturing for Administrative and Engineering Workflows",
+      "first_seen": "2026-11-23T12:12:45.596253+00:00",
+      "rss_title": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows - Robotics & Automation News"
     }
   ]
 }
