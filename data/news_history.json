@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:12:45.596253+00:00",
+  "updated": "2026-11-24T05:33:04.028218+00:00",
   "entries": [
     {
       "url": "openai.com/index/strengthening-online-child-safety",
@@ -1065,6 +1065,95 @@
       "title": "Anthropic Launches Claude for Manufacturing for Administrative and Engineering Workflows",
       "first_seen": "2026-11-23T12:12:45.596253+00:00",
       "rss_title": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows - Robotics & Automation News"
+    },
+    {
+      "url": "openai.com/index/introducing-shirudo",
+      "title": "OpenAI and Cisco Introduce Shirudo Open-Source Runtime for Linux",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "OpenAI and Cisco introduce Shirudo"
+    },
+    {
+      "url": "blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+      "title": "Google Search Integrates Personal Intelligence with Apps and Wallet",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "A more tailored Google Search that’s uniquely yours"
+    },
+    {
+      "url": "deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "title": "Google DeepMind Applies Agent Teams to Quantum Algorithms for Fusion and Chemistry",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "Finding faster quantum algorithms with agents and formal verification"
+    },
+    {
+      "url": "aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls",
+      "title": "Amazon Bedrock Introduces Trusted Access API Featuring Anthropic Safeguards and Data Controls",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-24/malaysia-data-centers-us-blacklist",
+      "title": "Malaysia Directs Data Centers to Restrict Firms on US Trade Blacklist",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions",
+      "title": "US Administration Blacklists Alibaba Singapore Subsidiary and Megaspeed Affiliates",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "US Blacklists Alibaba-Owned Company in Setback to AI Ambitions"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-23/openai-staffer-likely-captured-secrets-on-hidden-bug-us-says",
+      "title": "US Prosecutors Detail Evidence in OpenAI Office Bugging and Trade Secret Case",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "OpenAI Staffer Likely Captured Secrets on Hidden Bug, US Says"
+    },
+    {
+      "url": "wired.com/story/nvidia-is-powering-brain-computer-interfaces-now",
+      "title": "Paradromics Integrates Nvidia Hardware and Software to Process Brain-Computer Interface Data",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "Nvidia Is Powering Brain-Computer Interfaces Now"
+    },
+    {
+      "url": "theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "title": "Nothing Announces Ear Note Wireless Earbuds Featuring AI Transcription and Summaries",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription"
+    },
+    {
+      "url": "engadget.com/2325684/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use",
+      "title": "Anthropic Relaxes Data Retention Policy for Mythos and Fable Model Enterprise Users",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "Anthropic softens its data retention policy for Mythos and Fable model use"
+    },
+    {
+      "url": "thenextweb.com/news/child-safety-groups-amazon-ebay-ai-toys",
+      "title": "Child Safety Coalitions Petition Amazon and eBay to Halt Sales of AI-Powered Toys",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "Over 150 child safety groups urge Amazon and eBay to drop AI toys"
+    },
+    {
+      "url": "thenextweb.com/news/sierra-1-75b-series-f-30b-valuation-ai-agents",
+      "title": "Sierra Secures $1.75 Billion at $30 Billion Valuation for AI Customer Service Agents",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "Sierra raises $1.75B at a $30B valuation for AI customer service agents"
+    },
+    {
+      "url": "thenextweb.com/news/ai-reskinning-creators-videos-copied-bbc",
+      "title": "BBC Investigation Reveals Pervasive 'Reskinning' of Creator Videos Using AI Deepfakes",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "AI copycats are cloning creators’ videos for millions of views, BBC finds"
+    },
+    {
+      "url": "therobotreport.com/how-does-orchard-ai-fit-into-john-deeres-technology-portfolio",
+      "title": "John Deere Integrates Orchard AI to Enhance Agricultural Technology Portfolio",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "How does Orchard AI fit into John Deere’s technology portfolio?"
+    },
+    {
+      "url": "autonomousvehicleinternational.com/news/robotaxis/california-dmv-ban-leads-waymo-to-pause-freeway-services.html",
+      "title": "California DMV Ban Forces Waymo to Temporarily Halt US Freeway Autonomous Services",
+      "first_seen": "2026-11-24T05:33:04.028218+00:00",
+      "rss_title": "California DMV ban leads Waymo to pause freeway services"
     }
   ]
 }
