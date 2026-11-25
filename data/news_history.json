@@ -1,126 +1,6 @@
 {
-  "updated": "2026-11-24T05:33:04.028218+00:00",
+  "updated": "2026-11-25T05:36:46.129184+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/strengthening-online-child-safety",
-      "title": "OpenAI Enhances Online Child Safety with New Tools and Partnerships",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "Strengthening the fight against online child sexual abuse with new tools and support"
-    },
-    {
-      "url": "openai.com/index/the-kings-trust-and-openai",
-      "title": "The King's Trust and OpenAI Partner to Equip 25,000 UK Youth with AI Skills",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "The King’s Trust and OpenAI launch £1m partnership"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26",
-      "title": "NVIDIA DGX Spark Developer Kit Transforms Desktops into Supercomputing Labs",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery",
-      "title": "NVIDIA CUDA-X Libraries Empower AI Agents for Accelerated Scientific Discovery",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/rubin-hpc",
-      "title": "NVIDIA Announces Rubin HPC GPU for Accelerating Scientific AI Workloads",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing",
-      "title": "AWS Offers Taxonomy for Multi-Agent Design Patterns and Cost-Efficient Systems",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform",
-      "title": "AWS Bedrock and Transform Modernize Mainframe Assembler to Java Applications",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore",
-      "title": "Novo Nordisk Leverages Amazon Bedrock AgentCore for Manufacturing Document Modernization",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore"
-    },
-    {
-      "url": "huggingface.co/blog/openrouter",
-      "title": "Hugging Face and OpenRouter Collaborate to Simplify Open-Weight Model Deployment",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run"
-    },
-    {
-      "url": "status.claude.com/incidents/b5cq662qf2wm",
-      "title": "Anthropic Reports Issues with Claude AI Joining Meetings; Mitigations Underway",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "Claude unable to join meetings"
-    },
-    {
-      "url": "status.claude.com/incidents/r1b4f9bbnsx1",
-      "title": "Anthropic Resolves Elevated Errors Affecting Claude AI Services",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMimwFBVV95cUxOeWJvY1B1Qm1ncldqeEg2dTMwMUhMVUFfRmxlNEs3eXcyNV9XWEdXeW9tcmNqMWJkRVh0bEdjcm0yYUc5RURCVDJjaHd2b2VnX1pMbEkyQlFrYzZHc2dQNktfNW55am8yXzZOckZSMi1YeXYtNUVCUVpxSjcwT0ZzNGxjSFpkSDRNYk1RbGZfVlNNZVVyUnlkQTJ4MA",
-      "title": "Opinion: US Policy May Inadvertently Aid Adversaries in AI Advancement",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "Opinion | How not to prevent U.S. adversaries from getting the AI goods - The Washington Post"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1",
-      "title": "US to Restrict China's AI Chip Access Amidst Diplomatic Engagements",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "US to curb China's access to AI chips as Trump heads to Asia - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw",
-      "title": "US and Allies Collaborate to Safeguard AI Technology and Infrastructure",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "US, allies team up to protect AI tech and infrastructure amid China rivalry - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw",
-      "title": "California Sues OpenAI Alleging AI Models Caused Cyberattacks on Companies",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxNaUIwR3dyWlp4dW42NUJuVC0yU20wNVhiWGJxNTJiVG1WSGlrdjRVTXZ6dm9oYVRmQjZwRDVyZjRFVXhTSzVLMTFoLU9JaUg1MnF3cUZVbTRCUURya1VEdUxEZDJROWhZTkVicVVKay1FSmVWblFoeGQzVVBIWnFTSERNZ1VzLTIxOTh0WjNpNGZ4aVotSEZJTWJwRmtvZUV3aVEyTjEtbzI0bEpQUG5oWXpaYw",
-      "title": "ECB Vice President Identifies AI and Debt as Key Stability Risks",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "ECB VP says AI, debt have become prominent stability risks - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiyAFBVV95cUxPcjVNWm1heHIxeU1IRGtudWhZbVNPVVZZSjZfUV9nVnZuanNhVmVIQkQwMVlKd0wzWHFvT1lBTUZjTUoxV2doaVJzV1NQQkpsNnRKNTNQdEFzM09HYlJrd0ZtY3lhVkN2Wl9yU0hiVW5BclVMc3NGWEE4a1IzYllxM2d0YzlfTk5nWWZtUTh5RFhMUkRSMU9uak1jekt5bEJnRE1ycGk1NHRIWXRBWTQwQS1URkJuUkptUERCRVBrZWhIQjJ2MG1iLQ",
-      "title": "Europe Seeks Palantir Alternatives to Reduce US Dependence in Military AI",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-17/baidu-s-robin-li-says-ai-needs-monetization-to-avoid-bubble-risk",
-      "title": "Baidu CEO Robin Li Warns of AI Bubble Risk Without Monetization",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "Baidu’s Robin Li Says AI Needs Monetization to Avoid Bubble Risk"
-    },
-    {
-      "url": "bloomberg.com/news/videos/2026-11-17/impact-of-us-move-to-curb-chip-access-video",
-      "title": "US Chip Restrictions Could Impact China's AI Model Training and Growth",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "Impact of US Move to Curb Chip Access"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-echoes-dot-com-bubble-says-australiansuper-cio",
-      "title": "AustralianSuper CIO Expresses Skepticism Over Anthropic Valuation, Citing Dot-Com Bubble Echoes",
-      "first_seen": "2026-11-17T05:31:57.827492+00:00",
-      "rss_title": "Anthropic Frenzy Echoes Dot-Com Bubble, AustralianSuper CIO Says"
-    },
     {
       "url": "openai.com/index/introducing-gpt-6-2-astra-sol",
       "title": "OpenAI Unveils GPT-6.2 Astra and Sol with Enhanced Professional Capabilities",
@@ -1154,6 +1034,114 @@
       "title": "California DMV Ban Forces Waymo to Temporarily Halt US Freeway Autonomous Services",
       "first_seen": "2026-11-24T05:33:04.028218+00:00",
       "rss_title": "California DMV ban leads Waymo to pause freeway services"
+    },
+    {
+      "url": "openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "OpenAI's GPT-6 Models Demonstrate Intrinsic Protein-Design Capabilities",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "GPT-6 models demonstrate intrinsic protein-design capabilities"
+    },
+    {
+      "url": "huggingface.co/blog/allenai/robotrack",
+      "title": "RoboTrack Introduces Point Tracking for Real-World Robotic Manipulation",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "RoboTrack: Point tracking for real-world robotic manipulation"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxQa3dIeGlGcm82OGVfY2ZzWWFXY3FWZ3RVTWFyZV95dlN2a1NWTWhiV19OX1A2OVBTNFI5dGF2dzVMQVhmNjdxa2taQkpHeUpJZnVxTlNZYmZPVFJXYkdxYTNzLTVxTHVfSVVOU1pNbFBUU3BMYzNCZ290d3RIN0RzbE8xekZxNGRBTVdYZlY5UlVpMnJFMFdSNlE5WkpENThvSlVCZjE3eXdMY0ZqUkNSYkxQeGxLMlVJZ19XaGg4NkVDcVU",
+      "title": "UK Financial Watchdog Issues AI Warning as Meta Launches Adapted Muse",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "UK financial watchdog delivers AI warning as Meta launches adapted Muse - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMirAFBVV95cUxNVURIRFNoWllBMDkzLVhtNFloSkdUTFZ2ZmZWN2pMMm52ckI0N1dXT3pVX0VDa3NZYW1YNW5NMVlVdkJCSXVTTGJVc0RxVVNndnhCdTA2dDRIVFIyempCd0MxTEc4SzJoTHJsZGVNTTNDRUlmN1RWb0tzRWRzX2RBZzFkLTlFQkF3VllOUV9ReHg0VHQ4cWtld3psMWpiYTVDZER3UUJ0cXpseWpj",
+      "title": "Anthropic Launches Claude Ship to Accelerate Developer Code Delivery",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "Anthropic launches Claude Ship to help developers ship code faster - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB",
+      "title": "Anthropic and OpenAI Employees Express Safety Concerns Over Unreleased AI Models",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxQMFpmUkVHc2JjTWYtenpNaDMtVUhVNHBRS1ExTFhJRnFMNU9vWHYwSFlvZmoxcmZXUXhieGl0UGRqdzdJXy1pUGY1Ul90QW93OTBET21hWkRDd1pOWUlhTWQtcGdwZE9fOTAtTmVjYU11VWZTOGpMQXhiUlg4bzh6bEtVOHhBWEFFZGJxLVdveUd3MEdMOU1RU2JjTktnSU1UYTNTVzlCTkJBdUVGUF8tblk0RQ",
+      "title": "New AI Rule Marks a First for US Federal Appeals Courts",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "New AI rule marks a first for US federal appeals courts - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOY1FET3Bucmh1X2NlUmNkcmdwQWVYZ25NMjVjR2NYeWpFVk53THJPRzd5Zy1ySmoyTXo1X25RWkpvbWwzSzNrS3gxZnNKNk1SY1ZxcTdoSFczV1BLcllTeHA5TjMtWVN5YXVkQUFaSlhucTZRRWd5RWh5d2gxeHZaOEw2RFg",
+      "title": "German Industrial Giants Establish Trading House for Rare Earths",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "German industrial giants launch trading house for rare earths - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMioAFBVV95cUxOY0RnSldfX25WUGJxcEVJZVJZdkRHeWwtb25mTWJlMjllU0ZnVkZVRmZWckIzUWxPcUUxN21KSkpGMHN2eEdnWjBvc3NKX284dGR4N0JlbTE5U04xM2o5WFVscEpRRFo2RjZyV2RJaVE3M3hoUFFrOGhvUVZWbVVoVUt0c3QtQXZ6eE1ob0ktSjZTeTZFZ1pqazFGc2VQV1Nn",
+      "title": "HPE Lifts Financial Outlook as AI Demand Boosts Revenue and Profit",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "HPE Lifts Outlook as AI Demand Boosts Revenue, Profit - WSJ"
+    },
+    {
+      "url": "technologyreview.com/2026/11/24/1149622/data-centers-natural-gas",
+      "title": "Data Center Developers Turn to Off-Grid Natural Gas Plants Amid Grid Delays",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "Data centers are getting their own natural gas power plants"
+    },
+    {
+      "url": "arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+      "title": "Amazon Says Hackers Used AI Agents to Find and Exploit Zero-Day Vulnerability",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "Amazon says hackers' AI agents found and exploited 0-day with little human input"
+    },
+    {
+      "url": "wired.com/story/ai-agents-can-get-honeypotted-too-aw",
+      "title": "Anthropic Builds Honeypot Evaluation to Test Whether AI Agents Misbehave",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving"
+    },
+    {
+      "url": "theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "title": "Tidal to Ban AI-Generated Music and Purge 29 Million Tracks Next Month",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "Tidal will start banning AI-generated music next month"
+    },
+    {
+      "url": "thenextweb.com/news/epochal-xai-cofounders-time-portal-forecasting",
+      "title": "Three xAI Co-Founders Launch AI Forecasting Startup Epochal with $100M Backing",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "Three xAI co-founders launch Epochal to teach AI to predict the future"
+    },
+    {
+      "url": "thenextweb.com/news/anthropic-claude-skills-over-mcp-tasks-elicitation",
+      "title": "Anthropic Adds MCP Skills Beta, Background Tasks, and Elicitation to Claude",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "Anthropic lets MCP servers ship skills and run background jobs in Claude"
+    },
+    {
+      "url": "thenextweb.com/news/google-workspace-ai-agents-mcp-servers-rules",
+      "title": "Google Mandates New Workspace MCP Gateways for AI Agents by February 2027",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "Google will make AI agents use new gateways to reach Gmail and Drive"
+    },
+    {
+      "url": "therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute",
+      "title": "SoftBank Completes Acquisition of Marc Raibert's Robotics and AI Institute",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute"
+    },
+    {
+      "url": "finextra.com/newsarticle/48802/trustly-raises-60m-from-shareholders-for-ai-powered-growth-plan",
+      "title": "Open Banking Firm Trustly Raises $60M for AI-Powered Growth Strategy",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "Trustly raises $60m from shareholders for AI-powered growth plan"
+    },
+    {
+      "url": "esgtoday.com/meta-reconsiders-net-zero-goal-as-ai-buildout-drives-45-spike-in-emissions",
+      "title": "Meta Reconsiders Net Zero Target After AI Buildout Drives 45% Emissions Spike",
+      "first_seen": "2026-11-25T05:36:46.129184+00:00",
+      "rss_title": "Meta Reconsiders Net Zero Goal as AI Buildout Drives 45% Spike in Emissions"
     }
   ]
 }
