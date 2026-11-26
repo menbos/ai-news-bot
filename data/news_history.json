@@ -1,125 +1,6 @@
 {
-  "updated": "2026-11-25T05:36:46.129184+00:00",
+  "updated": "2026-11-26T05:33:18.530162+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/introducing-gpt-6-2-astra-sol",
-      "title": "OpenAI Unveils GPT-6.2 Astra and Sol with Enhanced Professional Capabilities",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Introducing GPT-6.2 Astra and Sol"
-    },
-    {
-      "url": "openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "title": "OpenAI Collaborates with NATO on AI-Powered Cyber Defense",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Strengthening NATO and allied cyber defenses with AI"
-    },
-    {
-      "url": "openai.com/index/introducing-chatgpt-for-sales",
-      "title": "ChatGPT for Sales Launched with Expanded Partner Ecosystem",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Introducing ChatGPT for Sales"
-    },
-    {
-      "url": "openai.com/index/astra-law-6-2",
-      "title": "Astra for Law Achieves Top Ranking in Legal Intelligence",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Astra for Law leads in legal intelligence"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
-      "title": "Google Gemini's 'Tasks' Feature Now Free in Six Countries, Enhanced Workspace Integration",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Put Gemini to work for you"
-    },
-    {
-      "url": "blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem",
-      "title": "Microsoft Ignite 2026: Building the Frontier Ecosystem",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Ignite 2026: Building the frontier ecosystem"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/ian-buck-sc26",
-      "title": "NVIDIA Announces New Tools for AI Agents and Scientific Computing at SC26",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin",
-      "title": "NVIDIA Vera Rubin Platform Dominates MLPerf Benchmarks, Achieving Leading Performance",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference",
-      "title": "AWS SageMaker HyperPod Inference Integrates NVIDIA Dynamo for Distributed Model Serving",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment",
-      "title": "AWS Offers Strategies to Reduce Generative AI Costs Through Optimized Workflow Design",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Cut generative AI costs: Code for rules, models for judgment"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows",
-      "title": "Amazon SageMaker Enhances AI Data Preparation Capabilities for Model Development",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally",
-      "title": "AWS Forward Deployed Engineering Bridges Gap Between AI Demos and Production",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Getting AI out of the demo and into businesses globally"
-    },
-    {
-      "url": "github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes",
-      "title": "GitHub and Microsoft Pilot AI for Faster Bug Fixing in Open Source Projects",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Maintainers don’t need more AI bug reports. They need fixes."
-    },
-    {
-      "url": "github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices",
-      "title": "GitHub Develops Agent Host Protocol for Cross-Device AI Session Continuity",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Building the Agent Host Protocol for sessions that continue across devices"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMikAJBVV95cUxOYU1pYjloZkp1eTFvQjJ5bEZTcGVPdHBqcXN1N3ZPaWN5M1RjdFpFOXp5R2hmcnFGOUowbHFycG0wVFNlTnRjeW5MSUJKYnpBN2xpdmlVN21NMHpmd3E5Q0g0cHJvaTdDeW5JVDFrMmRpTXY0WFM5OTNVR0twSGk1WnJLZkZJMldyY2N2eXI2eWRiNXZDdUlqU1JsSzlHOVgwMVl4R2h4MHkxeDVKUEk0ckx5d2Z3VElHZUJ6dllzNUR3aTNkSV9tSWt5ZU5OWTE5R091bGM5NEJKa195Y1Y2b2pMZmFPa1Z6OUZJeXFkS2ktREtWb1hJdVVnMVk2X0NpZmlaZEpOSHR2TTJrYjQ1Sg",
-      "title": "Rare Earth Recycling Advances Circular Supply Chains",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "How rare earth recycling is advancing circular supply chains - The Official Microsoft Blog"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMidEFVX3lxTE1tTml4amY4MVZVR3Y3TUFzOG1Yd25zbTRrM3RneC1LeHhVSXRGSnZoSThFY3NraXpJdDdSaDhSZkZqeEI3cEhyX29FUDFyZmdvcnFvUjI1d0Mzc1pNWjd5XzhDYnVZMHVjdWdhbmJoS094U3B1",
-      "title": "New Litmus Test Proposed for 2028 Democratic Candidates on AI Campaign Finance and Regulation",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMirwFBVV95cUxQemJ2WmtQZV96U0x6Z1FzanV3YlQwT2k5ZXk3Wnc3RzI2cVFsNDdjaHk5TTJJU0FiNnVPYllVYnRVcjZkTEMwYVZ6bU01SE54THNuRl9NdUVrekhxdXlwaVBubmhJTEt6Z1V4R2kwTGpjdmVkdkxxVl9vVkZXYWFuR1lEdjRWUnVPVG4tQVRLdVp4bXJvaVhSM1pXN25keDRrNXA4S0dvWWZoX3FfSE93",
-      "title": "China Leverages US AI Models to Develop Domestic Rivals Amidst Chip Restrictions",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxORlhXMW5RQ1U5RWx0Z1lhbjg2OTFKamZTY0NHLXd3b24zZU13bFo3RUZTcTNwcTZ0Yk9CMlY1Q2ZPZTVvY2hrVFk3Nzl2V2VDeG5Nd1lzWXhmdDBvRTFEZFNBNTBtUkhfWVZ4eWNaYlh3WkdGdnNmcDFyWFdwR05NMUhlZllWTUJyRXVLdVdnN3lES2xkRWFBS3FsaHZRajdYUnFRZ0hxcVVMZE83M01GeHQyai1QNEFSbFZVUV9Ydw",
-      "title": "Rise in Cyber Incidents Correlates with AI Advancements, Marsh Data Indicates",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "AI advances coincide with sharp rise in cyber incidents, Marsh data shows - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiiwFBVV95cUxQMmF2a1AxTXIyN09XQ2FpMmNFYk9UdVdYaFozUTN3UmY2amR1c0g5ZkdMU0NCRG54cy1pWmhadmFNdjNxbmlha1p3SlhnZ1VvZ2dvU3JIT1praWI2eWVIZE1taUNKQ2Nqd1JUakhtQl8tS3B2Y1gwNkJ3ZlFTYkpaSDJuZjZBZjVza2NB",
-      "title": "Federal Reserve Official Warns of AI Risks to Financial System Stability",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "Fed's Barr warns on AI risks to financial system - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMinAFBVV95cUxOdy1wbU5HTWNHX3h0b2pyVUZqeVBqdndCX25fLVpYMVhnUEJoOHY4dXZIX2RzMm9iMHQwVWxoWnQwLWhBaGxMX1BITmxidzdMb0FqTEZTSzlfYlBVOWh0V2dHcHM3WXRVdkphMTlRbmZsTlB2NmRweS1rdUlCRWpsdGdWUFBrVHNlcklUQUhjemtJT1dweEE2eFVKSTA",
-      "title": "California Sues OpenAI Over Allegations of Rogue AI Agents and Cyberattacks",
-      "first_seen": "2026-11-18T05:32:22.353783+00:00",
-      "rss_title": "California sues OpenAI over rogue AI agents and cyberattacks - Axios"
-    },
     {
       "url": "news.google.com/rss/articles/CBMimAJBVV95cUxOSTExb21JRlBpZTFvNUlRZFhncGQzNzdSYUR5WWdpSmFzbTlYMnp3M25qVGhjUk1nTXJJdThUMmVpMmpLVWdmZ296R2xxckVlYTJoRjY5ZHBRUXNybGxaN2xTWVA4X2FIZGh4cTB6NTlieHBMb3gwbGh6b2xLbHRmamJZcnlDZmxsRGgtcDB0dzJpRGRYdXVRVGhnSzN5Rlg1TU5FRjJFbTJtbTZMTFlpSXE5MjVOSkJhSXE3MHVaOTFtMFV1ZVNaT2hHSjg1ZlIzbF9hbDNlYkpFSDZVOTdnY0pVeXF1OTdRWFItdGdSTUJKTTVudjVRcGtCakxraFJxbWFWRGlqZi0tbjg4TnZmU0EzX0pZQTc1",
       "title": "California Enhances AI Safety Framework with New Mandatory Standards",
@@ -1142,6 +1023,120 @@
       "title": "Meta Reconsiders Net Zero Target After AI Buildout Drives 45% Emissions Spike",
       "first_seen": "2026-11-25T05:36:46.129184+00:00",
       "rss_title": "Meta Reconsiders Net Zero Goal as AI Buildout Drives 45% Spike in Emissions"
+    },
+    {
+      "url": "deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "title": "Google DeepMind Introduces Mass Spec Skills for Google Antigravity to Identify Molecules",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity"
+    },
+    {
+      "url": "huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "title": "Hugging Face Blog Examines Where Scientists Draw the Line on AI Agents",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "Where scientists draw the line on AI agents"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxNb2g1bERMSlZJUWZRQ0hCcURVVUJnUXRxZWlGNDVORlE0Yko1RkNXZE10VW1EUnpsQUxUOXl0Ulg0bjlzUXRNcGpleDdDWXJoVEJuUld2ZHRrb3prOWdQMnI4ZUVPZ1JyeGprUG5nNmFxMENkckE5amRqbkxkZ1Rid2VfUmrSAYoBQVVfeXFMT0pGcEgwaDgwQU9OVUh3R0QyWGNTVXVIVVJkbEY5Yi1qMG1vS3d2b1dva3pJRzE2YUdpUEVsa3Naalc0ZXJfTmpxZTNEZnRyVFk1V0dPeW9MSHNJdEJhUjhnV3IyVWZQVWdXQlo2aUU5Q21VQTB4T0R3RDJ4c2RKQVVXbGc2cGVacjRB",
+      "title": "Saudi National in OpenAI Bugging Case Released on Bond Despite DOJ Opposition",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release - CNBC"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxOLVR2OXI5dkJUZ2U5UXNvWllBeTJXVGVyaG9ZZmhqLWFXcXVGNFdoRE9sTnhLaXVyZkZLQWZQVndpNnJtRzJiWmRiLWRKNThfQlZCRXd4dWliUndRVzV3M3Jib0hFc2tIUjhpMEdKLWJhcmpWV1UxdHFXRWlTNU9UN2dn",
+      "title": "Rival AI Leaders Push Back Against Anthropic Vision on Human Agency",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "Rival AI leaders push back against Anthropic vision of surrendering human agency to AI - Axios"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v",
+      "title": "S&P Places Nvidia Rating on Downgrade Watch Over Board Governance Concerns",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B",
+      "title": "US Authorizes SpaceX to Deploy 1 Million Satellites for Orbital Data Centers",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev",
+      "title": "Xpeng Plans Second-Quarter Public Launch of Humanoid Robot Priced Like an EV",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "Xpeng Says Its Humanoid Robot Will Cost the Same as an EV"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix",
+      "title": "Huawei Prepares Next-Gen High-Bandwidth Memory Chip to Challenge Samsung and SK Hynix",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "Huawei Teases Next-Gen AI Memory Chip to Take On Samsung, Hynix"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOQ3FPSGJQTVhoMEZQb1luaFY2US1lMkpsRDI3a1h5NGtZVTktM0FxS1lSb0g5NEh5NVhHdGJCM2JYSXdHcEE5VUN0akVCLU9sOFV4dWpDZF9kUUQydEs4VlJzUjk1aGJWVWloaWs0ZUtLRDUwLVNJUDZldUdlQnc2ZmMtbGQ",
+      "title": "EU Plans €50 Billion Tech Fund to Narrow Gap With US and China",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "EU plans €50bn tech fund to close gap with US and China - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiowFBVV95cUxObk5GZm9mdm5WV1hxX3JqcnkyeEdaWTdPRmpuUnRvQ3NDSnQ3b0VXbEFUMjNXQVpGQ2dZRlJWTzczbzZsbHprRHFpUzhadnpUQU5GRlppYU01MkV2RzV1LTJVcnNvd3ZCSDhpdHlqTU5oMjJvLUwzTGNTR3Y5VlRvc29IdnhtSUhKQ3NOcE1NNjl5ekFqeng1ZHJ2QzRCTFJTbXJZ",
+      "title": "Dell Raises Financial Outlook as Server Demand Doubles Revenue",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "Dell Lifts Outlook as Revenue Doubles on Server Demand - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxQbXJXdFVUTFZpNnl3SlJWbU9iV0ZaOGh1QUVUR1o5WjYtOXhwb3M1NUROaFFTb3NpOUJRZ1ROZ2Y0NlVlOWhwb0htcUY3SV9hYlRmZnMxT2Rnc21UMUlmazQwZk50TF9SY0U2enpKTzQ1a1hwbTY2aGlLbmM3Z0xkODBrQWg1YVdSREgtMjRKR1JHUk1RN3hrZjEwNmZpUk5EZktvRFVNdklzVzl5R0x0Mlh4Q3k2UmoxY203SFU3R1kwWDBQUnc",
+      "title": "Copper Prices Slump Amid AI Market Volatility While Physical Supply Stays Tight",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight - WSJ"
+    },
+    {
+      "url": "technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
+      "title": "AI-Driven Requests Strain Small US Municipal Open Records Systems",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "AI is straining America’s open records systems"
+    },
+    {
+      "url": "wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid",
+      "title": "Machine Learning and Crowdsourced Data Advance Airplane Turbulence Prediction",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long"
+    },
+    {
+      "url": "theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "title": "Amazon in Talks to Lift Block on Meta's Muse AI Shopping Agent",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "Amazon is reportedly in talks to end Muse AI shopping block"
+    },
+    {
+      "url": "theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "title": "The New York Times Warns Freelance Photographers Against Photoshop's 2027 AI Update",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "The New York Times warns photographers not to update Photoshop over AI features"
+    },
+    {
+      "url": "engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories",
+      "title": "State Attorneys General Seek to Block Character.AI From Auctioning User Chat Histories",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories"
+    },
+    {
+      "url": "thenextweb.com/news/elevenlabs-33bn-valuation-funding-talks-2027",
+      "title": "ElevenLabs Reportedly Targets $33 Billion Valuation in Early 2027 Funding Talks",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "ElevenLabs is in early talks to raise at a $33B valuation, Bloomberg says"
+    },
+    {
+      "url": "thenextweb.com/news/openai-private-inference-testing-customers",
+      "title": "OpenAI Begins Alpha Testing Confidential Computing Feature Private Inference",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "OpenAI is testing a way to shield business prompts while its models run"
+    },
+    {
+      "url": "finextra.com/newsarticle/48804/commerzventures-launches-50m-fund-for-ai-fintechs",
+      "title": "CommerzVentures Launches €50 Million Fund for Early-Stage AI Fintech Startups",
+      "first_seen": "2026-11-26T05:33:18.530162+00:00",
+      "rss_title": "CommerzVentures launches €50m fund for AI fintechs"
     }
   ]
 }
