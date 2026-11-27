@@ -1,126 +1,6 @@
 {
-  "updated": "2026-11-26T05:33:18.530162+00:00",
+  "updated": "2026-11-27T05:42:07.021317+00:00",
   "entries": [
-    {
-      "url": "news.google.com/rss/articles/CBMimAJBVV95cUxOSTExb21JRlBpZTFvNUlRZFhncGQzNzdSYUR5WWdpSmFzbTlYMnp3M25qVGhjUk1nTXJJdThUMmVpMmpLVWdmZ296R2xxckVlYTJoRjY5ZHBRUXNybGxaN2xTWVA4X2FIZGh4cTB6NTlieHBMb3gwbGh6b2xLbHRmamJZcnlDZmxsRGgtcDB0dzJpRGRYdXVRVGhnSzN5Rlg1TU5FRjJFbTJtbTZMTFlpSXE5MjVOSkJhSXE3MHVaOTFtMFV1ZVNaT2hHSjg1ZlIzbF9hbDNlYkpFSDZVOTdnY0pVeXF1OTdRWFItdGdSTUJKTTVudjVRcGtCakxraFJxbWFWRGlqZi0tbjg4TnZmU0EzX0pZQTc1",
-      "title": "California Enhances AI Safety Framework with New Mandatory Standards",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "Governor Newsom’s nation-leading AI safety framework is getting even stronger as California releases next steps on mandatory safety standards and oversight - California State Portal | CA.gov"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMizwFBVV95cUxPeWlhZGtUbEFjczdrQzZ5YnM2MEJiSkdwYUx3YTB2SkhQUVV0WnBBNU51aHM4ZFFvaXBEMzRWY1hGVmZtbGVYVmV0ZGtLbWFHaWt4Yk1kWWx4blBVTjVNUC1Ld1JpVXdHcWlfek1ickphT3M5Q1FYRE1LV2NkZDRXYWRBcmlnOVQ0QjVtTm5CS3FYUFVSMXotdkdzX0JkVGNJQTYtenA3eHdqTE9PYjNPR1RuZk52dTR5anp0RkdTYm5rMHNpVk8zVTNFMGtWcG8",
-      "title": "Arizona Investigates OpenAI and Others Over Potential 'Rogue Agents'",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "Arizona says it is investigating OpenAI, other firms over possible rogue agents - Reuters"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMid0FVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA",
-      "title": "Anthropic's Record-Breaking $81 Billion IPO Fuels AI Market Expansion",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX - CNBC"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand",
-      "title": "Lenovo Exceeds Sales Expectations Driven by Robust AI Hardware Demand",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "Lenovo Sales Beat Estimates Due to Solid AI Hardware Demand"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now",
-      "title": "NVIDIA RTX Spark Compact Desktops Bring Local AI Capabilities to Windows PCs",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "NVIDIA RTX Spark Compact Desktops Out Now"
-    },
-    {
-      "url": "openai.com/index/research-acceleration-jagged-frontier",
-      "title": "OpenAI Explores Recursive Self-Improvement with Coding Agent Research",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "Research acceleration: The jagged frontier"
-    },
-    {
-      "url": "openai.com/index/the-silent-consensus",
-      "title": "OpenAI Discusses Societal Control Amidst Advanced AI Capabilities",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "The Silent Consensus"
-    },
-    {
-      "url": "openai.com/index/managing-frontier-ai-risk",
-      "title": "OpenAI Details Frontier AI Risk Management from Training to Deployment",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "Managing frontier AI risk: From training to deployment"
-    },
-    {
-      "url": "openai.com/business/customer-stories/sumitomo-life",
-      "title": "Sumitomo Life Leverages ChatGPT Enterprise for Enhanced Operations",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise"
-    },
-    {
-      "url": "openai.com/index/advancing-chip-design-with-our-models",
-      "title": "OpenAI Models Accelerate Chip Design with GPT-6 Astra",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "Advancing chip design with OpenAI models"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
-      "title": "Google Gemini App Expands to Lower-Memory Android Devices",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "The Gemini app is now available on lower-memory Android devices."
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization",
-      "title": "AWS SageMaker Serverless Enhances Model Customization with Full Fine-Tuning",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips",
-      "title": "Exa Achieves 50% Embedding Throughput Boost on AWS AI Chips",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock",
-      "title": "Airbnb Optimizes Coding Agent Costs on Amazon Bedrock Using Cost-Per-Task Metrics",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql",
-      "title": "AWS Aurora PostgreSQL Enhances RAG Chatbot Traceability with Responsible AI Controls",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "Design responsible AI controls for Amazon Aurora PostgreSQL"
-    },
-    {
-      "url": "huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "title": "Hugging Face Introduces DaisyRose-27B for Post-Training Efficiency",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency"
-    },
-    {
-      "url": "huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "title": "Hugging Face Blog Explores Time-Series Models in Streamhouse Architecture",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
-    },
-    {
-      "url": "huggingface.co/blog/moe-expert-streaming",
-      "title": "Expert Streaming Pushes Mixture-of-Experts Inference Limits with 180B Parameters",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-19/mas-warns-ai-agents-could-move-money-faster-raise-finance-risks",
-      "title": "Singapore Central Bank Warns of Increased Financial Risks from AI Agents",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "MAS Warns AI Agents Could Move Money Faster, Raise Finance Risks"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc",
-      "title": "Microsoft Unveils New AI Models for Coding and Cybersecurity",
-      "first_seen": "2026-11-19T05:31:33.905016+00:00",
-      "rss_title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI - Reuters"
-    },
     {
       "url": "openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "title": "OpenAI's Performance Factory Accelerates ChatGPT Speed",
@@ -1137,6 +1017,116 @@
       "title": "CommerzVentures Launches €50 Million Fund for Early-Stage AI Fintech Startups",
       "first_seen": "2026-11-26T05:33:18.530162+00:00",
       "rss_title": "CommerzVentures launches €50m fund for AI fintechs"
+    },
+    {
+      "url": "huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiiAFBVV95cUxPdm5vVlNYSU1RdnJub1pDc2hpOHhGZWNRWDBubnlHTURaQ3FHSEdXcjFyVkdkLTJyeWJWWHNzU3F0ckdTcHBqcUhtR2tyd3ZXSDVVWHlEVUctRThyLUFmS1FtWnpUYTlKWF9LOGRhR2VobFVVQy0xY0szVEpheHBhZm9kVHhvTjNW",
+      "title": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00",
+      "rss_title": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress - The New York Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiuwFBVV95cUxOYXlXQVE4enJyRWstWjJvUGdBczBMWHdfZHRmYTNSN3I0eFpqeXBfVU5tN3NRSERpcjBPeE1rV1kwWTBwWnY3U2s1TnlpY2EtakM5TmItUW1UdnVFZXJWTWVRQk1paVhJeTBpSlB0eHJyWERRdnZ1bVctUmctdGJZOXpZMnFMdkxYVlZ3UHI4OE1wZEhocHBGNW0wU1Z3S2VxQ0x6a1pablJOUzlTOXlMSkxUYjRFcWtIc2tB",
+      "title": "Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00",
+      "rss_title": "EXCLUSIVE: Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxNV3BLV01MMXl1a2FaazhNYWFseVlPZ2g0ZnBwdnI5aFdkV1pHR19QdzZQWDk4YlJMOFZtZk9PbVlwbmU1WXpXWjFHaHVfX3c0SVd5WHFRM0s3eW9EcUE1S1RTYUFxLXBvQmthZFFNYkFNRy1EeHNyM2gyT0prRzNPWEVPaGVGMFo2c1E1eTljc212bU5qY3EtdnlDN01WSTdnRjZOYkZKdW1lcmttSlcwazFrSFlidExMay1iTHlXaW1TQVBIUVE",
+      "title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00",
+      "rss_title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiwwFBVV95cUxQRzJ1c09xSU9NV3J5RGI1Ny1hUkFmV1pURmljRHV5aldoS2tsaTdIMDE2RVBncFNpSmYtWW04eHh4cnlvR3N0Q3Y1MnNSVVNfNmVFUi1KMFk0eTIxclN6TkhhbDNvR2d3S0VncjJlUXhPODlvRVZhcGVGM1NoREFRTHc1QzFFMHlOdjNwSm1DalZ5WTJRa0pTb2YtVloxN3p3ZDNmZkF4bjNORkxJM3ozZlJrRFJSYTJ0cWVORDVmajFmbjA",
+      "title": "OpenAI taps Cravath litigator for court showdown with Musk over AI dominance",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00",
+      "rss_title": "OpenAI taps Cravath litigator for court showdown with Musk over AI dominance - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says",
+      "title": "Singapore Talking to US to Keep AI Chip Access, Deputy PM Says",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-27/china-hedge-fund-star-builds-operating-system-kernel-for-ai",
+      "title": "China Hedge Fund Star Builds Operating System Kernel for AI Agents",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00",
+      "rss_title": "China Hedge Fund Star Builds Operating System Kernel for AI"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth",
+      "title": "TDK Bets on AI Data Centers and Robots to Fuel Sensor Growth",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQVkxOTmpLV01jZ2VBN0YxM040bXhRbXp3LXZjZVR6N3pQWGNRN0pLcWM3X3VXTUtYNUlHVkI2S05tdGNicTFfOEJqNEhRcTZNbWdCbnZQMjczQ0ZGX1N4MFVoeFlNRDBKX0xLT3hFVlVTWWJhSGc0SWlrd2pNY3JvTHNIb3M",
+      "title": "Spanish defence giant Indra joins Europe’s push for ‘sovereign AI’",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00",
+      "rss_title": "Spanish defence giant Indra joins Europe’s push for ‘sovereign AI’ - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPbWxtSWdkclhVM25LM250eXk0V3AyWHl5VU82OHdETGpVOHBNeHVwR0tKM1JiVUlmNnpRZHZuX2o5bFctVU16OVctaDVFM0RUTWxLZXladmFDSjdjMUpkLVhiX3dRYVhrTVRDTUpud0R6RU1NYWx3TElCWmlkSndmTjdwTEQ",
+      "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00",
+      "rss_title": "Andrew Bailey says unreleased AI models have raised encryption concerns - Financial Times"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMixgFBVV95cUxOUXgxcE1tNTdoYWR4Vld1UWtPeHRadlE1T1RrbXlBbUJad01lVGZZU2ljYURrcXNCY3QzcGQ1RUlxM1Q1Mk1YVTh1dnpGcGxFYlNUSHRZY0NYRWdzNnZzb2g5UURNWEtDQnZBbTNjSUZyRVdsSExOU2otY2FGVnhIYXVadkE1LTFyVGNOU3RFMDhpc0RBNGNURUM0cHA0eVZMSzkyTmpuR2hfaGZSRGQ3cUdVRWtnS1VFTFlGNWJSRHFhZ2JTelE",
+      "title": "Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00",
+      "rss_title": "Exclusive | Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiggFBVV95cUxNV3lzWDNiMFhrQzZ2alpLdlZEMW1wM3oycmhQUFllTGgyMVlqdlNxejY0WWZvOC1DcUkyaUREQm8xZUIxbmNYMjZtZ2UtVWxEUlpQSDFBOTQ1WVdVb1lHOU1ydGhFbFFUWl9YQU0xbWVsMHhXdFI3Tnhkb1FKSEhfaGZR",
+      "title": "The Mad Dash for Memory Chips—and the Pain It’s Causing Holiday Shoppers",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00",
+      "rss_title": "The Mad Dash for Memory Chips—and the Pain It’s Causing Holiday Shoppers - WSJ"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMilwFBVV95cUxOMGFER2Vpbl9JMXo5TFF1MFdQemdLcWFENFE0eGhwRS1pWkVyVTJvMFQ3RnRxUURGSjBxbHVMVVlyYzk0N3ZVU0tfb0tJa3NJREFmSzNmbkVWd0xxdDlvLUlqNzQ1bnBmUExWNWxmVTczRG1UNEQzd3NReXh5N2xTU3IwbkRwcDJFT1BXYzExU3NLMVNkZ3RR",
+      "title": "Nvidia Tells Partners to Pause Shipments to Southeast Asia",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00",
+      "rss_title": "Nvidia Tells Partners to Pause Shipments to Southeast Asia - WSJ"
+    },
+    {
+      "url": "arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next",
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00"
+    },
+    {
+      "url": "thenextweb.com/news/canada-ai-compute-access-fund-700m-expansion",
+      "title": "Canada adds C$700M to its AI compute fund, favouring home-grown clouds",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00"
+    },
+    {
+      "url": "thenextweb.com/news/microsoft-artex-salt-typhoon-north-korea-state-hackers",
+      "title": "Microsoft says China’s Salt Typhoon and North Korean hackers now use ARTEX",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00"
+    },
+    {
+      "url": "autonomousvehicleinternational.com/news/robotaxis/level-4-robotaxis-take-to-public-roads-in-luxembourg-through-bolt-partnership.html",
+      "title": "Level 4 robotaxis take to public roads in Luxembourg through Bolt partnership",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00"
+    },
+    {
+      "url": "finextra.com/newsarticle/48824/shuttle-secures-fca-authorisation-to-help-startups-raise-capital-across-borders",
+      "title": "Shuttle secures FCA authorisation to help startups raise capital across borders",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00"
+    },
+    {
+      "url": "arxiv.org/abs/2611.33160",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00"
+    },
+    {
+      "url": "nature.com/articles/s42256-026-01332-7",
+      "title": "A measurement noise scaling law for cellular representation learning",
+      "first_seen": "2026-11-27T05:42:07.021317+00:00"
     }
   ]
 }
