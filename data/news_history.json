@@ -1,126 +1,6 @@
 {
-  "updated": "2026-11-27T05:42:07.021317+00:00",
+  "updated": "2026-11-28T05:35:43.017899+00:00",
   "entries": [
-    {
-      "url": "openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "title": "OpenAI's Performance Factory Accelerates ChatGPT Speed",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "How OpenAI’s Performance Factory keeps ChatGPT fast"
-    },
-    {
-      "url": "blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "title": "Gemini API Introduces Tool Retrieval for Enhanced Agent Capabilities",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Introducing Tool Retrieval in the Gemini API"
-    },
-    {
-      "url": "deepmind.google/blog/genie-4-is-now-available",
-      "title": "Google DeepMind Releases Genie 4",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Genie 4 is now available"
-    },
-    {
-      "url": "blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs",
-      "title": "NVIDIA and Microsoft Expand Accelerated Computing to Windows PCs",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2",
-      "title": "Amazon SageMaker Inference Sees Numerous 2026 Updates",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Amazon SageMaker Inference: 2026 launches in review, part 2"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments",
-      "title": "Amazon Bedrock AgentCore Payments Enable AWS Marketplace Transactions",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers",
-      "title": "BMW Group Implements Robust Governance for AI Agents",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "How the BMW Group governs hundreds of agents across thousands of developers"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints",
-      "title": "Amazon SageMaker AI Detects Inference Endpoint Issues",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand",
-      "title": "Amazon Polly Launches Voice Cloning for Branded Audio",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Amazon Polly launches voice cloning: A unique voice for your brand"
-    },
-    {
-      "url": "aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach",
-      "title": "Accenture Offers Sequenced Approach to Optimize Bedrock AI Economics",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach"
-    },
-    {
-      "url": "github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together",
-      "title": "GitHub Launches Replica and Open Source Accessibility Framework",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "The best things in open source are built together"
-    },
-    {
-      "url": "status.claude.com/incidents/c1kmrkmv5f3d",
-      "title": "Anthropic Reports Elevated Errors for Claude Mythos and Fable Models",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Elevated errors for Claude Mythos 5.2 and Claude Fable 5.2"
-    },
-    {
-      "url": "nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption",
-      "title": "NIST Project to Accelerate Mobile Driver's License Adoption",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "NIST Project Aims to Accelerate Mobile Driver’s License Adoption"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA",
-      "title": "Anthropic's IPO Tests Investor Faith Amid AI Boom",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom - Reuters"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
-      "title": "Anthropic Shares Decline on Second Trading Day Amid AI Sector Fears",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Anthropic Set for Second-Day Drop as AI Fears Eclipse Record IPO"
-    },
-    {
-      "url": "bloomberg.com/news/articles/2026-11-19/alibaba-s-revenue-beats-estimates-during-china-s-ai-boom",
-      "title": "Alibaba Anticipates Growth Rebound Driven by In-House AI Chips",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Alibaba Expects Growth Rebound as Its Chips Offset US Curbs"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxQVFY3aERKeGE0QmV1OVY5akNDaDhaVDJ2NEJjS3FZb2U4UWNMVl9tRmdYWllCaEhYVXZXUGhZTUVkcTdySzMzNktNZnE5bTc1cm1tR3JPbXA0OS0xS3V2a2VRd3M3NVVQOHVjR3I1dXEyOTAzUm91S0ZVQmgtWjVXM0NleHo",
-      "title": "ECB Warns of Subprime Bubble Parallels in AI Borrowing",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB - Financial Times"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMiqAFBVV95cUxNYzJMRVRpMDh6UlVrLWNaa0JYTmZhMkUxWWdweFJuWDdJZWE2NmVsSFczcFMwT3FVYzRxVV93TXlrSVhfWDBnRTBsSTNRcjMxUF9KMnp5UVNYOTRKSlJPa0tRMC1Mc2FTN3I4RGpZRVJxZ3FCOUVkaEZkQTlDUzNpZ1V2VS1UOXZRdEkyODVCMTJuMC1pSWd2QnN1Skw1eTFWS0Z3dzd1enk",
-      "title": "Palo Alto Networks Acquires AI Startup Applied Compute for $4.5 Billion",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion - WSJ"
-    },
-    {
-      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxPb1dQS0xwaGdEa3NFS3B0NzlPZnJyUC01VjFHU0s1TkJnZkEycHpwUm1uQTBfYUYzRE1zUjJsQ05xelp2SGlYbWl3aklQdWdlOXFXbF9aRTc4Sk50dW5MQWZsRnVULUVaaFBMTmpmai1Fb3RsenBWWHBOTEt5MmNrZTlwSFY",
-      "title": "Anthropic Completes Largest IPO in History with $81 Billion Raise",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Anthropic Raises $81 Billion in Biggest IPO Ever - WSJ"
-    },
-    {
-      "url": "thenextweb.com/news/google-gemini-mac-computer-use-multi-step-tasks",
-      "title": "Google Gemini for Mac Gains Task Automation Capabilities",
-      "first_seen": "2026-11-20T05:31:41.450030+00:00",
-      "rss_title": "Google’s Gemini can now take over tasks on your Mac"
-    },
     {
       "url": "openai.com/business/customer-stories/hebbia",
       "title": "Hebbia Reports Significant Gains in Financial Research with GPT-6 Astra",
@@ -1127,6 +1007,102 @@
       "url": "nature.com/articles/s42256-026-01332-7",
       "title": "A measurement noise scaling law for cellular representation learning",
       "first_seen": "2026-11-27T05:42:07.021317+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMiywFBVV95cUxPQ1lkakFoSnF2VGJSOUxUR2NYTGVNaEZBYVFNU3N6RC0yOF9xODdILU9Lcm41Ujk0N1dHOXpOMW1OMGE0Q0V6UDYxR0dNalFVRWlabDZzQUZsemhRaGpnejk0UzdCRUIzOHBJamNCbVRSc050SHJLb0ZkbV84d2dlenhkeG83UjFyS1kxY25maVBZUFlfYlBfLUExLU9DMzBUaWxmOHZkbVZVZ1ZNQjlvQ0ZKWjhYTjI5OVlQWGRCb0NaSElwal9MMzktQQ",
+      "title": "Taiwan's economy expected to grow at its fastest rate in nearly 50 years due to AI demand",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00",
+      "rss_title": "Taiwan's economy expected to grow at its fastest rate in nearly 50 years due to AI demand - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMitwFBVV95cUxNUUhZaXItb2lOYVhHRHBoUkpGZFM2Y0ZpQ1dSN3QwUnEyQlBKdmlRVG9fdFM5WS1UNm41dGZnRVhyY1FIbjBvOUNFWEREN1F4S1l1amVSUGFheGl4N1NNbk1ieF9HU3N0azQ1djN1bjA2RWhIc1VhVWVWb0RVbG1HMVlPbFQyb0N5N1ZLTUVZeXlxMDk4d3d0UHh1ajdZeWd3ekx5TU52Z3BDaXdhOU9uN3dtd1lLMXM",
+      "title": "SAP considers at least 10,000 job cuts in AI restructuring",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00",
+      "rss_title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports - Reuters"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw",
+      "title": "US chip curbs and distillation crackdown threaten Chinese AI model development",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00",
+      "rss_title": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say - Reuters"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices",
+      "title": "OpenAI Says Apple Pressured Suppliers to Shun Its Devices",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+      "title": "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+      "title": "Poland Signs $300 Million Palantir Deal to Use AI in Defense",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00"
+    },
+    {
+      "url": "bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video",
+      "title": "Black Friday Shoppers Turn to AI Bots to Find Deals",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMi1wFBVV95cUxPMGtrQlF3TVNLeldkeWlpVXRtUl9IRktQWUREX19RUUltZ2JzWkNuRElUNl9tSHVmVW9PYWVmaVVzU3B1UkVrYjZIeGY1bGVhalZFWUFVb0hIUUJ2SVVjSTFwMk16WUpLVFI4ZXhhQ3hKUkY3T25BV05nckRIN0VLSlctWHFvRHozZ3V2S01ZMmh0a04tcE1QWkd1MTVLZmNvdWxpakQxbDdaMV9tVG9hYlRHcDZCYURNZVEtd0VsQ1ZDZ1hnRmpxSS13Qm5ORUlWaFkzNF9RMA",
+      "title": "Top EU development bank makes first-ever $330 million investment outside EU in Africa's rare-earth and critical minerals sector",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00",
+      "rss_title": "A top EU development bank makes its first-ever $330 million investment outside the EU in Africa’s richest country’s rare-earth and critical minerals sector - Business Insider Africa"
+    },
+    {
+      "url": "news.google.com/rss/articles/CBMihAFBVV95cUxOcXdGeU02TjRKZTRpRDFCVlRzemxUYkdnRHdJS0NoMlgzaFV3Q1J4MFNnTnphNlhqS0JhbDRPbU4zbjc5VTFiV3o2RkpWTDJhOUZlOWF6SkJaTUc3aVVTcUhpTXNCLWVtRmtDQlI3VGpIeHFxemR0MkhQSGI4NEJBajY1dE_SAYoBQVVfeXFMT0R0RURoZHN3bEIzdk5TaDJOOWhheW5vS1V1UFJXeUZSWWZxbGFyVlBwTTR2VDRVUG9wU2ZndWdNYmg2NU1Na0ZZU1pEMUV1SEJ3dzhmMzMwQnpidlUxNG5xVFRDSHhpWU5XcVNETU9IempSeDFMRENwZGVNcUl3X2o3bDUzZHJnWGVB",
+      "title": "Latin America has the copper and energy the AI build-out needs, with infrastructure as the test",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00",
+      "rss_title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test - CNBC"
+    },
+    {
+      "url": "wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light",
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00"
+    },
+    {
+      "url": "engadget.com/2329851/la-school-district-blocks-google-ai-search-features",
+      "title": "LA school district blocks Google's AI search features",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00"
+    },
+    {
+      "url": "thenextweb.com/news/neura-robotics-gym-aragon-spain-costa-group",
+      "title": "NEURA plans a robot training gym in Spain with Aragón’s government",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00"
+    },
+    {
+      "url": "thenextweb.com/news/google-data-centre-wallonia-halt-farciennes-permit",
+      "title": "Belgium’s Wallonia halts Google data centre after permit was revoked",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00"
+    },
+    {
+      "url": "therobotreport.com/gxo-doubling-down-on-robotics-in-2027",
+      "title": "GXO doubling down on robotics in 2027",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00"
+    },
+    {
+      "url": "finextra.com/newsarticle/48825/truelayer-and-papa-johns-transact-ai-powered-agentic-pay-by-bank-payment",
+      "title": "Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00"
+    },
+    {
+      "url": "nature.com/articles/s42256-026-01330-9",
+      "title": "Generating proteins with complex functions",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00"
+    },
+    {
+      "url": "nature.com/articles/d41586-026-03849-8",
+      "title": "Why the incoming US Congress should ban the development of self-improving AI",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00"
+    },
+    {
+      "url": "github.com/cursor/plugins",
+      "title": "Cursor Releases Open-Source Plugin Specification and Marketplace Repository",
+      "first_seen": "2026-11-28T05:35:43.017899+00:00",
+      "rss_title": "cursor/plugins"
     }
   ]
 }
